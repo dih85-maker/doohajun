@@ -5,62 +5,45 @@
     <title>하준이의 키즈노트 성장 앨범</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap'); /* 영문 폰트 추가 */
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
 
         body {
             background-color: #eef2f5; font-family: 'Noto Sans KR', sans-serif;
             margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; color: #333;
+            scroll-behavior: smooth; /* 스크롤 이동을 부드럽게 */
         }
 
-        /* 👑 최상단 서명 & 버전 정보 스타일 */
-        .credit-header {
-            width: 210mm;
-            text-align: center;
-            margin-bottom: 25px;
-            box-sizing: border-box;
-            animation: fadeIn 1s ease-in-out;
+        /* 🧭 우측 고정 내비게이션 스타일 */
+        #quick-nav {
+            position: fixed; top: 50%; right: 30px; transform: translateY(-50%);
+            width: 140px; background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px); padding: 15px; border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1); z-index: 1000;
+            max-height: 80vh; overflow-y: auto; border: 1px solid #eee;
         }
+        #quick-nav::-webkit-scrollbar { width: 4px; }
+        #quick-nav::-webkit-scrollbar-thumb { background: #92b4d2; border-radius: 10px; }
+
+        .nav-year { font-weight: 700; color: #2c3e50; margin-top: 15px; margin-bottom: 5px; font-size: 0.95rem; border-bottom: 2px solid #92b4d2; display: inline-block; }
+        .nav-month-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; margin-bottom: 10px; }
+        .nav-month { 
+            font-size: 0.85rem; color: #666; cursor: pointer; padding: 4px; text-align: center;
+            border-radius: 5px; transition: 0.2s; background: #f8f9fa;
+        }
+        .nav-month:hover { background: #92b4d2; color: white; }
+
+        /* 👑 최상단 서명 & 정보 패널 */
+        .credit-header { width: 210mm; text-align: center; margin-bottom: 25px; animation: fadeIn 1s ease-in-out; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
-        
-        .credit-title {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: #8395a7;
-            letter-spacing: 3px;
-            margin-bottom: 12px;
-        }
-        
-        .credit-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            background: white;
-            padding: 10px 25px;
-            border-radius: 30px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-            font-size: 0.9rem;
-            color: #666;
-            border: 1px solid #f1f2f6;
-        }
+        .credit-title { font-family: 'Montserrat', sans-serif; font-size: 1.1rem; font-weight: 700; color: #8395a7; letter-spacing: 3px; margin-bottom: 12px; }
+        .credit-badge { display: inline-flex; align-items: center; gap: 12px; background: white; padding: 10px 25px; border-radius: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-size: 0.9rem; color: #666; border: 1px solid #f1f2f6; }
         .credit-badge b { color: #2c3e50; font-weight: 700; }
-        .credit-badge .gemini { color: #4285F4; } /* 구글 파란색 포인트 */
-        .credit-badge .divider { color: #dcdde1; font-size: 0.8rem; }
-        .credit-badge .version-tag { 
-            background: #2c3e50; color: white; padding: 2px 8px; 
-            border-radius: 12px; font-size: 0.8rem; font-family: 'Montserrat', sans-serif; font-weight: 700;
-        }
+        .credit-badge .gemini { color: #4285F4; }
+        .credit-badge .version-tag { background: #2c3e50; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8rem; font-family: 'Montserrat', sans-serif; font-weight: 700; }
 
-        /* 기존 앨범 스타일 */
-        .book-container {
-            width: 210mm; background: white; box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            padding: 20mm; box-sizing: border-box; margin-bottom: 20px;
-        }
-
-        .month-header {
-            background-color: #92b4d2; color: white; padding: 8px 20px; border-radius: 20px;
-            font-size: 1.3rem; font-weight: 700; margin: 40px 0 30px 0; display: inline-block;
-        }
+        /* 앨범 컨테이너 */
+        .book-container { width: 210mm; background: white; box-shadow: 0 10px 30px rgba(0,0,0,0.1); padding: 20mm; box-sizing: border-box; margin-bottom: 20px; }
+        .month-header { background-color: #92b4d2; color: white; padding: 8px 20px; border-radius: 20px; font-size: 1.3rem; font-weight: 700; margin: 60px 0 30px 0; display: inline-block; scroll-margin-top: 40px; }
 
         .entry { display: flex; gap: 25px; margin-bottom: 60px; page-break-inside: avoid; }
         .entry-left { width: 70px; text-align: center; flex-shrink: 0; }
@@ -72,30 +55,20 @@
         .entry-header { margin-bottom: 15px; }
         .entry-title { font-size: 1.05rem; color: #444; font-weight: 700; }
         .entry-author { font-size: 0.9rem; color: #888; margin-top: 3px; }
-        .entry-content {
-            background-color: #f0f7fb; padding: 20px 25px; border-radius: 12px; 
-            font-size: 1rem; line-height: 1.8; color: #444; white-space: pre-wrap; margin-bottom: 20px;
-        }
+        .entry-content { background-color: #f0f7fb; padding: 20px 25px; border-radius: 12px; font-size: 1rem; line-height: 1.8; color: #444; white-space: pre-wrap; margin-bottom: 20px; }
 
-        .album-section {
-            background-color: #fffaf0; border: 1px dashed #e2b78b;
-            padding: 15px; border-radius: 12px; margin-top: 20px;
-        }
+        .album-section { background-color: #fffaf0; border: 1px dashed #e2b78b; padding: 15px; border-radius: 12px; margin-top: 20px; }
         .album-title { font-size: 1rem; font-weight: 700; color: #d35400; margin-bottom: 15px; }
 
-        /* 사진 자동 정렬 레이아웃 */
         .photo-gallery { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; }
-        .photo-gallery img {
-            border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-            object-fit: cover; opacity: 0; transition: opacity 0.5s ease;
-        }
+        .photo-gallery img { border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); object-fit: cover; opacity: 0; transition: opacity 0.5s ease; }
         .photo-gallery img.loaded { opacity: 1; }
         .photo-gallery img.wide-pic { flex: 1 1 100%; height: auto; max-height: 400px; }
         .photo-gallery img.standard-pic { flex: 1 1 160px; height: 240px; }
 
         @media print {
             body { background: white; padding: 0; }
-            .credit-header { display: none; } /* 인쇄 시 서명 가리기 (원하면 지우셔도 됩니다) */
+            #quick-nav, .credit-header { display: none; }
             .book-container { box-shadow: none; width: 100%; margin: 0; padding: 0; }
             .month-header { page-break-before: always; }
         }
@@ -103,13 +76,19 @@
 </head>
 <body>
 
+<div id="quick-nav">
+    <div style="text-align:center; font-size:0.8rem; color:#999; margin-bottom:10px;">Quick Menu</div>
+    <div id="nav-items"></div>
+</div>
+
 <div class="credit-header">
     <div class="credit-title">HAJUN'S MEMORY BOOK</div>
     <div class="credit-badge">
         <span>Created by <b>두인호</b> x <b class="gemini">제미나이</b></span>
         <span class="divider">|</span>
-        <span class="version-tag">v01</span> <span class="divider">|</span>
-        <span id="last-updated">Last Updated : 측정중...</span>
+        <span class="version-tag">v01</span>
+        <span class="divider">|</span>
+        <span id="last-updated">Last Updated : 2026.03.05</span>
     </div>
 </div>
 
@@ -119,21 +98,11 @@
 <script src="./albums.js"></script>
 
 <script>
-    // 날짜 자동 기록 (HTML 파일이 마지막으로 저장된 시간)
-    window.onload = function() {
-        const lastMod = new Date(document.lastModified);
-        // 날짜 포맷 예시: 2026.03.05
-        const formattedDate = lastMod.getFullYear() + '.' + 
-                              String(lastMod.getMonth() + 1).padStart(2, '0') + '.' + 
-                              String(lastMod.getDate()).padStart(2, '0');
-        document.getElementById('last-updated').innerText = `Last Updated : ${formattedDate}`;
-    };
+    // 날짜 업데이트 자동화 (파일 수정일 기준)
+    const lastMod = new Date(document.lastModified);
+    document.getElementById('last-updated').innerText = `Last Updated : ${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
 
-    const weatherMap = {
-        'sunny': '☀️', 'mostly_cloudy': '⛅', 'partly_cloudy': '🌤️', 'overcast': '☁️',
-        'rain': '🌧️', 'snow': '❄️', 'mixed_rain_snow': '🌨️', 'fog': '🌫️',
-        'yellow_sand': '😷', 'sunny_after_rain': '🌦️'
-    };
+    const weatherMap = { 'sunny': '☀️', 'mostly_cloudy': '⛅', 'partly_cloudy': '🌤️', 'overcast': '☁️', 'rain': '🌧️', 'snow': '❄️', 'mixed_rain_snow': '🌨️', 'fog': '🌫️', 'yellow_sand': '😷', 'sunny_after_rain': '🌦️' };
     const weekDays = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
 
     function getLocalDateStr(dateString) {
@@ -145,19 +114,9 @@
     function createImageGridHtml(imagesArray, folderName) {
         if (!imagesArray || imagesArray.length === 0) return '';
         let html = `<div class="photo-gallery">`;
-        
         imagesArray.forEach(imgPath => {
             const fileName = imgPath.split(/\\|\//).pop();
-            html += `<img src="./${folderName}/${fileName}" alt="활동 사진" 
-                     onload="
-                        if(this.naturalWidth > this.naturalHeight * 1.25) { 
-                            this.classList.add('wide-pic'); 
-                        } else { 
-                            this.classList.add('standard-pic'); 
-                        }
-                        this.classList.add('loaded');
-                     " 
-                     onerror="this.style.display='none'">`;
+            html += `<img src="./${folderName}/${fileName}" alt="사진" onload="if(this.naturalWidth > this.naturalHeight * 1.25){this.classList.add('wide-pic');}else{this.classList.add('standard-pic');}this.classList.add('loaded');" onerror="this.style.display='none'">`;
         });
         html += `</div>`;
         return html;
@@ -165,14 +124,10 @@
 
     function renderAlbum() {
         const container = document.getElementById('album-content');
-        
-        if (typeof reportsData === 'undefined' && typeof albumsData === 'undefined') {
-            container.innerHTML = `<h2 style="color:#d35400; text-align:center; padding:50px;">데이터를 불러오는 중이거나 파일이 없습니다.</h2>`;
-            return;
-        }
-
+        const navItems = document.getElementById('nav-items');
         const combinedData = {};
 
+        // 1. 데이터 병합
         if (typeof reportsData !== 'undefined') {
             reportsData.forEach(r => {
                 const dateStr = getLocalDateStr(r.date_written);
@@ -180,7 +135,6 @@
                 combinedData[dateStr].reports.push(r);
             });
         }
-
         if (typeof albumsData !== 'undefined') {
             albumsData.forEach(a => {
                 const dateStr = getLocalDateStr(a.date_written);
@@ -190,18 +144,49 @@
         }
 
         const sortedDates = Object.keys(combinedData).sort((a, b) => new Date(a) - new Date(b));
+        
+        // 2. 내비게이션 데이터 생성용 변수
         let currentMonth = '';
+        let currentYear = '';
+        let yearGroupHtml = '';
 
         sortedDates.forEach(dateStr => {
             const dayData = combinedData[dateStr];
             const dateObj = dayData.dateObj;
-            const yearMonth = `${dateObj.getFullYear()}년 ${dateObj.getMonth() + 1}월`;
-            
-            if (currentMonth !== yearMonth) {
-                currentMonth = yearMonth;
+            const year = dateObj.getFullYear();
+            const month = dateObj.getMonth() + 1;
+            const yearMonthText = `${year}년 ${month}월`;
+            const monthId = `month-${year}-${month}`; // 스크롤용 ID
+
+            // 월이 바뀔 때 헤더 추가
+            if (currentMonth !== yearMonthText) {
+                currentMonth = yearMonthText;
+                
+                // 내비게이션 메뉴 구축
+                if (currentYear !== year) {
+                    currentYear = year;
+                    const yearLabel = document.createElement('div');
+                    yearLabel.className = 'nav-year';
+                    yearLabel.textContent = `${year}년`;
+                    navItems.appendChild(yearLabel);
+                    
+                    const monthGrid = document.createElement('div');
+                    monthGrid.className = 'nav-month-grid';
+                    monthGrid.id = `grid-${year}`;
+                    navItems.appendChild(monthGrid);
+                }
+                
+                const navMonth = document.createElement('div');
+                navMonth.className = 'nav-month';
+                navMonth.textContent = `${month}월`;
+                navMonth.onclick = () => document.getElementById(monthId).scrollIntoView();
+                document.getElementById(`grid-${year}`).appendChild(navMonth);
+
+                // 본문 월 헤더 추가
                 const monthHeader = document.createElement('div');
                 monthHeader.className = 'month-header';
-                monthHeader.textContent = currentMonth;
+                monthHeader.id = monthId;
+                monthHeader.textContent = yearMonthText;
                 container.appendChild(monthHeader);
             }
 
@@ -211,24 +196,12 @@
 
             dayData.reports.forEach(report => {
                 const classText = report.class_name ? ` (${report.class_name})` : '';
-                rightHtml += `
-                    <div class="entry-header">
-                        <div class="entry-title">원에서 가정으로</div>
-                        <div class="entry-author">${report.author_name}${classText}</div>
-                    </div>
-                    ${createImageGridHtml(report.local_images, 'images')}
-                    <div class="entry-content">${report.content}</div>
-                `;
+                rightHtml += `<div class="entry-header"><div class="entry-title">원에서 가정으로</div><div class="entry-author">${report.author_name}${classText}</div></div>${createImageGridHtml(report.local_images, 'images')}<div class="entry-content">${report.content}</div>`;
             });
 
             dayData.albums.forEach(album => {
                 if (album.local_images && album.local_images.length > 0) {
-                    rightHtml += `
-                        <div class="album-section">
-                            <div class="album-title">📸 추가 앨범 : ${album.title}</div>
-                            ${createImageGridHtml(album.local_images, 'album_images')}
-                        </div>
-                    `;
+                    rightHtml += `<div class="album-section"><div class="album-title">📸 추가 앨범 : ${album.title}</div>${createImageGridHtml(album.local_images, 'album_images')}</div>`;
                 }
             });
 
@@ -240,9 +213,7 @@
                     <div class="date-day">${weekDays[dateObj.getDay()]}</div>
                     <div class="weather-icon">${weatherMap[dayData.weather] || '☀️'}</div>
                 </div>
-                <div class="entry-right">
-                    ${rightHtml}
-                </div>
+                <div class="entry-right">${rightHtml}</div>
             `;
             container.appendChild(entryDiv);
         });
