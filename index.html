@@ -14,48 +14,23 @@
 
         /* 🧭 스마트 플로팅 네비게이션 */
         #smart-nav { position: fixed; bottom: 25px; right: 20px; z-index: 1000; display: flex; flex-direction: column; align-items: center; gap: 10px; }
-        
-        /* 🔝 조그만 TOP 버튼 */
-        #btn-top {
-            width: 35px; height: 35px; border-radius: 50%; background: #f1f2f6;
-            color: #7f8c8d; border: 1px solid #dfe4ea; font-size: 10px; font-weight: 900;
-            cursor: pointer; display: flex; align-items: center; justify-content: center;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: 0.3s; opacity: 0.8;
-        }
-        #btn-top:hover { background: #dfe4ea; opacity: 1; }
-
-        /* 📅 달력 타임머신 버튼 (메뉴 토글) */
-        #nav-toggle {
-            width: 58px; height: 58px; border-radius: 50%; background: var(--point-color);
-            color: white; border: none; cursor: pointer;
-            box-shadow: 0 6px 20px rgba(146, 180, 210, 0.4);
-            display: flex; flex-direction: column; align-items: center; justify-content: center;
-            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        }
+        #btn-top { width: 35px; height: 35px; border-radius: 50%; background: #f1f2f6; color: #7f8c8d; border: 1px solid #dfe4ea; font-size: 10px; font-weight: 900; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: 0.3s; opacity: 0.8; }
+        #nav-toggle { width: 58px; height: 58px; border-radius: 50%; background: var(--point-color); color: white; border: none; cursor: pointer; box-shadow: 0 6px 20px rgba(146, 180, 210, 0.4); display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         #nav-toggle .icon { font-size: 22px; line-height: 1; }
         #nav-toggle .label { font-size: 9px; font-weight: 700; margin-top: 2px; letter-spacing: -0.5px; }
         #nav-toggle.active { background: #34495e; transform: scale(0.9); }
-
-        /* 📦 월별 선택 메뉴 창 */
-        #nav-container { 
-            background: rgba(255, 255, 255, 0.98); backdrop-filter: blur(15px);
-            padding: 20px 12px; border-radius: 25px; border: 2.5px solid var(--point-color);
-            box-shadow: 0 15px 50px rgba(0,0,0,0.2); width: 100px; 
-            max-height: 60vh; overflow-y: auto; text-align: center;
-            margin-bottom: 5px; opacity: 0; visibility: hidden; transform: translateY(30px) scale(0.8);
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        }
+        #nav-container { background: rgba(255, 255, 255, 0.98); backdrop-filter: blur(15px); padding: 20px 12px; border-radius: 25px; border: 2.5px solid var(--point-color); box-shadow: 0 15px 50px rgba(0,0,0,0.2); width: 100px; max-height: 60vh; overflow-y: auto; text-align: center; margin-bottom: 5px; opacity: 0; visibility: hidden; transform: translateY(30px) scale(0.8); transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         #nav-container.show { opacity: 1; visibility: visible; transform: translateY(0) scale(1); }
         #nav-container::-webkit-scrollbar { width: 0; }
-        
         .nav-year { font-family: 'Montserrat', sans-serif; font-weight: 900; color: #2c3e50; font-size: 0.9rem; margin: 15px 0 8px; border-bottom: 2px solid var(--point-color); padding-bottom: 4px; }
         .nav-month-grid { display: flex; flex-direction: column; gap: 8px; align-items: center; }
         .nav-month { width: 70px; height: 35px; line-height: 33px; font-size: 0.95rem; font-weight: 700; cursor: pointer; text-align: center; border-radius: 12px; background: #fff; border: 1.5px solid #eee; transition: 0.2s; }
-        .nav-month:hover { background: var(--point-color); color: #fff; border-color: var(--point-color); }
 
-        /* 👑 상단 헤더 & 컨텐츠 스타일 (기존 v10 유지) */
+        /* 👑 상단 헤더 */
         .credit-header { width: 100%; max-width: 800px; margin: 40px auto 10px; text-align: center; padding: 0 20px; }
+        .credit-title { font-family: 'Montserrat', sans-serif; font-size: 0.85rem; color: #ced6e0; letter-spacing: 4px; margin-bottom: 15px; font-weight: 700; }
         .credit-badge { display: inline-block; background: #fff; padding: 12px 25px; border-radius: 40px; border: 1px solid #f1f2f6; font-size: 0.85rem; color: #7f8c8d; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
+
         .book-container { width: 100%; max-width: 850px; margin: 0 auto 50px auto; padding: 10px 15px; }
         .month-header { position: sticky; top: 0; z-index: 500; background: rgba(146, 180, 210, 0.95); backdrop-filter: blur(8px); color: #fff; padding: 12px 30px; border-radius: 0 0 25px 25px; font-size: 1.1rem; font-weight: 700; margin: 40px 0 30px 0; display: inline-block; }
         .entry { display: flex; flex-direction: column; gap: 15px; margin-bottom: 60px; }
@@ -65,6 +40,9 @@
         .weather-icon { font-size: 2rem; margin-top: 5px; }
         .photo-gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 10px 0 15px 0; }
         .photo-gallery img { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; cursor: pointer; }
+        /* 🚫 깨진 이미지는 자리를 차지하지 않게 숨김 */
+        .photo-gallery img[data-valid="false"] { display: none; }
+
         .entry-content { background: var(--entry-bg); padding: 22px; border-radius: 20px; font-size: 1.05rem; line-height: 1.8; white-space: pre-wrap; word-break: break-all; border: 1px solid rgba(0,0,0,0.02); }
 
         #lightbox { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0.98); z-index: 2000; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: 0.3s; cursor: zoom-out; }
@@ -82,18 +60,16 @@
 <body>
 
 <div id="smart-nav">
-    <div id="nav-container">
-        <div id="nav-items"></div>
-    </div>
+    <div id="nav-container"><div id="nav-items"></div></div>
     <div id="btn-top" onclick="window.scrollTo({top: 0, behavior:'smooth'})">TOP</div>
-    <button id="nav-toggle" onclick="toggleNav()">
-        <span class="icon">📅</span>
-        <span class="label">TIME SLICE</span>
-    </button>
+    <button id="nav-toggle" onclick="toggleNav()"><span class="icon">📅</span><span class="label">TIME SLICE</span></button>
 </div>
 
 <div class="credit-header">
-    <div class="credit-badge">Created by <b>두인호</b> x <b>Gemini</b> | <span id="last-updated"></span></div>
+    <div class="credit-title">HAJUN'S MEMORY BOOK</div>
+    <div class="credit-badge">
+        Created by <b>두인호</b> x <b style="color:#4285F4">Gemini</b> | <span id="info-tag"></span>
+    </div>
 </div>
 
 <div id="album-content" class="book-container"></div>
@@ -104,7 +80,8 @@
 
 <script>
     const lastMod = new Date(document.lastModified);
-    document.getElementById('last-updated').innerText = `v10 (Smart Nav)`;
+    const dateStr = `${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
+    document.getElementById('info-tag').innerText = `v10 (Smart Nav) | ${dateStr}`;
 
     function toggleNav() {
         const container = document.getElementById('nav-container');
@@ -161,10 +138,7 @@
                 }
                 const h = document.createElement('div'); h.className = 'month-header'; h.id = mId; h.textContent = YM; container.appendChild(h);
                 const n = document.createElement('div'); n.className = 'nav-month'; n.textContent = month + "월";
-                n.onclick = () => {
-                    window.scrollTo({top: h.offsetTop - 5, behavior:'smooth'});
-                    toggleNav();
-                };
+                n.onclick = () => { window.scrollTo({top: h.offsetTop - 5, behavior:'smooth'}); toggleNav(); };
                 nav.appendChild(n);
             }
 
@@ -179,13 +153,20 @@
 
             if(allImages.length > 0) {
                 rightHtml += `<div class="photo-gallery">`;
-                allImages.forEach(src => { rightHtml += `<img src="${src}" onclick="openLightbox('${src}')">`; });
+                allImages.forEach(src => {
+                    // 🆕 76번과 77번 이미지 이름을 포함하고 있는지 체크
+                    const isSpecificImage = src.includes('img_76.jpg') || src.includes('img_77.jpg');
+                    const isReportImage = src.includes('./images/'); // 일반 알림장 사진은 통과
+                    
+                    if (isReportImage || isSpecificImage) {
+                        rightHtml += `<img src="${src}" onclick="openLightbox('${src}')" onerror="this.style.display='none'">`;
+                    }
+                });
                 rightHtml += `</div>`;
             }
 
             let allContent = day.reports.map(r => r.content).join('\n\n');
             if(allContent.trim() !== '') { rightHtml += `<div class="entry-content">${allContent}</div>`; }
-
             if (rightHtml.trim() === '') return;
 
             div.innerHTML = `
