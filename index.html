@@ -2,93 +2,122 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>하준이의 키즈노트 성장 앨범</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
 
+        /* ⚪ 무조건 화이트 모드 고정 */
+        :root {
+            color-scheme: light; /* 브라우저 다크모드 무시 */
+        }
+
         body {
-            background-color: #eef2f5; font-family: 'Noto Sans KR', sans-serif;
-            margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; color: #333;
-            scroll-behavior: smooth; /* 스크롤 이동을 부드럽게 */
+            background-color: #ffffff; font-family: 'Noto Sans KR', sans-serif;
+            margin: 0; padding: 0; color: #333333; scroll-behavior: smooth;
         }
 
-        /* 🧭 우측 고정 내비게이션 스타일 */
+        /* 🧭 숨김형 퀵 내비게이션 (평소엔 투명, 마우스 올리면 나타남) */
         #quick-nav {
-            position: fixed; top: 50%; right: 30px; transform: translateY(-50%);
-            width: 140px; background: rgba(255, 255, 255, 0.9);
-            backdrop-filter: blur(10px); padding: 15px; border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1); z-index: 1000;
-            max-height: 80vh; overflow-y: auto; border: 1px solid #eee;
+            position: fixed; top: 50%; right: 15px; transform: translateY(-50%);
+            width: 60px; background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px); padding: 12px 5px; border-radius: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08); z-index: 1000;
+            max-height: 70vh; overflow-y: auto; border: 1px solid #eeeeee;
+            opacity: 0.15; /* 평소엔 거의 투명 */
+            transition: opacity 0.4s ease, width 0.3s ease; /* 부드러운 전환 */
         }
-        #quick-nav::-webkit-scrollbar { width: 4px; }
-        #quick-nav::-webkit-scrollbar-thumb { background: #92b4d2; border-radius: 10px; }
 
-        .nav-year { font-weight: 700; color: #2c3e50; margin-top: 15px; margin-bottom: 5px; font-size: 0.95rem; border-bottom: 2px solid #92b4d2; display: inline-block; }
-        .nav-month-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 5px; margin-bottom: 10px; }
-        .nav-month { 
-            font-size: 0.85rem; color: #666; cursor: pointer; padding: 4px; text-align: center;
-            border-radius: 5px; transition: 0.2s; background: #f8f9fa;
+        /* 마우스를 올리거나 터치하면 선명해짐 */
+        #quick-nav:hover, #quick-nav:active {
+            opacity: 1;
+            width: 85px;
         }
-        .nav-month:hover { background: #92b4d2; color: white; }
 
-        /* 👑 최상단 서명 & 정보 패널 */
-        .credit-header { width: 210mm; text-align: center; margin-bottom: 25px; animation: fadeIn 1s ease-in-out; }
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
-        .credit-title { font-family: 'Montserrat', sans-serif; font-size: 1.1rem; font-weight: 700; color: #8395a7; letter-spacing: 3px; margin-bottom: 12px; }
-        .credit-badge { display: inline-flex; align-items: center; gap: 12px; background: white; padding: 10px 25px; border-radius: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-size: 0.9rem; color: #666; border: 1px solid #f1f2f6; }
-        .credit-badge b { color: #2c3e50; font-weight: 700; }
-        .credit-badge .gemini { color: #4285F4; }
-        .credit-badge .version-tag { background: #2c3e50; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8rem; font-family: 'Montserrat', sans-serif; font-weight: 700; }
+        #quick-nav::-webkit-scrollbar { width: 0px; } /* 스크롤바 숨김 */
 
-        /* 앨범 컨테이너 */
-        .book-container { width: 210mm; background: white; box-shadow: 0 10px 30px rgba(0,0,0,0.1); padding: 20mm; box-sizing: border-box; margin-bottom: 20px; }
-        .month-header { background-color: #92b4d2; color: white; padding: 8px 20px; border-radius: 20px; font-size: 1.3rem; font-weight: 700; margin: 60px 0 30px 0; display: inline-block; scroll-margin-top: 40px; }
+        .nav-year { font-weight: 700; color: #2c3e50; margin-top: 12px; font-size: 0.7rem; text-align: center; border-bottom: 2px solid #92b4d2; margin-bottom: 5px; }
+        .nav-month-grid { display: flex; flex-direction: column; gap: 5px; }
+        .nav-month { font-size: 0.85rem; color: #555555; cursor: pointer; padding: 7px 0; text-align: center; border-radius: 50%; background: #fdfdfd; border: 1px solid #f0f0f0; transition: 0.2s; }
+        .nav-month:hover { background: #92b4d2; color: #ffffff; border-color: #92b4d2; }
 
-        .entry { display: flex; gap: 25px; margin-bottom: 60px; page-break-inside: avoid; }
-        .entry-left { width: 70px; text-align: center; flex-shrink: 0; }
-        .date-num { font-size: 3rem; font-weight: 700; line-height: 1; margin-bottom: 5px; color: #222; }
-        .date-day { font-size: 1rem; color: #666; font-weight: 500; margin-bottom: 10px; }
-        .weather-icon { font-size: 1.8rem; }
+        /* 👑 상단 서명 */
+        .credit-header { width: 100%; max-width: 800px; margin: 30px auto 10px; text-align: center; padding: 0 20px; box-sizing: border-box; }
+        .credit-title { font-family: 'Montserrat', sans-serif; font-size: 0.85rem; font-weight: 700; color: #b2bec3; letter-spacing: 3px; margin-bottom: 12px; }
+        .credit-badge { display: inline-block; background: #ffffff; padding: 10px 20px; border-radius: 25px; border: 1px solid #f1f2f6; font-size: 0.8rem; color: #7f8c8d; }
+        .credit-badge b { color: #2d3436; }
 
-        .entry-right { flex-grow: 1; max-width: calc(100% - 95px); }
-        .entry-header { margin-bottom: 15px; }
-        .entry-title { font-size: 1.05rem; color: #444; font-weight: 700; }
-        .entry-author { font-size: 0.9rem; color: #888; margin-top: 3px; }
-        .entry-content { background-color: #f0f7fb; padding: 20px 25px; border-radius: 12px; font-size: 1rem; line-height: 1.8; color: #444; white-space: pre-wrap; margin-bottom: 20px; }
+        /* 앨범 메인 컨테이너 */
+        .book-container { 
+            width: 95%; max-width: 850px; background: #ffffff; 
+            margin: 0 auto 50px auto; padding: 10px 20px; 
+            box-sizing: border-box;
+        }
 
-        .album-section { background-color: #fffaf0; border: 1px dashed #e2b78b; padding: 15px; border-radius: 12px; margin-top: 20px; }
-        .album-title { font-size: 1rem; font-weight: 700; color: #d35400; margin-bottom: 15px; }
+        .month-header { 
+            background-color: #92b4d2; color: #ffffff; padding: 8px 25px; 
+            border-radius: 30px; font-size: 1.1rem; font-weight: 700; 
+            margin: 50px 0 25px 0; display: inline-block; scroll-margin-top: 30px;
+        }
 
-        .photo-gallery { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; }
-        .photo-gallery img { border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); object-fit: cover; opacity: 0; transition: opacity 0.5s ease; }
-        .photo-gallery img.loaded { opacity: 1; }
-        .photo-gallery img.wide-pic { flex: 1 1 100%; height: auto; max-height: 400px; }
-        .photo-gallery img.standard-pic { flex: 1 1 160px; height: 240px; }
+        .entry { display: flex; flex-direction: column; gap: 15px; margin-bottom: 60px; }
+        
+        .entry-left { display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #f8f9fa; padding-bottom: 12px; }
+        .date-num { font-size: 2.4rem; font-weight: 700; color: #333333; }
+        .date-day { font-size: 0.95rem; color: #999999; margin-top: 10px; }
+        .weather-icon { font-size: 1.6rem; margin-left: auto; }
+
+        .entry-right { width: 100%; }
+        .entry-header { margin-bottom: 12px; }
+        .entry-title { font-size: 1rem; color: #2c3e50; font-weight: 700; }
+        .entry-author { font-size: 0.85rem; color: #b2bec3; }
+        
+        .entry-content {
+            background-color: #fcfdfe; padding: 20px; border-radius: 15px; 
+            font-size: 1.05rem; line-height: 1.8; color: #333333; 
+            white-space: pre-wrap; word-break: break-all;
+            border: 1px solid #f1f4f7;
+        }
+
+        .album-section { background-color: #fffcf9; border: 1px solid #f9f1e8; padding: 15px; border-radius: 15px; margin-top: 20px; }
+        .album-title { font-size: 0.95rem; font-weight: 700; color: #e67e22; margin-bottom: 12px; }
+
+        .photo-gallery { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); 
+            gap: 10px; margin-bottom: 15px; 
+        }
+        .photo-gallery img {
+            width: 100%; height: 190px; object-fit: cover; border-radius: 10px;
+            background: #f9f9f9; transition: transform 0.2s ease;
+        }
+        .photo-gallery img.wide-pic { grid-column: span 2; height: 230px; }
+
+        @media (min-width: 768px) {
+            .entry { flex-direction: row; gap: 30px; }
+            .entry-left { flex-direction: column; width: 80px; border-bottom: none; padding-bottom: 0; align-items: center; }
+            .weather-icon { margin-left: 0; }
+            .photo-gallery { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+            #quick-nav { right: 25px; }
+        }
 
         @media print {
-            body { background: white; padding: 0; }
             #quick-nav, .credit-header { display: none; }
-            .book-container { box-shadow: none; width: 100%; margin: 0; padding: 0; }
-            .month-header { page-break-before: always; }
+            .book-container { width: 100%; }
         }
     </style>
 </head>
 <body>
 
-<div id="quick-nav">
-    <div style="text-align:center; font-size:0.8rem; color:#999; margin-bottom:10px;">Quick Menu</div>
+<div id="quick-nav" title="월 선택">
     <div id="nav-items"></div>
 </div>
 
 <div class="credit-header">
     <div class="credit-title">HAJUN'S MEMORY BOOK</div>
     <div class="credit-badge">
-        <span>Created by <b>두인호</b> x <b class="gemini">제미나이</b></span>
-        <span class="divider">|</span>
-        <span class="version-tag">v01</span>
-        <span class="divider">|</span>
-        <span id="last-updated">Last Updated : 2026.03.05</span>
+        Created by <b>두인호</b> x <b style="color:#4285F4">제미나이</b> | <span id="last-updated"></span>
     </div>
 </div>
 
@@ -98,12 +127,11 @@
 <script src="./albums.js"></script>
 
 <script>
-    // 날짜 업데이트 자동화 (파일 수정일 기준)
     const lastMod = new Date(document.lastModified);
-    document.getElementById('last-updated').innerText = `Last Updated : ${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
+    document.getElementById('last-updated').innerText = `v02 (${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')})`;
 
     const weatherMap = { 'sunny': '☀️', 'mostly_cloudy': '⛅', 'partly_cloudy': '🌤️', 'overcast': '☁️', 'rain': '🌧️', 'snow': '❄️', 'mixed_rain_snow': '🌨️', 'fog': '🌫️', 'yellow_sand': '😷', 'sunny_after_rain': '🌦️' };
-    const weekDays = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+    const weekDays = ['일', '월', '화', '수', '목', '금', '토'];
 
     function getLocalDateStr(dateString) {
         if (!dateString) return '1970-01-01';
@@ -116,7 +144,9 @@
         let html = `<div class="photo-gallery">`;
         imagesArray.forEach(imgPath => {
             const fileName = imgPath.split(/\\|\//).pop();
-            html += `<img src="./${folderName}/${fileName}" alt="사진" onload="if(this.naturalWidth > this.naturalHeight * 1.25){this.classList.add('wide-pic');}else{this.classList.add('standard-pic');}this.classList.add('loaded');" onerror="this.style.display='none'">`;
+            html += `<img src="./${folderName}/${fileName}" alt="사진" loading="lazy" 
+                     onload="if(this.naturalWidth > this.naturalHeight * 1.35){this.classList.add('wide-pic');}" 
+                     onerror="this.style.display='none'">`;
         });
         html += `</div>`;
         return html;
@@ -127,7 +157,6 @@
         const navItems = document.getElementById('nav-items');
         const combinedData = {};
 
-        // 1. 데이터 병합
         if (typeof reportsData !== 'undefined') {
             reportsData.forEach(r => {
                 const dateStr = getLocalDateStr(r.date_written);
@@ -144,11 +173,8 @@
         }
 
         const sortedDates = Object.keys(combinedData).sort((a, b) => new Date(a) - new Date(b));
-        
-        // 2. 내비게이션 데이터 생성용 변수
         let currentMonth = '';
         let currentYear = '';
-        let yearGroupHtml = '';
 
         sortedDates.forEach(dateStr => {
             const dayData = combinedData[dateStr];
@@ -156,38 +182,26 @@
             const year = dateObj.getFullYear();
             const month = dateObj.getMonth() + 1;
             const yearMonthText = `${year}년 ${month}월`;
-            const monthId = `month-${year}-${month}`; // 스크롤용 ID
+            const monthId = `m-${year}-${month}`;
 
-            // 월이 바뀔 때 헤더 추가
             if (currentMonth !== yearMonthText) {
                 currentMonth = yearMonthText;
-                
-                // 내비게이션 메뉴 구축
                 if (currentYear !== year) {
                     currentYear = year;
-                    const yearLabel = document.createElement('div');
-                    yearLabel.className = 'nav-year';
-                    yearLabel.textContent = `${year}년`;
-                    navItems.appendChild(yearLabel);
-                    
-                    const monthGrid = document.createElement('div');
-                    monthGrid.className = 'nav-month-grid';
-                    monthGrid.id = `grid-${year}`;
-                    navItems.appendChild(monthGrid);
+                    const yLbl = document.createElement('div'); yLbl.className = 'nav-year'; yLbl.textContent = year;
+                    navItems.appendChild(yLbl);
+                    const grid = document.createElement('div'); grid.className = 'nav-month-grid'; grid.id = `g-${year}`;
+                    navItems.appendChild(grid);
                 }
-                
-                const navMonth = document.createElement('div');
-                navMonth.className = 'nav-month';
-                navMonth.textContent = `${month}월`;
-                navMonth.onclick = () => document.getElementById(monthId).scrollIntoView();
-                document.getElementById(`grid-${year}`).appendChild(navMonth);
+                const nMon = document.createElement('div'); nMon.className = 'nav-month'; nMon.textContent = month;
+                nMon.onclick = (e) => { 
+                    e.stopPropagation();
+                    document.getElementById(monthId).scrollIntoView();
+                };
+                document.getElementById(`g-${year}`).appendChild(nMon);
 
-                // 본문 월 헤더 추가
-                const monthHeader = document.createElement('div');
-                monthHeader.className = 'month-header';
-                monthHeader.id = monthId;
-                monthHeader.textContent = yearMonthText;
-                container.appendChild(monthHeader);
+                const mHdr = document.createElement('div'); mHdr.className = 'month-header'; mHdr.id = monthId;
+                mHdr.textContent = yearMonthText; container.appendChild(mHdr);
             }
 
             const entryDiv = document.createElement('div');
@@ -195,8 +209,7 @@
             let rightHtml = '';
 
             dayData.reports.forEach(report => {
-                const classText = report.class_name ? ` (${report.class_name})` : '';
-                rightHtml += `<div class="entry-header"><div class="entry-title">원에서 가정으로</div><div class="entry-author">${report.author_name}${classText}</div></div>${createImageGridHtml(report.local_images, 'images')}<div class="entry-content">${report.content}</div>`;
+                rightHtml += `<div class="entry-header"><div class="entry-title">원에서 가정으로</div><div class="entry-author">${report.author_name}</div></div>${createImageGridHtml(report.local_images, 'images')}<div class="entry-content">${report.content}</div>`;
             });
 
             dayData.albums.forEach(album => {
@@ -210,7 +223,7 @@
             entryDiv.innerHTML = `
                 <div class="entry-left">
                     <div class="date-num">${dateObj.getDate()}</div>
-                    <div class="date-day">${weekDays[dateObj.getDay()]}</div>
+                    <div class="date-day">${weekDays[dateObj.getDay()]}요일</div>
                     <div class="weather-icon">${weatherMap[dayData.weather] || '☀️'}</div>
                 </div>
                 <div class="entry-right">${rightHtml}</div>
