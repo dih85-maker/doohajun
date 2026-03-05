@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>하준이의 키즈노트 성장 앨범</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap'); /* 영문 폰트 추가 */
+
+        body {
+            background-color: #eef2f5; font-family: 'Noto Sans KR', sans-serif;
+            margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; color: #333;
+        }
+
+        /* 👑 최상단 서명 & 버전 정보 스타일 */
+        .credit-header {
+            width: 210mm;
+            text-align: center;
+            margin-bottom: 25px;
+            box-sizing: border-box;
+            animation: fadeIn 1s ease-in-out;
+        }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+        
+        .credit-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #8395a7;
+            letter-spacing: 3px;
+            margin-bottom: 12px;
+        }
+        
+        .credit-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: white;
+            padding: 10px 25px;
+            border-radius: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            font-size: 0.9rem;
+            color: #666;
+            border: 1px solid #f1f2f6;
+        }
+        .credit-badge b { color: #2c3e50; font-weight: 700; }
+        .credit-badge .gemini { color: #4285F4; } /* 구글 파란색 포인트 */
+        .credit-badge .divider { color: #dcdde1; font-size: 0.8rem; }
+        .credit-badge .version-tag { 
+            background: #2c3e50; color: white; padding: 2px 8px; 
+            border-radius: 12px; font-size: 0.8rem; font-family: 'Montserrat', sans-serif; font-weight: 700;
+        }
+
+        /* 기존 앨범 스타일 */
+        .book-container {
+            width: 210mm; background: white; box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 20mm; box-sizing: border-box; margin-bottom: 20px;
+        }
+
+        .month-header {
+            background-color: #92b4d2; color: white; padding: 8px 20px; border-radius: 20px;
+            font-size: 1.3rem; font-weight: 700; margin: 40px 0 30px 0; display: inline-block;
+        }
+
+        .entry { display: flex; gap: 25px; margin-bottom: 60px; page-break-inside: avoid; }
+        .entry-left { width: 70px; text-align: center; flex-shrink: 0; }
+        .date-num { font-size: 3rem; font-weight: 700; line-height: 1; margin-bottom: 5px; color: #222; }
+        .date-day { font-size: 1rem; color: #666; font-weight: 500; margin-bottom: 10px; }
+        .weather-icon { font-size: 1.8rem; }
+
+        .entry-right { flex-grow: 1; max-width: calc(100% - 95px); }
+        .entry-header { margin-bottom: 15px; }
+        .entry-title { font-size: 1.05rem; color: #444; font-weight: 700; }
+        .entry-author { font-size: 0.9rem; color: #888; margin-top: 3px; }
+        .entry-content {
+            background-color: #f0f7fb; padding: 20px 25px; border-radius: 12px; 
+            font-size: 1rem; line-height: 1.8; color: #444; white-space: pre-wrap; margin-bottom: 20px;
+        }
+
+        .album-section {
+            background-color: #fffaf0; border: 1px dashed #e2b78b;
+            padding: 15px; border-radius: 12px; margin-top: 20px;
+        }
+        .album-title { font-size: 1rem; font-weight: 700; color: #d35400; margin-bottom: 15px; }
+
+        /* 사진 자동 정렬 레이아웃 */
+        .photo-gallery { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; }
+        .photo-gallery img {
+            border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+            object-fit: cover; opacity: 0; transition: opacity 0.5s ease;
+        }
+        .photo-gallery img.loaded { opacity: 1; }
+        .photo-gallery img.wide-pic { flex: 1 1 100%; height: auto; max-height: 400px; }
+        .photo-gallery img.standard-pic { flex: 1 1 160px; height: 240px; }
+
+        @media print {
+            body { background: white; padding: 0; }
+            .credit-header { display: none; } /* 인쇄 시 서명 가리기 (원하면 지우셔도 됩니다) */
+            .book-container { box-shadow: none; width: 100%; margin: 0; padding: 0; }
+            .month-header { page-break-before: always; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="credit-header">
+    <div class="credit-title">HAJUN'S MEMORY BOOK</div>
+    <div class="credit-badge">
+        <span>Created by <b>두인호</b> x <b class="gemini">제미나이</b></span>
+        <span class="divider">|</span>
+        <span class="version-tag">v01</span> <span class="divider">|</span>
+        <span id="last-updated">Last Updated : 측정중...</span>
+    </div>
+</div>
+
+<div id="album-content" class="book-container"></div>
+
+<script src="./reports.js"></script>
+<script src="./albums.js"></script>
+
+<script>
+    // 날짜 자동 기록 (HTML 파일이 마지막으로 저장된 시간)
+    window.onload = function() {
+        const lastMod = new Date(document.lastModified);
+        // 날짜 포맷 예시: 2026.03.05
+        const formattedDate = lastMod.getFullYear() + '.' + 
+                              String(lastMod.getMonth() + 1).padStart(2, '0') + '.' + 
+                              String(lastMod.getDate()).padStart(2, '0');
+        document.getElementById('last-updated').innerText = `Last Updated : ${formattedDate}`;
+    };
+
+    const weatherMap = {
+        'sunny': '☀️', 'mostly_cloudy': '⛅', 'partly_cloudy': '🌤️', 'overcast': '☁️',
+        'rain': '🌧️', 'snow': '❄️', 'mixed_rain_snow': '🌨️', 'fog': '🌫️',
+        'yellow_sand': '😷', 'sunny_after_rain': '🌦️'
+    };
+    const weekDays = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+
+    function getLocalDateStr(dateString) {
+        if (!dateString) return '1970-01-01';
+        const d = new Date(dateString);
+        return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+    }
+
+    function createImageGridHtml(imagesArray, folderName) {
+        if (!imagesArray || imagesArray.length === 0) return '';
+        let html = `<div class="photo-gallery">`;
+        
+        imagesArray.forEach(imgPath => {
+            const fileName = imgPath.split(/\\|\//).pop();
+            html += `<img src="./${folderName}/${fileName}" alt="활동 사진" 
+                     onload="
+                        if(this.naturalWidth > this.naturalHeight * 1.25) { 
+                            this.classList.add('wide-pic'); 
+                        } else { 
+                            this.classList.add('standard-pic'); 
+                        }
+                        this.classList.add('loaded');
+                     " 
+                     onerror="this.style.display='none'">`;
+        });
+        html += `</div>`;
+        return html;
+    }
+
+    function renderAlbum() {
+        const container = document.getElementById('album-content');
+        
+        if (typeof reportsData === 'undefined' && typeof albumsData === 'undefined') {
+            container.innerHTML = `<h2 style="color:#d35400; text-align:center; padding:50px;">데이터를 불러오는 중이거나 파일이 없습니다.</h2>`;
+            return;
+        }
+
+        const combinedData = {};
+
+        if (typeof reportsData !== 'undefined') {
+            reportsData.forEach(r => {
+                const dateStr = getLocalDateStr(r.date_written);
+                if (!combinedData[dateStr]) combinedData[dateStr] = { dateObj: new Date(dateStr), reports: [], albums: [], weather: r.weather };
+                combinedData[dateStr].reports.push(r);
+            });
+        }
+
+        if (typeof albumsData !== 'undefined') {
+            albumsData.forEach(a => {
+                const dateStr = getLocalDateStr(a.date_written);
+                if (!combinedData[dateStr]) combinedData[dateStr] = { dateObj: new Date(dateStr), reports: [], albums: [], weather: 'sunny' };
+                combinedData[dateStr].albums.push(a);
+            });
+        }
+
+        const sortedDates = Object.keys(combinedData).sort((a, b) => new Date(a) - new Date(b));
+        let currentMonth = '';
+
+        sortedDates.forEach(dateStr => {
+            const dayData = combinedData[dateStr];
+            const dateObj = dayData.dateObj;
+            const yearMonth = `${dateObj.getFullYear()}년 ${dateObj.getMonth() + 1}월`;
+            
+            if (currentMonth !== yearMonth) {
+                currentMonth = yearMonth;
+                const monthHeader = document.createElement('div');
+                monthHeader.className = 'month-header';
+                monthHeader.textContent = currentMonth;
+                container.appendChild(monthHeader);
+            }
+
+            const entryDiv = document.createElement('div');
+            entryDiv.className = 'entry';
+            let rightHtml = '';
+
+            dayData.reports.forEach(report => {
+                const classText = report.class_name ? ` (${report.class_name})` : '';
+                rightHtml += `
+                    <div class="entry-header">
+                        <div class="entry-title">원에서 가정으로</div>
+                        <div class="entry-author">${report.author_name}${classText}</div>
+                    </div>
+                    ${createImageGridHtml(report.local_images, 'images')}
+                    <div class="entry-content">${report.content}</div>
+                `;
+            });
+
+            dayData.albums.forEach(album => {
+                if (album.local_images && album.local_images.length > 0) {
+                    rightHtml += `
+                        <div class="album-section">
+                            <div class="album-title">📸 추가 앨범 : ${album.title}</div>
+                            ${createImageGridHtml(album.local_images, 'album_images')}
+                        </div>
+                    `;
+                }
+            });
+
+            if (rightHtml.trim() === '') return;
+
+            entryDiv.innerHTML = `
+                <div class="entry-left">
+                    <div class="date-num">${dateObj.getDate()}</div>
+                    <div class="date-day">${weekDays[dateObj.getDay()]}</div>
+                    <div class="weather-icon">${weatherMap[dayData.weather] || '☀️'}</div>
+                </div>
+                <div class="entry-right">
+                    ${rightHtml}
+                </div>
+            `;
+            container.appendChild(entryDiv);
+        });
+    }
+
+    renderAlbum();
+</script>
+</body>
+</html>
