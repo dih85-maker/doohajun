@@ -31,28 +31,46 @@
         .credit-title { font-family: 'Montserrat', sans-serif; font-size: 0.85rem; color: #ced6e0; letter-spacing: 4px; margin-bottom: 15px; font-weight: 700; }
         .credit-badge { display: inline-block; background: #fff; padding: 12px 25px; border-radius: 40px; border: 1px solid #f1f2f6; font-size: 0.85rem; color: #7f8c8d; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
 
-        .book-container { width: 100%; max-width: 850px; margin: 0 auto 50px auto; padding: 10px 15px; }
-        .month-header { position: sticky; top: 0; z-index: 500; background: rgba(146, 180, 210, 0.95); backdrop-filter: blur(8px); color: #fff; padding: 12px 30px; border-radius: 0 0 25px 25px; font-size: 1.1rem; font-weight: 700; margin: 40px 0 30px 0; display: inline-block; }
-        .entry { display: flex; flex-direction: column; gap: 15px; margin-bottom: 60px; }
-        .entry-left { display: flex; flex-direction: column; align-items: center; gap: 1px; padding-bottom: 15px; border-bottom: 2px solid #f1f2f6; margin-bottom: 10px; }
-        .date-num { font-family: 'Montserrat', sans-serif; font-size: 3.2rem; font-weight: 900; color: #2f3640; line-height: 1; }
-        .date-day { font-size: 1rem; color: #7f8c8d; font-weight: 700; }
-        .weather-icon { font-size: 2rem; margin-top: 5px; }
-        .photo-gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 10px 0 15px 0; }
-        .photo-gallery img { width: 100%; height: 120px; object-fit: cover; border-radius: 8px; cursor: pointer; }
-        /* 🚫 깨진 이미지는 자리를 차지하지 않게 숨김 */
-        .photo-gallery img[data-valid="false"] { display: none; }
+        .book-container { width: 100%; max-width: 850px; margin: 0 auto 50px auto; padding: 0 10px; }
+        .month-header { position: sticky; top: 0; z-index: 500; background: rgba(146, 180, 210, 0.95); backdrop-filter: blur(8px); color: #fff; padding: 10px 25px; border-radius: 0 0 20px 20px; font-size: 1rem; font-weight: 700; margin: 30px 0 20px 0; display: inline-block; }
 
-        .entry-content { background: var(--entry-bg); padding: 22px; border-radius: 20px; font-size: 1.05rem; line-height: 1.8; white-space: pre-wrap; word-break: break-all; border: 1px solid rgba(0,0,0,0.02); }
+        /* 🆕 모바일에서도 2열 레이아웃 유지 */
+        .entry { display: flex; flex-direction: row; gap: 15px; margin-bottom: 40px; align-items: flex-start; }
+        
+        /* 날짜 영역 고정 너비 */
+        .entry-left { flex: 0 0 65px; display: flex; flex-direction: column; align-items: center; gap: 2px; position: sticky; top: 60px; }
+        .date-num { font-family: 'Montserrat', sans-serif; font-size: 2.2rem; font-weight: 900; color: #2f3640; line-height: 1; }
+        .date-day { font-size: 0.8rem; color: #7f8c8d; font-weight: 700; white-space: nowrap; }
+        .weather-icon { font-size: 1.4rem; margin-top: 4px; }
+        
+        /* 컨텐츠 영역 */
+        .entry-right { flex: 1; min-width: 0; }
+        .entry-header { margin-bottom: 10px; padding-left: 2px; }
+        .entry-title { font-size: 1rem; color: #2c3e50; font-weight: 700; margin-bottom: 2px; }
+        .entry-author { font-size: 0.75rem; color: #a4b0be; font-weight: 400; }
+        
+        /* 📸 사진 갤러리 (비율 유지) */
+        .photo-gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin: 10px 0 15px 0; }
+        .photo-gallery img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; cursor: pointer; background: #f0f0f0; }
 
-        #lightbox { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0.98); z-index: 2000; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: 0.3s; cursor: zoom-out; }
+        .entry-content { background: var(--entry-bg); padding: 18px; border-radius: 15px; font-size: 0.95rem; line-height: 1.7; white-space: pre-wrap; word-break: break-all; border: 1px solid rgba(0,0,0,0.02); color: #444; }
+
+        #lightbox { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 2000; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: 0.3s; cursor: zoom-out; }
         #lightbox.active { opacity: 1; visibility: visible; }
-        #lightbox-img { max-width: 90%; max-height: 85%; object-fit: contain; border-radius: 10px; }
+        #lightbox-img { max-width: 95%; max-height: 90%; object-fit: contain; border-radius: 4px; }
 
+        /* PC 버전 최적화 */
         @media (min-width: 768px) {
-            .entry { flex-direction: row; gap: 40px; }
-            .entry-left { width: 90px; border: none; padding-bottom: 0; margin-bottom: 0; gap: 2px; }
-            .photo-gallery img { height: 200px; }
+            .book-container { padding: 0 20px; }
+            .entry { gap: 40px; margin-bottom: 60px; }
+            .entry-left { flex: 0 0 90px; top: 80px; }
+            .date-num { font-size: 3.5rem; }
+            .date-day { font-size: 1rem; }
+            .weather-icon { font-size: 2.2rem; }
+            .entry-title { font-size: 1.1rem; }
+            .entry-content { padding: 25px; font-size: 1.05rem; }
+            .photo-gallery { gap: 12px; }
+            .photo-gallery img { border-radius: 10px; }
             #smart-nav { bottom: 40px; right: 40px; }
         }
     </style>
@@ -81,7 +99,7 @@
 <script>
     const lastMod = new Date(document.lastModified);
     const dateStr = `${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
-    document.getElementById('info-tag').innerText = `v10 (Smart Nav) | ${dateStr}`;
+    document.getElementById('info-tag').innerText = `v11 (Mobile Opt) | ${dateStr}`;
 
     function toggleNav() {
         const container = document.getElementById('nav-container');
@@ -145,22 +163,19 @@
             const div = document.createElement('div'); div.className = 'entry';
             let rightHtml = '';
             let authorName = (day.reports.length > 0) ? day.reports[0].author_name : "선생님";
-            rightHtml += `<div class="entry-header" style="margin-bottom:12px;padding-left:5px;"><div style="font-size:1.1rem;color:#2c3e50;font-weight:700;margin-bottom:2px;">원에서 가정으로</div><div style="font-size:0.85rem;color:#a4b0be;font-weight:400;">${authorName}</div></div>`;
+            rightHtml += `<div class="entry-header"><div class="entry-title">원에서 가정으로</div><div class="entry-author">${authorName}</div></div>`;
 
             let allImages = [];
             day.reports.forEach(r => { if(r.local_images) allImages = allImages.concat(r.local_images.map(img => `./images/${img.split(/[\\\/]/).pop()}`)); });
-            day.albums.forEach(a => { if(a.local_images) allImages = allImages.concat(a.local_images.map(img => `./album_images/${img.split(/[\\\/]/).pop()}`)); });
+            day.albums.forEach(a => { if(a.local_images) {
+                const filtered = a.local_images.filter(img => img.includes('img_76.jpg') || img.includes('img_77.jpg') || !img.includes('album_'));
+                allImages = allImages.concat(filtered.map(img => `./album_images/${img.split(/[\\\/]/).pop()}`));
+            }});
 
             if(allImages.length > 0) {
                 rightHtml += `<div class="photo-gallery">`;
                 allImages.forEach(src => {
-                    // 🆕 76번과 77번 이미지 이름을 포함하고 있는지 체크
-                    const isSpecificImage = src.includes('img_76.jpg') || src.includes('img_77.jpg');
-                    const isReportImage = src.includes('./images/'); // 일반 알림장 사진은 통과
-                    
-                    if (isReportImage || isSpecificImage) {
-                        rightHtml += `<img src="${src}" onclick="openLightbox('${src}')" onerror="this.style.display='none'">`;
-                    }
+                    rightHtml += `<img src="${src}" onclick="openLightbox('${src}')" onerror="this.style.display='none'">`;
                 });
                 rightHtml += `</div>`;
             }
@@ -170,7 +185,11 @@
             if (rightHtml.trim() === '') return;
 
             div.innerHTML = `
-                <div class="entry-left"><div class="date-num">${day.date.getDate()}</div><div class="date-day">${weekDays[day.date.getDay()]}요일</div><div class="weather-icon">${weatherMap[day.weather]||'☀️'}</div></div>
+                <div class="entry-left">
+                    <div class="date-num">${day.date.getDate()}</div>
+                    <div class="date-day">${weekDays[day.date.getDay()]}요일</div>
+                    <div class="weather-icon">${weatherMap[day.weather]||'☀️'}</div>
+                </div>
                 <div class="entry-right">${rightHtml}</div>
             `;
             container.appendChild(div);
