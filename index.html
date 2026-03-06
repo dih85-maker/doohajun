@@ -3,60 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>하준이의 성장 앨범</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
 
+        /* 자연스러운 스크롤 허용 */
+        html { scroll-behavior: smooth; }
+
         :root { color-scheme: light; --bg-color: #ffffff; --text-color: #333333; --point-color: #92b4d2; --entry-bg: #f4f7fb; }
         * { box-sizing: border-box; }
-        body { background-color: var(--bg-color); font-family: 'Noto Sans KR', sans-serif; margin: 0; padding: 0; color: var(--text-color); }
+        body { background-color: var(--bg-color); font-family: 'Noto Sans KR', sans-serif; margin: 0; padding: 0; color: var(--text-color); padding-top: 70px; }
 
-        /* 🧭 스마트 플로팅 네비게이션 */
+        /* 🚀 절대 안 보일 수 없는 강력한 동적 상단바 */
+        #dynamic-top-bar {
+            position: fixed; top: 0; left: 0; width: 100%; height: 55px; 
+            background: rgba(146, 180, 210, 0.95); backdrop-filter: blur(10px); 
+            border-bottom: 2px solid #7ea6ca; z-index: 3000;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.15rem; font-weight: 900; color: #ffffff; letter-spacing: 1px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        /* 🧭 타임라인 스크롤 네비게이션 */
         #smart-nav { position: fixed; bottom: 25px; right: 20px; z-index: 1000; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+        a { text-decoration: none; -webkit-tap-highlight-color: transparent; }
         #btn-top { width: 35px; height: 35px; border-radius: 50%; background: #f1f2f6; color: #7f8c8d; border: 1px solid #dfe4ea; font-size: 10px; font-weight: 900; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
         #nav-toggle { width: 58px; height: 58px; border-radius: 50%; background: var(--point-color); color: white; border: none; cursor: pointer; box-shadow: 0 6px 20px rgba(146, 180, 210, 0.4); display: flex; flex-direction: column; align-items: center; justify-content: center; }
         #nav-toggle .icon { font-size: 22px; line-height: 1; }
         #nav-toggle .label { font-size: 9px; font-weight: 700; margin-top: 2px; letter-spacing: -0.5px; }
         
-        #nav-container { background: rgba(255, 255, 255, 0.98); backdrop-filter: blur(15px); padding: 20px 12px; border-radius: 25px; border: 2.5px solid var(--point-color); box-shadow: 0 15px 50px rgba(0,0,0,0.2); width: 100px; max-height: 60vh; overflow-y: auto; text-align: center; margin-bottom: 5px; display: none; }
-        #nav-container.show { display: block; }
+        #nav-container { background: rgba(255, 255, 255, 0.98); backdrop-filter: blur(15px); padding: 20px 12px; border-radius: 25px; border: 2.5px solid var(--point-color); box-shadow: 0 15px 50px rgba(0,0,0,0.2); width: 100px; max-height: 60vh; overflow-y: auto; text-align: center; margin-bottom: 5px; opacity: 0; visibility: hidden; transform: translateY(10px); transition: all 0.3s ease; }
+        #nav-container.show { opacity: 1; visibility: visible; transform: translateY(0); }
         #nav-container::-webkit-scrollbar { width: 0; }
         
         .nav-year { font-family: 'Montserrat', sans-serif; font-weight: 900; color: #2c3e50; font-size: 0.9rem; margin: 15px 0 8px; border-bottom: 2px solid var(--point-color); padding-bottom: 4px; }
         .nav-month-grid { display: flex; flex-direction: column; gap: 8px; align-items: center; }
-        .nav-month { width: 70px; height: 35px; line-height: 33px; font-size: 0.95rem; font-weight: 700; cursor: pointer; text-align: center; border-radius: 12px; background: #fff; border: 1.5px solid #eee; }
-        .nav-month.active { background: var(--point-color); color: #fff; border-color: var(--point-color); } /* 현재 보고 있는 달 강조 */
+        .nav-month { width: 70px; height: 35px; line-height: 33px; font-size: 0.95rem; font-weight: 700; color: #333; cursor: pointer; text-align: center; border-radius: 12px; background: #fff; border: 1.5px solid #eee; display: block; margin: 0 auto; }
 
-        /* 👑 상단 헤더 */
-        .credit-header { width: 100%; max-width: 800px; margin: 40px auto 10px; text-align: center; padding: 0 20px; }
+        /* 👑 상단 헤더 (메인 제목) */
+        .credit-header { width: 100%; max-width: 800px; margin: 20px auto 10px; text-align: center; padding: 0 20px; }
+        .credit-title { font-family: 'Montserrat', sans-serif; font-size: 0.85rem; color: #ced6e0; letter-spacing: 4px; margin-bottom: 15px; font-weight: 700; }
         .credit-badge { display: inline-block; background: #fff; padding: 12px 25px; border-radius: 40px; border: 1px solid #f1f2f6; font-size: 0.85rem; color: #7f8c8d; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
 
-        .book-container { width: 100%; max-width: 850px; margin: 0 auto 50px auto; padding: 0 10px; min-height: 50vh; }
-        .month-header { position: sticky; top: 0; z-index: 500; background: rgba(146, 180, 210, 0.95); backdrop-filter: blur(8px); color: #fff; padding: 10px 25px; border-radius: 0 0 20px 20px; font-size: 1rem; font-weight: 700; margin: 30px 0 20px 0; display: inline-block; }
+        .book-container { width: 100%; max-width: 850px; margin: 0 auto 50px auto; padding: 0 10px; }
+        
+        .month-header { background: #fdfdfd; color: var(--point-color); padding: 8px 25px; border-radius: 20px; border: 2px solid var(--point-color); font-size: 1.1rem; font-weight: 900; margin: 30px auto 20px auto; display: inline-block; scroll-margin-top: 80px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.03); }
+        .month-header-wrapper { text-align: center; width: 100%; }
 
         .entry { display: flex; flex-direction: row; gap: 15px; margin-bottom: 40px; align-items: flex-start; }
-        .entry-left { flex: 0 0 65px; display: flex; flex-direction: column; align-items: center; gap: 2px; position: sticky; top: 60px; }
+        
+        /* 🔥 날짜 영역 스티키(Sticky) 복구! 파란 상단바 바로 밑에 붙어서 따라옵니다 */
+        .entry-left { 
+            flex: 0 0 65px; display: flex; flex-direction: column; align-items: center; gap: 2px; 
+            position: sticky; top: 70px; z-index: 100; 
+        }
+        
         .date-num { font-family: 'Montserrat', sans-serif; font-size: 2.2rem; font-weight: 900; color: #2f3640; line-height: 1; }
         .date-day { font-size: 0.8rem; color: #7f8c8d; font-weight: 700; white-space: nowrap; }
         .weather-icon { font-size: 1.4rem; margin-top: 4px; }
         
         .entry-right { flex: 1; min-width: 0; }
         .entry-header { margin-bottom: 10px; }
-        .entry-title { font-size: 1rem; color: #2c3e50; font-weight: 700; }
-        .entry-author { font-size: 0.75rem; color: #a4b0be; }
-        
         .photo-gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin: 10px 0 15px 0; }
         .photo-gallery img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; cursor: pointer; }
         .entry-content { background: var(--entry-bg); padding: 18px; border-radius: 15px; font-size: 0.95rem; line-height: 1.7; white-space: pre-wrap; word-break: break-all; color: #444; }
 
-        /* 🆕 이전/다음 달 이동 버튼 영역 */
-        .month-nav-buttons { display: flex; justify-content: space-between; padding: 20px 10px; border-top: 2px dashed #eee; margin-top: 40px; }
-        .nav-btn { background: #fff; border: 1.5px solid var(--point-color); color: var(--point-color); padding: 12px 20px; border-radius: 30px; font-weight: 700; font-size: 0.9rem; cursor: pointer; transition: 0.2s; }
-        .nav-btn:hover { background: var(--point-color); color: #fff; }
-        .nav-btn:disabled { border-color: #ddd; color: #aaa; cursor: not-allowed; background: #f9f9f9; }
-
-        #lightbox { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 2000; display: none; align-items: center; justify-content: center; }
+        #lightbox { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 4000; display: none; align-items: center; justify-content: center; }
         #lightbox.active { display: flex; }
         #lightbox-img { max-width: 95%; max-height: 90%; object-fit: contain; }
 
@@ -71,14 +87,19 @@
 </head>
 <body>
 
+<div id="dynamic-top-bar">📅 HAJUN'S MEMORY BOOK</div>
+
+<div id="top-anchor"></div>
+
 <div id="smart-nav">
     <div id="nav-container"><div id="nav-items"></div></div>
-    <div id="btn-top" onclick="window.scrollTo(0, 0)">TOP</div>
+    <a id="btn-top" href="#top-anchor" onclick="closeNavDelayed()">TOP</a>
     <button id="nav-toggle" onclick="toggleNav()"><span class="icon">📅</span><span class="label">TIME SLICE</span></button>
 </div>
 
 <div class="credit-header">
-    <div class="credit-badge">Created by <b>두인호</b> x <b>Gemini</b> | <span id="info-tag"></span></div>
+    <div class="credit-title">HAJUN'S MEMORY BOOK</div>
+    <div class="credit-badge">Created by <b>두인호</b> x <b>Gemini</b> | <span id="info-tag" style="color:#e74c3c; font-weight:900;"></span></div>
 </div>
 
 <div id="album-content" class="book-container"></div>
@@ -90,115 +111,88 @@
 <script>
     const lastMod = new Date(document.lastModified);
     const dateStr = `${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
-    document.getElementById('info-tag').innerText = `v15 (App Mode) | ${dateStr}`;
+    document.getElementById('info-tag').innerText = `v21 (Date Sticky) | ${dateStr}`;
 
     function toggleNav() {
         document.getElementById('nav-container').classList.toggle('show');
     }
 
+    function closeNavDelayed() {
+        setTimeout(() => {
+            document.getElementById('nav-container').classList.remove('show');
+        }, 300); 
+    }
+
     const weatherMap = { 'sunny': '☀️', 'mostly_cloudy': '⛅', 'partly_cloudy': '🌤️', 'overcast': '☁️', 'rain': '🌧️', 'snow': '❄️' };
     const weekDays = ['일', '월', '화', '수', '목', '금', '토'];
-
-    // 🆕 전체 데이터를 담아둘 전역 변수
-    let globalData = {};
-    let monthKeys = []; // ["2024-3", "2024-4", ...] 정렬된 월별 키값
-    let currentMonthKey = ""; // 현재 화면에 띄워진 달
 
     function openLightbox(src) {
         document.getElementById('lightbox-img').src = src;
         document.getElementById('lightbox').classList.add('active');
     }
 
-    // 1. 데이터를 하나로 모으는 함수 (처음 1번만 실행)
-    function processData() {
-        if (typeof reportsData === 'undefined') return false;
+    function render() {
+        const container = document.getElementById('album-content');
+        const nav = document.getElementById('nav-items');
+        if (typeof reportsData === 'undefined') return;
 
+        const data = {};
         reportsData.forEach(r => {
             const d = new Date(r.date_written);
-            const mKey = `${d.getFullYear()}-${d.getMonth() + 1}`; // "2024-3" 형태로 키값 생성
-            const dateStr = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-            
-            if(!globalData[mKey]) globalData[mKey] = {};
-            if(!globalData[mKey][dateStr]) globalData[mKey][dateStr] = { date: d, reports: [], albums: [], weather: r.weather };
-            
-            globalData[mKey][dateStr].reports.push(r);
+            const s = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+            if(!data[s]) data[s] = { date: d, reports: [], albums: [], weather: r.weather };
+            data[s].reports.push(r);
         });
 
         if (typeof albumsData !== 'undefined') {
             albumsData.forEach(a => {
                 const d = new Date(a.date_written);
-                const mKey = `${d.getFullYear()}-${d.getMonth() + 1}`;
-                const dateStr = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-                
-                if(!globalData[mKey]) globalData[mKey] = {};
-                if(!globalData[mKey][dateStr]) globalData[mKey][dateStr] = { date: d, reports: [], albums: [], weather: 'sunny' };
-                
-                globalData[mKey][dateStr].albums.push(a);
+                const s = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+                if(!data[s]) data[s] = { date: d, reports: [], albums: [], weather: 'sunny' };
+                data[s].albums.push(a);
             });
         }
 
-        // 월별 키(Key)를 시간순으로 정렬
-        monthKeys = Object.keys(globalData).sort((a, b) => {
-            const [aY, aM] = a.split('-').map(Number);
-            const [bY, bM] = b.split('-').map(Number);
-            return (aY - bY) || (aM - bM);
-        });
+        const sorted = Object.keys(data).sort((a,b) => new Date(a) - new Date(b));
+        let lastYear = '', lastYM = '';
 
-        return monthKeys.length > 0;
-    }
+        sorted.forEach(dateStr => {
+            const day = data[dateStr];
+            const year = day.date.getFullYear();
+            const month = day.date.getMonth()+1;
+            const YM = `${year}년 ${month}월`;
+            const mId = `m-${year}-${month}`;
 
-    // 2. 우측 달력 메뉴(네비게이션)를 그리는 함수
-    function buildNavigation() {
-        const nav = document.getElementById('nav-items');
-        nav.innerHTML = ''; // 초기화
-        let lastYear = '';
-
-        monthKeys.forEach(mKey => {
-            const [year, month] = mKey.split('-');
-            if(lastYear !== year) {
-                lastYear = year;
-                const yrDiv = document.createElement('div'); yrDiv.className = 'nav-year'; yrDiv.textContent = year; nav.appendChild(yrDiv);
+            if(lastYM !== YM) {
+                lastYM = YM;
+                if(lastYear !== year) {
+                    lastYear = year;
+                    const yrDiv = document.createElement('div'); yrDiv.className = 'nav-year'; yrDiv.textContent = year; nav.appendChild(yrDiv);
+                }
+                
+                const hWrap = document.createElement('div'); hWrap.className = 'month-header-wrapper';
+                const h = document.createElement('div'); h.className = 'month-header'; h.id = mId; h.textContent = YM; 
+                hWrap.appendChild(h);
+                container.appendChild(hWrap);
+                
+                const a = document.createElement('a');
+                a.className = 'nav-month';
+                a.href = `#${mId}`; 
+                a.textContent = month + "월";
+                a.onclick = () => closeNavDelayed();
+                nav.appendChild(a);
             }
-            const n = document.createElement('div'); 
-            n.className = `nav-month ${mKey === currentMonthKey ? 'active' : ''}`;
-            n.textContent = month + "월";
-            n.id = `nav-${mKey}`;
-            
-            // 🆕 달력 클릭 시: 해당 달 렌더링 후 화면 닫기 (스크롤 씹힘 X)
-            n.onclick = () => {
-                document.getElementById('nav-container').classList.remove('show'); // 메뉴 닫기
-                setTimeout(() => changeMonth(mKey), 50); // 살짝 딜레이 후 화면 교체
-            };
-            nav.appendChild(n);
-        });
-    }
 
-    // 3. 🆕 핵심 함수: 특정 달(Month)의 내용만 화면에 다시 그리기
-    function changeMonth(targetMonthKey) {
-        currentMonthKey = targetMonthKey;
-        const container = document.getElementById('album-content');
-        container.innerHTML = ''; // 이전 달 내용 싹 지우기
-        window.scrollTo(0, 0); // 화면 맨 위로 리셋
-
-        const [year, month] = currentMonthKey.split('-');
-        const YM = `${year}년 ${month}월`;
-
-        // 월 헤더 추가
-        const h = document.createElement('div'); h.className = 'month-header'; h.textContent = YM; container.appendChild(h);
-
-        // 해당 달의 일자별 데이터 정렬
-        const monthData = globalData[currentMonthKey];
-        const sortedDays = Object.keys(monthData).sort((a,b) => new Date(a) - new Date(b));
-
-        sortedDays.forEach(dateStr => {
-            const day = monthData[dateStr];
             const div = document.createElement('div'); div.className = 'entry';
+            div.setAttribute('data-ym', YM);
+
             let rightHtml = '';
             let authorName = (day.reports.length > 0) ? day.reports[0].author_name : "선생님";
             rightHtml += `<div class="entry-header"><div style="font-size:1rem;color:#2c3e50;font-weight:700;">원에서 가정으로</div><div style="font-size:0.75rem;color:#a4b0be;">${authorName}</div></div>`;
 
             let allImages = [];
             day.reports.forEach(r => { if(r.local_images) allImages = allImages.concat(r.local_images.map(img => `./images/${img.split(/[\\\/]/).pop()}`)); });
+            
             day.albums.forEach(a => { if(a.local_images) {
                 const filtered = a.local_images.filter(img => img.includes('img_76.jpg') || img.includes('img_77.jpg') || !img.includes('album_'));
                 allImages = allImages.concat(filtered.map(img => `./album_images/${img.split(/[\\\/]/).pop()}`));
@@ -224,60 +218,23 @@
             container.appendChild(div);
         });
 
-        // 🆕 하단 이전/다음 달 버튼 추가
-        addPaginationButtons(container);
-
-        // 네비게이션 액티브 상태 갱신
-        document.querySelectorAll('.nav-month').forEach(el => el.classList.remove('active'));
-        const activeNav = document.getElementById(`nav-${currentMonthKey}`);
-        if(activeNav) activeNav.classList.add('active');
+        // 스크롤 감지 시스템
+        window.addEventListener('scroll', () => {
+            let currentMonthText = "HAJUN'S MEMORY BOOK";
+            const headers = document.querySelectorAll('.month-header');
+            
+            headers.forEach(header => {
+                const rect = header.getBoundingClientRect();
+                if (rect.top <= 90) {
+                    currentMonthText = header.textContent;
+                }
+            });
+            
+            document.getElementById('dynamic-top-bar').textContent = `📅 ${currentMonthText}`;
+        });
     }
 
-    // 4. 하단 이전/다음 달 버튼 생성
-    function addPaginationButtons(container) {
-        const currentIndex = monthKeys.indexOf(currentMonthKey);
-        const btnBox = document.createElement('div');
-        btnBox.className = 'month-nav-buttons';
-
-        // 이전 달 버튼
-        const prevBtn = document.createElement('button');
-        prevBtn.className = 'nav-btn';
-        if (currentIndex > 0) {
-            const prevKey = monthKeys[currentIndex - 1];
-            prevBtn.textContent = `◀ ${prevKey.split('-')[1]}월 보기`;
-            prevBtn.onclick = () => changeMonth(prevKey);
-        } else {
-            prevBtn.textContent = `◀ 처음 달`;
-            prevBtn.disabled = true;
-        }
-
-        // 다음 달 버튼
-        const nextBtn = document.createElement('button');
-        nextBtn.className = 'nav-btn';
-        if (currentIndex < monthKeys.length - 1) {
-            const nextKey = monthKeys[currentIndex + 1];
-            nextBtn.textContent = `${nextKey.split('-')[1]}월 보기 ▶`;
-            nextBtn.onclick = () => changeMonth(nextKey);
-        } else {
-            nextBtn.textContent = `마지막 달 ▶`;
-            nextBtn.disabled = true;
-        }
-
-        btnBox.appendChild(prevBtn);
-        btnBox.appendChild(nextBtn);
-        container.appendChild(btnBox);
-    }
-
-    // 시스템 시작
-    window.onload = () => {
-        if(processData()) {
-            currentMonthKey = monthKeys[monthKeys.length - 1]; // 가장 최근 달을 기본으로 세팅
-            buildNavigation();
-            changeMonth(currentMonthKey);
-        } else {
-            document.getElementById('album-content').innerHTML = "<h2 style='text-align:center;margin-top:50px;'>데이터 로드 실패</h2>";
-        }
-    };
+    window.onload = render;
 </script>
 </body>
 </html>
