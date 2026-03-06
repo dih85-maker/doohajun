@@ -26,7 +26,6 @@
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
-        /* 🚀 네비게이션 전체 위치를 왼쪽으로 더 이동 (right: 45px) */
         #smart-nav { position: fixed; bottom: 25px; right: 45px; z-index: 1000; display: flex; flex-direction: column; align-items: center; gap: 10px; }
         a { text-decoration: none; -webkit-tap-highlight-color: transparent; }
         #btn-top { width: 35px; height: 35px; border-radius: 50%; background: #f1f2f6; color: #7f8c8d; border: 1px solid #dfe4ea; font-size: 10px; font-weight: 900; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
@@ -34,7 +33,6 @@
         #nav-toggle .icon { font-size: 22px; line-height: 1; }
         #nav-toggle .label { font-size: 9px; font-weight: 700; margin-top: 2px; letter-spacing: -0.5px; }
         
-        /* 🚀 메뉴창 가로 너비 딱 절반으로 축소 (width: 60px) */
         #nav-container { 
             background: rgba(255, 255, 255, 0.98); backdrop-filter: blur(15px); 
             padding: 15px 8px; border-radius: 20px; border: 2.5px solid var(--point-color); 
@@ -45,7 +43,6 @@
         #nav-container.show { opacity: 1; visibility: visible; transform: translateY(0); }
         #nav-container::-webkit-scrollbar { width: 0; }
         
-        /* 🚀 연도와 월 버튼 사이즈 다이어트 */
         .nav-year { font-family: 'Montserrat', sans-serif; font-weight: 900; color: #2c3e50; font-size: 0.75rem; margin: 10px 0 6px; border-bottom: 2px solid var(--point-color); padding-bottom: 3px; }
         .nav-month-grid { display: flex; flex-direction: column; gap: 8px; align-items: center; }
         .nav-month { width: 42px; height: 32px; line-height: 30px; font-size: 0.8rem; font-weight: 700; color: #333; cursor: pointer; text-align: center; border-radius: 10px; background: #fff; border: 1.5px solid #eee; display: block; margin: 0 auto; }
@@ -80,7 +77,6 @@
             .entry { gap: 40px; margin-bottom: 60px; }
             .entry-left { flex: 0 0 90px; top: 80px; }
             .date-num { font-size: 3.5rem; }
-            /* PC화면에서도 왼쪽으로 조금 더 당겨줌 */
             #smart-nav { bottom: 40px; right: 60px; }
         }
     </style>
@@ -110,7 +106,7 @@
 <script>
     const lastMod = new Date(document.lastModified);
     const dateStr = `${lastMod.getFullYear()}.${String(lastMod.getMonth() + 1).padStart(2, '0')}.${String(lastMod.getDate()).padStart(2, '0')}`;
-    document.getElementById('info-tag').innerText = `v23 (Slim Nav) | ${dateStr}`;
+    document.getElementById('info-tag').innerText = `v24 (Album Fix) | ${dateStr}`;
 
     function toggleNav() {
         document.getElementById('nav-container').classList.toggle('show');
@@ -192,14 +188,21 @@
             let allImages = [];
             day.reports.forEach(r => { if(r.local_images) allImages = allImages.concat(r.local_images.map(img => `./images/${img.split(/[\\\/]/).pop()}`)); });
             
+            // 🚀 버그 수정: 특정 앨범(145416371)의 사진만 76, 77번을 남기고 1~75번을 차단하며, 나머지 다른 모든 앨범 사진들은 정상적으로 통과시킵니다.
             day.albums.forEach(a => { if(a.local_images) {
-                const filtered = a.local_images.filter(img => img.includes('img_76.jpg') || img.includes('img_77.jpg') || !img.includes('album_'));
+                const filtered = a.local_images.filter(img => {
+                    if (img.includes('145416371')) {
+                        return img.includes('img_76.jpg') || img.includes('img_77.jpg');
+                    }
+                    return true; // 다른 추가 앨범 사진은 모두 통과!
+                });
                 allImages = allImages.concat(filtered.map(img => `./album_images/${img.split(/[\\\/]/).pop()}`));
             }});
 
             if(allImages.length > 0) {
                 rightHtml += `<div class="photo-gallery">`;
-                allImages.forEach(src => { rightHtml += `<img src="${src}" onclick="openLightbox('${src}')" onerror="this.style.display='none'">`; });
+                // 🚀 onerror="this.remove()" 적용: 이미지가 없거나 깨지면 엑스박스를 남기지 않고 DOM에서 완전히 삭제하여 빈칸을 방지합니다.
+                allImages.forEach(src => { rightHtml += `<img src="${src}" onclick="openLightbox('${src}')" onerror="this.remove()">`; });
                 rightHtml += `</div>`;
             }
 
