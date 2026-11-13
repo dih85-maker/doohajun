@@ -1,4 +1,4 @@
-const reportsData =[
+const reportsData = [
   {
     "id": "1011132984",
     "date_written": "2024-03-04",
@@ -357,8 +357,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "냠냠이 선생님이 이름을 부르며 손을 흔드니 어디에서 나는 소리인지 찾는 귀여운 하준이입니다.  \n\n오전에 유모차를 타고 산책을 다녀왔습니다. 눈부신 해를 등지고 산책하니 좋아하는 하준이 가끔 안고서 놀이터 안에서 걸으면 형아들이 놀이기구를 타는 모습을 바라봅니다. \n\n오늘은 구멍 난 백업을 가지고 놀이하였습니다. 끈으로 묶은 백업을 손으로 당기기도 하고 친구가 만들어 놓은 목걸이를 목에 걸어 보기도 하였습니다.  하준이 매트 위에 올려진 끈을 선생님 도움 없이 손으로 잡고 놀이를 하는 모습을 볼 수 있었습니다. \n\n 선생님이 바람 넣은 풍선을 잡으며 소리를 내니 그 소리에 까르륵~~  하준이가 만지며 내는 소리에도 웃으며 풍선놀이를 즐겼답니다. \n\n11시 30분에 분유를 70ml 한꺼번에 다 먹고 트림을 시원하게 합니다. \n11시 45분에 잠이 들어 12시 30분에 일어나며 45분 정도 잤습니다. \n\n하준이 기분이 좋은지 오늘 계속 웃었답니다. \n그리고 또래 물통을 잡으려고 앞으로 조금 이동하였답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/vnEPA/btsG5UrKMvo/1H1tKdIeUGwbEQL8yKSV5k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ixt96/btsG7nGOoto/jCO0kwJpV94IVfbxgrNU80/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/vnEPA/btsG5UrKMvo/1H1tKdIeUGwbEQL8yKSV5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ixt96/btsG7nGOoto/jCO0kwJpV94IVfbxgrNU80/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0036_2024-05-02_1041053434_01.jpg",
@@ -583,7 +583,7 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~어머님~\n우리 하준이 등원한 첫날인데 어떻게 보냈는지 궁금하셨죠? 하준이 낯선 환경이라 울음을 보였는데 금세 그치고 할머니 품에서 내려와 보육실 놀잇감들을 탐색하더라고요. 쌓기 영역에서 또래가 놀이하고 있던 와플 블록에 관심 보이며 끼워져 있던 블록을 빼며 놀이하는 모습이었습니다. 내일은 개별로 적응하는 시간으로 10시 30분까지 등원해 주세요.\n\n하준이 보내드린 생록기록부 및 동의서는 내일까지 보내주시고 기타 추가서류는 준비되는 데로 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cvnBnH/btsJW5WXoSF/eGqbbp2Lk2ATJrkESKKhh0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cvnBnH/btsJW5WXoSF/eGqbbp2Lk2ATJrkESKKhh0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0058_2024-10-07_1112632161_01.jpg"
@@ -597,8 +597,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 할머니와 거리를 두고 자유롭게 교실을 탐색하도록 하니 쌓기 영역에서 레고블록을 입으로 탐색하기도 하고 도토리 마라카스를 흔들며 걷기도 하였어요. 등원할 때 유희실에 있는 흔들 말에 관심을 보여 유희실도 나가보았는데 2층으로 올라가는 계단과 미끄럼틀 계단에 관심 보이며 기어올라가는 모습이었고 내려올 땐 선생님과 할머니 도움받아 뒤로 내려오는 연습도 해보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/btFBxI/btsJYXlxvZ6/V1GpIUEXv5rFeBBSYpikE0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/m4W03/btsJ04wgPeS/Ph3tiXCNAlNT8baKc5OKr0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/btFBxI/btsJYXlxvZ6/V1GpIUEXv5rFeBBSYpikE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/m4W03/btsJ04wgPeS/Ph3tiXCNAlNT8baKc5OKr0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0059_2024-10-10_1114147015_01.jpg",
@@ -613,8 +613,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~우리 하준이 할머니와 헤어지고 울음을 보였으나 금세 그치고\n선생님이 제공해준 와플블록을 탐색하다 끼워보려 하기도 하고 휙~뒤로 던지기도 하는 모습이었어요. 선생님과 물통 바구니에서 하준이 물통을 찾아보고 자리에 앉아 물도 마셔보았습니다.\n\n하준이 보육실과 친구들이 조금은 익숙한 듯 자유롭게 탐색하고 친구들 옆에 앉아 잘 놀이하였습니다. 가정에서도 칭찬 많이 해주세요^^\n\n월요일에는 친할머니와 등원한다고 들었습니다. 즐거운 주말 보내시고  월요일에 만나겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/FjlvP/btsJ05pZtJo/XK8finCIj6PotEeEeR1DlK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NzvHd/btsJ11tyCBG/eWbtljBRUButwEoyDkiQg1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/FjlvP/btsJ05pZtJo/XK8finCIj6PotEeEeR1DlK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NzvHd/btsJ11tyCBG/eWbtljBRUButwEoyDkiQg1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0060_2024-10-11_1114869824_01.jpg",
@@ -639,9 +639,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요~~ 오늘 할머니께서 졸려할 거라고 말씀하셔서 많이 울거라 생각했는데 예상과 달리 너무  씩씩하게 잘 놀이하였어요^^  치카치카 사운드북에 관심 보이며 동물들에게 치카도 해주었고 우유팩에 가을열매를 하나씩 담아보기도 하였어요. 놀이 중 시원하게 응가도 하여 기저귀 매트에 눕혀주었는데 기저귀 갈이 할 때까지 잘 누워 있더라고요.~~♡\n\n내일까지 선생님과 2시간 적응시간을 갖고 목요일부터 점심 후 하원예정이니 턱받이와 수저세트, 칫솔 준비해 주시고\n키즈콜 카드 도착하여 가방 앞주머니에 넣어놓았습니다. 확인해 주세요~~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/c4KtTJ/btsJ5wHAZBN/9JdBK4hWfPn2g49hMCvkm0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/sDgGz/btsJ6ZhB3iz/ZaaAKNbCYaNC4QjmQfIKdk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Slute/btsJ7fEvwuz/DgYMgFw2gkZhaTSlipZKvK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/c4KtTJ/btsJ5wHAZBN/9JdBK4hWfPn2g49hMCvkm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sDgGz/btsJ6ZhB3iz/ZaaAKNbCYaNC4QjmQfIKdk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Slute/btsJ7fEvwuz/DgYMgFw2gkZhaTSlipZKvK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0062_2024-10-15_1116477814_01.jpg",
@@ -657,10 +657,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~하준이 할머니와 헤어져 보육실로 들어올 때까지만 잠깐 울음을 보이고  바닥에 붙여있는 낙엽길에 관심 보이며 나뭇잎을 손가락으로 가리키기도 하고 그 위를 기어가 보기도 하였어요.  낙엽이 담긴 매트 안에 들어가 선생님이 매트를 흔들어 주니 씨잌 웃음도 보였답니다.\n\n내일은 점심 식사 후 하원으로 9시 30분~12시 20분까지입니다.\n준비물 챙겨서 보내주세요~~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/C8itK/btsJ7hcfv8E/6fAizBpzrTEcaPGJFTLJvK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/blscHU/btsJ7SiJFF2/jYcXR3wBKMwKxPVuK1LaFk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bxO9f9/btsJ6ktYRw1/djzkqL7P3JCblT0ZVYDi80/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/DFZNT/btsJ6GcyNVY/00gJJet8fmWvaTasvl0W0K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/C8itK/btsJ7hcfv8E/6fAizBpzrTEcaPGJFTLJvK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/blscHU/btsJ7SiJFF2/jYcXR3wBKMwKxPVuK1LaFk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bxO9f9/btsJ6ktYRw1/djzkqL7P3JCblT0ZVYDi80/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DFZNT/btsJ6GcyNVY/00gJJet8fmWvaTasvl0W0K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0063_2024-10-16_1117206330_01.jpg",
@@ -677,11 +677,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~~ 오늘 하준이 등원할 때 인사해 주며 팔을 뻗었더니 울지 않고 팔 벌려 안겼어요!♡♡\n하준이가 교실로 들어와 제일 먼저 찾는 놀잇감은 와플 블록이에요. 끼워져 있는 블록을 빼서 던지기도 하고 낙엽길 위에서 밀고 다니기도 하더라고요. \n\n점심시간에 범보의자 없이 앉혀보았는데 2~3분 정도 잘 앉아있다가 몸을 많이 움직여 당분간 의자를 사용해야 할 것 같아요. 이유식은 두 숟가락 남겨두고 식판을 손으로 밀더니 고개를 저으며 더 이상 먹지 않았고 식후에 하품을 하여 \"하준이 졸리는구나~\"하니 콧소리도 내더라고요. ㅎ\n\n양치시간엔 칫솔을 쥐어주고 기다려보니 친구들 양치하는 모습에 관심 보이며  칫솔을 입에 넣고 손을 움직이는 모습이었습니다. \n\n일과 중 자리에 앉아 얼굴에 힘주고 응가도 시원하게 했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/e38O0/btsJ87UGeTc/LS8kZLmJKaSETZAT9WgCK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/IFmVY/btsJ9LDCYyk/BvpX9LDC2SZkITGTCZ0glk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bnwpz4/btsJ9LwRNiE/X6JDkOt4mU9b66B2kzlKrk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/AYqS2/btsKabB4tiW/HCpuNHnBMBeKIUNo9HqLRK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tfGsE/btsJ9rSW9iS/1toILK39rbGtQatoBj17h0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/e38O0/btsJ87UGeTc/LS8kZLmJKaSETZAT9WgCK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IFmVY/btsJ9LDCYyk/BvpX9LDC2SZkITGTCZ0glk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bnwpz4/btsJ9LwRNiE/X6JDkOt4mU9b66B2kzlKrk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/AYqS2/btsKabB4tiW/HCpuNHnBMBeKIUNo9HqLRK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tfGsE/btsJ9rSW9iS/1toILK39rbGtQatoBj17h0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0064_2024-10-17_1117917751_01.jpg",
@@ -699,11 +699,11 @@ const reportsData =[
     "weather": "rain",
     "content": "안녕하세요~~ 우리 하준이 오늘도 선생님 품에 쏙 안겨 들어왔답니다~♡\n햇살반 친구 생일잔치가  있어 선생님과 2층으로 올라가 보았어요. 낯선 환경에 놀라기도 했는지 선생님 품에 안기더라고요.\n교실로 돌아와 소리 나는 북에 관심 보이며 두드려보기도 하고 신체영역이 있는 교실과 유희실을 탐색해 보기도 하였습니다.\n씩씩하게 잘 적응하고 있는 하준이 칭찬 많이 해주시고 다음 주 월요일까지 점심 후 하원이고 화요일부터는 낮잠 후 하원입니다.  낮잠이불 준비해 주세요~\n\n 23일(수) 요일엔 오감활동이 있습니다.\n미술가운 또는 앞치마 챙겨주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/AdiQN/btsJ9Mqz9I5/ndRryjZWUslnxfnzHpCs1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YIfVX/btsKabRbxX7/dvhe7w3VgdZmc8AVSEXKM0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/TgPpz/btsKabX0I0B/QTyKnNqjuOVffX8O6W5k7K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/TDlIW/btsKbmjFw5g/SRlKP7nWJg2yoIB9KiO510/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/biRwkD/btsJ9LkWlNv/KpeCyGM0LjwkkI9LHPqHoK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/AdiQN/btsJ9Mqz9I5/ndRryjZWUslnxfnzHpCs1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YIfVX/btsKabRbxX7/dvhe7w3VgdZmc8AVSEXKM0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/TgPpz/btsKabX0I0B/QTyKnNqjuOVffX8O6W5k7K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/TDlIW/btsKbmjFw5g/SRlKP7nWJg2yoIB9KiO510/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/biRwkD/btsJ9LkWlNv/KpeCyGM0LjwkkI9LHPqHoK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0065_2024-10-18_1118686553_01.jpg",
@@ -721,9 +721,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요~하준이 등원길에 기저귀에서 쉬가 새었다고 말씀하셔서  확인해 보니 민소매까지 젖어 있어 민소매 없이 바지만 교체 후 놀이하였어요. \n\n오늘은 에어캡을 탐색하고 소리도 들어보았어요. 올록볼록 에어캡길 위에서 친구들이 올라가 놀이하니  친구들을 향해 기어가 그 위에  앉아 손가락으로 눌러보는 하준이~ 눌러도 소리가 나지 않으니 선생님 얼굴을 한번 쳐다봐요. ㅎ 선생님이 손가락으로 에어캡을 톡톡 터트려주니 선생님 얼굴도 봤다 다시 한번 에어캡을 눌러보는 모습이었습니다.\n\n점심때 졸렸는지 하품 하면서도 보내주신 이유식 다 먹었습니다.\n\n내일은 낮잠 후 하원입니다. 9시 30분~3시까지로 하준이 낮잠 전후로 울음을 보이면 연락 드겠습니다.\n기저귀 4개 정도 챙겨주시고 날씨가 추워져 도톰한 이불로 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/l1KCt/btsKdSbJePL/qlBcK5a2NVxFN6CSzxLqNK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bhGA3G/btsKcRx2SS7/jvu2agkB8KMw5NSjhqvW0K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xp5Hj/btsKeds95cp/uvy1XDQsmEnzmxMAlaejKK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/l1KCt/btsKdSbJePL/qlBcK5a2NVxFN6CSzxLqNK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhGA3G/btsKcRx2SS7/jvu2agkB8KMw5NSjhqvW0K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xp5Hj/btsKeds95cp/uvy1XDQsmEnzmxMAlaejKK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0066_2024-10-21_1119556971_01.jpg",
@@ -739,10 +739,10 @@ const reportsData =[
     "weather": "rain",
     "content": "안녕하세요~오늘은  선생님과 손가락 색연필로 에어캡길위를 끼적이며 소리도 들어보고 유희실 바닥에 붙어 있는 가을열매를 탐색하며 원장님과 걸어보기도 하였어요.  귀여운 하준이 놀이 중 소리 내 웃기도 하며 안정적으로 적응 중인 모습입니다.\n\n이유식 다 먹었고 혹시 오감놀이에 필요한 앞치마가 준비되었으면 내일 보내주시고 안되었으면 놀이 후 여벌옷으로 갈아입히겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/vV5GT/btsKfw0xyoj/lmkGwlbigEd2Jy2CPeenFK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cKIXkc/btsKdyeR3Lt/pG0YeikBbPXWPRvT7KXdsK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/1rSoQ/btsKeLRBqPS/KWZzQX5mkkpwr6KYOITfA1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/VDVxi/btsKeqNXR1U/akrWWSzh6VHGP4Hymfo1W0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/vV5GT/btsKfw0xyoj/lmkGwlbigEd2Jy2CPeenFK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cKIXkc/btsKdyeR3Lt/pG0YeikBbPXWPRvT7KXdsK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/1rSoQ/btsKeLRBqPS/KWZzQX5mkkpwr6KYOITfA1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/VDVxi/btsKeqNXR1U/akrWWSzh6VHGP4Hymfo1W0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0067_2024-10-22_1120300147_01.jpg",
@@ -759,11 +759,11 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~오늘은 오감활동으로 미역놀이가 있었어요. 잘게 잘린 마른미역을 하준이 앞에 놓아 주니 쳐다보고만 있고 만져 보지는 않아 선생님 손바닥 위에 올려주고야 조금씩 만져보더라고요. 더 많은 양의 미역을 큰 볼 안에 넣어 다시 제공해 주니 그제야 엉덩이 들고 볼 안에 손을 넣고 탐색해 보는 하준이에요. 미지근한 물이 들어있는 지퍼팩 안에 마른미역을 넣어 점점 커지는 미역을 관찰하고 불려놓은 미역으로 내 얼굴사진 머리 위에  올려 머리카락도 표현해 보았습니다. \n\n우리 하준이 우주복도 잘 입고 활동이 마무리될 때까지 잘 놀이하는 모습이었습니다. 보육실 실내온도가 낮지 않아 오늘 입고 온 실내복 두께가 좋을 것 같습니다. 좀 더 날씨가 추워지만 다시 말씀드릴게요.\n\n이유식 다 먹고 시원하게 응가도 했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bOYRqR/btsKgezczUx/ntR24jyGVfKGzevy3fXXw1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dhvGjy/btsKfbQ2UoB/Wg1yK5zHExP8aqkzG3UzmK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/WAhO6/btsKgAvg9Ho/8lnHz8AXg2mGIY0uiaEGuk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bJSAYp/btsKgNA9TK7/wVE9BeSGvL84RVFt64fLfK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/GarBV/btsKf78cPLp/tE9kR9hUc9uAsKdIcZLyXK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bOYRqR/btsKgezczUx/ntR24jyGVfKGzevy3fXXw1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dhvGjy/btsKfbQ2UoB/Wg1yK5zHExP8aqkzG3UzmK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/WAhO6/btsKgAvg9Ho/8lnHz8AXg2mGIY0uiaEGuk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bJSAYp/btsKgNA9TK7/wVE9BeSGvL84RVFt64fLfK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GarBV/btsKf78cPLp/tE9kR9hUc9uAsKdIcZLyXK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0068_2024-10-23_1121013025_01.jpg",
@@ -781,10 +781,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~~ 오늘은 하준이와 처음으로 바깥놀이를 나가보았어요. 유모차에  앉아\n붉게 물든 나뭇잎도 관찰하고 깩깩 소리 내는 까치도 찾아보며 신이 난  하준이~ 친구가 건네주는 나뭇잎을 잡으며 씨잌 웃기도 하는 모습이에요~^^\n\n이유식 다 먹었고 하준이 일과 중 대변 두 번 봤는데 식후에 본 대변은 조금 묽어 보여 보내 주인 세정제로 씻겨주었습니다. 가정에서 살펴봐주세요.\n\n하준이 이부자리에 누워 아직은 낯설어  뒤척이는 모습 보였는데 토닥여주고 10분 후 잠들었습니다.\n\n앞으로 날씨와 친구들의 건강상태를 고려해 특이사항이 없는 이상 바깥놀이를 나갈 예정입니다. 신발 보내주세요~\n\n보내드린 부모상담안내문 확인하시어 28(월)까지 작성해 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bqGlft/btsKhPTQu1m/f98C20VPZFJnngKJLMBL31/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dTz1Dq/btsKhQkTrbG/UVFuCIv6QbuOgmqE6fr4M1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAr1W5/btsKg27EP0h/RjkrbSqSBXPOYhdopNokt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/TiBVa/btsKizbC7UJ/mO7dLeR5JykzQfAtrHSwE1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bqGlft/btsKhPTQu1m/f98C20VPZFJnngKJLMBL31/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dTz1Dq/btsKhQkTrbG/UVFuCIv6QbuOgmqE6fr4M1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAr1W5/btsKg27EP0h/RjkrbSqSBXPOYhdopNokt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/TiBVa/btsKizbC7UJ/mO7dLeR5JykzQfAtrHSwE1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0069_2024-10-24_1121726150_01.jpg",
@@ -801,10 +801,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~오늘은 선생님과 소리 나는 놀잇감을 찾아 사운드북에 버튼도 눌러보고 에코마이크로 노래를 불러주니 관심을 보이며 마이크를 향해 팔을 뻗는 모습이었어요.\n\n바깥놀이를 나가기 위해 유모차에 탑승하자마자 신난 하준이~~~ 배드민턴장에 도착해 가을 날씨를 느끼보며 다양한 장소를 다니며 자연물을 탐색하는 모습이었습니다.^^\n\n이유식 다 먹었고 하준이 배변상태는 약간 묽었지만 마지막 관찰된 것보다 좋아 보였습니다.\n\n하준이 28일(월)부터는 정상 등하원입니다. 식단표 확인하시고 혹시 섭취가 어려운 오전, 오후간식이 있으면\n대체간식을 보내주시기 바랍니다.\n\n*11/4(월)~ 11/8(금) 은 햇살 3반 교사의 연차입니다.  보조교사 및 대체선생님께서 햇살 3반에서 함께 해주시며 알림장과 사진은 발송되지 않는 점, 투약의뢰서만 확인되는 점 양해 부탁드립니다. 등하원은 햇살 1반&2반 선생님께서 도와주실 예정입니다.\n개별적 전달사항은 전화 또는 등원을 맞이해 주시는 선생님께 전달 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Qiwje/btsKiuDur3U/pmlXtI5SfpZpYkmLlGidUK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bHbYd9/btsKiW0yjIU/wTqKaUdqcOFlT5NKqjISv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ccAqcv/btsKjXEb92q/1MSrf9qsga0CPIUqsfYIi1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bCeXf7/btsKi27gWTh/AjIH6VUphBmqfx0Kccq4V0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Qiwje/btsKiuDur3U/pmlXtI5SfpZpYkmLlGidUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bHbYd9/btsKiW0yjIU/wTqKaUdqcOFlT5NKqjISv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ccAqcv/btsKjXEb92q/1MSrf9qsga0CPIUqsfYIi1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bCeXf7/btsKi27gWTh/AjIH6VUphBmqfx0Kccq4V0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0070_2024-10-25_1122479558_01.jpg",
@@ -821,9 +821,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요~\n오늘은 '꼭꼭 숨어라'동요 불러주며 하준이 머리 위에 씌워주었다가 \"하준이 어디 있나~\"하니 손으로 보자기를 당기며 씨잌 웃음을 보여요. 유모차에 태워 이동 중 발을 비비적거리더니 신발을 벗어버렸고 다시 신겨주어도 벗는 모습을 보여 신발 벗은 채 산책하였습니다.\n\n하준이 9시 30분 이후에 등원하여 오전간식을 먹지 못했습니다. 30분 이전에 등원하면 오전간식 제공해 보겠습니다.\n\n이유식 다 먹었고 오늘은 낮잠 30~40 분자고 일어났어요. 울지 않아 정상보육하였습니다.\n\n하준이 기저귀 닿는 부위가 빨 개 보여 비판텐 발라주었어요. 가정에서 살펴봐주세요.\n\n보내드린 부모상담안내문 내일까지 회신 부탁드립니다.\n\n*내일 (10월 29일 화요일)은 소방대피훈련이 있습니다. 여벌 양말 보내주세요.\n\n어머님~요청해 주신 부분은 1대 3 보육이 이루어지고 있고 어린이집의  운영정책 및 모든 원아의 균형 있는 보육을 위해 다소 어려움이 있는 점 양해부탁 드립니다. 하준이의 개별성을 위해 가능한 범위 내에서는 최대한 반영하고자 노력하겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/CHUmk/btsKmmjydEM/FOlt8mU77xO3lfKHJLbmK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/toDxu/btsKk0oxfic/YUWj7iWzu1wlGyVgUKEQPk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dATNan/btsKk1ASyyc/7vCVKEmYkaLwjtCSKipH0k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/CHUmk/btsKmmjydEM/FOlt8mU77xO3lfKHJLbmK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/toDxu/btsKk0oxfic/YUWj7iWzu1wlGyVgUKEQPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dATNan/btsKk1ASyyc/7vCVKEmYkaLwjtCSKipH0k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0071_2024-10-28_1123352855_01.jpg",
@@ -839,8 +839,8 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "안녕하세요~\n보육실에 들어와 '하준이 왔네~ 안녕~ 인사해 줄까?'라고 하니, 가람이가 다가와 손을 흔들어 주며 주방 놀잇감을 건네주었으나, 하준이는 큰 관심을 보이지 않고 다른 곳으로 향했습니다. ^^ 이후 쌓기 영역에 더 관심을 보여 선생님과 함께 블록을 하나씩 쌓아 보았고, 가람이가 블록을 건드려 무너뜨리자 소리 내어 웃는 모습을 보였습니다.\n\n이유식도 남기지 않고 다 먹고 시원하게 응가도 했습니다.\n\n라라스 착용하고 토닥여 주니 호기심이 많은 하준이 두리번거리다 스스로 빠져나왔어요. 엎드린 자세가 편한지 한참 그 자세로 있다가 토닥여 주었더니 잠들었습니다. 혹시 라라스 착용을 원하시면 언제든 말씀해 주세요~\n\n하준이 오후 간식 바나나 양이 적어 보여 떡뻥 3개 정도 더 주었는데 다 먹고도 친구들 간식에 관심 보이는 모습이었습니다.\n\n오늘 우천으로 인해 예정된 소방대피훈련이 취소되었습니다. 보내주신 여벌양말은 옷주머니에 보관하고 내일 사용하겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bdeMru/btsKnivaBfu/MOPEDBGdf4y4BKZeBp7vB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cpkH8W/btsKofR5BrE/x60GIMKZEGZLpQ77Mliop1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bdeMru/btsKnivaBfu/MOPEDBGdf4y4BKZeBp7vB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cpkH8W/btsKofR5BrE/x60GIMKZEGZLpQ77Mliop1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0072_2024-10-29_1124076891_01.jpg",
@@ -855,10 +855,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~ 오늘 하준이는 유모차 타고 산책하며 소리 내어 웃고 노랗게 물든 나뭇잎을 바라보며 손을 뻗어 만져보기도 하였어요. 친구가 모양 끼우기 놀잇감을 큰 소리 나게 누르니 소리에 반응하며 다가와 하준이도 모양을 잡고 이리저리 끼워보려 하여 선생님과 함께 맞춰보았답니다.\n\n오늘은 소방대피가 있는 날이었어요. 사이렌 소리가 컸음에도 크게 놀라지 않고 선생님손 잡고 대피해 보았습니다.\n\n이유식도 잘  먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/0RrDi/btsKpsxiZS6/zWxVfXvvTPq426mvUwaN40/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pstUc/btsKoo3HRGm/WTwZGyiirKJkZRPxSm3LS0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/csNVGH/btsKodg6P4x/zhvx8PfVqhqy7v93cKR9Dk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/lGfTv/btsKp3Rmdgb/WmTXOcY7H1e75FUpJ2YYeK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/0RrDi/btsKpsxiZS6/zWxVfXvvTPq426mvUwaN40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pstUc/btsKoo3HRGm/WTwZGyiirKJkZRPxSm3LS0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/csNVGH/btsKodg6P4x/zhvx8PfVqhqy7v93cKR9Dk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lGfTv/btsKp3Rmdgb/WmTXOcY7H1e75FUpJ2YYeK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0073_2024-10-30_1124805393_01.jpg",
@@ -875,8 +875,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~하준이 보육실에 들어와 다양한 영역을 탐색하느라 바쁘게 움직이는 모습이었어요. 동물 까꿍판을 열어보며 하준이 사진도 찾아보고 친구들 사진을 보며 이름을 하나씩 말해주니 집중해서 잘 듣는 모습이었습니다. 활동 반경이 넓고 걸음이 아직 불안정해 혹시 부딪치지 않을까 걱정도 되지만 하준이의 호기심과 탐구심을 지켜보며 안전하게 지원하겠습니다~ \n\n놀이 중 응가도 시원하게 하고 이유식 다 먹었습니다.\n \n* 부모상담일정 안내드립니다.\n11월 15일(금) 17시 20분입니다.\n1번으로 호출해 주시고 상담이 어려운 경우 변경이 가능하오니 알림장을 통해 알려주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ctblOF/btsKpuJ28UZ/ksP4qxODazdeI2oRLIJdh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cD9r2z/btsKpRZmQMq/LIkTPMJtWik2vejQl3SMyk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ctblOF/btsKpuJ28UZ/ksP4qxODazdeI2oRLIJdh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cD9r2z/btsKpRZmQMq/LIkTPMJtWik2vejQl3SMyk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0074_2024-10-31_1125532370_01.jpg",
@@ -891,9 +891,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요~\n오늘 하준이가 등원하자 지안이와 예온이가 다가와 인사하니 하준이도 눈을 맞추며 손을 들어 친구얼굴을 만져주었어요. 그 모습이 너무 귀여워 사진을 찍으려 했는데 그 순간 고개를 돌리더라고요. ㅎ\n\n'궁금미 상자'에 무엇이 들어있는지 호기심을 보이며 손을 넣어 하나씩 스카프를 꺼내더니 다 꺼내고 나서는 구멍 안을 들여다보며 관찰하는 모습도 보여주었습니다.\n\n*다음 주 수요일(11/6) 아빠의 날 오감활동이 있습니다.\n준비물(앞치마 또는 미술가운)을 화요일까지 보내주세요.\n\n*11/4(월)~ 11/8(금) 은 햇살 3반 교사의 연차입니다.  보조교사 및 대체선생님께서 햇살 3반에서 함께 해주시며 알림장과 사진은 발송되지 않는 점, 투약의뢰서만 확인되는 점 양해 부탁드립니다. 등하원은 햇살 1반&2반 선생님께서 도와주실 예정입니다.\n개별적 전달사항은 전화 또는 등원을 맞이해 주시는 선생님께 전달 부탁드립니다.\n\n다음 주부터는 기온이 더 내려간다고 합니다. 하준이 도톰한 이불로 교체해 주시면 좋을 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cpjxVB/btsKsAvt6hC/MEWtxpi3DjUJPqZG5Rv0BK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bf4FXF/btsKsnb3YgT/ixF6BnbVkf3aYeUKEzC0A0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hiXnN/btsKretEFWq/pXQN8hl64Zw8wLCNlK8B2k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cpjxVB/btsKsAvt6hC/MEWtxpi3DjUJPqZG5Rv0BK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bf4FXF/btsKsnb3YgT/ixF6BnbVkf3aYeUKEzC0A0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hiXnN/btsKretEFWq/pXQN8hl64Zw8wLCNlK8B2k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0075_2024-11-01_1126302608_01.jpg",
@@ -919,9 +919,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n\n선생님 손을 잡고 교실로 들어오면서 힐끔힐끔 선생님을 쳐다보는 하준이~\n안 본 사이에 더 귀여워진 모습이네요! 포근한 날씨 덕에 바깥놀이를 준비하면서 조끼를 입혀주었는데 빨리 나가고 싶었는지 엉덩이를 들썩이며 소리 내는 모습이 보였고 배드민턴장으로 이동해 자유롭게 탐색하며 낙엽을 찾아보고 직접 주워보는 모습도 보여주었어요.\n\n어머님~하준이 졸려하지 않고 놀이 시간에 잘 참여하였어요. 식사 시간에 하품을 하며 졸려하는 모습을 보였지만 이유식을 끝까지 다 먹었고 식사 후 바로 대변도 보았습니다.\n\n11월 5일 결석으로인한 가정학습신청서 보내드립니다.작성 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/JN1mM/btsKDfZMf8X/wleDRFnyioAyNtnlrkjIt0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vEwVv/btsKEsRlPj5/jhMYk4ko8Er3rtOB8OUwzK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bhcbpa/btsKFcN3qiQ/2z8WMeBJHfA5QEnuz7PSCK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/JN1mM/btsKDfZMf8X/wleDRFnyioAyNtnlrkjIt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vEwVv/btsKEsRlPj5/jhMYk4ko8Er3rtOB8OUwzK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhcbpa/btsKFcN3qiQ/2z8WMeBJHfA5QEnuz7PSCK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0077_2024-11-11_1130969055_01.jpg",
@@ -937,8 +937,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~~ 하준이 모양 끼우기에 관심을 보이며 선생님의 도움을 받아 모양을 맞춰보았어요. 활동량이 많아 여러 영역을 자유롭게 탐색하며 놀이하였는데 자리에 앉아 집중하며 모양을 끼워보려 여러 번 시도하는 모습 보였습니다.\n\n일과 중 하준이의 상태를 지켜보았는데 땀이 나거나 더워하는 모습이 관찰되지 않아 민소매를 벗기지 않고 유지했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dxeXpD/btsKEWTb0LR/rmERaXA8fIUFpkPpkKk2c0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0povU/btsKF59p8mx/TDKx5YQp5S00VSOUq0m81K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dxeXpD/btsKEWTb0LR/rmERaXA8fIUFpkPpkKk2c0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0povU/btsKF59p8mx/TDKx5YQp5S00VSOUq0m81K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0078_2024-11-12_1131698174_01.jpg",
@@ -953,9 +953,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n하준이가 흥미를 보이는 쌓기영역에서 와플 블럭을 끼웠다 다시 빼며 씨익 웃어 보이더라고요. \n\n바깥놀이 나가 도토리를 주워보고 친구가 건네주는 도토리를 잡으려 손을 내미는 모습이  귀여웠답니다. 이동하려 유모차에 태우니 하늘을 보며 환하게 웃는 하준이의 모습이 너무 귀여워 순간포착해 사진으로 담아 보냈습니다~\n\n하준이가 이유식을 먹으며 꾸벅꾸벅 졸다가 2/3 정도 먹고는 더 이상 먹지 않더라고요. 졸려 보여 조금 일찍 재우려고 했는데 그새 잠이 달아나서 양치까지 마치고 일과 시간에 맞춰 잠들었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bcJm8g/btsKGLD7AiB/C51Lat5FmFgFK4YauvIBfK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/u6aUG/btsKHNOqRJY/eZhwxPAmDaAVClZ8IbHndK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/3EVqZ/btsKHcVrGst/LQaqrpqrgcn2h7000psImK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bcJm8g/btsKGLD7AiB/C51Lat5FmFgFK4YauvIBfK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/u6aUG/btsKHNOqRJY/eZhwxPAmDaAVClZ8IbHndK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/3EVqZ/btsKHcVrGst/LQaqrpqrgcn2h7000psImK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0079_2024-11-13_1132406966_01.jpg",
@@ -971,9 +971,9 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "안녕하세요~\n하준이가 주방놀이에 붙어 있는 가을 열매를 떼었다가 다시 붙이며 반복적으로 놀이하고 서랍을 열어 열매를 넣어보기도 했어요. 친구가 놀고 있는 끼적이기판에도 관심을 보이며 직접 쓰기판을 꺼내 펜을 들어 이리저리 움직여보는 모습도 보였답니다.\n\n*15일(금) 요일 5시 20분에 하준이 상담이 예정되어 있습니다.\n1번으로 호출 부탁드립니다.\n\n* 가을 작물 요리콘테스트가 18일 월요일까지 진행 됩니다. 요리 과정, 완성한 요리, 먹는 모습 등의 사진을 찍어 키즈노트에 올려주세요. 부모님들의 많은 참여 부탁 드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bzVN0B/btsKJypVO1L/LqbXbtv3Req09BlA5qNPzk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Yp3Um/btsKHNB7B8V/RXCU88JCv0OGWAgKVIKB9k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/biET2y/btsKJzoPrtK/gXUCF5dVZ4frDf1UeSvibK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bzVN0B/btsKJypVO1L/LqbXbtv3Req09BlA5qNPzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Yp3Um/btsKHNB7B8V/RXCU88JCv0OGWAgKVIKB9k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/biET2y/btsKJzoPrtK/gXUCF5dVZ4frDf1UeSvibK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0080_2024-11-14_1133126009_01.jpg",
@@ -989,10 +989,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n하준이는 비밀상자에 무엇이 있는지 손을 넣어 안의 물건을 꺼내보기보다는 옆에 있던 열매 사진을 상자에 넣는 모습을 보였어요. \n바깥놀이에서는 낙엽길을 걸으며 바스락거리는 소리를 들어보고 주운 낙엽을 의자 위에 붙인 테이프에 붙여보기도 했답니다. \n\n일과 중에 눈을 비비며 졸려하는 모습을 보였지만 놀이에 잘 참여하였고 체온도 정상 상태를 유지했습니다.\n\n아빠참여수업 안내문을 보내드립니다. 확인하시고 19일 화요일까지 회신 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bIsrfT/btsKJyydeWx/oegsMdcFnkG9YWU5N4ftQK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jMmSG/btsKIO2BVYY/ysgxdP8CVcuucptrZAVCl1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cthh7H/btsKKvHgOSf/JY5jnAOKVZIHvWTm7L0tj1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/AvBhC/btsKJxzkpWk/EcdlEREHUuDvn5L5942sR0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bIsrfT/btsKJyydeWx/oegsMdcFnkG9YWU5N4ftQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jMmSG/btsKIO2BVYY/ysgxdP8CVcuucptrZAVCl1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cthh7H/btsKKvHgOSf/JY5jnAOKVZIHvWTm7L0tj1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/AvBhC/btsKJxzkpWk/EcdlEREHUuDvn5L5942sR0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0081_2024-11-15_1133856672_01.jpg",
@@ -1009,9 +1009,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n하준이와 함께 즐거운 주말 보내셨나요?\n오늘은 햇살반 친구들과 다양한 크기의 상자를 활용한 놀이를 했답니다. 하준이는 상자에 관심을 보이며 만져보고 탐색하는 모습이었어요. 선생님이 상자를 세워 올려놓는 모습을 보여주니 모방하며 상자 위에 쌓아보기도 하고 팔을 휘저으며 무너뜨리며 즐거워하는 모습을 보였답니다.\n\n실내 대체 활동으로 상자 터널을 제공했는데, 하준이는 두어 번 엉금엉금 기어 들어갔다가 인상을 쓰며 뒤로 빠져나와 상자 앞에 서서 두드려보는 모습도 보여주었어요.\n\n하준이가 하품하며 졸려했지만 놀이에도 잘 참여하고 이유식도 끝까지 다 먹었답니다. 식사 후 평소보다 조금 묽은 변을 보았습니다.가정에서 한 번 더 살펴봐 주시길 부탁드려요.\n\n여벌바지 보내주세요~\n\n놀이중 하준이가 자리에서 일어나려고 하다가 중심을 잃고 바닥에 살짝 왼쪽 이마를 부딪쳤습니다. 그로 인해 잠깐 울음을 보였고, 확인해보니 눈썹 옆이 조금 빨갛게 되었습니다. 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/7Jpk7/btsKMJ6MDzj/fCRCVyzH1BmVTCebqlKyjk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dH1kN/btsKLiCrm2u/19YORKJ9W7oamLPSECThB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dlBNHs/btsKMY3JbBI/IKsEknDRwp8Mfa3EGUVbzK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/7Jpk7/btsKMJ6MDzj/fCRCVyzH1BmVTCebqlKyjk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dH1kN/btsKLiCrm2u/19YORKJ9W7oamLPSECThB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dlBNHs/btsKMY3JbBI/IKsEknDRwp8Mfa3EGUVbzK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0082_2024-11-18_1134727603_01.jpg",
@@ -1027,10 +1027,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요?\n오늘은 우유갑 블록을 이용해 즐겁게 놀이를 했어요.\n우유갑 블록을 건네주자 관심을 보이며 만져보고 탐색하는 모습을 보였답니다. 교사가 블록을 차곡차곡 쌓는 모습을 보여주니, 하준이도 따라서 쌓아보기도 하고 흔들어 보는 모습이었어요.\n\n기온이 영상으로 올라가 바깥놀이도 다녀왔습니다.\n바스락거리는 낙엽길을 걸어도 보고 산책 중 새 울음소리도 들어보았답니다.\n\n어머님~하준이 응가가 어제보다 더 묽었습니다.\n\n* 내일은 <공룡Day>로 공룡 테마놀이가 있습니다. 원활한 진행을 위해 10시 전까지 등원할 수 있도록 해주세요.\n\n<요리 콘테스트> 투표 안내\n투표가 20일 수요일 하루 동안 진행됩니다. 어린이집 현관 앞에 게시된 요리 사진 중 세 가지를 선택해 스티커를 붙여주세요!\n가장 많은 표를 획득한 세 가정에는 소정의 상품과 상장을 드립니다. 많은 관심과 참여 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/YiVoI/btsKNrFZzkE/pbwv0409PvWI0cn7Vn0T5k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/sVPGW/btsKOxE0jGE/zMkiiwfhYYF1leFVRUDCD1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vfVui/btsKNqUI9Fs/iZ3AQvKlFmKZguM3vyvkM1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbAUNS/btsKOlkv34Y/ciSvbiaadP6XiiqRv0tNi0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/YiVoI/btsKNrFZzkE/pbwv0409PvWI0cn7Vn0T5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sVPGW/btsKOxE0jGE/zMkiiwfhYYF1leFVRUDCD1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vfVui/btsKNqUI9Fs/iZ3AQvKlFmKZguM3vyvkM1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbAUNS/btsKOlkv34Y/ciSvbiaadP6XiiqRv0tNi0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0083_2024-11-19_1135429178_01.jpg",
@@ -1047,12 +1047,12 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요~\n오늘은 다양한 크기의 상자에 소근육을 조절하며 스티커를 붙이는 활동을 해보았어요. 하준이가 손가락을 움직여 스티커를 떼어보려 시도하는 모습이 귀여웠답니다. 선생님의 도움을 받아 스티커를 떼고, 끈끈한 부분을 손가락으로 느껴본 뒤 상자에 붙여보는 모습을 보였어요.\n\n공룡 Day 활동으로 선생님 손을 잡고 \"영차영차\" 2층으로 올라가 교실 문을 여는 순간, 공룡들을 보고  놀라 잠시 얼음이 된 하준이! 하지만 조금 익숙해지자 두리번거리며 자리에서 일어나 공룡 주변을 탐색하며 즐거운 시간을 보냈답니다.\n\n하준이가 오늘 이유식을 반 정도 먹고 나서는 졸려하는 모습을 보이며 소리를 내고 더는 먹으려 하지 않았어요. 컨디션을 살펴보고 일찍 낮잠을 재워보려 했는데 잠들지 못하고 평소와 같이 잠들었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/diaxYL/btsKOHV6P0V/skFca5NVjQdB3kXZPQ2JT1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bjvbhO/btsKPONwScT/PDQr6lKDF2rQDmCTLqisr0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QILyD/btsKQqZGTsq/g8bcisl82ZtcTn0pnjfOE0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bnFshb/btsKQbaCkVL/2cbkJ9oy83Fmpj7oafuA51/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/DBN6H/btsKPQ5FfaO/rOct6FBNdzUwoh0OLKlzck/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/be56tR/btsKObpUG5f/tyYRoZGcQFaHDXoHi46EX1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/diaxYL/btsKOHV6P0V/skFca5NVjQdB3kXZPQ2JT1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjvbhO/btsKPONwScT/PDQr6lKDF2rQDmCTLqisr0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QILyD/btsKQqZGTsq/g8bcisl82ZtcTn0pnjfOE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bnFshb/btsKQbaCkVL/2cbkJ9oy83Fmpj7oafuA51/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DBN6H/btsKPQ5FfaO/rOct6FBNdzUwoh0OLKlzck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/be56tR/btsKObpUG5f/tyYRoZGcQFaHDXoHi46EX1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0084_2024-11-20_1136146055_01.jpg",
@@ -1071,8 +1071,8 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 소근육을 조절하며 상자 구멍 속에 백업을 넣어보는 활동을 했어요. 백업을 잡고 쏙쏙 뽑아보다가 선생님의 시범을 보고는 스스로 구멍 안에 넣어보려 노력했답니다. 잘되지 않을 때는 선생님의 도움을 받아 넣어보고 삐죽 나온 백업 끝을 손가락으로 눌러 집중해 완전히 구멍 안에 넣는 모습이었어요.\n\n하준이가 이유식을 먹을 때 조금 졸려했지만 끝까지 다 먹었고 이후 묽은 변을 봐 옷에 묻어 갈아입혔습니다. 여벌옷을 챙겨 보내주세요~\n\n * <요리 콘테스트>에 많은 참여와 관심을 가져주셔서 감사합니다. 20일 투표 결과 <정하람>, <남강민>, <김지안> 가정의 요리가 뽑혔습니다. 참여 해주신 모든 학부모님께 감사드리며 3 가정의 상장 수여는 25일 월요일에 있을 예정입니다. (참가상은 25일 아이편에 보내드리겠습니다.)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/vJLWq/btsKRe6zhy3/CAjgI51FRY6DD2Rqsxlnp0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bPAbQc/btsKQHOIHSx/SdmwKDgsHelu0KCHamd4Gk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/vJLWq/btsKRe6zhy3/CAjgI51FRY6DD2Rqsxlnp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bPAbQc/btsKQHOIHSx/SdmwKDgsHelu0KCHamd4Gk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0085_2024-11-21_1136853649_01.jpg",
@@ -1087,10 +1087,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n하준이와 함께 신체활동으로 상자에 다양한 크기와 모양의 공을 넣어보는 시간을 가졌어요. 보육실 바닥에 있는 공들을 주워 상자 안에 쏙 넣고 다시 그 안에 있는 공을 꺼내보려 팔을 뻗는 하준이! 잘 안 잡히니 상자 안으로 몸을 넣으려는 모습이 귀여웠답니다.\n\n오늘 하준이는 숟가락을 사용해 두어 번 스스로 이유식을 떠먹으며 끝까지 잘 먹고 응가도 했는데 엉덩이에 묻을 정도로 묽어 보였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/YYyHD/btsKTpTTPHW/n266uHxiTsEpk9F10ioGX0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/PVYhK/btsKR8y5cdO/zJVtknsQtjTZ7YQs2GChy0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/diZW9Q/btsKS8kxZsm/hwqxi0vkxbXTlDuxaiZkhK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bf0XVl/btsKTBtIwwj/uRXZsbSZcukY3LBW9yVw3K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/YYyHD/btsKTpTTPHW/n266uHxiTsEpk9F10ioGX0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/PVYhK/btsKR8y5cdO/zJVtknsQtjTZ7YQs2GChy0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/diZW9Q/btsKS8kxZsm/hwqxi0vkxbXTlDuxaiZkhK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bf0XVl/btsKTBtIwwj/uRXZsbSZcukY3LBW9yVw3K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0086_2024-11-22_1137587296_01.jpg",
@@ -1107,10 +1107,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 뚜껑이 있는 통을 탐색하며 놀이하는 시간을 가졌어요. 통 안에 놀잇감을 넣어보고, 선생님과 함께 뚜껑을 닫고 열어보며 흥미를 보이다 스스로 열어보려 하는 모습이 귀여웠답니다.\n놀잇감이 들어있는 통을 흔들어보던 하준이가 소리가 나지 않자 다른 놀잇감을 넣어보는 모습도 보여주었어요.\n\n*27일(수) 요일에 오감놀이가 있습니다.\n미술가운 또는 앞치마를 내일까지 보내주세요~\n\n* 오늘 <요리콘테스트> 시상이 있었습니다. 참가 한 가정에는 '참가상'을, 콘테스트에 뽑힌 3가정엔 '상장&쿠폰'을 드렸습니다. 참여해주셔서 감사합니다. 추후에도 행사 시 많은 참여 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/SI0aW/btsKUgYFWq5/lkRitOx6K8eKWFbNz90SUK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bYIK1Y/btsKVzbJQqS/YkMVh372hWEHZpYgfwJ9e0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/simAH/btsKVrSYlat/OSog2FdyJjW7m8aj5LfPi1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bHICYo/btsKUHvbkEp/rhXDBWntpEKyyupyM5P62K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/SI0aW/btsKUgYFWq5/lkRitOx6K8eKWFbNz90SUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bYIK1Y/btsKVzbJQqS/YkMVh372hWEHZpYgfwJ9e0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/simAH/btsKVrSYlat/OSog2FdyJjW7m8aj5LfPi1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bHICYo/btsKUHvbkEp/rhXDBWntpEKyyupyM5P62K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0087_2024-11-25_1138453242_01.jpg",
@@ -1127,8 +1127,8 @@ const reportsData =[
     "weather": "rain",
     "content": "안녕하세요~\n오늘은 다양한 통과 볼풀공을 활용한 탐색 놀이로 하준이는 큰 통 안에 작은 통을 넣기도 하고 볼풀공을 넣었다 통을 쏟아붓기를 반복하며 놀이하는 모습을 보였습니다.\n\n하준이가 이유식을 먹는 중 친구 식판에 있는 반찬에 관심을 보이며 손을 뻗어 잡으려는 모습이 관찰되어 음식에 대한 호기심이 생기고 있어 보입니다.\n\n가정에서도 하준이의 반응을 관찰해 보시면서 부드럽고 잘게 조리된 후기 반찬들로 조금씩 시도해 보셔도 좋을 것 같습니다.\n\n\n*오늘 예정되었던 소방대피훈련이 우천으로 인하여 취소 및 변경되었습니다. 추후 일정은 알림장을 통해 안내드리겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dWHus/btsKXrdiSmL/ni8lb0rNSVucDxyFnQAeLk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bnnSZA/btsKWbo3tSW/YKUExnG82RQsWmEcPKrHb0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dWHus/btsKXrdiSmL/ni8lb0rNSVucDxyFnQAeLk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bnnSZA/btsKWbo3tSW/YKUExnG82RQsWmEcPKrHb0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0088_2024-11-26_1139155989_01.jpg",
@@ -1143,12 +1143,12 @@ const reportsData =[
     "weather": "snow",
     "content": "안녕하세요~\n오늘은 오감활동으로 무를 활용한 놀이를 해보았어요. 채 썬 무를 만져보며 촉감을 탐색해 보는 하준이~선생님의 도움을 받아 두꺼운 무를 똑똑 자르는 경험도 해보고 모양틀로 찍어 다양한 모양을 살펴도 보았어요. 마지막으로 물감을 사용해 전지에 무를 찍어 표현해 보았는데 손에 묻는 게 싫었는지 인상을 쓰는 모습도 보였지만 전반적으로 잘 참여하였습니다.\n\n점심 먹고 시원하게 대변도 보았습니다.\n\n신길 1동 주민센터에 가을 작물을 판매한 수익금을 신길더샵해늘어린이집 이름으로 기부하기 위해 형님반(하늘반)이 대표로 다녀왔습니다. 이웃과 따뜻한 마음을 나누는 소중한 시간을 경험한 해늘어린이집 친구들입니다. 협조해주셔서 감사합니다.\n\n단호박 나박김치는 형님반 친구들이 직접 만들어 주었어요. 가정에서 하준이와 함께 맛있게 드셔 보시길 바랍니다!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bNiuRL/btsKX4C6url/oEPyPtsSKpiJ5w62kylJN1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dfNhBw/btsKZbHZQVE/AQBOBdyjemhy2zGub602h1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbal4U/btsKXYwsOZA/2XkNdFKLeOZiD8QpJkE551/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bEsrCw/btsKYXXwR8S/5WBWSCZKjdgb7aqWxT2331/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/zdnKy/btsKWNibrH2/18QXjOj5S1phZfrxlVaRA0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bdXz7G/btsKZDLlaYh/gAKwQJpNNW5REIZXQwZV2k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bNiuRL/btsKX4C6url/oEPyPtsSKpiJ5w62kylJN1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dfNhBw/btsKZbHZQVE/AQBOBdyjemhy2zGub602h1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbal4U/btsKXYwsOZA/2XkNdFKLeOZiD8QpJkE551/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEsrCw/btsKYXXwR8S/5WBWSCZKjdgb7aqWxT2331/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zdnKy/btsKWNibrH2/18QXjOj5S1phZfrxlVaRA0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bdXz7G/btsKZDLlaYh/gAKwQJpNNW5REIZXQwZV2k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0089_2024-11-27_1139901351_01.jpg",
@@ -1167,9 +1167,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n눈이 많이 내린 오늘, 하준이와 친구들이 함께 눈을 탐색하며 즐거운 시간을 보냈어요. 하준이는 다양한 그릇에 담긴 눈을 흥미롭게 살펴보고 선생님이 만들어준 눈오리와 별을 보며 관심을 보였지만 직접 만지지는 않았어요. 대신 찍기 틀에 관심을 보이며 틀을 잡고 흔들어보는 모습이었습니다.\n\n요즘 하준이가 쓰기 판에 많은 관심을 보이고 있어요. 글씨를 지우는 버튼을 잡고 양끝을 왔다 갔다 하며 집중해서 놀이하는 모습을 보여주고 있습니다~\n\n밥먹으며 졸려했지만 끝까지 다먹고 응가도 했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dnJdfd/btsKZCNukwD/KOccpwcKkPKpDXkqsyKeW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bBiHpy/btsKZB8WPGY/RMYdl8zm09khTdhkUqpFP1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ceoYng/btsK0mJVit0/Zsb4NZoFGXvnofTVH746vk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dnJdfd/btsKZCNukwD/KOccpwcKkPKpDXkqsyKeW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bBiHpy/btsKZB8WPGY/RMYdl8zm09khTdhkUqpFP1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ceoYng/btsK0mJVit0/Zsb4NZoFGXvnofTVH746vk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0090_2024-11-28_1140682631_01.jpg",
@@ -1185,8 +1185,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 색지 위에 도트 물감을 찍어 겨울 눈을 표현하는 활동을 했어요. 하준이는 선생님의 도움을 받아 한 번 찍어본 뒤 자리에서 일어나 흥미를 느끼는 쌓기 영역으로 이동해 놀이를 이어갔어요.\n\n또한 신문지를 쭉쭉 찢어보며 소근육을 사용하는 놀이도 진행하였는데 하준이 앞에서 커다란 신문지를 쭈욱 찢는 모습을 보여주니 관심 보이며 손을 내밀어 끝부분이 찢어진 신문지를 선생님과 함께 잡고 찢어보는 활동도 하였습니다.\n\n어머님~하준이가 라라스 없이도 안정적으로 낮잠을 잘 자고 있어  없어도 될것 같습니다~\n\n* 12월 가정통신문 보내드립니다. 그리고 12월 24일(화)에는 우리 친구들이 기다리는 산타할아버지가 오신대요. 편지지와 분홍색 봉투를 보내드리니 편지지에는 우리 친구들에게 하고 싶은 말을, 분홍색 봉투에는 선물을 보내주세요. (가정통신문 확인 요함.)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/AwydM/btsK1ldKKwv/Ge2BZU59obK7Xyc3IVsPp1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ePKC4/btsK1nCBEdM/rYwEXT2jCNYzrqyxZe6Bkk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/AwydM/btsK1ldKKwv/Ge2BZU59obK7Xyc3IVsPp1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ePKC4/btsK1nCBEdM/rYwEXT2jCNYzrqyxZe6Bkk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0091_2024-11-29_1141397241_01.jpg",
@@ -1201,10 +1201,10 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "안녕하세요~\n하준이는 오늘 소프트 블록 놀이에 집중하며 끼워준 블록을 뺐다가 다시 끼우려고 노력하는 모습이었고 피아노 놀잇감의 버튼을 한 개씩 눌러 소리를 들어보며 흥미를 느끼는 모습도 보였어요.\n\n선생님 손을 잡고 천천히 걸어 곰돌이 놀이터에 도착한 하준이! 아직 남아 있는 눈을 밟아보며 새로운 감각을 탐색했어요. 손을 놓아주니 터널 속으로 들어갔다 다시 나오는 귀여운 모습으로 놀이를 즐겼답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/xxRzG/btsK3vUWwkg/WKZPU5K8sVbgT9nwlNim11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cEULvH/btsK3uV34TF/mkOA7JukR0GJqIKlRfSJsK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bePmgf/btsK3iBDurV/jBb5p4hVFDvX2jKQ9jtyMk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6oc5x/btsK3uaJ15d/ETyU7OkEADLau3Di8xlx6K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/xxRzG/btsK3vUWwkg/WKZPU5K8sVbgT9nwlNim11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cEULvH/btsK3uV34TF/mkOA7JukR0GJqIKlRfSJsK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bePmgf/btsK3iBDurV/jBb5p4hVFDvX2jKQ9jtyMk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6oc5x/btsK3uaJ15d/ETyU7OkEADLau3Di8xlx6K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0092_2024-12-02_1142290801_01.jpg",
@@ -1221,10 +1221,10 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 함께 악기 그림 위에 색연필로 끼적여보는 활동을 진행했어요.\n악기 그림이 있는 종이와 색연필에 관심을 보인 하준이는 선생님의 도움을 받아 끼적여보았고  직접 색연필을 잡고 쓰윽 그려보며 놀이에 참여했어요. 특히 색연필 자체에 더 큰 흥미를 보이며 즐겁게 탐색하는 모습이었습니다.\n\n2층 유희실에 올라가 벽교구장 공구놀이를 진행했는데 하준이는 구멍 속에 공구를 끼웠다 뺐다를 반복하며 흥미롭게 활동하는 모습을 보여주었답니다.\n\n* 12/4(수)에는 찾아가는 안전교육인형극 - 유괴예방 [아기공룡티노] 뮤지컬인형극 관람이 있습니다. 10시까지 늦지 않게 등원시켜주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/k2LVb/btsK6kEKsG2/TEBNnoYqcVKlakrEGX1P1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cZoA6S/btsK44JIdRO/tMgJ8vTCzmV6JaVinRLzHK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wFild/btsK5rdwJlc/jaApE5M7OuQ1SvKkv5nIAk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kk33q/btsK5uagSIE/9J5iIe2sGwA7CiI7GO3L8k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/k2LVb/btsK6kEKsG2/TEBNnoYqcVKlakrEGX1P1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cZoA6S/btsK44JIdRO/tMgJ8vTCzmV6JaVinRLzHK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wFild/btsK5rdwJlc/jaApE5M7OuQ1SvKkv5nIAk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kk33q/btsK5uagSIE/9J5iIe2sGwA7CiI7GO3L8k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0093_2024-12-03_1143017633_01.jpg",
@@ -1241,9 +1241,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~\n오늘은 안전교육 인형극 관람이 예정되어 있어 하준이와 함께 한 발 한 발 계단을 올라 하늘반으로 가보았어요. 하지만 낯선 환경과 인형들을 보는 순간 울음이 터져 아쉽게도 관람은 하지 못하고 내려왔답니다. 앞으로 남은 몇 달 동안 2층으로 올라가는 연습과 보육실 환경에 적응하는 시간을 더 가져야 할 것 같아요.\n\n또한, 다양한 악기들을 탐색하며 선생님과 함께 탬버린을 두드려보는 활동도 진행했어요. 하준이는 악기의 소리를 들으며 흥미를 느끼고 손으로 직접 링징글벨도 흔들고 북도 두드려보며 즐겁게 참여하는 모습이었답니다.\n\n*내일 (5일)은 지난11월 우천으로 인해 연기되었던 소방대피훈련이 있습니다. 여벌 양말 확인했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/boxh5k/btsK6MV3oxc/SiAA4nGtJSAFdoH9sqXX40/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/o2H1c/btsK47ABn50/kk3JTLEYCaXCTN9klnnKpk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/boexR6/btsK68q1xjS/fkej0oHYQMiuSuSyE8NMf1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/boxh5k/btsK6MV3oxc/SiAA4nGtJSAFdoH9sqXX40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/o2H1c/btsK47ABn50/kk3JTLEYCaXCTN9klnnKpk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/boexR6/btsK68q1xjS/fkej0oHYQMiuSuSyE8NMf1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0094_2024-12-04_1143722308_01.jpg",
@@ -1259,8 +1259,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 악기 그림이 붙어있는 블록을 활용해 활동해 보았어요. 하준이는 선생님과 함께 같은 색 블록을 찾아 악기 퍼즐을 맞춰보며 흥미로워하였어요.\n\n또한, 영차영차 힘차게 2층 계단을 올라가며 다리 힘도 길러보고 형님반에 들어가 형님들과 인사도 나누었답니다. 하준이가 선생님 손과 계단 손잡이를 잡고  잘 올라가는 모습이 대견했어요!\n\n오늘은 하준이 쪽쪽이 없이 재워보았는데, 찾지 않고 잘 자는 모습을 보여주었어요. 가정에서도 서서히 쪽쪽이 떼기를 시도해 보셔도 좋을 것 같습니다. 스틱밤도 수시로 발라주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dxAABh/btsK6g5zzqr/2kxOAcaydTYrrUNQ1oMoh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAfbyw/btsK8s4fPMQ/E98yR37gTuVo6QzLJ4DBnk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dxAABh/btsK6g5zzqr/2kxOAcaydTYrrUNQ1oMoh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAfbyw/btsK8s4fPMQ/E98yR37gTuVo6QzLJ4DBnk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0095_2024-12-05_1144437135_01.jpg",
@@ -1275,10 +1275,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 방울팔찌와 곡물 마라카스를 활용한 활동을 해보았어요. 방울 소리를 듣자마자 관심을 보이는 하준이! 선생님이 팔에 방울을 달아주자 팔을 흔들며 방울 소리를 들어보았고, 발목에 방울을 감아주니 걸어 다니며 소리를 탐색해 보는 모습이었어요. \n\n또한, 실내대체 놀이로 바다반에서 활동하며 다양한 놀잇감을 탐색하며 흥미롭게 놀이하는 모습이었어요.\n\n12월 11일 수요일에는 ‘아빠의 날’ 오감활동이 예정되어 있습니다. 준비물(앞치마 또는 여벌옷)을 12월 10일 화요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/svHIB/btsK8m5lJmr/wLyIlJtNUTpKnwkd6oU9e0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/oMpNY/btsK9zQbWlk/8reSEZy5YVnEhelhSbXsvK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ECUcB/btsK9f5v3Yn/5XxFXCRukavscdfoiNZGWk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hyR12/btsK8U1CvAf/eNwMIHwMlKTRDrSQmBgDvk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/svHIB/btsK8m5lJmr/wLyIlJtNUTpKnwkd6oU9e0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oMpNY/btsK9zQbWlk/8reSEZy5YVnEhelhSbXsvK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ECUcB/btsK9f5v3Yn/5XxFXCRukavscdfoiNZGWk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hyR12/btsK8U1CvAf/eNwMIHwMlKTRDrSQmBgDvk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0096_2024-12-06_1145168016_01.jpg",
@@ -1295,10 +1295,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n하준이와 즐거운 주말 보내셨나요?\n\n이번 주는 햇살반 친구들과 함께 '그릇으로 놀이해요'를 주제로 가정에서 쉽게 접할 수 있는 다양한 모양과 크기의 그릇들을 탐색하고 관련된 놀이를 진행할 예정입니다.\n\n오늘은 바구니에 담긴 여러 가지 그릇을 탐색하며 흥미를 보인 하준이는 그릇을 이리저리 돌려보며 양손에 잡고 맞대어 쳐보고 백업을 활용해 두드리며 소리를 탐색하며 즐겁게 놀이했답니다.\n\n요즘 하준이는 스스로 책을 꺼내 책장을 넘기며 그림을 관찰하는 모습을 자주 보여주고 있어요. 친구들이 선생님과 함께 책을 읽고 있을 때도 놀이 중 잠시 멈추고 다가와 호기심을 보이며 옆에 앉아 함께하는 모습이 참 귀엽답니다. 책에 대한 관심과 호기심이 점점 커지고 하준이에요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dCvIZN/btsLbZBkc2j/qPb1QB4Wg9xJ5YnDGY4OtK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Owf85/btsLbYvy6Tb/SI1lHTO8cerJ4h2a41mg1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ckhsbq/btsLbRYexoB/5F10EydIJLmxlW6ksKPZKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/q4PJG/btsLb1TSocc/PzA1FT3iw3kw1VcQcbZr8k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dCvIZN/btsLbZBkc2j/qPb1QB4Wg9xJ5YnDGY4OtK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Owf85/btsLbYvy6Tb/SI1lHTO8cerJ4h2a41mg1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckhsbq/btsLbRYexoB/5F10EydIJLmxlW6ksKPZKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/q4PJG/btsLb1TSocc/PzA1FT3iw3kw1VcQcbZr8k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0097_2024-12-09_1146052415_01.jpg",
@@ -1315,8 +1315,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 하준이가 쌓기 영역에서 블록에 관심을 보여 선생님과 함께 블록을 높이 쌓아보다 블록을 툭 건드려 무너뜨리며 즐거워하는 모습이었어요. 이후 블록을 자동차처럼 밀어보며 새로운 방식으로 놀이를 이어가는 모습도 보였습니다.\n\n또한 선생님의 손유희와 입모양을 집중해서 관찰하던 하준이는 \"똑딱똑딱\" 소리를 들으며 입을 쩝쩝하며 모방하는 모습이 정말 귀여웠답니다!\n\n하준이 칫솔 교체하려고 합니다.\n2개 보내주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cthecP/btsLcqUaiB9/7Td9DA41treDmKub2lERu0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/3r4m6/btsLcpA0G42/FJK19XxQkeAQ2iXkcw52s1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cthecP/btsLcqUaiB9/7Td9DA41treDmKub2lERu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/3r4m6/btsLcpA0G42/FJK19XxQkeAQ2iXkcw52s1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0098_2024-12-10_1146735082_01.jpg",
@@ -1331,10 +1331,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 오감 활동을 함께했습니다.\n\n식빵을 활용해 찢고, 뭉치고, 선생님과 모양틀을 찍어 모양도 탐색하며 다양한 감각 놀이를 해보았는데요, 시간이 필요한 하준이는 또래들의 활동모습을 유심히 관찰한 후 식빵을 만지며 촉감을 느끼다가 조금씩 맛도 보며 즐거운 시간을 보냈답니다. 놀이와 맛있는 경험이 함께한 하루였어요!\n\n하준이 턱받이 불편해하지 않고 잘 착용하였습니다.\n\n오늘 열린어린이집 아빠의 날 시간에 하늘반 친구들이 늙은 호박을 이용해 컵케잌 만들기를 했습니다. 형님들이 바다반 햇살반 동생들하고도 나누어 먹겠다고 많이 만들어주었답니다. 가정에서 아이들과 맛있게 나누어 드세요. ^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dE6mi1/btsLfEDaYKJ/vAzOqQsXE9ANWpdSDaybwK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bdqPHx/btsLfuOm1WM/4dJQsaIrpn3nJ0Tt8ADttk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9xWGc/btsLfv0OuLU/HQuNsG4zz2MQxKnGuvCmo1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HDrEC/btsLeONiWn6/XoDW4YhmNFEPndLTAKeZA1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dE6mi1/btsLfEDaYKJ/vAzOqQsXE9ANWpdSDaybwK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bdqPHx/btsLfuOm1WM/4dJQsaIrpn3nJ0Tt8ADttk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9xWGc/btsLfv0OuLU/HQuNsG4zz2MQxKnGuvCmo1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HDrEC/btsLeONiWn6/XoDW4YhmNFEPndLTAKeZA1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0099_2024-12-11_1147473117_01.jpg",
@@ -1351,10 +1351,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 종이 그릇을 활용한 감각 놀이 활동을 진행했습니다. 교사의 지원을 받아 스티커를 떼어 붙이는 소근육 활동을 경험하고, 그릇을 두드리며 다양한 소리를 탐색하는 시간을 가졌습니다. 이후에는 2층 계단의 손잡이를 잡고 올라가 하늘반 어항에 있는 가재를 관찰하고 종이접시 고리를 끼우는 협응 놀이를 하였답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/eEjnX9/btsLf8ya19B/iki2ItSYa3OSIJA7QxlRhK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dRinm/btsLg5OdQUZ/RmzqRakxAWkgAqjRBhmPY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eaDxHZ/btsLeCHuDYd/ZVbO9vKizDjFoZwWQ8rSu0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ij7RY/btsLgqSWRlF/VkgTKUC5DxkRkBMhx4jyEk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/eEjnX9/btsLf8ya19B/iki2ItSYa3OSIJA7QxlRhK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dRinm/btsLg5OdQUZ/RmzqRakxAWkgAqjRBhmPY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eaDxHZ/btsLeCHuDYd/ZVbO9vKizDjFoZwWQ8rSu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ij7RY/btsLgqSWRlF/VkgTKUC5DxkRkBMhx4jyEk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0100_2024-12-12_1148164162_01.jpg",
@@ -1371,8 +1371,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 어제 놀이를 연계해, 선생님이 높게 쌓아준 그릇을 \"와르르\" 무너뜨리고 다시 쌓기를 반복하며 즐겁게 놀이하였어요. 그 이후 상자를 흔들어보다 소리가 나자 관심을 보이며 상자를 이리저리 돌려보며 열어보려고 하는 모습이 귀여웠답니다.\n\n가정통신문에 안내해 드렸듯이 성탄행사 안내문을 참고하시어 크리스마스선물과 편지를 16일(월)까지 원장실로 전달해 주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/pJhVs/btsLgSI6u90/dDktx4Dh6Ao49hGyhBGzhk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YRyIs/btsLhhbc23a/Q3EKA1APnhgIcM6nxvLy1K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/pJhVs/btsLgSI6u90/dDktx4Dh6Ao49hGyhBGzhk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YRyIs/btsLhhbc23a/Q3EKA1APnhgIcM6nxvLy1K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0101_2024-12-13_1148914621_01.jpg",
@@ -1397,9 +1397,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~\n하준이가 오늘 울음을 보이며 시작해서 많이 걱정되셨죠? 교사가 품에 안고 진정될 때까지 토닥여주며 달래는 동안 가래기침과 함께 세 번 정도 가래 섞인 토를 했답니다. 이후 조금씩 진정되더니 스스로 품에서 내려와 보육실을 탐색하며 안정된 모습을 보였어요. 선생님과 눈이 마주치면 웃기도 하며 차분히 놀이에 참여했답니다.\n\n점심 식사 전까지는 콧물과 기침이 심하지 않았지만, 점심을 먹으며 콧물과 기침이 많아져 천천히 이유식을 조금씩 먹여보았습니다. 다행히 토는 하지 않고 이유식 2/3를 잘 먹었어요. 낮잠도 평소처럼 잠들었습니다. \n\n하준이와 크리스마스를 함께하지 못해 아쉬웠어요. 크리스마스를 기념하며 원에서 준비한 카드와 모자, 그리고 작은 선물을 챙겨보내드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/sA2mk/btsLATVBOb0/fjCo1zL8ihAZpX0k40DnBK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bToXjm/btsLCngRKCo/29kMFAklhC26HvCUY9JBz0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b0BfPJ/btsLATOPYt7/IoJlBSlpkUK9kDlNojONZ1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/sA2mk/btsLATVBOb0/fjCo1zL8ihAZpX0k40DnBK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bToXjm/btsLCngRKCo/29kMFAklhC26HvCUY9JBz0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b0BfPJ/btsLATOPYt7/IoJlBSlpkUK9kDlNojONZ1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0103_2024-12-30_1155973007_01.jpg",
@@ -1415,9 +1415,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n하준이가 등원 후 교사의 토닥임에 금세 울음을 멈추고 책을 꺼내 책장을 넘기며 그림을 관찰하고, 우레탄 블록에 백업을 끼워 넣으며 놀이에 잘 참여하는 모습이었어요.\n\n등원 시 울음을 보일 때만 맑은 콧물이 조금 있었고, 기침은 한두 번 정도로 크게 걱정할 상태는 아니었습니다.  이유식을 먹으며 졸려해서인지 2/3 정도만 먹고 고개를 젖히며 더는 먹으려 하지 않았고, 물도 잘 마시지 않으려 했습니다. \n\n하준이가 아픈 동안 부모님과 함께한 시간이 많고 아직 컨디션 회복이 덜 된 상태여서 헤어지기 힘들어하는 모습이 보이네요. 하지만 등원 후에는 평소와 같이 잘 웃고, 여전히 호기심이 많아 보육실을 자유롭게 탐색하며 즐겁게 놀이에 참여하는 모습을 보이니 걱정하지 않으셔도 될 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/uGSnP/btsLDNs1nh9/U0ah2nLi6WykjDkPkAT4Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OK4Ar/btsLB0m1BBZ/vRDkS0xS2OZzaXKiJg1oIK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/PVyga/btsLDfjfOyO/OmCpmR8JaiilmXMBxqcKJk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/uGSnP/btsLDNs1nh9/U0ah2nLi6WykjDkPkAT4Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OK4Ar/btsLB0m1BBZ/vRDkS0xS2OZzaXKiJg1oIK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/PVyga/btsLDfjfOyO/OmCpmR8JaiilmXMBxqcKJk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0104_2025-01-02_1156554873_01.jpg",
@@ -1433,9 +1433,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~\n하준이가 오늘 등원하며 울음을 보였지만, 손을 씻고 콧물을 닦기 위해 세수를 한 후 금세 안정을 찾았습니다.\n\n오늘은 종이접시를 활용해 눈사람을 꾸미는 활동을 진행하였습니다. 하준이는 선생님의 도움을 받아 스티커를 붙이며 흥미롭게 참여하였어요.신문지를 쭉쭉 찢어 눈놀이를 한 뒤 커다란 눈사람을 만들어 보는 시간도 가졌는데 신문지 끝을 조금 찢어 제공하자 양손으로 잡고  찢으며 활동에 재미를 느끼며 다른 신문지도 가져와 스스로 계속 찢어보는 모습을 보였습니다.\n\n하준이가 콧물과 가래가 많아 이유식을 먹을 때 헛구역질을 하는 모습 보여 물과 함께 조금씩 천천히 먹여 모두 다 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ew7DSd/btsLFDThw8B/7FaIn6iuxy9ATL1TvnWMb0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cgnPXn/btsLGiAR2dp/X92HVu0eLocxl4ig2WyRnk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9QU9E/btsLIahhNhQ/CjLGoB2goqeclkew4hjvP0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ew7DSd/btsLFDThw8B/7FaIn6iuxy9ATL1TvnWMb0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgnPXn/btsLGiAR2dp/X92HVu0eLocxl4ig2WyRnk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9QU9E/btsLIahhNhQ/CjLGoB2goqeclkew4hjvP0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0105_2025-01-08_1158723270_01.jpg",
@@ -1451,10 +1451,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘 하준이는 할머니와 헤어질 때만 살짝 울음을 보였고 평소와 같이 놀이하였어요.\n보육실 바닥에 붙어있는 모양 거울지 길에  관심을 보이며 거울지 가까이 얼굴을 비춰보며 엉금엄금 기어보기도 하고 놀이 중에도 거울지 위를 걸어가며 관찰하는 모습 보였답니다. \n\n실내대체놀이로 종이컵과 백업을 가지고 놀이하며 쌓여있는 컵을 한 개씩 빼기도 하고 발로 종이컵을 차기도 하며 흥미로워하였어요.\n\n하준이 기침은 없었고 어제보단 줄었지만 맑은 콧물 두어 번 흘렸습니다. 조끼 입고 실내활동하며 살펴보니 땀이 날 정도로 불편한 모습은 보이지 않았습니다.\n\n*이번달 햇살반 친구의 생일선물과 관련하여 하준이는 후반기 입소 시점에 생일이 지난 관계로 따로 생일 선물을 준비하지 않으셔도 됩니다. 햇살반 친구들과 함께 마음으로 축하하는 따뜻한 시간을 가지도록 하겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/csn71x/btsLJjFqPCr/Nv3xisjPeOc4n73z9FiCU0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/C5xG9/btsLIgb5d1O/yzeXbqwhjUT4GCn07vzpvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hzEqg/btsLIeSRw7D/7eRujoXdMSZdZSQAD9vOe0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cDpxJs/btsLI6sOtt1/OwwkrJAaYo0mytLKWEWzIk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/csn71x/btsLJjFqPCr/Nv3xisjPeOc4n73z9FiCU0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/C5xG9/btsLIgb5d1O/yzeXbqwhjUT4GCn07vzpvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hzEqg/btsLIeSRw7D/7eRujoXdMSZdZSQAD9vOe0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cDpxJs/btsLI6sOtt1/OwwkrJAaYo0mytLKWEWzIk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0106_2025-01-09_1159389991_01.jpg",
@@ -1471,9 +1471,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘 하준이는 울지 않고 씩씩하게 등원하였고 친구들이 하준이 이름을 불러주자 밝게 웃는 모습을 보였습니다. 이후 가족사진이 붙어있는 곳으로 가서 사진 앞에 앉아 한참을 바라보더라구요.\n\n또한, 친구들이 색깔 스카프로 놀이하는 모습을 보고 관심을 보여 스카프를 건네주자 손으로 만져보기도 하고 들고 이동하며 탐색하는 모습을 보였습니다. 선생님과 마주 앉아 까꿍놀이를 하며 즐거워하였답니다.\n\n유희실에서도 여러 공간을 자유롭게 탐색하던 하준이는 미끄럼틀 계단을 스스로 잘 올라가고 미끄럼틀에서는 안전하게 엎드려 내려오며 즐거운 시간을 보냈습니다.\n\n하준이 콧물은 없었고 기침만 두어 번 했습니다. 즐거운 주말 보내세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/YOHR6/btsLJsDckIQ/KRZSVd1vhKrWJiM3kth3Ek/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SgVCu/btsLJwFBh3A/LZnCHC0Yvw9RRENRdMV0LK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bsNG5q/btsLKECCLWg/W8UPAIX0Q9ccvkDVSFT9SK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/YOHR6/btsLJsDckIQ/KRZSVd1vhKrWJiM3kth3Ek/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SgVCu/btsLJwFBh3A/LZnCHC0Yvw9RRENRdMV0LK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bsNG5q/btsLKECCLWg/W8UPAIX0Q9ccvkDVSFT9SK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0107_2025-01-10_1160083891_01.jpg",
@@ -1489,9 +1489,9 @@ const reportsData =[
     "weather": "snow",
     "content": "안녕하세요~\n하준이와 즐거운 주말 보내셨나요?\n오늘은 선생님과 함께 도트물감을 활용한 미술 활동을 진행하였습니다. 도트물감을 보자마자 큰 관심을 보인 하준이는 선생님과 함께 물감을 잡고 콕콕 찍어본 그림을 유심히 바라보다 스스로도 찍어보며 모양을 탐색하는 모습을 보였답니다.\n\n하준이는 오늘 콧물을 한 번 정도 흘렸으며 일과 중 잠깐 하품하며 매트에 엎드리는 모습이 있었지만 여전히 활기차게 교실을 탐색하며 다양한 놀이에 적극적으로 참여하였습니다.\n\n*1월 23일(목) ~ 1월 24일(금): 설날 행사에 필요한 한복을 1월 17일(금)까지 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bVVrSE/btsLMI6a80m/hG2zIiQ3bjn3kvijPNnhL0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/2X1WU/btsLKtiBjuW/Sbj3a4Toib5N2wI6iNmfwk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YOYaT/btsLKsxdVSz/cNmMaXbi5bJh7u3NpaBWs1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bVVrSE/btsLMI6a80m/hG2zIiQ3bjn3kvijPNnhL0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2X1WU/btsLKtiBjuW/Sbj3a4Toib5N2wI6iNmfwk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YOYaT/btsLKsxdVSz/cNmMaXbi5bJh7u3NpaBWs1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0108_2025-01-13_1160884889_01.jpg",
@@ -1507,9 +1507,9 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 함께 블록 놀이를 하며 하나씩 쌓아보기도 하고, 선생님이 만들어준 블록 틈 사이로 얼굴을 빼꼼 내밀며 친구와 까꿍놀이를 즐긴 하준이의 모습이  귀여웠답니다.\n또한 손잡이를 잡고 \"하나, 둘\" 숫자를 세며 계단을 올라가 바다반에서도 놀이를 이어갔어요. 바다반에 있는 전화기에 관심을 보여 선생님이 \"따르릉~ 전화 왔어요~\"라고 하자 하준이도 그 모습을 따라 하며 놀이하였습니다.\n\n하준이 놀이 중 조끼 벗고 활동하였고 콧물  없었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/UGvCk/btsLM9pzRZ3/CCOLvemBgeuVrkXNsrBbR0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ivXCp/btsLLP6Uzt1/ruLpXKLz38y9goFqdkiij1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Q4wJL/btsLNVj3myV/fkPkMMLt8O9xhskGQ2J340/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/UGvCk/btsLM9pzRZ3/CCOLvemBgeuVrkXNsrBbR0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ivXCp/btsLLP6Uzt1/ruLpXKLz38y9goFqdkiij1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Q4wJL/btsLNVj3myV/fkPkMMLt8O9xhskGQ2J340/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0109_2025-01-14_1161600410_01.jpg",
@@ -1525,9 +1525,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 겨울용품 징검다리를 건너보며 손가락으로 가리키며 관심을 보였고 좋아하는 놀잇감을 가져와 징검다리 위에서 놀이하는 모습도 보여주었어요.\n\n실내 대체 활동으로 훌라후프 놀이하며\n기차놀이에는 관심을 보이지 않았지만 선생님이 잡아준 훌라후프 터널을 통과해 보며 즐겁게 놀이에 참여하였답니다.\n\n하준이는 요즘 \"곰 세 마리\" 노래가 나오면 박수를 치며 귀엽게 엉덩이를 들썩이는 모습도 보여준답니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cEMRqb/btsLNUNrQhF/AGsNK2f0wSRA8pRQAns2RK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dEiHzO/btsLN4WxaBr/RDWyhiZkIji2y1ShBWCK2K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dJnyut/btsLOpe4L9Z/XGCoCbweeRyHBpbgV7FpeK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cEMRqb/btsLNUNrQhF/AGsNK2f0wSRA8pRQAns2RK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dEiHzO/btsLN4WxaBr/RDWyhiZkIji2y1ShBWCK2K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dJnyut/btsLOpe4L9Z/XGCoCbweeRyHBpbgV7FpeK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0110_2025-01-15_1162273480_01.jpg",
@@ -1543,8 +1543,8 @@ const reportsData =[
     "weather": "overcast",
     "content": "안녕하세요 ~\n오늘은 햇살반 가람이의 생일을 축하하는 시간을 가졌습니다.\n친구들과 함께 ‘생일 축하합니다’ 노래를 부르며 손뼉 치며 웃는 모습도 보였고 생일상차림이 궁금했던 하준이는 호기심 가득한 눈빛으로 앞으로 다가가 살펴보며 관심을 보였답니다.\n\n이후에는 친구들과 전지에 색연필로 끼적이기를 하며 선생님과 그림을 그려보는 시간을 가졌어요. 끼적이기가 끝난 후에는 전지를 찢어보기도 하고, 선생님과 간단한 종이접기를 하며 즐거운 활동을 이어갔답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bNz7yt/btsLOpABL8a/NlvoQi4XwgEtLKJMsVstI0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/uz3tC/btsLOBAN0lY/aykppoS28E2okhuThCfJZ0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bNz7yt/btsLOpABL8a/NlvoQi4XwgEtLKJMsVstI0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uz3tC/btsLOBAN0lY/aykppoS28E2okhuThCfJZ0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0111_2025-01-16_1162970444_01.jpg",
@@ -1559,8 +1559,8 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 파라슈트를 활용한 신나는 놀이를 해보았습니다.\n커다란 파라슈트가 낯설었던지 처음에는 관심을 보이지 않고 바라만 보던 하준이는 선생님이 파라슈트를 크게 흔들며 친구들이 속으로 들어가 숨는 모습을 보고 잠깐 들어왔다가 다시 밖으로 나가는 모습을 보였답니다.\n\n하준이 재채기할 때만 맑은 콧물을 두어 번 흘렸습니다.\n하준이와 함께 즐거운 주말 보내세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/xaZei/btsLQrEGOd1/d2vtTUSMA0zYMRjH4xBdrK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ceCxma/btsLPPMQLAy/yKXi3kQ1dxASExK6fiVR3K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/xaZei/btsLQrEGOd1/d2vtTUSMA0zYMRjH4xBdrK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ceCxma/btsLPPMQLAy/yKXi3kQ1dxASExK6fiVR3K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0112_2025-01-17_1163689072_01.jpg",
@@ -1575,8 +1575,8 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 동요 '친구야 나는 너를 사랑해' 노래를 들으며 친구들에게 \"사랑해~ 좋아해\"라고 표현해 보는 놀이를 했어요.\n하준이는 노랫소리에 몸을 흔드는 모습을 보였고  친구가 안아주려고 하니 얼굴을 찌푸리며 피하는 모습도 보였답니다. 하지만 선생님이 하준이를  안아주며 \"사랑해~\"라고 하니 활짝 웃음도 보였어요~\n\n미세먼지로 인해 실내 대체활동으로 교실에서 종이비행기를 날려보는 시간을 가졌습니다.\n알록달록한 종이비행기에 관심을 보이며 날리는 모습을 유심히 살펴보다 스스로 종이비행기를 잡아 날려보려 시도하는 모습을 보였답니다.\n\n하준이 흐르는 콧물은 없었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dkDUEe/btsLTu1BYUT/u7PRqwSdufz9UnrfIQxKIK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bjiaxS/btsLSgDgaNI/kJw2NYiBpyOIAVpmCdXiok/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dkDUEe/btsLTu1BYUT/u7PRqwSdufz9UnrfIQxKIK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjiaxS/btsLSgDgaNI/kJw2NYiBpyOIAVpmCdXiok/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0113_2025-01-20_1164545831_01.jpg",
@@ -1591,9 +1591,9 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 인형을 안고 블록 놀이를인형을 해보았는데, 하준이는 아기 인형에는 관심을 보이지 않고 블록 위에 올라가 기어 다니며 놀이를 즐겼답니다.\n또한, 친구가 들고 있던 탬버린에 관심을 보여 선생님이 탬버린을 치는 모습을 보여주니, 하준이도 한 손에 잡고 탬버린을 쳐보며 흥미를 느끼는 모습이었어요.\n\n하준이 어제보다 콧물이 조금 더 나는 모습이 관찰되었습니다.\n\n*내일은 요리활동이 예정되어 있습니다.\n앞치마 또는 미술가운을 준비해주시기바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Ix70W/btsLTI0ZKsw/1FIdhi5u3XorBdcZmaNQQ1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/y3TOC/btsLVwYRN8a/kPTL0jftfnJKhAzkej9hO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SBUYv/btsLTJyXe3B/xhIoeSmkYcsE7wzjymGPGk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Ix70W/btsLTI0ZKsw/1FIdhi5u3XorBdcZmaNQQ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/y3TOC/btsLVwYRN8a/kPTL0jftfnJKhAzkej9hO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SBUYv/btsLTJyXe3B/xhIoeSmkYcsE7wzjymGPGk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0114_2025-01-21_1165252514_01.jpg",
@@ -1609,8 +1609,8 @@ const reportsData =[
     "weather": "fog",
     "content": "안녕하세요~\n오늘은 열린 어린이집 활동으로 설날을 맞이하여 햇살반 친구들과 함께 우리나라 전통 간식인 '조이퐁 강정 만들기' 활동을 진행하였습니다.\n미리 녹여놓은 쌀 조청에 보리튀밥, 현미튀밥, 견과류를 넣어 선생님 도움받아 우드스틱으로 섞어 보며  흥미로워했답니다.\n하준이가 정성껏 만든 강정, 맛있게 드세요!\n\n하준이는 오늘 콧물이 흐르지는 않았지만 콧물이 맺혀있는 모습이 보였습니다.\n\n1월23일(목)~24일(금)은 설날 행사가 예정되어 있습니다. 9시 30분까지 등원해 주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cg5ipS/btsLWQQDYYw/kjkG73cxceH5shxl2PCJW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Ey3iT/btsLWQXo8x7/hmfdPAXKJDdInBV5hNUhYK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cg5ipS/btsLWQQDYYw/kjkG73cxceH5shxl2PCJW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ey3iT/btsLWQXo8x7/hmfdPAXKJDdInBV5hNUhYK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0115_2025-01-22_1165963437_01.jpg",
@@ -1625,10 +1625,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘 햇살반 친구들은 설날을 맞이해 원장님께 새해 인사를 드리며 세배를 올리는 활동을 했습니다.\n세배하는 방법을 친구들과 함께 사진을 보며 배우고, “새해 복 많이 받으세요!”라고 선생님과 인사드린 후 귀여운 세뱃돈도 받아보았답니다. 한복을 입고 씩씩하게 참여하는 모습이 사랑스러웠어요.^^ \n\n오늘 하준이는 한복도 잘 입었고 처음 해보는 활동임에도 씩씩하게 잘 참여하였어요. 한복바지는 조금커서 살짝 접었는데 불편해 보이진 않았습니다.\n\n*1월 31일 금요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bBRZAj/btsLWUmvtij/XzykfC2JyMmw0C3W3NRpuk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/lv018/btsLYDXQR4k/SfnJUmw1ZEjIAj6HzKoQ7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eIuUr/btsLXUszQG5/Da6tsuTfFFabW7v1aFdDP0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bmTnwt/btsLYbALTGm/utPHRKhgaCUYK3rIbWSIKK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bBRZAj/btsLWUmvtij/XzykfC2JyMmw0C3W3NRpuk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lv018/btsLYDXQR4k/SfnJUmw1ZEjIAj6HzKoQ7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eIuUr/btsLXUszQG5/Da6tsuTfFFabW7v1aFdDP0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bmTnwt/btsLYbALTGm/utPHRKhgaCUYK3rIbWSIKK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0116_2025-01-23_1166693679_01.jpg",
@@ -1645,12 +1645,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 명절을 맞아 전통놀이 활동을 함께 진행하였습니다.\n여러 가지 전통놀이에 대해 알아보고, 선생님이 놀이 방법을 설명하며 시범을 보이자 하준이가 집중해서 지켜보며 흥미를 보이는 모습이었어요.\n\n이후에는 하준이가 팽이를 꾸미며 나만의 팽이를 만들어 보았고, 선생님의 도움을 받아 팽이를 돌려보며 즐겁게 놀이에 참여했답니다.\n\n하준이는 오늘 두어 번 누런 콧물이 흐르는 모습이었으며, 눈에 눈물이 맺혀 있는 모습도 보였습니다. 이유식을 먹으며 졸려하더니 2/3 정도 먹고 더 이상 먹지 않았지만, 양치 후에는 잠이 달아나 평소와 같이 활동 후 잠들었답니다.\n\n즐거운 명절 보내세요~!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/pmGes/btsLZ7FjKGK/ib01HlV3HZwOhGAZbKdz2k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bFAG5p/btsL0By5LDF/YU6hwtXUo3Q1HtjZeBer80/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dqpILD/btsL0pyZqhu/bZdwengumGZkTBcW1Jjc60/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Ds7xS/btsLZf46Gmg/z6hQshiKP1YnvvVO1GiEHK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dyBnUK/btsLZKQ3e4E/oXNPhCWMYqQx8cC53etQJk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dA4yg8/btsLYI0Rpww/cCeu5HT7WGFxT0vplXZvxK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/pmGes/btsLZ7FjKGK/ib01HlV3HZwOhGAZbKdz2k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bFAG5p/btsL0By5LDF/YU6hwtXUo3Q1HtjZeBer80/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dqpILD/btsL0pyZqhu/bZdwengumGZkTBcW1Jjc60/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ds7xS/btsLZf46Gmg/z6hQshiKP1YnvvVO1GiEHK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dyBnUK/btsLZKQ3e4E/oXNPhCWMYqQx8cC53etQJk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dA4yg8/btsLYI0Rpww/cCeu5HT7WGFxT0vplXZvxK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0117_2025-01-24_1167465315_01.jpg",
@@ -1679,10 +1679,10 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요~\n하준이 오랜만에 등원했는데도 씩씩하게 들어와 친구들에게 웃음도 보였답니다. 신나는 동요를 들으며 리본막대를 활용한 신체활동을 하며 양손에 잡고 흔들어보고 선생님손 잡아 점프하며 활발하게 신체활동도 즐기는 모습이었습니다.\n\n점심시간에는 보내주신 숟가락으로 선생님과 함께 손잡고 여러번 떠서 잘 먹는 모습보였습니다. 어린이집 간식 숟가락 사진보내드립니다.\n\n*2/7(금)요일은 햇살 3반 교사의 연차입니다.  보조교사 및 대체선생님께서 햇살 3반에서 함께 해주시며 알림장과 사진은 발송되지 않는 점, 투약의뢰서만 확인되는 점 양해 부탁드립니다. 등하원은 햇살 1반&2반 선생님께서 도와주실 예정입니다.\n개별적 전달사항은 전화 또는 등원을 맞이해 주시는 선생님께 전달 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/vZxl6/btsL9oUcQ3q/ZQhxSBR7qXXfx47oZ6Y5YK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YlUZf/btsL87SI8PF/lkKsAkzJZ2sGi3ycCD7hyK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbkBRg/btsL8cgbvvt/Dm2mKR3jP108WbMTsjWy30/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NbuVZ/btsL7QqQxB3/8VXYkG2uhP5oxQRDiWS1Vk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/vZxl6/btsL9oUcQ3q/ZQhxSBR7qXXfx47oZ6Y5YK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YlUZf/btsL87SI8PF/lkKsAkzJZ2sGi3ycCD7hyK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbkBRg/btsL8cgbvvt/Dm2mKR3jP108WbMTsjWy30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NbuVZ/btsL7QqQxB3/8VXYkG2uhP5oxQRDiWS1Vk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0119_2025-02-06_1171355614_01.jpg",
@@ -1699,9 +1699,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "안녕하세요.\n오늘은 햇살반 친구들과 함께 ‘웃는 얼굴을 찾아봐요’ 활동을 진행하였습니다. 까꿍판을 제공해 주니 놀이판에  높은 흥미를 보이며 소근육을 조절해 열고 닫기를 반복하며 즐겁게 탐색하였고 교사가 까꿍 놀이판 안에 있는 다양한 표정에 대해 상호작용을 해주니 표정을 따라 하며 놀이를 더욱 즐기는 모습이었답니다.\n\n이후, 실내 대체 활동으로 유희실에서 웃는 얼굴 위를 걸어보며 적극적으로 활동에 참여하였습니다.\n\n하준이 이유식 다 먹을 때까지 숟가락 놓지 않고 선생님 도움받아 잘 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/c6kmsJ/btsMcKDoyjD/uWmq1bQ2p57qrCI9KARazk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/baY4WU/btsMdpS2Sko/bt89sRkVF9MmCyVmMyKmZk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tQgNh/btsMbCfi29S/6eaLZzlzgzzxP7AI1ME3xk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/c6kmsJ/btsMcKDoyjD/uWmq1bQ2p57qrCI9KARazk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/baY4WU/btsMdpS2Sko/bt89sRkVF9MmCyVmMyKmZk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tQgNh/btsMbCfi29S/6eaLZzlzgzzxP7AI1ME3xk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0120_2025-02-10_1172976433_01.jpg",
@@ -1717,9 +1717,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하에요~\n오늘은 친구들과 함께 웃는 얼굴컵 쌓기 놀이를 진행했습니다. 색색의 컵에 귀여운 웃는 얼굴 스티커를 붙이고, 컵을 하나씩 쌓아 올리며 놀이를 했답니다.\n\n우리 하준이는 컵을 꼭 쥐고 사진에 관심을 보이며 표정들을 관찰해보기도 하고 컵 안에 조금 더 작은 컵을 넣어보기도 하였어요. 또, 선생님이 컵을 쌓아 올리면 손으로 톡 건드려 무너뜨리며 웃기도 하였답니다.\n\n오늘은 영상의 날씨를 보여 바깥놀이 나가 남아 있는 눈을 직접 밟아보는 경험도 해보았어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b1qItI/btsMc1MK10K/3LA9tY6vxmQVKW3WnA0oW0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Rvksn/btsMcIUhlhF/st6j1koKKY8ho8w5IVRc20/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dJU6vE/btsMd7ZOgKQ/Ez09xqhL7lV6dVLW3jzdlk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b1qItI/btsMc1MK10K/3LA9tY6vxmQVKW3WnA0oW0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Rvksn/btsMcIUhlhF/st6j1koKKY8ho8w5IVRc20/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dJU6vE/btsMd7ZOgKQ/Ez09xqhL7lV6dVLW3jzdlk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0121_2025-02-11_1173621712_01.jpg",
@@ -1735,9 +1735,9 @@ const reportsData =[
     "weather": "snow",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 함께 ‘웃는 얼굴을 만들어요’ 놀이를 진행하였습니다. 햇살반 친구들이 좋아하는 ‘눈은 어디 있나~ 요기~’ 동요를 불러주니 집중해 노래를 들어보았고 이후, 눈모양 스티커와 웃는 얼굴 그림을  제공하여 선생님과 붙여보며 흥미로워하였어요. 완성된 얼굴 그림 위에 크레용으로 자유롭게 끼적이는 시간도 가졌습니다.\n\n친구와 쓰기판으로 놀이하며 친구가 끼적이면 하준이는 버튼을 잡고 지우는 모습이 귀여워 찰칵 찍어보았습니다. ㅎ\n\n*2/13(목)요일은 햇살 3반 교사의 연차입니다.  보조교사 및 대체선생님께서 햇살 3반에서 함께 해주시며 알림장과 사진은 발송되지 않는 점, 투약의뢰서만 확인되는 점 양해 부탁드립니다. 등하원은 햇살 1반&2반 선생님께서 도와주실 예정입니다.\n개별적 전달사항은 전화 또는 등원을 맞이해 주시는 선생님께 전달 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/FMcbR/btsMgwj4t2R/L4iR54XkUyMsDxvHkkOuX1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/XPm7z/btsMfaifbVi/wcSq4JDstbndGHkM8C4kb0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HbOQ8/btsMfHNrgjQ/T6Gx0x60TWLYqYVpUT8PD1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/FMcbR/btsMgwj4t2R/L4iR54XkUyMsDxvHkkOuX1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/XPm7z/btsMfaifbVi/wcSq4JDstbndGHkM8C4kb0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HbOQ8/btsMfHNrgjQ/T6Gx0x60TWLYqYVpUT8PD1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0122_2025-02-12_1174336090_01.jpg",
@@ -1763,9 +1763,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요.\n오늘은 햇살반 친구들과 함께 '웃는 얼굴 그림에 도트 물감을 찍어요' 놀이를 진행하였습니다.\n'미소' 노래를 들으며 웃는 얼굴 그림을 보고 다양한 표정을 지어보았고, 도트 물감으로 톡톡 눌러 표현하며 즐겁게 끼적이기 활동을 했습니다.\n\n또한, 선생님 손을 잡고 어린이집 주변 시니어센터를 다녀오며 산책을 하였고, 공원 벤치에 앉아 따뜻한 햇살도 느껴보는 시간을 가졌습니다.\n\n하준이는 평소처럼 꼭꼭 씹으며 점심을 다 먹었고 감기증상 없이 즐겁게 놀이에 참여하였습니다. 😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cJ99hg/btsMiDEjfXo/cn9nBYRELejsNJYUAo8yK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bNW1VL/btsMigvR0Pn/apZttKKAZCem56J9rWd8AK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/WIy07/btsMh4oUOBn/V0824cZibaHMFwU3qsPhDk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cJ99hg/btsMiDEjfXo/cn9nBYRELejsNJYUAo8yK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bNW1VL/btsMigvR0Pn/apZttKKAZCem56J9rWd8AK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/WIy07/btsMh4oUOBn/V0824cZibaHMFwU3qsPhDk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0124_2025-02-14_1175735336_01.jpg",
@@ -1781,9 +1781,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n등원하여 보육실 바닥에 붙어있는 하트모양의 햇살반 친구들의 사진을 보며 관심을 보인 하준이와 사진속 친구들의 이름을 불러주니 유심히 듣고있는 모습이었답니다.\n이후, 2층 유희실에 올라가 공구놀이도 하고 책도 읽어보았어요.\n\n*내일 2월 18일 화요일에 소방대피훈련이 있습니다. 가방속 여벌 양말 확인했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cgf0hf/btsMlng2gp5/WaDMcXPEJjAhtL2ld4Jh7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/XBKpD/btsMkdGoqqT/XZ8umYZoi4Quj5AKNLLscK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMurQS/btsMmep5YLa/FJW5kklzACossd7hDtGEZk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cgf0hf/btsMlng2gp5/WaDMcXPEJjAhtL2ld4Jh7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/XBKpD/btsMkdGoqqT/XZ8umYZoi4Quj5AKNLLscK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMurQS/btsMmep5YLa/FJW5kklzACossd7hDtGEZk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0125_2025-02-17_1176572798_01.jpg",
@@ -1799,8 +1799,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 햇살반 친구들과 하트 풍선을 활용한 놀이를 진행하였습니다.\n하트 풍선에 관심을 보이며 탐색하다가, 손끝으로 풍선을 만지작거리며 풍선에서 나는 소리에 흥미를 느끼고 반복해서 만져보는 모습이었 양손으로 풍선을 잡고 힘껏 던져보며 적극적으로 놀이에 참여하였습니다.\n\n하준이 활동 중 하품하는 모습이 보였으나 끝까지 놀이에 잘 참여하였으며, 점심은 약 2/3 정도 섭취한 후, 먹고 뱉기를 반복하다가 더 이상 먹지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bQVWfl/btsMnm9qE3O/pQ9U6C2BHVjFokexIuJxI1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/blX9pE/btsMnj5V3bT/FlalxEwEd4BXqUN5L9Ayp0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bQVWfl/btsMnm9qE3O/pQ9U6C2BHVjFokexIuJxI1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/blX9pE/btsMnj5V3bT/FlalxEwEd4BXqUN5L9Ayp0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0126_2025-02-18_1177313142_01.jpg",
@@ -1815,12 +1815,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요.\n오늘은 열린 어린이집 활동으로 ‘휴지를 활용한 오감 놀이’를 진행하였습니다.\n폭신폭신한 휴지의 질감을 직접 느껴보고, 갑 티슈를 하나씩 뽑아보며 탐색하는 하준이~수북하게 쌓여있는 휴지 위를 걸으며 신난 모습이었답니다. 선생님과 롤휴지를 차곡차곡 쌓아 올렸다가 무너뜨리고 파라슈트를 흔들며 활발하게 신체활동을 하였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/f0cyl/btsMowxFZQ4/KExn9Sx6cSD3DbnZSNuqdK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cVmEWn/btsMmJS0kMF/Y6DDqeDkyb1Hp40US2KsAK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAEMDd/btsMnZUCXzZ/llcagNW4PwnuU0wLyt9ow0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bmgG0Q/btsMnOeI9qi/sPc52wLPIKQSkvMWQ3E5H0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xMVjI/btsMohnfFMi/KzB0eHLTUhKwR93q8B4be1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eqhXE/btsMpoFO0B6/WLkr2DcnC8S5RUhH2ewl5k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/f0cyl/btsMowxFZQ4/KExn9Sx6cSD3DbnZSNuqdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cVmEWn/btsMmJS0kMF/Y6DDqeDkyb1Hp40US2KsAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAEMDd/btsMnZUCXzZ/llcagNW4PwnuU0wLyt9ow0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bmgG0Q/btsMnOeI9qi/sPc52wLPIKQSkvMWQ3E5H0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xMVjI/btsMohnfFMi/KzB0eHLTUhKwR93q8B4be1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eqhXE/btsMpoFO0B6/WLkr2DcnC8S5RUhH2ewl5k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0127_2025-02-19_1177998189_01.jpg",
@@ -1839,9 +1839,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 햇살반 친구의 생일 축하 행사가 있었습니다. 선생님과 함께 2층으로 올라가 생일 축하 노래를 부르고 박수를 치며 축하해 주었답니다. 생일을 맞이한 친구를 따뜻하게 안아주었고 하준이는 계단을 내려올 때 처음보다 더욱 안정된 모습으로 잘 내려왔습니다. 이후에는 선생님과 함께 와플 블록으로 하트 모양을 만들며 놀이를 했고, 유희실에서 미끄럼틀을 타며 활발하게 신체 활동을 즐겼습니다.\n\n내일 21일(금)요일 10시에 수료식이 예정되어 있습니다. 참고해 주시기바랍니다~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dnkZ7T/btsMp9WJp2f/SKTC82h7PjOS7AntfgLon0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bJ9gel/btsMomcbK6g/511U538hhshTWc6tpCTON1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/4udUH/btsMpn8ZgUf/e8Wy9cc6EHwxt4glcdLf11/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dnkZ7T/btsMp9WJp2f/SKTC82h7PjOS7AntfgLon0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bJ9gel/btsMomcbK6g/511U538hhshTWc6tpCTON1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/4udUH/btsMpn8ZgUf/e8Wy9cc6EHwxt4glcdLf11/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0128_2025-02-20_1178738168_01.jpg",
@@ -1857,13 +1857,13 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~\n오늘은 수료식이 있는 날입니다.\n처음 어린이집에 적응하던 모습이 엊그제 같은데 이제는 환하게 웃으며 선생님과 친구들에게 손인사를 하고 즐겁게 하루를 보내는 하준이의 모습이 참 대견합니다. 앞으로도 건강하고 밝게 자랄 수 있도록 많은 응원과 격려 부탁드립니다.\n\n오늘 하준이는 식판에 관심을 보이며 선생님의 도움을 받아 밥과 국을 잘 먹었습니다. 하지만 절반 정도 먹은 후에는 고개를 도리도리 저으며 먹고 뱉기를 반복하다 더 이상 먹지 않았지만 파프리카와 생선가스를 두어 번 먹으며 새로운 음식에도 도전했답니다. 월요일에는 조금 더 먹어보기를 바라며 응원하겠습니다!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/UZuiz/btsMpSWtvan/90bQz46T8QBsGyS1kGhKbK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cEVQUC/btsMsM02leS/VyVMKjjyFkUCghkaZzcDXk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bqxLAE/btsMrwEEYuO/ZMmhesNhSDSHqfE3Xt0NaK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/l7xXu/btsMpU7K5oo/7Bvp6RBGK2EoR6KYIFkQCk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/mqxGz/btsMrY8Lnd4/JnaguHkVYHj8zuoYHrL6P1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bhiyNS/btsMsjLDhDr/iM5Sst2TRA55AA2jfDiB0k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbjKN8/btsMqM81UPm/qtlRIKgSouR0W4k3D4tV1k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/UZuiz/btsMpSWtvan/90bQz46T8QBsGyS1kGhKbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cEVQUC/btsMsM02leS/VyVMKjjyFkUCghkaZzcDXk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bqxLAE/btsMrwEEYuO/ZMmhesNhSDSHqfE3Xt0NaK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/l7xXu/btsMpU7K5oo/7Bvp6RBGK2EoR6KYIFkQCk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mqxGz/btsMrY8Lnd4/JnaguHkVYHj8zuoYHrL6P1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhiyNS/btsMsjLDhDr/iM5Sst2TRA55AA2jfDiB0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbjKN8/btsMqM81UPm/qtlRIKgSouR0W4k3D4tV1k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0129_2025-02-21_1179462507_01.jpg",
@@ -1883,9 +1883,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "안녕하세요~~\n오늘은 친구 사진에 스티커를 붙이는 활동을 진행하였습니다. 보육실 바닥에 붙어 있는 친구들의 이름을 말로 표현해 주고 자유롭게 스티커를 붙이는 시간을 가졌습니다. 하준이는 스티커를 붙이기보다 붙어있는 스티커를 떼기에 흥미를 보이며 놀이를 하는 모습이었답니다.\n\n이후 유희실에 나가 미끄럼틀 타며 신체활동도 하였습니다.\n\n점심에 김이 나와서 밥에 싸서 주었더니 고기반찬과 함께 잘 다 먹었습니다. 또 콩나물에도 관심을 보이며 한두 번 맛보는 모습을 보였답니다.👍",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cvx1Nz/btsMvww64Q1/NrBCL20Yh8WtyHldX8Bgo0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/zeoBq/btsMtOZ45mL/bxb99RVTL6NMemXhU2CkS1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/PcpJN/btsMuhHEKGV/3EktQu5YApN17fJDJADfW0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cvx1Nz/btsMvww64Q1/NrBCL20Yh8WtyHldX8Bgo0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zeoBq/btsMtOZ45mL/bxb99RVTL6NMemXhU2CkS1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/PcpJN/btsMuhHEKGV/3EktQu5YApN17fJDJADfW0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0130_2025-02-24_1180189220_01.jpg",
@@ -1901,8 +1901,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요~\n오늘은 전지 위에 다양한 모양의 그림을 그려주고, 각 모양의 이름을 이야기해 주며 관심을 가질 수 있도록 유도하고 그중 하트 모양을 찾아 색연필로 자유롭게 끼적여 보며 표현하는 활동을 진행했어요.\n\n선생님과 함께 하트 모양을 찾아 색칠해 보고, 하트 스티커도 붙이며 즐겁게 놀이하였고 이후 가족사진이 있는 곳으로 가는 하준이에게 스티커를 건네주며 엄마, 아빠 얼굴에 붙여보도록 하였더니, 신중하게 스티커를 붙이는 모습을 보였답니다.\n\n하준이 밥과 생선 1/2 먹었고 연근은 한번 먹어보고 뱉는 모습이었어요.\n\n짧은 시간이었지만, 하준이와 함께했던 순간들이 너무나 소중하고 행복했습니다.\n따뜻한 관심과 사랑 보내주신 부모님께 진심으로 감사드립니다.\n우리 하준이가 바다반에서도 늘 행복하고 건강하게 지내길 응원하겠습니다.❤️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bsN435/btsMutoAnYL/3cr5nVzyoSQXtquC2OHRKK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bl88G0/btsMutB25uh/KNtCABvhS2K37XaG4ay8kK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bsN435/btsMutoAnYL/3cr5nVzyoSQXtquC2OHRKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bl88G0/btsMutB25uh/KNtCABvhS2K37XaG4ay8kK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0131_2025-02-25_1180737265_01.jpg",
@@ -1937,8 +1937,8 @@ const reportsData =[
     "weather": "fog",
     "content": "교구장에서 신문지를 발견한 바다반 친구들이 이것저것 만지며 관심을 보이기 시작했습니다. 신문지를 길게 찢어보기도 하고 넓게 깔고는 그 위에 눕기도 하는 등 다양한 놀이로 확장하는 모습을 볼 수 있었습니다. 신문지를 몸 위에 덮으려고 하는 모습을 보고 옷처럼 만들어 지원해 주었더니 서로 신문지 옷을 입고 멋진 모습을 뽐내보기도 하였습니다.\n또, 지난주 블록 놀이 시간에 기차를 만들며 신나게 놀았던 기억을 떠올린 친구들이 이번에는 직접 기차를 타고 여행을 떠나보았습니다. 어디로 갈까요? 하고 물어보니 \"동물원 가요\" 하고 이야기도 해주었답니다.\n친구들의 머리를 살살 쓰다듬는 모습을 보여 \"예쁘다~ 해주는구나~\"했더니 웃어보이는 하준이입니다.^^ 간식과 점심도 맛있게 잘 먹었습니다~\n*서울시에서 지원하는 간호사 방문 사업에 우리 원이 선정 되어 13일 목요일에 간호사 선생님께서 방문하시어 <감염병 예방 및 손 씻기 교육>을 진행해 주십니다. 오전 10시 30분에 진행되니 늦지 않게 등원해 주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bcPup6/btsMGeDuIZQ/x6tgiB3jZkCgLc0k9HkAIK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6eIHY/btsMFkqPNmG/J5s0Nax9gSiF2A08EbDo00/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bcPup6/btsMGeDuIZQ/x6tgiB3jZkCgLc0k9HkAIK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6eIHY/btsMFkqPNmG/J5s0Nax9gSiF2A08EbDo00/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0134_2025-03-10_1185384475_01.jpg",
@@ -1953,10 +1953,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "친구들이 색깔스카프에 관심을 보이며 얼굴을 가렸다가 \"까꿍~\"하고 스카프를 내리며 활짝 웃는 모습입니다. 스카프를 상자안에 쏙쏙 넣어보기도 하고, 동요를 불러보면서 들고서 흔들어보기도 하였습니다. 초록색 점토를 지원하여 조물조물 놀이를 해보았는데 처음에는 점토를 신기한듯 관찰하다가 손가락으로 꾹꾹 눌러보고,길쭉하게 만들어 나무칼로 자르기에 집중하는 모습입니다. 점토를 양손으로 쭉쭉 늘리며 \"치즈같아\"하고 표현하기도 했답니다.\n오전에 초미세먼지 나쁨으로 인해 실내대체놀이가 진행되었습니다. 유희실에서 탱탱볼을 튕겨보고 들고서 왔다갔다 뛰어다니며 충분한 신체활동을 하였습니다.\n하준이 귀 뒤쪽에 후시딘을 오전/오후 한번씩 발라주었습니다. 내일도 한번 더 살펴보겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bk0lfA/btsMIblXhjE/1NfLiOOae8G8zI1JAMlm11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bg9ew8/btsMFF985vE/mVKxEQSUhQ0ZJooghleri1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bmuqdk/btsMGOL02E3/IWKNx87fX3DKudBg5LCiNk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bNClb3/btsMF1Zocei/KT9yLAQsD52zknacszetb0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bk0lfA/btsMIblXhjE/1NfLiOOae8G8zI1JAMlm11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bg9ew8/btsMFF985vE/mVKxEQSUhQ0ZJooghleri1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bmuqdk/btsMGOL02E3/IWKNx87fX3DKudBg5LCiNk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bNClb3/btsMF1Zocei/KT9yLAQsD52zknacszetb0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0135_2025-03-11_1186072376_01.jpg",
@@ -1973,10 +1973,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "자유놀이시간에 바다반 친구들이 악기 놀잇감에 흥미를 보여 신나는 동요를  틀고 함께 악기연주를 해보았습니다. 마라카스를 흔들며 팔과 몸을 흔들고 캐스터네츠를 짝짝짝, 동물딱딱이 놀잇감과 기타도 쳐보며 즐거운 시간을 보냈습니다. 달걀 마라카스를 흔들다가 냄비와 접시에 담아서 \"맛있게 드세요~\"하고 교사에게 주기도 하며 놀이를 이어가는 친구들입니다. \n오전에 초미세먼지 나쁨으로 인해 실내대체놀이가 진행되었습니다. 신문지로 종이비행기를 접어 날려보고 색종이로도 비행기와 여우를 만들어 들고서 흔들어보며 신체활동을 하였습니다. \n텃밭에 올라가는 연습도 해보았는데요. 1층에서 3층까지 계단 손잡이를 잡고 차례차례 계단을 오르고 내려오는 시도를 하였는데, 친구들이 조심조심 한칸씩 안전하게 오르내리는 모습이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/3HA0Q/btsMH3bwchU/wFHCXzJGl5Gox5D6f9qrkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/rLBHx/btsMI39FOVp/dpbE0XA2m9st3jpxqjBIu1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bJiLqB/btsMHdsjahk/yByVtGYia4KCM1vYI899Yk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bFY885/btsMHbnR7VJ/mCvwUo40M9uA06UySWjQ91/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/3HA0Q/btsMH3bwchU/wFHCXzJGl5Gox5D6f9qrkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rLBHx/btsMI39FOVp/dpbE0XA2m9st3jpxqjBIu1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bJiLqB/btsMHdsjahk/yByVtGYia4KCM1vYI899Yk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bFY885/btsMHbnR7VJ/mCvwUo40M9uA06UySWjQ91/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0136_2025-03-12_1186727777_01.jpg",
@@ -1993,9 +1993,9 @@ const reportsData =[
     "weather": "yellow_sand",
     "content": "오늘은 간호사선생님께서 방문하셔서 <감염병 예방 및 손씻기 교육>을 진행해주셨습니다. 친구들이 간호사 선생님의 이야기에 경청하고 한명씩 병원진료 체험도 해보았답니다. 하준이는 간호사 선생님 앞에 가니 울음을 보여 다음에 다시 시도해보기로 하였습니다.^^;\n놀이시간에는 스펀지블록을 길게 연결해 함께 기차놀이를 하고, 악기놀잇감, 소프트블록에 흥미를 보였고, 병원놀이 놀잇감으로 오전에 받은 교육을 놀이로 확장해가는 아이들이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/eARow/btsMH4vIIxL/miUFRxo7L9wgCoF2amYem0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Xu2Uo/btsMKa8CvWt/94Ph17loMUCIVKB4GzIilk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/RX7Ld/btsMKech7gy/4MdPDH6EKsb0ymeKnK3Tmk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/eARow/btsMH4vIIxL/miUFRxo7L9wgCoF2amYem0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Xu2Uo/btsMKa8CvWt/94Ph17loMUCIVKB4GzIilk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/RX7Ld/btsMKech7gy/4MdPDH6EKsb0ymeKnK3Tmk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0137_2025-03-13_1187415958_01.jpg",
@@ -2011,9 +2011,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 보육실 벽에 있는 애벌레 꾸미기판에 친구들의 얼굴사진을 붙여주었더니 자신의 얼굴을 찾고 친구들의 얼굴도 손가락으로 가리키며 친근함을 표현하였습니다. \n날씨가 좋아 신학기에 처음으로 바깥놀이 산책을 다녀왔습니다. 우주반 형님들과 선생님들의 도움을 받아 손을 잡고 천천히 걸었고, 배드민턴장에 잠시 앉아 따스한 햇살을 느껴보았습니다. 하준이는 산책을 하며 발을 동동 구르면서 좋아하는 모습이었습니다.^^\n*가족사진을 한장씩 보내주세요. 교실환경으로 지원할 예정입니다.(여행사진, 셀카 등 어떤 것이든 좋습니다)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cDKpBM/btsMJoOo9I8/9T2Vt7ENY1bITTHDqU9eg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAAMPe/btsMJI6Tfhk/jefkfYzlx4YgfHJte4zzbk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bEFtdL/btsMKECF4z5/kWtun8S8ZTA1KzCwgkMCW0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cDKpBM/btsMJoOo9I8/9T2Vt7ENY1bITTHDqU9eg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAAMPe/btsMJI6Tfhk/jefkfYzlx4YgfHJte4zzbk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEFtdL/btsMKECF4z5/kWtun8S8ZTA1KzCwgkMCW0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0138_2025-03-14_1188116720_01.jpg",
@@ -2029,9 +2029,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "주말지내고 온 바다반 친구들은 새롭게 지원해준 동물 사운드북과 와플블록에 관심보였습니다. 커다란 박스에 스티커를 붙이고 색연필로 끼적이기 해서 꾸며보았고, 안에 들어가고 싶다고 표현하여 박스기차를 만들어 친구들과 함께 타보기도 했답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bQiYBM/btsMLYIFUpY/aIdlwSGNeTQjMjKGvaRvS0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/EFCr5/btsMLIe5dwP/hdsXewBxEZ48QorfDAo9H0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxayGn/btsMMGgiii5/nWHo8CNGrYvOmjz04OX2p1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bQiYBM/btsMLYIFUpY/aIdlwSGNeTQjMjKGvaRvS0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/EFCr5/btsMLIe5dwP/hdsXewBxEZ48QorfDAo9H0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxayGn/btsMMGgiii5/nWHo8CNGrYvOmjz04OX2p1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0139_2025-03-17_1188993807_01.jpg",
@@ -2047,9 +2047,9 @@ const reportsData =[
     "weather": "snow",
     "content": "놀이시간에 폼블록을 활용해 미끄럼틀 경사를 만들어 자동차를 굴려보고, 와플블록을 꽂아서 올려놓고 생일축하노래를 함께 부르며 \"후~\"하고 촛불을 끄는 친구들입니다. 풍선을 불어주니 흔들고 던지며 몸을 움직이고, 스티커를 붙였다 뗐다 집중하는 모습이었습니다.\n*가족사진을 알림장으로 한장씩 보내주세요~^^\n*하준이 여벌옷 상하의 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/mZ0ib/btsMOh1vXDT/vkVrhhxntVR3Z1ZeNiFyC1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/N5wDF/btsMM4IOdJh/gUdyHQqgpWRMsH4fRFZl01/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAstiW/btsMO7KEJrM/k2h0aNghUTBCIknXtJgH9K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/mZ0ib/btsMOh1vXDT/vkVrhhxntVR3Z1ZeNiFyC1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/N5wDF/btsMM4IOdJh/gUdyHQqgpWRMsH4fRFZl01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAstiW/btsMO7KEJrM/k2h0aNghUTBCIknXtJgH9K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0140_2025-03-18_1189685103_01.jpg",
@@ -2065,10 +2065,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "와플블록에 흥미를 가지는 바다반 친구들이 다른 방법으로 놀이할 수 있도록 벽면에 시트지를 붙여 블록을 붙여볼 수 있게 지원해 주었습니다. 처음엔 시트지에 손이 닿을 때마다 붙었다가 떨어지는 경험을 하고 탐색하더니 교사가 블록을 붙이는 모습을 보고 곧 자신만의 방식으로 벽면을 꾸며보았답니다.\n\n* 5월 10일 예정인 [어린이날 기념 신길더샵해늘 체육대회 참여 수요조사서]를 오늘 가정으로 보내드립니다.\n확인하시고 3/21(금)까지 꼭 회신부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dKOwX3/btsMOvfcm9s/KGkmy7FCqkLNS3N4ZDL5Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ewMEzA/btsMPNsa62i/4gk37txUJW9Y23m0x2pPy0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ocQAm/btsMPoGpNtz/XUV0qVOmX4o5WL35KnNj91/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/chVNSG/btsMOvsFV16/ihLQeNy5YJIEwDnRcb3vU1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dKOwX3/btsMOvfcm9s/KGkmy7FCqkLNS3N4ZDL5Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ewMEzA/btsMPNsa62i/4gk37txUJW9Y23m0x2pPy0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ocQAm/btsMPoGpNtz/XUV0qVOmX4o5WL35KnNj91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/chVNSG/btsMOvsFV16/ihLQeNy5YJIEwDnRcb3vU1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0141_2025-03-19_1190377395_01.jpg",
@@ -2085,9 +2085,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "천사점토를 지원하여 조물조물 만져보고 모양틀도 찍어보았습니다. 모양틀은 조금 어려웠는지 요리조리 탐색하다가 와플블록을 붙였던 끈적이는 벽면에 붙여보기도 하며 놀이를 이어가는 모습이었습니다. 바깥놀이시간에는 메낙골 공원으로 산책을 다녀왔습니다. 새싹도 찾아보고 짹짹이 소리도 들으며 즐겁게 한바퀴 걷고 돌아왔습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ZF5hW/btsMPLh32Bk/jybPHRIWzbAYBXbgqC1Ng1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/BvdgM/btsMP1yfpH6/8aIP6AVK0bJ0h2u8yl8NUK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dnHOSO/btsMPJEyI5E/e5Cxv9CA09xkCmuJr2wfx1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ZF5hW/btsMPLh32Bk/jybPHRIWzbAYBXbgqC1Ng1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/BvdgM/btsMP1yfpH6/8aIP6AVK0bJ0h2u8yl8NUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dnHOSO/btsMPJEyI5E/e5Cxv9CA09xkCmuJr2wfx1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0142_2025-03-20_1191043197_01.jpg",
@@ -2103,10 +2103,10 @@ const reportsData =[
     "weather": "fog",
     "content": "와플블록에 지속적으로 관심을 보이며 자동차, 기차, 큐브 등을 만들어서 놀이를 하였고, 천사점토에 종이빨대를 꽂아보고 생일축하노래를 부르며 박수를 치고 환한 웃음을 보이는 친구들이었습니다. 2층 유희실에 올라가 공구블록을 꽂고 톱니바퀴를 돌려보며 좋아하는 모습이었습니다.\n\n*오늘 25학년도 1학기 상담안내문을 보내드립니다. 빠짐없이 작성하신 후 3월 25일 화요일까지 회신 부탁드립니다.\n*하준이가 점심을 먹은 후 대변을 봤는데 양이 많아 바지에 조금 묻어서 갈아입었습니다.^^: 엉덩이도 깨끗하게 씻겨주었어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bEFnIY/btsMQAgZswn/t4FnalKSK7sw1Nqt0l6Br1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KGEzS/btsMRmPRRcT/hZKApZ2gGq6GWbSAo3it1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/gbVyg/btsMRc7L2Wx/Wdf0LlKAzVPSHSEDdySQlK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/AJq9Y/btsMRUZCqsy/XYRkMFhyjeqJ9hp3i8z3kk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bEFnIY/btsMQAgZswn/t4FnalKSK7sw1Nqt0l6Br1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KGEzS/btsMRmPRRcT/hZKApZ2gGq6GWbSAo3it1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gbVyg/btsMRc7L2Wx/Wdf0LlKAzVPSHSEDdySQlK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/AJq9Y/btsMRUZCqsy/XYRkMFhyjeqJ9hp3i8z3kk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0143_2025-03-21_1191744001_01.jpg",
@@ -2123,10 +2123,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 자동차도로 스펀지퍼즐을 끼워 연결하고 그 위를 걸어보기도 하고 자동차를 굴려보기도 하였습니다. 퍼즐을 끼우다가 얼굴을 가리고 \"까꿍~\"놀이로 이어가는 친구들입니다.^^ 박스종이에 여러가지모양 스티커 붙이기에 집중하고, 유희실에서 얼룩말을 신나게 타는 모습이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/btFTTS/btsMU0kJieA/dj3KsVBs1PX91AKhKKvSHk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dDkGK/btsMT6yXtf9/gpGl3uPosOLzG4jKVNoWlk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bQrw64/btsMTZz4nmi/OeayvfDipRV4NvoJQRfqjK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bw5mAG/btsMUu0FbfG/Pu2oYqXF7RzOIDpJoiDks0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/btFTTS/btsMU0kJieA/dj3KsVBs1PX91AKhKKvSHk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dDkGK/btsMT6yXtf9/gpGl3uPosOLzG4jKVNoWlk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bQrw64/btsMTZz4nmi/OeayvfDipRV4NvoJQRfqjK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bw5mAG/btsMUu0FbfG/Pu2oYqXF7RzOIDpJoiDks0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0144_2025-03-24_1192616567_01.jpg",
@@ -2143,10 +2143,10 @@ const reportsData =[
     "weather": "yellow_sand",
     "content": "바다반 친구들이 어제 모양 스티커에 관심을 집중하여 오늘은 동그라미, 세모, 네모 원목퍼즐을 지원하니 모양을 살피다가 찾아서 끼우는 모습입니다.  큰 모양에 작은 모양을 겹쳐서 끼우며 케이크를 떠올리고 생일축하노래를 부르며 즐거워하였습니다. 계단오르기 연습도 해보고 2층 유희실에서 공구놀이 톱니바퀴를 돌리며 흥미를 보였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dPvHz/btsMVCxJYpv/fYa1rLxVPk64HZ7m3760g1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/uvlFv/btsMVRIaWu1/QYpKQ49SmwkkrhkyEtzLK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dzveik/btsMWTrK7zu/8DKLe61AU3Fzqj1cymjGo0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/4Wl1H/btsMT1ZPebh/L3tTcjtLlNEAVZLDfx2wxK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dPvHz/btsMVCxJYpv/fYa1rLxVPk64HZ7m3760g1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uvlFv/btsMVRIaWu1/QYpKQ49SmwkkrhkyEtzLK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dzveik/btsMWTrK7zu/8DKLe61AU3Fzqj1cymjGo0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/4Wl1H/btsMT1ZPebh/L3tTcjtLlNEAVZLDfx2wxK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0145_2025-03-25_1193307154_01.jpg",
@@ -2163,10 +2163,10 @@ const reportsData =[
     "weather": "yellow_sand",
     "content": "열린어린이집 특색 놀이로 [사과가 쿵!] 동화를 주제로 사과 오감 놀이를 진행했습니다. 교실에 게시해놓은 사과 사진을 보며 자유롭게 탐색하는 시간을 가져보고 책을 읽고 난 후 독후 활동으로 사과를 직접 만져보고 냄새도 맡아보며 탐색해보았습니다. 빵칼을 이용해 사과를 자르는 놀이도 시도해보고 사과 스틱을 이용해 끼적이기도 해보았습니다. 그 중에서 사과 먹는 놀이를 제일 좋아하는 바다반 친구들이었답니다. ^^ 동화책과 연계해 오감으로 탐색해보는 풍부한 경험을 해보았답니다. \n하준이는 오전에 사과를 맛있게 먹고 응가도 시원하게 했답니다.^^ 점심에는 파프리카오므라이스를 계속 뱉어서 흰쌀밥을 제공하였더니 국물과 함께 잘 먹었습니다.\n*27일 목요일 10시 30분에 영유아 대상 [스마트폰 과의존 예방교육]이 진행됩니다.\n*28일 금요일 11시에 소방대피훈련 있습니다. 여벌양말을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/zXg7a/btsMWYgs3E8/p1Ij79ota8UFGZoX6ZxPE0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wxz7X/btsMWumCxHr/8lZAKqzrZVDKtGAqTXxwuK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ZhVWT/btsMVH04eZ8/bJrgYSU69852CkAiflRMQk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eRJwde/btsMVW4JmbO/LKc5eD6QFSIj2WdDPrOjrk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/zXg7a/btsMWYgs3E8/p1Ij79ota8UFGZoX6ZxPE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wxz7X/btsMWumCxHr/8lZAKqzrZVDKtGAqTXxwuK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZhVWT/btsMVH04eZ8/bJrgYSU69852CkAiflRMQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eRJwde/btsMVW4JmbO/LKc5eD6QFSIj2WdDPrOjrk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0146_2025-03-26_1193993117_01.jpg",
@@ -2183,11 +2183,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "오전에 영유아 대상으로 한 [스마트폰 과의존 예방교육]이 진행되었습니다. 약속시간만큼만 사용하고 밥 먹을때 사용하지 않기, 바른자세로 사용하기, 스마트폰대신 재미있는 놀이하기 등 올바른 스마트폰사용 방법들에 대해서 알아보았습니다. 교육 후 교실에서 자유롭게 놀이하며  블록놀이, 보자기로 까꿍놀이, 책읽기에 집중하는 모습이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/kW84z/btsMYrCMsW3/1mJKskZpkVev3MDy4HrII0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bfI2UI/btsMYHSY4BH/9T4OzFBpRjCdDbSJ0MK671/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/blvLyx/btsMZkQumxK/0503mqwC95RKkboZztuP70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/upSYY/btsMY5zilPC/9JSHS881r5RzmIY5HkFfv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/GDlkQ/btsMZtfzf7E/lf99ZLHEVfm1bYKVSFamvk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/kW84z/btsMYrCMsW3/1mJKskZpkVev3MDy4HrII0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bfI2UI/btsMYHSY4BH/9T4OzFBpRjCdDbSJ0MK671/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/blvLyx/btsMZkQumxK/0503mqwC95RKkboZztuP70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/upSYY/btsMY5zilPC/9JSHS881r5RzmIY5HkFfv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GDlkQ/btsMZtfzf7E/lf99ZLHEVfm1bYKVSFamvk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0147_2025-03-27_1194689266_01.jpg",
@@ -2205,9 +2205,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "과일 그림에 색연필과 크레용으로 끼적이기하고 도트물감으로 콕콕콕 찍어보았습니다. 하준이는 크레용으로 조금 끼적이다가 도트물감에는 크게 관심을 보이지 않았고, 왔다갔다하며 자유롭게 놀이하였습니다.^^ 오랫만에 바깥놀이를 나가 단지내를 한바퀴 돌고 돌아왔습니다. 새싹과 꽃을 발견하며 친구들과 선생님과 손잡고 함께 이동하는 연습을 해보았고, 11시에 진행된 소방대피훈련을 무사히 잘 마쳤습니다. \n하준이가 등원시에 울음을 보였지만 교실에 들어와서 안아달라고 표현하여 안아주고 안정을 찾았습니다. 점심시간에는 밥을 조금씩 떠서 놓으면 하준이가 수저를 들고서 잘 먹었습니다. 교사가 먹여주면 뱉는 경우가 많은데 스스로 먹으면 안 뱉고 밥을 잘 먹습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bdZJmy/btsMZXhu6om/IdpSelHl3vnbFP9EhbMtwk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/XxovF/btsM05ePe7R/ROdAHxrq2y5clY8uCtGmU1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0CcRC/btsM0HFf97U/YW8hpK23rG5EKweK5oIJIK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bdZJmy/btsMZXhu6om/IdpSelHl3vnbFP9EhbMtwk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/XxovF/btsM05ePe7R/ROdAHxrq2y5clY8uCtGmU1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0CcRC/btsM0HFf97U/YW8hpK23rG5EKweK5oIJIK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0148_2025-03-28_1195414752_01.jpg",
@@ -2223,9 +2223,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "놀이시간에 동물대탐험 레고 블럭과 베베블럭을 새롭게 지원해주니 관심을 보이며 블럭을 꽂아보며 탐색하였습니다.  종이블럭으로 집을 만들어 좋아하는 동물블럭을 안에 넣어주면서 놀이를 확장하는 모습이었습니다. 바깥산책을 나가 메낙골공원까지 손을 잡고 천천히 걷고, 솔방울을 찾아 바닥에 흙그림을 그려보기도 하였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bLObV3/btsM2aBgIKD/k2SrqsEW7VAkXKuW1Xpu5k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bgBY8B/btsM0KKiYSL/vdCkwvEcKmtWzk1sIh0dVk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxgYGP/btsM3oeraYr/EKRvy5BCERivX0CuebfY40/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bLObV3/btsM2aBgIKD/k2SrqsEW7VAkXKuW1Xpu5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bgBY8B/btsM0KKiYSL/vdCkwvEcKmtWzk1sIh0dVk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxgYGP/btsM3oeraYr/EKRvy5BCERivX0CuebfY40/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0149_2025-03-31_1196291030_01.jpg",
@@ -2241,10 +2241,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "새롭게 지원한 고리끼우기 원목블록에 호기심을 보이며 탐색하였고, 교실에 전지를 크게 펼쳐서 친구들의 손과 발을 그려보고 동물 그림을 그려서 색칠도 해보았습니다. 바깥놀이시간에 산책을 나가 따스한 햇살을 느껴보았고, 배드민턴장에서 자유롭게 뛰어다니면서 충분한 신체활동을 하였습니다.\n하준이가 배드민턴장에서 신나게 뛰다가 넘어져서 입술을 부딪혔습니다. 피가 나거나 울지는 않았지만 윗입술쪽에 조금 상처 자국이 남았습니다ㅠㅠ 가정에서도 한번 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cLVZTR/btsM2bVorz4/LiDYJNoKM2skJuSVW7CeK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/f800v/btsM4e4oaMn/Ci8Q6jpAVMzI6jPjfXUqu0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/baC7EU/btsM18Ejr6I/v9oVL18dJEoqtowDmCkAY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bvrqhy/btsM3VcXaJ8/BELKjKuZdDr7FyyUBIi9s0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cLVZTR/btsM2bVorz4/LiDYJNoKM2skJuSVW7CeK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/f800v/btsM4e4oaMn/Ci8Q6jpAVMzI6jPjfXUqu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/baC7EU/btsM18Ejr6I/v9oVL18dJEoqtowDmCkAY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvrqhy/btsM3VcXaJ8/BELKjKuZdDr7FyyUBIi9s0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0150_2025-04-01_1197013723_01.jpg",
@@ -2261,10 +2261,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "등원하여 새로운 놀잇감 자석블록과 사자피아노에 관심을 보이며 악기연주를 해보았고, 나무그림에 플레이콘 폼폼이에 물을 묻혀서 붙여보며 소근육활동을 하였습니다. 텃밭에 올라가 내일 있을 식목일 행사에 대해 이야기를 나누고, 모종을 심을 흙을 만져보며 부드러운 촉감도 느껴보았답니다. 옥상 인조잔디 공간에서 마음껏 뛰어놀며 에너지를 발산하는 바다반 친구들이었습니다.\n하준이가 오늘은 점심 쇠고기볶음밥을 계속 뱉어 흰밥을 제공하여 숭늉과 조금 먹었습니다. 평소보다 적게 먹었습니다.\n\n*하준이 아버님 [열린어린이집 참여활동 안내] 입니다.\n-일시: 4월 9일 (수) \n-시간: 10:30 (1시간정도 소요 예정)\n-활동 내용: 아이들과 함께 산책 및 실외활동 진행 및 급식 배식 참여 예정입니다. 일정 참고 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gWYrh/btsM4n87w1I/VZSj5hrPX5UtO7cQRlGfBK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/g8o9I/btsM4j6GMv2/KCoYK2Of1KifClLylmGIY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b3Dpuz/btsM6okXohd/HNlYaoM6Ks9cyj2FvJWnY0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OvVXg/btsM424xeUF/JncsIuYreRrQ0jWhkg5xE0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gWYrh/btsM4n87w1I/VZSj5hrPX5UtO7cQRlGfBK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g8o9I/btsM4j6GMv2/KCoYK2Of1KifClLylmGIY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b3Dpuz/btsM6okXohd/HNlYaoM6Ks9cyj2FvJWnY0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OvVXg/btsM424xeUF/JncsIuYreRrQ0jWhkg5xE0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0151_2025-04-02_1197716690_01.jpg",
@@ -2281,11 +2281,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "식목일 행사로 옥상텃밭에 올라가 모종심기 활동을 진행하였습니다. 상추와 방울토마토 모종을 관찰해보고, 삽으로 흙을 파서 구멍을 만들고 모종을 넣어 심어보았습니다. 흙을 다시 덮어 토닥토닥해주고 물조리개로 물을 뿌려주며 \"잘자라라~\"하고  이야기하면서 관심과 애정을 표현하는 바다반 친구들이었습니다. 앞으로의 더욱 다양한 텃밭활동을 기대해주세요~!!^^\n하준이가 요즘 입맛이 없는지 식사량이 1/2정도로 적은 편입니다. 하준이의 활동량을 보면 섭취량이 늘어야 할 것 같은데 조금 걱정이 됩니다. 가정에서도 음식을 충분히 섭취할 수 있도록 도와주시고, 원에서도 더 먹을 수 있도록 노력해보겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/i9eDP/btsM5zhzuTv/TFdwYUT5ZDEl1tuq1OFGb0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NJvte/btsM5vfnifm/LKLkrxeYEnpmMyreoOQbmk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/B7RCH/btsM8cdSvD3/MkkTlDkPUbioPZLv6YqUK1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Y5brm/btsM6qRJgcQ/uc0sKgHVPHKIdf8kB3VeUK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/oRETn/btsM78P4Ot9/jeNHVnY3ndokskZXHMb4c1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/i9eDP/btsM5zhzuTv/TFdwYUT5ZDEl1tuq1OFGb0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NJvte/btsM5vfnifm/LKLkrxeYEnpmMyreoOQbmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/B7RCH/btsM8cdSvD3/MkkTlDkPUbioPZLv6YqUK1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Y5brm/btsM6qRJgcQ/uc0sKgHVPHKIdf8kB3VeUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oRETn/btsM78P4Ot9/jeNHVnY3ndokskZXHMb4c1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0152_2025-04-03_1198425173_01.jpg",
@@ -2303,11 +2303,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "놀잇감 던지기를 좋아하는 바다반 친구들에게 볼풀공을 지원하여 굴려보고 던져보며 실내 활동을 하였습니다.  시트지를 붙인 훌라후프 안에 던져서 붙이기를 시도해보았고, 기다란 박스 안에 공을 넣어 또르르 굴려보기도 했습니다. 발로 밟으며 끈적끈적한 시트지의 촉감에 흥미를 보이고 까꿍놀이로 확장하며 놀이를 이어가는 모습이었습니다. 옥상 텃밭에 올라가 어제 심었던 상추와 토마토를 관찰하고 물을 준 후 옥상 공간에서 \"준비~땅!\"하며 힘차게 뛰어보았답니다.\n하준이가 제이에게 다가와 머리를 쓰다듬어 주었고, 마주보며 웃는 모습이 사랑스러운 친구들 입니다.^^ 오늘 점심은 고구마조림을 맛있게 먹으며 밥을2/3정도 먹었습니다. 점심 후 변도 시원하게 보았습니다~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ypg5x/btsM8ejYbf0/hojG5Z3yxQqfMSkg9N2Z5K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/uRylE/btsM9olmwFA/adCNeDWXr9k1yXTpPoYZ6K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/GMbTe/btsM8sbegRq/GSKxGyy2wOzaE3RR7x1vQ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/oxiQz/btsM8ri2o5S/9GrQzD1oR09GtfwMAsiW6K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cehsSJ/btsM9bGw5dL/nkWXBekNrrNnLWeByb6qz0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ypg5x/btsM8ejYbf0/hojG5Z3yxQqfMSkg9N2Z5K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uRylE/btsM9olmwFA/adCNeDWXr9k1yXTpPoYZ6K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GMbTe/btsM8sbegRq/GSKxGyy2wOzaE3RR7x1vQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oxiQz/btsM8ri2o5S/9GrQzD1oR09GtfwMAsiW6K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cehsSJ/btsM9bGw5dL/nkWXBekNrrNnLWeByb6qz0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0153_2025-04-04_1199130150_01.jpg",
@@ -2325,10 +2325,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "다양한 봄꽃 사진을 관찰하며 꽃길을 따라 걷고, 점프도 해보며 개나리, 수선화, 튤립, 벛꽃, 목련 등 꽃이름을 알아보았습니다. 날씨가 좋아 바깥 산책을 하다가 사진에서 본 개나리를 보고 손가락으로 가리키며 \"개나리~\"하고 알아보는 친구들입니다. 배드민턴장에서 달리기도 하고 단지내를 한바퀴 돌면서 따스한 봄햇살을 만끽하였습니다.\n하준이는 낮잠시간 전까지 피곤해하거나 졸려하지 않고 평소처럼 잘 지냈습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/edoGZ/btsNayWXb2R/g2uQuZ852J8BNPqIYr1Y30/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dIxtkz/btsNb23n322/nYKHkiLzQk24C2JTrSkXQ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bXlUiX/btsNaHF7WgZ/WKb79knGaSXJoa3NhFbDak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ddVAT8/btsNbrvLYVm/nlr6KdYLB8r9JlzjDhvKnK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/edoGZ/btsNayWXb2R/g2uQuZ852J8BNPqIYr1Y30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dIxtkz/btsNb23n322/nYKHkiLzQk24C2JTrSkXQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bXlUiX/btsNaHF7WgZ/WKb79knGaSXJoa3NhFbDak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ddVAT8/btsNbrvLYVm/nlr6KdYLB8r9JlzjDhvKnK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0154_2025-04-07_1200036691_01.jpg",
@@ -2345,10 +2345,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "안전교육으로 교실에 게시해 놓은 '약은 무엇일까요?' 그림에 관심을 보이며 우리가 아플때 먹는 약에 대해 이야기를 나누었습니다. 내일 있을 열린어린이집 봄꽃액자만들기 사전활동으로 박스로 만든 액자틀에 색연필과 스티커로 자유롭게 꾸며주었고, 액자틀을 들고 얼굴을 까꿍~하며 환한 웃음을 보이는 바다반 친구들입니다. 실내대체활동으로 유희실에서 붕붕카를 타고 계단오르내리기를 하며 충분한 신체 활동을 하였습니다. \n*4월 10일 목요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.\n*하준이 아버님 내일 [열린어린이집 참여활동 안내] 드립니다. 10:30분까지 바다반 호출하시고 오셔서 아이들과 함께 산책 및 실외활동 진행 및 급식 배식 참여 예정입니다. 내일 뵙겠습니다!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/baqx0D/btsNdS7g5S2/2SSFivdffffr0PkhFpBGvK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d4CQP/btsNb84TIkn/N7rIq922eyAzsUnlQhkZ50/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cccsGZ/btsNci7b43L/junolWcirBpRDEYb3HYPg0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ca43XT/btsNdjRPPqF/JLV2kqK00kdNLR8KtfVKX1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/baqx0D/btsNdS7g5S2/2SSFivdffffr0PkhFpBGvK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d4CQP/btsNb84TIkn/N7rIq922eyAzsUnlQhkZ50/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cccsGZ/btsNci7b43L/junolWcirBpRDEYb3HYPg0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ca43XT/btsNdjRPPqF/JLV2kqK00kdNLR8KtfVKX1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0155_2025-04-08_1200716865_01.jpg",
@@ -2365,11 +2365,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 열린어린이집 [산책:봄꽃액자 만들기]활동으로 두하준 아버님께서 오셔서 함께 활동을 진행하였습니다. 메낙골공원으로 산책을 나가 봄꽃구경을 하며 천천히 걷고, 꽃잎과 나뭇잎을 탐색하며 액자에 붙여서 봄꽃액자를 만들었습니다. 벚꽃이 활짝 펴서 바다반 친구들과 봄 풍경을 느껴보며 즐거운 시간을 보냈습니다. 적극적으로 도움을 주신 하준이 아버님께 감사의 말씀을 드립니다.\n하준이가 산책을 하며 아빠에게 안아달라고 계속해서 표현하고, 손을 놓고 혼자서 가려고 해서 아버님께서 많이 힘드셨을 거에요. 하준이는 점심시간에 아버님 가시고 나서도 울음을 보이지 않았고, 배가 고팠는지 밥을 한그릇 뚝딱 다 먹었답니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/PpWr8/btsNcrDXaN0/vX68VQEyVXNd27xkoCLrbK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wL9ok/btsNdyB9Xus/9hEGzJZt8zMwINz7r1XRp0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/izNxe/btsNerIZNo0/pnCthLRHMT6bck7IAqNME0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/paWCs/btsNeS7se76/Z4PGzKsV2Ua5Xu2C2hu2MK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cmkWWW/btsNcoUOkNo/NGopKsKeyeGsafjfmpwTi1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/PpWr8/btsNcrDXaN0/vX68VQEyVXNd27xkoCLrbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wL9ok/btsNdyB9Xus/9hEGzJZt8zMwINz7r1XRp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/izNxe/btsNerIZNo0/pnCthLRHMT6bck7IAqNME0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/paWCs/btsNeS7se76/Z4PGzKsV2Ua5Xu2C2hu2MK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cmkWWW/btsNcoUOkNo/NGopKsKeyeGsafjfmpwTi1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0156_2025-04-09_1201398115_01.jpg",
@@ -2387,11 +2387,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "신문지에 관심을 보이며 길게 쭉쭉 찢어보기도 하고 동글동글 뭉쳐서 바구니에 던져보다가 까꿍놀이로 이어가며 친구들 이름을 부르면서 함께 놀이하는 모습입니다. 물감놀이로 빨강,노랑,파랑 여러가지 물감을 종이에 꾹꾹 짜서 비닐에 넣고 손가락으로 눌러보았습니다. 물감이 퍼지며 다양한 모양을 만들어내고 섞이는 모습을 유심히 관찰하는 바다반 친구들이었습니다.  \n소방대피훈련을 안전하게 마치고, 옥상텃밭에 올라가 물을 준 후 뛰어놀며 신체활동을 하였습니다. \n*4월 17일 목요일에 생일파티가 예정되어 있습니다. 선물의 즐거움을 함께 느낄 수 있도록, 4/15(화)까지 3,000원 미만의 선물을 준비해 주시면 감사하겠습니다.^^\n생일맞은 친구(김지안(여) / 안현우(남))",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cuhB6f/btsNfjyhNgb/s5yBBQWK2lkkdadyDFQxvK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cOSwXg/btsNd5HFhie/LygfEc608T4fsKHrJqLH7K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cwSxO0/btsNfi64GxQ/oiobR7KmzlZ5wuAn3eFRmk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OO36W/btsNf9VTcry/DcLw0lzQqvzaiOKd4Qfs9K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bImd6Z/btsNfEIPnd1/cgXQkg9Csf8ySUd5KKW6N1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cuhB6f/btsNfjyhNgb/s5yBBQWK2lkkdadyDFQxvK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cOSwXg/btsNd5HFhie/LygfEc608T4fsKHrJqLH7K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cwSxO0/btsNfi64GxQ/oiobR7KmzlZ5wuAn3eFRmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OO36W/btsNf9VTcry/DcLw0lzQqvzaiOKd4Qfs9K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bImd6Z/btsNfEIPnd1/cgXQkg9Csf8ySUd5KKW6N1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0157_2025-04-10_1202115323_01.jpg",
@@ -2409,11 +2409,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "꽃잎놀잇감을 지원하여 머리위로 뿌려보고 던져보며 놀이를 시작한 친구들이 컵과 접시, 그물원통에 담았다가 꺼냈다가 하며 소꿉놀이로 이어가는 모습이었습니다. 텃밭 팻말 만들기 활동으로 색연필과 아크릴물감을 이용하여 꾸며주었습니다. 미술활동에 관심이 많은 바다반 친구들은 알록달록한 색으로 바다반 나무팻말을 완성하였답니다. 실내대체활동으로 자전거와 붕붕카를  타면서 빠르고 느리게 속도 조절도 능숙하게 해내는 바다반 친구들입니다. \n하준이는 붕붕카를 타는 것보다 뒤에서 손잡이를 잡고 힘차게 밀며 함박웃음을 보였답니다.^^ \n오늘 점심에 밥을 한번도 뱉지 않고 국물과 함께 다 먹었습니다~!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/vxZyd/btsNhqqyNlf/vvTOehFLkIDof4sHfPkUW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dt7ksI/btsNhdZzxyd/6pvjNtGCinR8Kgo1bo8zH0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/53Ckp/btsNh8QfUcd/RezsgOk3rVDJQphPriPBQk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bl0WZy/btsNhNy4OzQ/aUTSpOh6CFFqHpO0sPVbKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QQ8Si/btsNgEC70QF/8DyKom1Z5S1lSr35EU2dK1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/vxZyd/btsNhqqyNlf/vvTOehFLkIDof4sHfPkUW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dt7ksI/btsNhdZzxyd/6pvjNtGCinR8Kgo1bo8zH0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/53Ckp/btsNh8QfUcd/RezsgOk3rVDJQphPriPBQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bl0WZy/btsNhNy4OzQ/aUTSpOh6CFFqHpO0sPVbKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QQ8Si/btsNgEC70QF/8DyKom1Z5S1lSr35EU2dK1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0158_2025-04-11_1202801419_01.jpg",
@@ -2431,11 +2431,11 @@ const reportsData =[
     "weather": "rain",
     "content": "교실 바닥의 봄꽃 사진위에 뽁뽁이를 길게 붙여주었더니 관심을 보이며 탐색하는 친구들 입니다. 왔다갔다 걸어보고 점프하며 톡톡 터지는 촉감이 재미있는지 앉아서 손가락으로 꾹꾹 눌러 터뜨려보기도 하였습니다. 새롭게 지원한 동물 색깔블록 맞추기에도 흥미를 보였고, 1층과 2층 유희실을 오가며 신나게 신체활동을 하였답니다.\n하준이는 오늘 입맛이 없었는지 계란말이와 밥을 조금 먹고 1/2정도 남겼습니다. 오전시간과 점심시간 전후로 열은 오르지 않았습니다. \n*4월 17일 목요일에 생일파티가 예정되어 있습니다. 선물의 즐거움을 함께 느낄 수 있도록, 4/15(화)까지 3,000원 미만의 선물을 준비해 주시면 감사하겠습니다.^^\n생일맞은 친구(김지안(여) / 안현우(남))",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dybvCc/btsNjDwUfa2/FnLFg2ko8cs1eRsF16z61k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fB6pM/btsNgyXj4Ga/8qqblkH4kNH6xKZ0npgT81/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/DR20l/btsNi0GbRRV/xdo9SWWUN83i8BpOOx9Q3K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/crQm82/btsNjCkpsyk/knuqeBqpGb0hn26MUJMew0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cnVWmS/btsNivywrwl/gHSnHAG5NcLvFG9uuK4oX1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dybvCc/btsNjDwUfa2/FnLFg2ko8cs1eRsF16z61k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fB6pM/btsNgyXj4Ga/8qqblkH4kNH6xKZ0npgT81/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DR20l/btsNi0GbRRV/xdo9SWWUN83i8BpOOx9Q3K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/crQm82/btsNjCkpsyk/knuqeBqpGb0hn26MUJMew0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cnVWmS/btsNivywrwl/gHSnHAG5NcLvFG9uuK4oX1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0159_2025-04-14_1203694363_01.jpg",
@@ -2453,11 +2453,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "봄 꽃잎 놀잇감을 좋아하는 친구들에게 알록달록 봄 원목블록을 새롭게 지원하여 나무, 짹짹이, 나비블록을 끼우며 놀이하였습니다. 교실에서 투호놀이를 시도해보았는데 화살을 알모양 원통속에 쏙쏙 넣으며 집중하는 모습이었습니다. 바깥놀이 산책을 나가 메낙골 공원에서 꽃길을 걸으며 \"나비야~\",\"아빠 힘내세요~\"노래를 부르면서 힘차게 걸어보았답니다. 날씨가 너무 좋아 평소보다 긴 산책코스를 걸어서 잘 다녀왔고, 점심을 맛있게 먹은 후 낮잠시간에 꿀잠을 잤답니다.^^\n하준이는 산책나가기 전에 대변을 시원하게 한번 보았고, 엉덩이에 발진은 거의 보이지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dvi5Pr/btsNmfWajTB/0i3yEkjdbdFy2RUXSDzLu1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cnXNYe/btsNmsAGq2e/KYFZKGfIdKTpCnwM9Lsobk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6VJiH/btsNiWwww7h/yjMklR915S0BKqltVTD7K1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bvNx3H/btsNlJQY0X0/uQx7zWsCyA4aEptRDx1q8k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pJud9/btsNlM1eL7D/aoy2TgQ9dC6bKEgSlqJRKK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dvi5Pr/btsNmfWajTB/0i3yEkjdbdFy2RUXSDzLu1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cnXNYe/btsNmsAGq2e/KYFZKGfIdKTpCnwM9Lsobk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6VJiH/btsNiWwww7h/yjMklR915S0BKqltVTD7K1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvNx3H/btsNlJQY0X0/uQx7zWsCyA4aEptRDx1q8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pJud9/btsNlM1eL7D/aoy2TgQ9dC6bKEgSlqJRKK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0160_2025-04-15_1204361889_01.jpg",
@@ -2475,11 +2475,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 아이들이 기다리던 백설공주 인형극 관람 시간이 있었습니다. 처음에는 낯설어서 울음을 보이는 친구도 있었지만 의젓하게 앉아 인형들의 재미있는 춤과 익숙한 노래를 들으며 집중해서 관람했답니다. \n이번 인형극은 단순한 공연 관람을 넘어, ‘모르는 사람이 주는 음식은 먹지 않아요!’ 라는 안전교육도 함께 이루어졌어습니다. 아이들은 극 중 백설공주가 낯선 이가 준 사과를 먹고 쓰러지는 장면을 통해 안전교육의 경험도 해볼 수 있었습니다.\n하준이는 인형극을 보러 하늘반에 들어가자마자 크게 울음을 보였지만, 교사의 품에 안겨서 진정하고 인형극을 보다가 나중에는 음악소리에 일어서서 몸을 흔들고 박수를 치며 좋아하였답니다.^^ \n오전 자유놀이 시간에는 아이들이 각자 좋아하는 놀이를 찾아 편안하게 시간을 보냈습니다. 자유롭게 선택하고 스스로 놀이에 몰입하는 모습에서 한층 더 자란 아이들의 모습이 보였답니다.\n*내일은 10시 30분에 현우와 지안이의 생일파티가 있습니다. 참고해주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/jWlMV/btsNnvSh7vK/odRzAKtnMua8CEAaJv0A71/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kwR0Y/btsNnjYQsgk/zjIFWT7A0zuPLw6LujCCz0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/qeHHw/btsNmAfX1Ls/j5BvKvzv1WVyI1kogxp2dk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b5NnGV/btsNmsoZZyN/pzV58euru4SH5v45Arpfq1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dQxMLf/btsNn8WvlFB/Kr4YRbO0MtR1tkIbRTYUGK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/jWlMV/btsNnvSh7vK/odRzAKtnMua8CEAaJv0A71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kwR0Y/btsNnjYQsgk/zjIFWT7A0zuPLw6LujCCz0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qeHHw/btsNmAfX1Ls/j5BvKvzv1WVyI1kogxp2dk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b5NnGV/btsNmsoZZyN/pzV58euru4SH5v45Arpfq1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dQxMLf/btsNn8WvlFB/Kr4YRbO0MtR1tkIbRTYUGK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0161_2025-04-16_1205057861_01.jpg",
@@ -2497,12 +2497,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "교실 바닥에 붙여 둔 다양한 봄꽃 그림을 함께 살펴본 뒤 선생님의 손을 꼭 잡고 “하나, 둘, 셋!” 점프놀이를 하며 신체활동으로 확장되었습니다. 이어진 스카프 놀이 시간엔 알록달록한 스카프를 휘날리며 봄바람을 표현해 보았어요. “따뜻한 봄바람이다!” 하며 몸을 자유롭게 움직이고 즐겨보며 상상놀이가 활발하게 이루어졌습니다.\n오늘은 현우와 지안이의 생일잔치가 열렸습니다. 친구들과 함께 생일 축하 노래를 부르고, 선물도 함께 나누며 기쁨을 함께해보았답니다. 함께 축하하고 나누는 경험 속에서 배려와 공감의 마음도 자라나는 하루였습니다. 하루하루 다양한 경험을 통해 성장해 나가는 바다반 친구들 정말 대견합니다.^^\n하준이가 오늘 점심은 과일샐러드 사과를 맛있게 두번 먹고나서 밥은 두 숟가락 먹고 먹지 않겠다고 해서 남겼습니다ㅠㅠ\n 다리는 불편해하지 않았고 뛰어다니고 계단오르내리기도 잘 하였습니다.\n오후간식후 묽은변을 보았습니다. 가정에서도 변상태를 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/iioCz/btsNo7DEJCL/B7q4iVwDFGmKKX3njDv2ik/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bkobUZ/btsNn2Ky9Pj/ahKbkQAFi2xGk6RVyRI4nK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Bb0GU/btsNpoSFf5q/JEPqdtKqxoBEemWLuYGvJ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/svUs3/btsNn0sowcd/CXSo9FKkS82XSXFjjooXe0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/do9vNk/btsNpo6cgUf/D5Od9B2TEz6AxacfGuURx1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ckWwvn/btsNn065I1e/SBGM1403kjwcsMNCcz08X1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/iioCz/btsNo7DEJCL/B7q4iVwDFGmKKX3njDv2ik/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkobUZ/btsNn2Ky9Pj/ahKbkQAFi2xGk6RVyRI4nK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Bb0GU/btsNpoSFf5q/JEPqdtKqxoBEemWLuYGvJ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/svUs3/btsNn0sowcd/CXSo9FKkS82XSXFjjooXe0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/do9vNk/btsNpo6cgUf/D5Od9B2TEz6AxacfGuURx1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckWwvn/btsNn065I1e/SBGM1403kjwcsMNCcz08X1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0162_2025-04-17_1205762716_01.jpg",
@@ -2521,12 +2521,12 @@ const reportsData =[
     "weather": "fog",
     "content": "달걀 마라카스를 흔들고 사자 피아노 건반을 누르며 신나는 악기놀이 시간을 가졌습니다. 리듬을 타며 친구들과 함께 몸을 흔들고 스카프를 활용해 까꿍놀이로 확장하는 모습입니다. 교실벽에 걸어둔 가족사진을 보며 엄마, 아빠를 손가락으로 짚으며 미소를 보이고, 교사와 [아주아주 배고픈 애벌레]책을 읽어보며 집중해서 이야기를 듣는 친구들입니다. \n바깥놀이를 나가 \"집게차~\"하며 집게차의 움직임을 유심히 보다가 단지내에 활짝 핀 철쭉꽃을 관찰하며 자연의 아름다움을 느껴보았습니다. 꽃보다 예쁜 바다반 친구들과 비누방울 놀이도 해보며 즐거운 시간을 보냈답니다.😊\n하준이가 오늘 점심에 미소된장국(팽이버섯)과 김치를 맛있게 먹으며 밥 한그릇을 다 먹었습니다~ 점심 후에 대변도 시원하게 보았고 변상태도 괜찮았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/11Xl0/btsNqnmFS6C/AbQuy610cl24yrbFCelgAK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dbCDNf/btsNrjwJb1v/LYfbXMzfdlfcktdQScyg91/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6fBXY/btsNrazSzew/frGIukqBLA6lvONh1KVK91/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cDgYSv/btsNpX263Ln/EnujAQclRBegYcw2Z0rIvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/caliI7/btsNpttqvGV/xVnDldudKnUOkKg4gybkpk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bevTBT/btsNqpqwcrb/iOQ64wl4Y6xJUBrJ9p5DA0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/11Xl0/btsNqnmFS6C/AbQuy610cl24yrbFCelgAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dbCDNf/btsNrjwJb1v/LYfbXMzfdlfcktdQScyg91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6fBXY/btsNrazSzew/frGIukqBLA6lvONh1KVK91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cDgYSv/btsNpX263Ln/EnujAQclRBegYcw2Z0rIvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/caliI7/btsNpttqvGV/xVnDldudKnUOkKg4gybkpk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bevTBT/btsNqpqwcrb/iOQ64wl4Y6xJUBrJ9p5DA0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0163_2025-04-18_1206467298_01.jpg",
@@ -2545,11 +2545,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "지난주에 이어 악기놀잇감과 스카프에 흥미를 보이며 탐색하였고, 스카프로 음식놀잇감을 싼 보자기를 들고 다니기도 하고 아기인형으로 어부바를 하고 토닥이며 친구들과 함께 역할놀이로 확장하는 모습이었습니다. \n바깥놀이시간에는 배드민턴장에서 뛰어놀며 주변에서 개미집을 찾아보고 개미들의 움직임을 관찰하였습니다.\"개미다~\"하며 유심히 살펴보고 신체 활동과 자연 관찰을 동시에 즐기는 시간이었습니다.\n하준이가 오늘 \"엄~~마\"를 정확하게 발음하며 반복해서 엄마를 불러보았답니다.👍\n점심에 나물반찬만 조금 남기고 밥과 국, 닭살볶음과 깍두기까지 다 먹었습니다.^^ 낮잠시간에는 쪽쪽이를 달라고해서 10분정도 누워서 물고 있다가 \"하준아 이제 자자~\"하고 쪽쪽이를 빼고 교사가 옆에서 토닥토닥해주고 이마와 미간을 살살 만져주니 스르륵 잠이 들었습니다. 5~10분정도 쪽쪽이 빠는 욕구를 충족시킨 후에 빼고  자는 것으로 해서 서서히 끊으면 될 것 같습니다.\n콧물은 오전에는 조금 났고 낮잠후부터 많이 났습니다. 오전에 10시40분경 묽은변을 한번 보았습니다. 가정에서도 변상태를 체크해주세요.\n\n*하준이 어머님 [열린어린이집 참여활동 안내] 입니다.\n-일시: 4월 23일 (수) \n-시간: 10:30 (1시간정도 소요 예정)\n-활동 내용: 아이들과 함께 실내 특색놀이 및 활동 진행 및 급식 배식 참여 예정입니다. 일정 참고 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/HTzI3/btsNpxjGeoN/f5TBcwlkcOkNwhf6czN0Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xMTKF/btsNsUFudKl/IIyd3MRZRFMwPufhvHYI41/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bLGlFh/btsNpwLS5Jy/tF2rBCHmNFmA6a5EQHU9b0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tfreS/btsNt2vyNyK/kvrrC1fpVnwbM2oWvw8eUk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/iBqZ2/btsNtQuMoKo/mIRxLi5TDKKVc0TkuLFDF0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/HTzI3/btsNpxjGeoN/f5TBcwlkcOkNwhf6czN0Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xMTKF/btsNsUFudKl/IIyd3MRZRFMwPufhvHYI41/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bLGlFh/btsNpwLS5Jy/tF2rBCHmNFmA6a5EQHU9b0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tfreS/btsNt2vyNyK/kvrrC1fpVnwbM2oWvw8eUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iBqZ2/btsNtQuMoKo/mIRxLi5TDKKVc0TkuLFDF0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0164_2025-04-21_1207344630_01.jpg",
@@ -2567,12 +2567,12 @@ const reportsData =[
     "weather": "rain",
     "content": "휴지와 싸인펜, 스포이드를 활용하여 애벌레 놀이활동을 해보았습니다. 휴지를 길게 잘라 빨대에  둘둘 말아주고, 싸인펜으로 콕콕콕 색칠한 후 스포이드로 물을 뿌렸더니 휴지가 서서히 퍼지면서 애벌레처럼 움직이는 모습을 볼 수 있었습니다. 스포이드에 많은 관심을 보이며 물을 넣었다가 휴지와 신문지에 뿌려주기를 반복하며 집중하는 바다반 친구들입니다. \n유희실에서 미끄럼틀과 붕붕카를 타고, 뒤에서 손잡이를 잡고 힘차게 친구를 밀어주기도 하며 신나게 신체활동을 하였습니다. 하준이가 너무 신이나서 뛰다가 넘어져서 윗입술을 부딪혀 빨갛게 조금 멍이 들었습니다. 가정에서도 살펴봐주세요.\n \n하준이가 입모양을 유심히 보고 비슷하게 따라하려고 시도하고 있어 쉬운 단어부터 반복적으로 알려주고 있답니다. 오늘은 \"엄~마, (아)가, 까까\" 발음을 익히며 따라하는 하준이입니다.^^\n점심시간에 새우살조림을 맛있게 먹으며 버섯볶음만 남기고 밥과 국물, 건더기까지 싹싹 다 먹었습니다. 쪽쪽이는 오늘도 10분정도 한 후 \"하준아 쪽쪽이 빼고 자자~\"하고 이야기한 후 교사가 옆에 누워서 손을 잡아주고 눈썹사이 미간을 살살 쓰다듬어주니 금세 잠이 들었습니다. 쪽쪽이를 대체하여 손가락을 빨 수도 있어서 손을 잡아주시면 좋을 것 같고, 지금처럼 입면시에만 잠시 주고 연습하면 두돌 전에 충분히 끊을 수 있을 것 같습니다.^^\n오늘도 기특한 하준이 가정에서도 칭찬 많이많이 해주세요~!!😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bgQbM0/btsNrvltvsC/ahiZoLmN82V36th2oIeDN0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SKED5/btsNuIKncUH/2oc8kKYF1W326S7KTzoRV1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bDOmjz/btsNu4GSy3H/kFwGh4b2naQtJm0iWA2KEK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bUILSa/btsNr8DwrPk/9RIA6daQpmaLC1Ed6hpXA1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bYlXqK/btsNuCqyRGK/yanEKZ24qXv2JzMZKD2ngk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bd6Qaw/btsNvfVHcSq/ebP4wQcVyYDNNQByFTy5Sk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bgQbM0/btsNrvltvsC/ahiZoLmN82V36th2oIeDN0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SKED5/btsNuIKncUH/2oc8kKYF1W326S7KTzoRV1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bDOmjz/btsNu4GSy3H/kFwGh4b2naQtJm0iWA2KEK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bUILSa/btsNr8DwrPk/9RIA6daQpmaLC1Ed6hpXA1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bYlXqK/btsNuCqyRGK/yanEKZ24qXv2JzMZKD2ngk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bd6Qaw/btsNvfVHcSq/ebP4wQcVyYDNNQByFTy5Sk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0165_2025-04-22_1208033999_01.jpg",
@@ -2591,12 +2591,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린어린이집 [배고픈 애벌레]활동으로 안현우 어머님께서 오셔서 함께 활동을 진행하였습니다. 배고픈 애벌레 동화를 듣고 양말과 볼풀공을 활용하여 애벌레를 만들어 보았습니다. 애벌레 터널을 꼬물꼬물 기어가서 나오기를 반복하며 즐거워하는 친구들입니다. 옥상텃밭에 올라가 물을 주고 애벌레도 찾아보았고, 현우 어머니와 함께 잡기놀이도 하며 신나는 신체활동을 하였습니다. 바다반 친구들과 눈을 맞추고 이야기를 하면서 적극적으로 도움을 주신 현우 어머님께 감사의 말씀을 드립니다.\n하준이는 오늘 점심을 반찬과 밥 국까지 싹싹 다 먹었습니다. 낮잠시간에는 조금 시간이 걸리긴 했지만 \"굿나잇~\"하니 \"나~이\"하고 따라하며 웃음을 보이고 \"자장자장~아구 이쁘네~\"하며 토닥토닥해주니 스르륵 잠이 들었습니다.^^\n콧물은 거의 없었고, 오전에 설사를 하여 바지에 조금 새서 갈아입었습니다. 가정에서도 설사증상이 있는지 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cisOZW/btsNwauk3FC/x2xCNyx8xRVKG8CEPlBYxk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cV3dVp/btsNwbNwn4h/50T1T2f6eld26NdJsKRKhk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ACMCU/btsNvy3Lp4E/yXRUBZsnHJKxT2GenWS4v1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/JquIm/btsNvyin2bd/ZBWPhVbu3hy4Hfgs0kIDp1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vAT9L/btsNwoy42Ie/B7gNWuYiJQbSQinjZuryX1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/F4vko/btsNwn1gxhd/gZCEgUksleefKvSIVMCwnk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cisOZW/btsNwauk3FC/x2xCNyx8xRVKG8CEPlBYxk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cV3dVp/btsNwbNwn4h/50T1T2f6eld26NdJsKRKhk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ACMCU/btsNvy3Lp4E/yXRUBZsnHJKxT2GenWS4v1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JquIm/btsNvyin2bd/ZBWPhVbu3hy4Hfgs0kIDp1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vAT9L/btsNwoy42Ie/B7gNWuYiJQbSQinjZuryX1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/F4vko/btsNwn1gxhd/gZCEgUksleefKvSIVMCwnk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0166_2025-04-23_1208755063_01.jpg",
@@ -2615,9 +2615,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제 애벌레 터널놀이에 흥미를 보인 친구들이 터널을 기어서 통과하며 균형 감각과 협응력을 발달시키고,  몸을 구부리고 움직이며 대근육 발달에도 도움이 되었습니다.\n바깥산책을 나가 걸음을 천천히 조절하여 걸어보고 중간 중간 꽃도 구경하며 의자에 앉아 바람도 느껴보면서 한시간 정도 여유있게 실외활동을 해보았습니다. 시원한 바람과 따뜻한 햇살을 느끼며 활짝 핀 하얀색과 분홍색 철쭉꽃과 꽃 주변에서 발견할 수 있는 벌, 나비, 개미 등을 관찰하며 자연에 대한 관심이 높아진 바다반 친구들이었습니다.\n상반기 신체계측을 통하여 한뼘 더 자란 아이들의 모습을 볼 수 있었습니다.\n(두하준：키 81.0cm, 몸무게 11.9kg)\n점심에는 메추리알조림은 남기고 밥과 국물해서 잘 먹었고, 쪽쪽이 10분 후 힘들어하지 않고 스르륵 잠이 들었습니다. 오늘은 기분이 좋은 모습과 환한 웃음을 많이 보이는 하준이였습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/kNKD3/btsNxyIgCht/yCyvu4dvKgI89d27Ywmn4K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hFlXf/btsNvEXkZe5/Xv4LpiJ7Z9KPIkMtNfNbP1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bWbCiZ/btsNx0q4qvD/9MIp33TQm5FSGMKRLxuX21/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/kNKD3/btsNxyIgCht/yCyvu4dvKgI89d27Ywmn4K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hFlXf/btsNvEXkZe5/Xv4LpiJ7Z9KPIkMtNfNbP1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWbCiZ/btsNx0q4qvD/9MIp33TQm5FSGMKRLxuX21/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0167_2025-04-24_1209444872_01.jpg",
@@ -2633,12 +2633,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "등원하여 \"엄마~(엄마랑 왔어요), 아빠~(아빠랑 왔어요)\"하고 이야기를 나누며 가족사진을 들고 친구에게도 보여주는 모습입니다. 종이블록을 쌓아 강아지인형 집을 만들고, 블록을 쌓았다가 무너뜨렸다가를 반복하며 즐거워하였답니다. 악기놀이, 소프트블록, 그림그리기 등 자유롭게 놀이를 선택하여 즐기고, 베베꿈틀 교재에 스티커 붙이기 활동도 해보았습니다. 메낙골 공원으로 산책을 나가 나뭇가지로 흙그림을 그려보고 친구들과 선생님과 손을 잡고 천천히 걸으며 시원한 바람도 느껴보았습니다. \n하준이는 점심에 돈까스를 맛있게 먹으며 밥은 몇번 뱉기는 했지만 거의 다 먹었고, 쪽쪽이 빼고 토닥토닥해주니 금세 잠이 들었습니다.\n즐거운 주말 보내시고 월요일에 만나요~!!❤️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/beIouX/btsNAbFxRFF/dMi4R5GFzKKtzdNkRWCjXk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/A74Kw/btsNzfoEAUs/7Fe0bQv3NXa5PJ94CSBpS0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cuHqwx/btsNziMsszg/fMbQF2FPu7liUhnCOkW110/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b0pDM2/btsNy6ZL7O8/aQOKH2aVVaARYo9mrekRfk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bRO2Ie/btsNAcEsQun/cRPpDCKS7QRHpkmpgIkQ3K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dTrDaq/btsNyuG68RE/pvkyMekZF9tA7lXxipi0T0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/beIouX/btsNAbFxRFF/dMi4R5GFzKKtzdNkRWCjXk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/A74Kw/btsNzfoEAUs/7Fe0bQv3NXa5PJ94CSBpS0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cuHqwx/btsNziMsszg/fMbQF2FPu7liUhnCOkW110/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b0pDM2/btsNy6ZL7O8/aQOKH2aVVaARYo9mrekRfk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bRO2Ie/btsNAcEsQun/cRPpDCKS7QRHpkmpgIkQ3K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dTrDaq/btsNyuG68RE/pvkyMekZF9tA7lXxipi0T0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0168_2025-04-25_1210162782_01.jpg",
@@ -2657,10 +2657,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "펀아트 창의활동으로 원목 꼬꼬닭 수납함만들기를 해보았습니다. 원목재료를 끼워서 조립하고 색연필과 스티커를 활용해 꾸며주었습니다. \"꼬꼬~\"하며 관심을 보이며 창의적인 활동을 통해 아이들이 더욱 흥미를 느끼는 시간이었습니다. 이번주에 물감으로 조금 더 꾸며주고 완성하여 가정으로 보내드리겠습니다.^^\n바깥놀이시간에는 배드민턴장에서 우주반 형님들을 만나 함께 뛰어보고 민들레꽃과 개미도 관찰하였습니다. 돌아오는 길에 형님들이 손을 잡아주어 안전하고 즐거운 산책시간이 되었답니다. \n하준이는 점심에 밥을 2/3정도 먹고나서 입안에 있는 밥을 손에 뱉은 후 바닥에 던지기를 반복하여 던지지 않는다고 이야기를 해주었습니다. 가정에서도 식사시간에 던지지 않는다고 계속해서 알려주시면 좋을 것 같습니다. \n낮잠시간에는 쪽쪽이 없이 등을 토닥토닥, 얼굴을 쓰담쓰담, 손을 잡고 친구들 이름을 이야기해주고 자장자장~해주니 스르륵 잠이 들었답니다.^^\n*한마음 가족운동회 초대장을 보내드립니다. 하준이는 참석을 못해서 아쉽지만 프로그램 내용만 한번 봐주세요^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bpNOXS/btsNBCxBaiq/GTnJcDaxRgMq689AGBfWR1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/JA5DN/btsNC92jRcz/Wja2KEgMwlPDqZ6Z7KBnVk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cO3VII/btsNBKbwrwK/b1Slk9PLan5W3nKyu0HZW0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cIvEpZ/btsNBzHEXzH/wZxJkC3vcqAKTdxNckm8JK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bpNOXS/btsNBCxBaiq/GTnJcDaxRgMq689AGBfWR1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JA5DN/btsNC92jRcz/Wja2KEgMwlPDqZ6Z7KBnVk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cO3VII/btsNBKbwrwK/b1Slk9PLan5W3nKyu0HZW0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cIvEpZ/btsNBzHEXzH/wZxJkC3vcqAKTdxNckm8JK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0169_2025-04-28_1211047094_01.jpg",
@@ -2677,10 +2677,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제 색연필과 스티커로 꾸며준 꼬꼬 수납함에 스펀지 붓을 이용하여 물감찍기 활동을 해보았습니다. 꽃과 동그라미 등 다양한 모양으로 잘라진 스펀지에 물감을 묻혀서 꼬꼬닭에 콕콕 찍어주고 쓱쓱 문지르기도 하며 자유롭게 꾸며주었습니다. 스펀지로 찍힌 물감 무늬를 보고 \"와, 별 같아요!\"라며 색과 모양을 탐색하고, \"꼬꼬닭 귀여워요!\"하고 이야기하며 몰입하는 모습이었습니다.\n옥상텃밭에 올라가 물을 주고, \"준비 땅~\"하며 뛰어보다가 앉아서 다리를 토닥토닥하며 즐겁게 신체활동을 하였습니다.\n하준이는 점심시간에 밥을 한번 던지기는 했지만 국이랑 해서 잘 먹었고, 쪽쪽이 없이도 토닥토닥 해주니 잠이 들었습니다. 점심 후 조금 묽은변을 한번 보았습니다. 가정에서도 변상태를  한번 살펴봐주세요. 다행히도 콧물은 거의 나지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/QgyxG/btsNDvSIIT5/2q8miVM91A2eYfLYdGWuh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bGDjBw/btsNDvd8f7T/dzI3kBoHs4jwkBLb0lLtpK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b4Pw5A/btsNDanNSuO/vY4gtTBJYWUCTaYnaUkqo0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/daBqol/btsND2oYnnR/YYdST8lTyZLzwQxU2Hi36K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/QgyxG/btsNDvSIIT5/2q8miVM91A2eYfLYdGWuh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bGDjBw/btsNDvd8f7T/dzI3kBoHs4jwkBLb0lLtpK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b4Pw5A/btsNDanNSuO/vY4gtTBJYWUCTaYnaUkqo0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/daBqol/btsND2oYnnR/YYdST8lTyZLzwQxU2Hi36K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0170_2025-04-29_1211736659_01.jpg",
@@ -2697,12 +2697,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "꼬꼬닭 수납함에 스티커 눈을 붙여 완성하고, 리본끈을 달아 놀이를 해보았습니다.  교사가 \"꼬꼬닭이 알을 낳았네\"하고 이야기해주었더니 수납함 안에 자른 습자지와 에그쉐이커를 넣고서 끈을 잡고 끌고 다니며 에그쉐이커를 리듬에 맞춰 흔들어보기도 했습니다. \n습자지를 던지며 \"슈웅~ 비처럼 내려요!\"하고 즐거운 표정을 짓고, 친구들이 서로 습자지를 이불처럼 덮어주며 \"따뜻해~\", \"어딨지~?\", \"여깄네~\"하고 이야기하며 상상 놀이에 몰입하는 모습이었습니다. 부드러운 습자지의 촉감과 바스락거리는 소리 자극이 아이들에게 편안함과 새로운 재미가 되었고, 하원시에 꼬꼬닭 수납함을 가정으로 보내드리오니 가정에서도 즐겁게 놀이를 해보면 좋을 것 같습니다~^^\n바깥놀이를 나가 친구들과 손을 잡고 노래를 부르며 산책로를 한바퀴 돌고 돌아왔습니다. \n하준이는 점심을 잘 먹었고, 쪽쪽이 없이 토닥토닥 하니 잠들었습니다. 콧물이나 기침증상은 없었고, 점심 후 묽은변을 한번 보았습니다. 가정에서도 변상태를 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/zsIyD/btsNE3IL9zF/vCCQCDbqpbJmlAyRSZmk3k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bLBTgD/btsNETfoJ3v/bl6UrLZLk3tKiQMpEtxhI1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ctseFs/btsNE4nnHGz/1UBIZn2JJ4dcAL5oiZ0ACK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/v6mEl/btsNE4HJrZr/ROG4XrkxT7lsZBmhCKHe1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bIqkS9/btsNFhzYs2x/YnPeP1nIX1P9xJV19HSQUk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bHDpuz/btsNFqDwIgv/qqb8NhFjalBVx2KP0wMKk1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/zsIyD/btsNE3IL9zF/vCCQCDbqpbJmlAyRSZmk3k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bLBTgD/btsNETfoJ3v/bl6UrLZLk3tKiQMpEtxhI1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ctseFs/btsNE4nnHGz/1UBIZn2JJ4dcAL5oiZ0ACK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/v6mEl/btsNE4HJrZr/ROG4XrkxT7lsZBmhCKHe1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bIqkS9/btsNFhzYs2x/YnPeP1nIX1P9xJV19HSQUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bHDpuz/btsNFqDwIgv/qqb8NhFjalBVx2KP0wMKk1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0171_2025-04-30_1212455082_01.jpg",
@@ -2721,11 +2721,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "바깥 산책을 하며 아이들과 함께 통해사 절을 방문해보았습니다.  절 입구에서 연등과 꽃 장식을 보며 \"예쁘다!\",\"멋져요!\"라고 감탄하며 관심을 보이고, \"이건 뭐야?\"\"무슨색이야?\"라고 질문하며 색과 형태를 탐색하는 모습이었습니다. 절 주변을 걸으며 자연을 관찰하고 새소리, 바람 소리를 들으며 평온함을 느껴보았답니다. 통해사 방문 후 배드민턴장으로 이동하여 비눗방울놀이를 하며 달려가 손으로 잡기를 시도하고 즐겁게 신체활동을 하였습니다.\n하준이는 점심시간에 훈제오리구이를 맛있게 먹으며 밥을 잘 먹었고, 점심 후 묽은 변을 한번 보았습니다. 콧물과 기침증상은 보이지 않았습니다. 즐거운 연휴 보내시고, 건강하고 행복한 가족여행 되세요~!!❤️😊\n*다가오는 어린이날을 맞아, 우리 아이들을 위한 기념 티셔츠를 준비하였습니다. 늘 건강과 행복이 함께하시길 바랍니다.\n*5월 12일(월)~14일(수)은 바다 1반 신미영교사의 연차로 인해  대체 선생님께서 아이들과 함께해 주실 예정입니다. 참고 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/boXAJc/btsNJa7MUrU/kegN8rEaiBgYE5k4m4kkK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kMa6r/btsNJjczlJJ/vewFYheoJS8cmL89Egzkk0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxtKSb/btsNGXh7Grs/0Mz11VZBPJWCxtDdzXVE5K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jUKy3/btsNIPW7hI1/BbyEjzgKkGwpuUESEC2TC1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bspaX1/btsNHsojF6X/JoYS0pm8brKQbkZGnZLv10/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/boXAJc/btsNJa7MUrU/kegN8rEaiBgYE5k4m4kkK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kMa6r/btsNJjczlJJ/vewFYheoJS8cmL89Egzkk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxtKSb/btsNGXh7Grs/0Mz11VZBPJWCxtDdzXVE5K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jUKy3/btsNIPW7hI1/BbyEjzgKkGwpuUESEC2TC1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bspaX1/btsNHsojF6X/JoYS0pm8brKQbkZGnZLv10/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0172_2025-05-02_1213305175_01.jpg",
@@ -2743,13 +2743,13 @@ const reportsData =[
     "weather": "sunny",
     "content": "새롭게 지원한 돋보기에 관심을 보이며 얼굴에 가까이 대보고,  땅속 개미집 그림을 관찰하며 탐색을 즐겼습니다. 색연필로 개미도 함께 그려보았고, 자유롭게 끼적이며 색칠도 해보았습니다.\n교실바닥에 종이테이프를 일정 간격으로 붙여 점프를 시도하며 신체활동을 하였고, 유희실에서는 토이코 놀잇감의 손잡이를 잡고 굴려보았고, 붕붕카와 미끄럼틀을 타며 즐거운 시간을 보냈습니다.\n하준이는 등원시에 울음을 보였지만 교사의 품에 안겨 진정하였고, 친구들을 손으로 짚으며 다시 일상으로 돌아온 듯 안정적으로 일과를 보냈습니다. 점심에 밥과 김치, 국물해서 한그릇 다 먹었습니다.  콧물은 조금 났고, 열은 없었지만 기침이 있어 낮잠후에 조금 힘들어 하는 모습이었습니다. 하원 후에 병원진료를 다녀오시는게 좋을 것 같습니다. \n*한마음 가족 운동회 기념 선물(간식)을 보내드립니다.\n*아동사전지문등록을 위한 기본정보 등록 확인을 부탁드립니다.(5월 2일 공지사항 참조)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bP0nBO/btsNS4AxvLS/3feBTkNULTsXImqpP009fK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9XV74/btsNTlvlqwM/41uwCr35CzO2COmf57wCv0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bcOATm/btsNS3uQISf/G2inJfnjtdfUX2BIdScJt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cgMjc1/btsNUtMTYzW/vXQ6IyHDS45OQef5X7BAT0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bGqbxI/btsNTBxTy2W/jvskGY6DepkkJeH9B3mqMk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bpFIzs/btsNS3BDw6C/0Tb0KTvYMIBsLZP9XhJV5K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cwUe8N/btsNSliJCR9/CpElahkCTkZsdzGYmJ6Bkk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bP0nBO/btsNS4AxvLS/3feBTkNULTsXImqpP009fK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9XV74/btsNTlvlqwM/41uwCr35CzO2COmf57wCv0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcOATm/btsNS3uQISf/G2inJfnjtdfUX2BIdScJt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgMjc1/btsNUtMTYzW/vXQ6IyHDS45OQef5X7BAT0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bGqbxI/btsNTBxTy2W/jvskGY6DepkkJeH9B3mqMk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bpFIzs/btsNS3BDw6C/0Tb0KTvYMIBsLZP9XhJV5K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cwUe8N/btsNSliJCR9/CpElahkCTkZsdzGYmJ6Bkk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0173_2025-05-12_1216628319_01.jpg",
@@ -2769,9 +2769,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "교실 벽면에 땅속 개미집 그림과 다양한 개미 사진을 붙여주니 돋보기를 들고서 그림에 대고 관찰하였습니다. 돋보기를 자신의 얼굴에 대고 \"우와~ 눈이랑 코가 엄청 커~\"하며 친구들과 마주보고 돋보기를 들었다 내렸다하며 함박웃음을 짓는 친구들입니다. \n바깥놀이 산책을 하며 길을 따라 움직이는 개미를 발견하고 신기해 했습니다. 돋보기를 사용해 가까이 들여다보며 개미의 다리와 몸 움직임을 관찰했으며, 개미가 어디로 가는지 궁금해하며 관심을 보였답니다.\n하준이는 콧물은 조금 났고, 기침은 낮잠 전후로 많이 보였습니다. 점심은 두부구이를 맛있게 먹으며 밥을 다 먹었고, 낮잠시간에 쪽쪽이를 찾았지만 토닥토닥 해주니 스르륵 잠이 들었습니다. 오후와 저녁시간에 푹 쉬고 얼른 회복되기를 바래요~!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/zqCYl/btsNVdDMJQP/80Rm2NkdREo1VCwDbmsHkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NDUqx/btsNV8aHtlj/Cno3fOe8LFRbvSFwUvYTM0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/G9elT/btsNUUEuuzT/5KPSTuBfa8Rk2bTQ6yUPv1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/zqCYl/btsNVdDMJQP/80Rm2NkdREo1VCwDbmsHkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NDUqx/btsNV8aHtlj/Cno3fOe8LFRbvSFwUvYTM0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/G9elT/btsNUUEuuzT/5KPSTuBfa8Rk2bTQ6yUPv1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0174_2025-05-13_1217328436_01.jpg",
@@ -2787,13 +2787,13 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "열린어린이집 활동으로 [카메라에 봄꽃을 담아요]를 주제로  카메라 도안을 꾸미며 봄을 담는 나만의 카메라를 만들었습니다. 다양한 스티커를 붙이고 셀로판지를 끼워 완성한 카메라로 찰칵찰칵 사진을 찍어보고, 꽃사진을 들여다보며 즐거워했습니다.\n종이카메라를 목에 걸고 바깥놀이 산책을 나가 셀로판지를 통해 꽃과 나무를 관찰하고, 떨어진 분홍색 철쭉 꽃을 주워 카메라 그림에 문질러 보며 자연의 색을 직접 표현하는 놀이도 즐겼습니다.\n하준이는 점심은 잘 먹었고, 낮잠은 1시간 정도 잤습니다. 오전에 기침을 많이 했고, 낮잠 후에도 기침이 심했습니다. 이마가 따끈해서 열체크를 해보니 37.2도 정도로 미열이 있습니다. 하원 후에 병원 진료가 가능하시다면 기침약을 추가하여 처방을 받으시면 좋을 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/hdczZ/btsNWRtU1er/nAFuGAtb0pSqoeh3HzkqhK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bPKvLa/btsNWPbNpx2/KMakWIm7W7WLstLs78TuYK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbrQpr/btsNVrcaYcv/Aa3rOyKk61vkGP9exJgG30/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xHzPh/btsNWL1xFUf/TNehW02f2yNp4kRuVqeoxk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dyEg7/btsNVsCdrRr/4vywx8eEs07afPdW4DQC10/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/DAklm/btsNX6qjctJ/jnekDjGpuVYr9mf1uxRU21/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cWRrOO/btsNXYMBzQ7/bkwmlOIeQykeYaglVeYT7K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/hdczZ/btsNWRtU1er/nAFuGAtb0pSqoeh3HzkqhK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bPKvLa/btsNWPbNpx2/KMakWIm7W7WLstLs78TuYK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbrQpr/btsNVrcaYcv/Aa3rOyKk61vkGP9exJgG30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xHzPh/btsNWL1xFUf/TNehW02f2yNp4kRuVqeoxk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dyEg7/btsNVsCdrRr/4vywx8eEs07afPdW4DQC10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DAklm/btsNX6qjctJ/jnekDjGpuVYr9mf1uxRU21/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cWRrOO/btsNXYMBzQ7/bkwmlOIeQykeYaglVeYT7K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0175_2025-05-14_1218014843_01.jpg",
@@ -2813,13 +2813,13 @@ const reportsData =[
     "weather": "overcast",
     "content": "돋보기에 지속적으로 관심을 나타내며 가족사진과 개미 그림을 자세히 들여다보며 탐색 활동을 즐겼습니다. 손가락으로 짚으며 작은 부분까지 눈여겨보며 관찰하는 모습이었습니다. 손가방을 어깨에 메고 다니며 \"마트 다녀올께~\" \"바나나 사러가요.\"하면서 친구들과 상상력을 펼치며 역할 놀이를 했습니다. \n실내 대체활동으로 바닥에 종이테이프를 붙여 두발로 점프하고  '준비 땅~'하며 달리기도 해보았고, 교사와 손을 잡고 두발모아뛰기를 시도하며 몸을 활발하게 움직여 보았습니다.\n오전에 경찰관 아저씨와 함께 아동 지문 등록 활동을 진행했습니다. 아이들은 자신의 손가락을 경찰 장비에 대고 지문을 찍으며 신기해하는 모습을 보였고, 손부채 선물을 받으며 좋아했습니다.^^ 하준이도 울지않고 씩씩하게 잘 해냈답니다.\n하준이가 낮잠전후로 기침을 많이 보였지만 어제보다는 기침이 심하지 않았고 컨디션도 나아진 모습이었습니다. 점심은 밥을 1/3정도 남겼고, 낮잠은 잘 잤습니다. \n*오늘 하준이 등에 스티커를 보며 행복한 하루였답니다.^^ 어머니께서 보내주신 도넛도 교사들과 함께 너무 맛있게 잘 먹었습니다~ 감사합니다!!❤️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gkSmZ/btsNXWbfT3L/a39I5m9ksZZS1ePkGCpvP0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xPpRE/btsNW3aYcZA/KaNctzooX2r2REYLDkOEQ1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cm0NQa/btsNXQB55qG/nPsfw3GGds7IlDQax43U81/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cBYLl0/btsNYhlXuSK/Uk5FrjUJ2FjSPFzRWKp3Fk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cZ4aPS/btsNZvwM3T3/ku7H4ftlL8Ck99k8wGvZck/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0uMKa/btsNZzy71RU/8A5dfJ6s8Uk91SbNEe5LuK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bgkAOf/btsNW2QBbjO/kJaAxmc1Xz43QQTKPrEKDk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gkSmZ/btsNXWbfT3L/a39I5m9ksZZS1ePkGCpvP0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xPpRE/btsNW3aYcZA/KaNctzooX2r2REYLDkOEQ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cm0NQa/btsNXQB55qG/nPsfw3GGds7IlDQax43U81/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cBYLl0/btsNYhlXuSK/Uk5FrjUJ2FjSPFzRWKp3Fk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cZ4aPS/btsNZvwM3T3/ku7H4ftlL8Ck99k8wGvZck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0uMKa/btsNZzy71RU/8A5dfJ6s8Uk91SbNEe5LuK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bgkAOf/btsNW2QBbjO/kJaAxmc1Xz43QQTKPrEKDk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0176_2025-05-15_1218743682_01.jpg",
@@ -2839,12 +2839,12 @@ const reportsData =[
     "weather": "rain",
     "content": "오전에 창밖의 비 오는 풍경을 보며 \"후두둑\"\"주륵주륵\" 빗방울이 떨어지는 소리를 표현해 보기도 하고, 자연 속 소리에 집중하는 친구들입니다.\n놀이시간에는 현관에 게시할 스칸디아모스 얼굴액자 꾸미기 활동을 해보았습니다. 여러가지 색깔의 스칸디아모스를 만지며 \"부드러워~\" \"부들부들해\"하면서 폭신한 촉감을 느끼고, 자신의 얼굴사진에  붙여주며 액자를 꾸며 주었습니다.\n대체활동으로 바닥에 그려진 라인을 따라 자동차를 굴려보았는데, 손으로 방향을 조절하고 앞으로 밀며 쭉 나가는 모습에 즐거워했습니다. \n하준이는 기침증상이 많이 호전되어 기침을 거의 하지 않았습니다. 점심은 동그랑땡과 맛있게 잘 먹었고 낮잠도 푹 잤습니다.^^\n즐거운 주말 보내시고 월요일에 만나요~!\n\n*4차 영유아건강검진 시기로 안내를 드립니다. 검진 후 결과서를 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dTYuX/btsN0ebJte1/Hkh0CgOSpygKw6f7NV91RK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bkfkgP/btsN0g8sFi1/ieIz6Q5ZkU5dChBGkZVNIk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b7dlj7/btsN0xPFG7o/k98UtVakMzJgibbyTkqC20/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c0LhyH/btsNZEWgb25/Hh40Hqrb9tvw2YbNrTrxc1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bwjrHR/btsN03m0eZh/uUthUHEYEi8HZEzt0jAqW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dqm9b4/btsNZFnndFU/9uBVdmzd0tzauHa33s5kvk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dTYuX/btsN0ebJte1/Hkh0CgOSpygKw6f7NV91RK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkfkgP/btsN0g8sFi1/ieIz6Q5ZkU5dChBGkZVNIk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b7dlj7/btsN0xPFG7o/k98UtVakMzJgibbyTkqC20/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c0LhyH/btsNZEWgb25/Hh40Hqrb9tvw2YbNrTrxc1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bwjrHR/btsN03m0eZh/uUthUHEYEi8HZEzt0jAqW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dqm9b4/btsNZFnndFU/9uBVdmzd0tzauHa33s5kvk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0177_2025-05-16_1219481317_01.jpg",
@@ -2863,13 +2863,13 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "실내자유놀이시간에는 돋보기, 자석블록, 자동차, 손가방 등을 활용하여 자유롭게 놀이를 하였고, 바깥놀이시간에 \"꽃 찾으러 가볼까?\"하고 메낙골공원으로 산책을 다녀왔습니다. 개미, 공벌레를 찾을 때 마다 \"여깄다~\"하며 즐거워하였고, 나뭇가지로 개미가 지나가는 길을 쓱쓱 그려보기도 하였습니다. 공원 바닥에 떨어진 매실열매를 주워서 유심히 관찰한 후 친구들과 손을 잡고 \"곰세마리~\"노래를 부르며 돌아왔습니다.\n하준이는 콧물은 심하지 않았지만 노란코가 나와서 한번씩 닦아주었고, 낮잠시간에 그르렁하며 숨쉬기가 조금 힘들어 보였습니다. 일과시간동안 컨디션은 괜찮았고, 점심에 밥도 다 먹었습니다.\n오늘도 잘생긴 하준이 사진 보시고 힐링하세요~!❤️\n*칫솔 마모가 심하여 교체하려고 하오니 개인칫솔을 하나씩 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b6DX2X/btsN3fBgTDb/gonJMMc8l4keOV0mQ2SyOk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bXwHA7/btsN3g1gaup/XWfDTviGkULLKiJDd1T0f0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ce5ICq/btsN18C5Wjo/P2I7dJ0ILVw6UwyKC3oTqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bdOEJF/btsN2bGygtp/fuGvTe6kPQLZaYgRV3aFD1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vrE1q/btsN1yCigXV/zdSmCLk5NeVVY3dKh7EaOK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eHEkw6/btsN1yWyaq5/tbijewKTPTciATHDzwDvB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bFAuvZ/btsN1Te8C9V/XHLfEerVnOSu319XmkYsH0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b6DX2X/btsN3fBgTDb/gonJMMc8l4keOV0mQ2SyOk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bXwHA7/btsN3g1gaup/XWfDTviGkULLKiJDd1T0f0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ce5ICq/btsN18C5Wjo/P2I7dJ0ILVw6UwyKC3oTqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bdOEJF/btsN2bGygtp/fuGvTe6kPQLZaYgRV3aFD1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vrE1q/btsN1yCigXV/zdSmCLk5NeVVY3dKh7EaOK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eHEkw6/btsN1yWyaq5/tbijewKTPTciATHDzwDvB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bFAuvZ/btsN1Te8C9V/XHLfEerVnOSu319XmkYsH0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0178_2025-05-19_1220359314_01.jpg",
@@ -2889,10 +2889,10 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "교실 벽면에 붙여준 개미의 일생이 담긴 그림을 자세히 들여다보며 개미가 어떻게 성장하고 생활하는지 탐색해 보았습니다. 알에서 애벌레, 번데기, 성충으로 변하는 과정을 보며 흥미를 가지는 모습을 보였습니다. 그림 자료를 통해 생물의 성장과 변화에 대해 자연스럽게 관심을 가지며 관찰력과 인지능력을 확장시키는 경험을 할 수 있었습니다.\n부드러운 천사점토를 사용해 케이크를 만들며 모양을 만들고 꾸미는 놀이를 했습니다. 손으로 주무르고 쌓아가며 촉감을 경험하고, 종이빨대를 꽂아 완성된 케이크를 친구들과 함께 보며 만족스러워하는 모습을 보였습니다.\n바깥놀이시간에는 지역사회연계활동으로 관리실에 방문해 반갑게 인사를 나누고, \"어디 가요?\" \"뻥튀기 사러 가요~\" 짧은 대화를 나누며 주변 사람들과 소통하는 시간을 가졌습니다. 아이들과 편의점에 들러 뻥튀기를 사 와 친구들과 함께 나누어 먹으며 즐거운 간식 시간을 가졌답니다.\n하준이는 산책시간에 콧물이 나서 닦아주었고, 점심에는 브로콜리를 맛있게 먹으며 밥을 잘 먹었습니다.^^ 낮잠도 잘 잤고 안정적으로 일과를 보냈습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/iNK40/btsN5tZTOk0/p2BWj8eIzhrdlGPw4fXC80/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/P8yjW/btsN36LQgPM/YmUXcZNe98GGtHKkzOj1EK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/UJc6Y/btsN3LnHpNj/ATsEGkLKcEmWa0HRiHbbD1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bcsEfV/btsN4f2R0CH/FVzkijYxf43xrGtKmRApP0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/iNK40/btsN5tZTOk0/p2BWj8eIzhrdlGPw4fXC80/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/P8yjW/btsN36LQgPM/YmUXcZNe98GGtHKkzOj1EK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/UJc6Y/btsN3LnHpNj/ATsEGkLKcEmWa0HRiHbbD1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcsEfV/btsN4f2R0CH/FVzkijYxf43xrGtKmRApP0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0179_2025-05-20_1221051351_01.jpg",
@@ -2909,12 +2909,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "바다반 친구들이 어제 했던 점토놀이를 하고 싶다고 표현하여 별과 물고기 모양틀을 사용해 모양을 찍어보며 놀이했습니다. 점토의 촉감을 느끼며 손 조작 능력을 키우고, 다양한 방식으로 변형하며 스스로 놀이를 확장하고 표현하였습니다.\n옥상 텃밭에서 부드러운 상추 잎을 만져보며 감각을 느끼고, 상추를 뜯어서 바구니에 담으며 수확하는 즐거움을 경험하였답니다. 수확한 상추는 가정으로 보내드리오니 저녁시간 아이들과 텃밭 이야기 나누며 맛있게 드시기 바랍니다~^^\n하준이는 콧물과 기침이 조금씩 있었고, 점심에 밥은 조금 남겼습니다. 보육실과 유희실, 텃밭에서 뛰어다니기를 즐기며 컨디션은 좋았습니다.^^\n* 5월 28일 수요일에는 열린어린이집 특색활동(요리)이 예정되어 있습니다. \n앞치마, 머리수건을 월요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/FQ2UR/btsN4F16Eid/CWbrlmiBBJfO9ZDlq4cWV0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/mLcSE/btsN4PjrPKn/x4GCq3Iq8qLorBicknKV01/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pbZq9/btsN6zfg1tM/RUOkIMAUhSrNV78FhgqelK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/e8FYJ/btsN4QvPQVv/kH2nsfTmyfvZlLVJjjxfM0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Fhjef/btsN5R1xG0a/EvAZVB3rTRlKcg0Q4fXdyk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cExJd6/btsN6ukJ7Pu/FokvjtjPOIEHfkDRAxL1Q0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/FQ2UR/btsN4F16Eid/CWbrlmiBBJfO9ZDlq4cWV0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mLcSE/btsN4PjrPKn/x4GCq3Iq8qLorBicknKV01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pbZq9/btsN6zfg1tM/RUOkIMAUhSrNV78FhgqelK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e8FYJ/btsN4QvPQVv/kH2nsfTmyfvZlLVJjjxfM0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Fhjef/btsN5R1xG0a/EvAZVB3rTRlKcg0Q4fXdyk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cExJd6/btsN6ukJ7Pu/FokvjtjPOIEHfkDRAxL1Q0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0180_2025-05-21_1221721001_01.jpg",
@@ -2933,12 +2933,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 검정 도화지 위에 셀로판지를 잘라 붙이며 개미를 표현해 보았습니다. 개미의 몸을 조각조각 붙이며 세밀하게 관찰하는 모습이었습니다. 셀로판지를 얼굴에 대고 \"까꿍~\"하기도 하고 셀로판지를 겹쳐보며 색과 빛의 변화를 탐색해보는 바다반 친구들입니다. \n바깥산책을 하며 쑥을 찾아 직접 뜯어보는 경험을 했습니다. 쑥을 뜯으며 촉감을 손으로 느끼고, 가까이에서 향기를 맡으며 \"음~ 꽃냄새가 나요.\"하고 표현하기도 했습니다. 쑥을 뜯어 바위에 가득 올려놓고 뿌듯해하고, 민들레꽃과 벌도 관찰하며 자연 속에서 감각을 탐색하는 시간을 가졌습니다.\n하준이가 기침은 조금 했는데 콧물이 많이 나서 손수건으로 닦아주었습니다. 점심은 밥을 조금 남겼고, 소불고기를 잘게 잘라주니 꼭꼭 씹어서 맛있게 잘 먹었습니다.^^\n*보육실 온도는 너무 덥거나 춥지 않도록 에어컨을 잠깐씩 틀면서 24~26도 정도로 조절하고 있습니다. 지금처럼 반팔이나 얇은 긴팔정도로 입고 생활하면 적당할 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cDvSWd/btsN7VpIABT/0BdRoPnka3jtZeKjVMQ450/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/I7XgB/btsN7bNDdaB/6w3sGkKztmCob2WHaElZqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b7DOvi/btsN81PMHs4/FPdx2Jn2pEa1WOcP7DTnj1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/chwwG6/btsN85klEKX/yGrV65dXRR3awxa272bkB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pxQ8i/btsN7UYCKzk/pjXwvr0o5wSYznET4ybdck/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xL3gi/btsN7RU9GnU/3rAQLHmppd6TKqTz6iPGT0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cDvSWd/btsN7VpIABT/0BdRoPnka3jtZeKjVMQ450/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/I7XgB/btsN7bNDdaB/6w3sGkKztmCob2WHaElZqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b7DOvi/btsN81PMHs4/FPdx2Jn2pEa1WOcP7DTnj1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/chwwG6/btsN85klEKX/yGrV65dXRR3awxa272bkB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pxQ8i/btsN7UYCKzk/pjXwvr0o5wSYznET4ybdck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xL3gi/btsN7RU9GnU/3rAQLHmppd6TKqTz6iPGT0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0181_2025-05-22_1222441733_01.jpg",
@@ -2957,10 +2957,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "놀이시간에 집게차 소리가 들리자 안아서 창밖을 보여달라고 표현하며 관심을 보였습니다. 창밖으로 살짝 보다가 바깥 산책을 나가 커다란  집게가 올라갔다 내려오는 모습을 보며 \"우와!\" 감탄하면서 집중해서 보는 친구들입니다. 단지내를 한바퀴 산책후 어린이집 데크에서 물 위에 떠 있는 연꽃과 부레옥잠을 가까이에서 살펴보며 손으로 집고 들어올려 잎의 모양과, 뿌리를 유심히 바라보며 관찰도 해보았답니다. \n분필을 들고 데크 바닥에 끼적끼적 그림을 그려보고, 교사가 하트를 그려주니 \"나도~\", \"하트~^^\" 하며 웃어보이는 사랑스러운 친구들이었습니다.❤️\n하준이는 콧물과 기침증상이 있어 콧물을 닦아주고, 물을 많이 마시도록 했어요. 점심에는 치킨까스를 꼭꼭 씹어 맛있게 먹었는데, 밥은 반정도 남겼습니다. 저녁에 충분한 영양섭취를 해야 할 것 같아요^^::\n건강하고 즐거운 주말 보내시고 월요일에 만나요~!!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bY5r8q/btsN92ow3SS/aI6s7NJMS1Va48AoGKfeQk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ejFIg/btsOaX0MQt0/Lw6gKiJZSnGseL8bKWDB01/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b6SdPG/btsOaheEolh/vsExiaorqaFpKeUdWJ1IkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bhpBFN/btsOaVBTZSv/DKbOB2gK2RlTvYejgHzsH0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bY5r8q/btsN92ow3SS/aI6s7NJMS1Va48AoGKfeQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ejFIg/btsOaX0MQt0/Lw6gKiJZSnGseL8bKWDB01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b6SdPG/btsOaheEolh/vsExiaorqaFpKeUdWJ1IkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhpBFN/btsOaVBTZSv/DKbOB2gK2RlTvYejgHzsH0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0182_2025-05-23_1223127403_01.jpg",
@@ -2977,12 +2977,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "등원하여 창틀에 걸어둔 셀로판지로 꾸민 개미 그림을 바라보며 햇빛에 비친 모습을 신중하게 관찰하는 친구들입니다. 빛과 색이 변하는 모습을 보며 호기심 어린 표정으로 탐색하는 모습이 보였습니다.\n펀아트 아트북 활동에서는 점선을 따라 선긋기를 시도하며 끼적이며 탐색하는 과정을 즐겼습니다. 선을 그으며 손끝으로 조작하는 경험을 하며 자신만의 표현을 확장하는 시간이 되었습니다.\n바깥놀이에서는 메낙골공원의 분수에 나오는 물줄기를 바라보며 \"슝~\" 하며 물이 솟아오르는 순간을 표현했답니다. 움직이는 모습을 주의 깊게 관찰하며 환경과 상호작용하는 즐거운 시간을 가졌습니다.\n하준이는 콧물과 기침이 조금 있었지만 지난주보다 호전된 모습이었고, 점심시간에 고기,김치와 밥을 싹싹 다 먹었습니다.^^\n*5월 28일 수요일에는 열린어린이집 특색활동(요리)이 예정되어 있습니다. 앞치마와 머릿수건을 내일까지 꼭~보내주세요!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b2qkRk/btsObtAyjTg/fKnmScr9qNqyQzQcHx0gA0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/N6mru/btsOd212RmQ/VdBVj2BTI4wtAtkYQUrp90/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SKiwq/btsOche3ToY/CSg1B1Ldk7pjEtulQGDTK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/brNU4q/btsOd0wpcm8/wynH4Q0u8lH8mhsFhOlNIk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/e4db7/btsObWvw8JB/yZYapqVkGvYwL4zUuEUQ1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c2JYRk/btsOc6RrAhy/mZrY1lUcd1DJRV3Tnv0zD0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b2qkRk/btsObtAyjTg/fKnmScr9qNqyQzQcHx0gA0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/N6mru/btsOd212RmQ/VdBVj2BTI4wtAtkYQUrp90/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SKiwq/btsOche3ToY/CSg1B1Ldk7pjEtulQGDTK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/brNU4q/btsOd0wpcm8/wynH4Q0u8lH8mhsFhOlNIk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e4db7/btsObWvw8JB/yZYapqVkGvYwL4zUuEUQ1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c2JYRk/btsOc6RrAhy/mZrY1lUcd1DJRV3Tnv0zD0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0183_2025-05-26_1223997448_01.jpg",
@@ -3001,11 +3001,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "교실 벽면에 새롭게 꾸며진 수박 풍경 그림에 관심을 보이며 돋보기로 들여다보기도 하는 모습입니다. 수박을 보며 \"커~\" 하고 표현하며 크기에 대한 탐색을 했고, 초록색 껍질, 빨간 속, 검정색 씨, 노란 수박꽃을 이야기하며 색과 특징도 알아보았습니다. 교실 바닥에 커다란 종이를 펼쳐 색연필로 자유롭게 그림을 그리며 창의적인 표현을 즐겼답니다.\n바깥 산책 중 해군중앙성당에 들러 성모마리아상과 빨간 장미꽃을 관찰하고, 손을 모으고 기도하는 곳이라고 알려주니 자연스럽게 손을 모으기도 하는 친구들이었습니다.\n하준이는 오늘도 점심에 밥을 다 먹었습니다. 청경채나물과 밥을 같이 주니 몇번 뱉었지만, 밥을 먼저 다 먹고 나중에 나물반찬만 따로 숟가락에 떠주니 잘 먹었습니다.^^  \n*5월 29일 목요일에 소방대피훈련이 있습니다. 여벌 양말을 보내주세요.\n*6월 2일(월)~5일(목)은 바다 1반 담임교사의 영등포구 국공립 어린이집 우수교사 호주해외연수로 인해  대체 선생님께서 아이들과 함께해주실 예정입니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cFUXtM/btsOdEBsnin/1alO6dSVMOh6VhgLDaQilK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cHMmyb/btsOcDXAmjj/Cn9wpT0gnLpCddikPAtL6K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/e2Vi3/btsOeIwjy96/M5V0lCUQl3k7ZRNu33QhT1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c3QYNd/btsOcEPHPNp/NRIm3H1hOSrG0qHJfAi4Vk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/08Yf1/btsOe0DvhA4/DTcrrXCY45xs9bIXuriQi0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cFUXtM/btsOdEBsnin/1alO6dSVMOh6VhgLDaQilK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cHMmyb/btsOcDXAmjj/Cn9wpT0gnLpCddikPAtL6K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e2Vi3/btsOeIwjy96/M5V0lCUQl3k7ZRNu33QhT1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c3QYNd/btsOcEPHPNp/NRIm3H1hOSrG0qHJfAi4Vk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/08Yf1/btsOe0DvhA4/DTcrrXCY45xs9bIXuriQi0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0184_2025-05-27_1224657112_01.jpg",
@@ -3033,13 +3033,13 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린어린이집 [단호박 샌드위치]요리활동으로 바다1반 윤가람 어머님께서 오셔서 함께 활동을 진행하였습니다. 찐 단호박과 계란을 지퍼백에 넣어 손으로 조물조물 으깨며 질감을 탐색하고, 오이, 맛살, 익힌 당근을 칼로 조심스럽게 잘라보며 손 조작 활동을 경험했습니다. 가람이 어머니께서 으깬 단호박과 재료들을 마요네즈와 함께 섞어주셨고, 모닝빵 안에 속을 채워 샌드위치를 완성하며 성취감을 표현하는 모습이 보였습니다. 재료들을 조금씩 맛보며 \"맛있어!\" 하고 즐거운 표정을 짓는 친구들도 있었고, 요리를 통해 감각을 탐색하고 즐겁게 활동하는 시간을 가졌습니다.바다반 친구들과 함께 요리활동을 즐겁게 해주시고, 적극적으로 도움을 주신 가람이 어머님께 진심으로 감사의 말씀을 드립니다.😍\n하준이는 요리하며 모닝빵을 맛있게 먹었는지 점심에는 짜장밥을 계속 뱉어서 흰밥으로 제공해주었는데, 밥과 숭늉을 반정도 먹고 남겼습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/9whMj/btsOfzUre8L/IxHYq8k7a12XU0lu4SRrs1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wrSsR/btsOfS68ovD/wHpc4h9Tm61ss9hwCnu631/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d6AlDf/btsOe0rm9v9/sZUAOyMr6QNSvoma7Gr3XK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/CnMfV/btsOfQIfgpt/bXdcXGDXEVHwWBAFEWkvQ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Fu8HM/btsOg7vuGxa/t3AeLGr4c2EaVm4es6Da50/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dlUuVH/btsOfQuLxgi/AKp5mc1KYkLcHVRpfjqA0k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jRShY/btsOfPvR2sG/mG4VbVYoK01EOstVpI7pAK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/9whMj/btsOfzUre8L/IxHYq8k7a12XU0lu4SRrs1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wrSsR/btsOfS68ovD/wHpc4h9Tm61ss9hwCnu631/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d6AlDf/btsOe0rm9v9/sZUAOyMr6QNSvoma7Gr3XK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/CnMfV/btsOfQIfgpt/bXdcXGDXEVHwWBAFEWkvQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Fu8HM/btsOg7vuGxa/t3AeLGr4c2EaVm4es6Da50/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dlUuVH/btsOfQuLxgi/AKp5mc1KYkLcHVRpfjqA0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jRShY/btsOfPvR2sG/mG4VbVYoK01EOstVpI7pAK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0186_2025-05-28_1225350510_01.jpg",
@@ -3059,12 +3059,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오전에 소방대피훈련이 진행되었습니다. 사전연습을 통하여 대피방법을 설명해주었고, 사이렌이 울리자 잠시 놀라기는 했지만 \"불이야~\" 외치며 손으로 입을 가리고 신속하게 대피하는 모습을 보였습니다. 훈련을 통해 위급 상황에서 안전하게 행동하는 방법을 익히는 시간이 되었습니다.\n대피 훈련 후  메낙골공원 산책로를 따라 짝꿍과 손을 잡고 걷는 연습을 해보았습니다. 친구와 함께 질서 있게 걸으며 어르신들께 인사도 하고, 주변을 관찰하며 차분한 시간을 보냈습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b5FbEE/btsOg9VCisc/neZqabF43ufyBZAVyYJxtk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bKRYRh/btsOhcEEXUb/TwvVQPFLek16RzyA5KJiF0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6WJmu/btsOiHXZh7a/vO2EEZXwSXxpUDzV5x9thk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbcXpS/btsOg6ShWK0/LRF5kOyffzshaKzGX8cKk1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bnIxWq/btsOhlhjWDb/28FksPvKSVGANJlVWWH1JK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HuHEW/btsOiBjjl3h/oVkqoB9GKYvuxU8GaSTSf1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b5FbEE/btsOg9VCisc/neZqabF43ufyBZAVyYJxtk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bKRYRh/btsOhcEEXUb/TwvVQPFLek16RzyA5KJiF0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6WJmu/btsOiHXZh7a/vO2EEZXwSXxpUDzV5x9thk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbcXpS/btsOg6ShWK0/LRF5kOyffzshaKzGX8cKk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bnIxWq/btsOhlhjWDb/28FksPvKSVGANJlVWWH1JK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HuHEW/btsOiBjjl3h/oVkqoB9GKYvuxU8GaSTSf1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0187_2025-05-29_1226025117_01.jpg",
@@ -3083,13 +3083,13 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 옥상 잔디 그늘 아래에서 모래놀이를 하며 즐거운 시간을 보냈어요. 아이들은 손가락으로 모래를 꾹꾹 눌러보며 촉감을 느끼고, 놀이도구를 활용하여 다양한 모양을 만들었답니다.  \n모래의 부드러운 감촉을 직접 느끼며 창의력을 발휘해 모래놀이에 집중하는 모습이었습니다. 작은 손으로 모래를 쥐어 보고, 친구들과 함께 즐기는 아이들의 모습이 너무 사랑스러웠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cv7kSX/btsOiWu6oe3/c56FoXFjKKrdVnLPz1VkKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/soFNc/btsOknZAXJ1/KpvCY8dIX3fuNnipVtprPK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bQ6Ze7/btsOiGlNJD5/a1KkY5EZsxIggMIBuvEKUk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ytgdH/btsOjX068tp/M0mSKnr7m9QZUpswTm5fM1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hBYNr/btsOjqoZRmK/iWfc7pArZjeSzmggap5eFk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jdxiS/btsOhJXT16C/qr1wSKIZBLE4orFgWilaD0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fBQCA/btsOju5X61n/fiswqwwJ1q3oukS7IxLG0K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cv7kSX/btsOiWu6oe3/c56FoXFjKKrdVnLPz1VkKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/soFNc/btsOknZAXJ1/KpvCY8dIX3fuNnipVtprPK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bQ6Ze7/btsOiGlNJD5/a1KkY5EZsxIggMIBuvEKUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ytgdH/btsOjX068tp/M0mSKnr7m9QZUpswTm5fM1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hBYNr/btsOjqoZRmK/iWfc7pArZjeSzmggap5eFk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jdxiS/btsOhJXT16C/qr1wSKIZBLE4orFgWilaD0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fBQCA/btsOju5X61n/fiswqwwJ1q3oukS7IxLG0K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0188_2025-05-30_1226741864_01.jpg",
@@ -3109,14 +3109,14 @@ const reportsData =[
     "weather": "rain",
     "content": "새로운 악기 놀잇감 드럼, 탬버린, 마라카스를 탐색하며 소리를 내고 리듬을 즐기는 시간을 가졌습니다. 친구들과 함께 악기를 연주하고 교사와 함께 노래도 부르며 음악 활동에 적극적으로 참여하는 모습이었습니다.\n놀이텐트안에 들어가 볼풀공 위에 누워서 몸으로 공의 촉감을 느끼고, 공을 던지기도 하며 볼풀공 놀이를 하였습니다. 텐트를 옮겨다니며 까꿍놀이도 하고 공을 골대에 넣으며 놀이를 확장하면서 환한 웃음을 보이는 바다반 친구들이었답니다.\n하준이가 볼풀공 놀이를 너무너무 좋아하며 소리내서 웃고 즐거워하였습니다~사진도 너무 예쁘게 나왔어요!!😍\n*6월 5일 목요일에 소방대피훈련이 있습니다. 여벌 양말을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/F9pMM/btsOmaG3WYU/8wtfgLJ73EHGJYijKRMzl1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wq0oU/btsOnvcqiAG/usQe5q6Xr3q9iL77VixGn0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMWKm9/btsOma1sEwN/gwppJ3oM7NPQG2bjuqGSWK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jL1pX/btsOmjwXdtz/yiySxDQmBKUJE6aLUTowb1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KhiMH/btsOoeOYEJU/VqOOMZKyJQ1PhkocMgKxTk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b56Cwn/btsOle4wdnO/sqzjdLsnsvrrcehjIDbFs0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SLq4P/btsOlVi7l2j/KyYkTKWXxdHwmaSbRZf1fK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FR4ln/btsOnvKfMdD/uEtFgE12pem07Uv2I3IKZk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/F9pMM/btsOmaG3WYU/8wtfgLJ73EHGJYijKRMzl1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wq0oU/btsOnvcqiAG/usQe5q6Xr3q9iL77VixGn0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMWKm9/btsOma1sEwN/gwppJ3oM7NPQG2bjuqGSWK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jL1pX/btsOmjwXdtz/yiySxDQmBKUJE6aLUTowb1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KhiMH/btsOoeOYEJU/VqOOMZKyJQ1PhkocMgKxTk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b56Cwn/btsOle4wdnO/sqzjdLsnsvrrcehjIDbFs0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SLq4P/btsOlVi7l2j/KyYkTKWXxdHwmaSbRZf1fK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FR4ln/btsOnvKfMdD/uEtFgE12pem07Uv2I3IKZk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0189_2025-06-02_1227626863_01.jpg",
@@ -3137,10 +3137,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "새롭게 지원한 놀잇감들을 탐색하고 악기 놀이, 컵쌓기 놀이, 병원 역할놀이 등을 하며 자유롭게 놀이를 즐기는 모습이었습니다. \n의복 소근육 놀이 교구를 활용하여 끈을 구멍에 넣어보고, 지퍼를 올렸다 내렸다 하며 손 조작 활동을 경험해보았습니다. 소근육을 활용하며 손의 움직임을 조절하고 탐색하는 시간을 가졌습니다.\n바깥놀이 산책으로  메낙골공원을 한바퀴 돌며 시원한 바람도 느껴보고, \"까악까악~\" 까마귀 소리를 듣고 나무위의 까마귀를 찾아 한참동안 관찰하는 바다반 친구들이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bKPxVB/btsOmNshK4n/dMqCixKtoBLoU4NgmWxCyk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tVQed/btsOpxHRFh1/XggcSF5RuoNe1FTiQ2K6Uk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/beU5yL/btsOoqCUZK1/H2jZ3Bcv0GKJ0sfAVlRkp0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/4wbyY/btsOofhkswV/7RUn27zX8DJqrl8MOM6ZT0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bKPxVB/btsOmNshK4n/dMqCixKtoBLoU4NgmWxCyk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tVQed/btsOpxHRFh1/XggcSF5RuoNe1FTiQ2K6Uk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/beU5yL/btsOoqCUZK1/H2jZ3Bcv0GKJ0sfAVlRkp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/4wbyY/btsOofhkswV/7RUn27zX8DJqrl8MOM6ZT0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0190_2025-06-04_1228392721_01.jpg",
@@ -3157,12 +3157,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "소꿉놀이 놀잇감을 활용해 포크로 저으며 요리를 준비하고, 교사에게 가져다 주며 역할놀이를 즐기는 모습입니다. 친구들과 함께 종이블록을 차곡차곡 쌓아 집을 만들고 그 안에 곰인형을 눕혀 토닥이며 따뜻한 상호작용이 이루어졌습니다. 옥상 텃밭에서 방울토마토들이 줄기에 주렁주렁 매달려 있는 방울토마토를 손가락으로 가리키며 관심을 표현하고 관찰한후 공놀이를 하였습니다. 수박탱탱볼을 굴리고, 두손으로 높이 던져보고, 발로 차기도 하며 전신을 활용하며 에너지를 발산하는 바다반 친구들이었습니다.^^\n하준이 오늘 점심시간에 닭살주물럭과 밥을 한그릇 뚝딱 다 먹어서 추가로 제공하여 조금 더 먹었습니다.👍 \"엄~마\",\"아~~~빠~\"를 하루종일 외치며 뛰어다니는 하준이였답니다.😊\n*오전 소방대피훈련을 잘 마쳤습니다.\n*날씨가 점점 더워지고 자외선이 강해지면서 바깥놀이를 9시 30분부터 다녀오려 합니다. 우천시 또는 미세먼지가 나쁜 날을 제외하곤 9시 30분까지 등원해 주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/jIToX/btsOry074to/CBhl5DkK1gKN89XYSKrCOk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/VlGjI/btsOrWUVRGQ/ysFKgVUL5qGNnd5JZbKidk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/gPmM3/btsOrn6Grd0/qWQqvz7sq1Yb0thhXlTp7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/nMHPw/btsOrTRrPxM/O4ySGXrl0ejOkrrVpnn4lK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bg5EY4/btsOrxalqeO/jiJoQYFTDJcIOXkXt4pYak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dpfCKp/btsOrTYsdf5/j2NcCyx13cwDlrrKK4p0D1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/jIToX/btsOry074to/CBhl5DkK1gKN89XYSKrCOk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/VlGjI/btsOrWUVRGQ/ysFKgVUL5qGNnd5JZbKidk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gPmM3/btsOrn6Grd0/qWQqvz7sq1Yb0thhXlTp7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nMHPw/btsOrTRrPxM/O4ySGXrl0ejOkrrVpnn4lK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bg5EY4/btsOrxalqeO/jiJoQYFTDJcIOXkXt4pYak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dpfCKp/btsOrTYsdf5/j2NcCyx13cwDlrrKK4p0D1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0191_2025-06-05_1229061620_01.jpg",
@@ -3181,12 +3181,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "토끼 멜로디폰 놀잇감에 관심을 보이며 버튼을 눌러 소리와 노래를 들어보았습니다. \"엄마~ 아빠~\" 하며 전화를 받고, 혼잣말을 하며 함께 역할놀이를 즐겼습니다. 동물 놀잇감 말 인형을 이용해 \"다그닥다그닥~\" 하며 달리는 시늉을 하고, 양 인형을 들고 \"음매~ 매애~~\" 하며 동물 소리를 내어보며 놀이를 이어가는 모습이었습니다. \n바깥 산책을 일찍 나가 시원한 바람을 느껴보았고, 참새가 \"짹짹짹\" 우는 소리를 듣고 따라하며 자연과 교감하는 시간을 가졌습니다.\n하준이가 점심에 고기반찬과 밥을 맛있게 다 먹었고, 점심후에 \"기저귀 갈자~\"하니 하준이가 오면서 \"응가, 응가\"라고 말했는데 응가를 시원하게 했더라구요.^^ 하루하루 표현이 늘고 있는 하준이 입니다~ 살짝 발진이 있어 평소보다 기저귀를 자주 갈아주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cLcdIV/btsOslCrKSB/T7v6UOU53mrdLEleM8tCoK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/waaOZ/btsOt7CNQ5c/VcFWzYFRuMzLgk7kVkPfo0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bqBOWi/btsOsTk7qwO/NK9IIa6P09asCQSYknEsPK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bUkGI5/btsOsmg3F0v/3AQTDF7ngA9677ZpGxVkW0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ba4kRB/btsOsS0PY5q/T8KGNuRaKhkEhQMwILtdrk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bsPKhd/btsOurm9Wkb/hVb8zBoXkt5z1eMTuujmbK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cLcdIV/btsOslCrKSB/T7v6UOU53mrdLEleM8tCoK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/waaOZ/btsOt7CNQ5c/VcFWzYFRuMzLgk7kVkPfo0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bqBOWi/btsOsTk7qwO/NK9IIa6P09asCQSYknEsPK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bUkGI5/btsOsmg3F0v/3AQTDF7ngA9677ZpGxVkW0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ba4kRB/btsOsS0PY5q/T8KGNuRaKhkEhQMwILtdrk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bsPKhd/btsOurm9Wkb/hVb8zBoXkt5z1eMTuujmbK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0192_2025-06-09_1229953045_01.jpg",
@@ -3205,12 +3205,12 @@ const reportsData =[
     "weather": "overcast",
     "content": "아이들은 소꿉놀이를 하며 접시와 냄비에 음식을 담아 친구와 교사에게 건네주고, 먹는 시늉을 하며 역할놀이를 즐기는 친구들입니다. 소프트블록을 쌓아 올렸다가 무너뜨리며 놀이의 반복 속에서 성취감을 표현하는 모습이 보였습니다. 바깥놀이에서는 민들레 꽃씨를 찾아 \"후~\" 불어보며 관심을 보였고, 잠시 앉아 분수가 나오는 모습도 구경하였습니다. 메낙골공원의 돌 지압길을 교사의 손을 잡고 걸으며 발의 감각을 경험하고, 부드러운 자갈돌을 만져보며 촉감을 탐색하는 시간도 가졌습니다. \n하준이가 교사와 손을 잡고 산책하다가 발이 걸려 넘어져서 턱아래쪽에 살짝 상처가 생겼습니다. 울거나 하지는 않았지만 소독 후 약을 발라주었고, 가정에서도 한번 살펴봐주세요..ㅠㅠ\n점심은 감자범벅 반찬을 달라고 표현하며 밥과 함께 잘 먹었습니다.\n\n*오늘부터 공은주 실습선생님께서 오셔서 바다반에서 함께 생활하고 있습니다. 참고해주세요.\n*하준이 어머님 [열린어린이집 참여활동 안내] 입니다.\n-일시: 6월 11일 (수) \n-시간: 10:30 (1시간정도 소요 예정)\n-활동 내용: 아이들과 함께 산책, 활동 진행 및 급식 배식 참여 예정입니다. 일정 참고 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/brS127/btsOtrW1RIx/UNf9lL6yPtElkkvNyfewRk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bntrtW/btsOu4MMjvu/7quzpT4lxaIkQBAuC0J2Sk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NPkeM/btsOuD9IC0g/MGvyBHmn1zcdMrAk6xNT31/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cSmhUg/btsOuFsTtaI/PgjkTmmJSh8uVwx32XyRkk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cHvKSB/btsOvvJ54Sk/9KEEHZCBhmEXBmOWiohva0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/i3wgz/btsOv791OAe/kmH7ZsqSmkHCRwh4codsU1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/brS127/btsOtrW1RIx/UNf9lL6yPtElkkvNyfewRk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bntrtW/btsOu4MMjvu/7quzpT4lxaIkQBAuC0J2Sk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NPkeM/btsOuD9IC0g/MGvyBHmn1zcdMrAk6xNT31/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cSmhUg/btsOuFsTtaI/PgjkTmmJSh8uVwx32XyRkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cHvKSB/btsOvvJ54Sk/9KEEHZCBhmEXBmOWiohva0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/i3wgz/btsOv791OAe/kmH7ZsqSmkHCRwh4codsU1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0193_2025-06-10_1230628395_01.jpg",
@@ -3229,14 +3229,14 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 열린어린이집 산책 활동으로 바다2반 두하준 어머님께서 오셔서 함께 활동을 진행하였습니다. 투명 부채에 매직펜으로 자유롭게 그림을 그리고, 하트스티커를 붙여 개성 있는 부채를 완성했고, 메낙골공원으로 산책을 나가 직접 부채를 들고 흔들며 시원함을 느껴보았습니다. 공원에서 분수의 물줄기를 바라보며 주변 환경을 관찰하고, 청개구리를 발견하며 '폴짝폴짝' 청개구리의 움직임을 흥미롭게 바라보고 관심을 표현하는 바다반 친구들이었습니다. 바다반 친구들과 즐겁게 산책을 해주시고, 적극적으로 도움을 주신 하준이 어머님께 진심으로 감사의 말씀을 드립니다.❤️ 하준이는 점심에 밥을 조금 남겼지만 숭늉이랑 맛있게 잘 먹었고, 양치후 금세 잠이 들었습니다. 하준이를 안고 오시느라 피곤하셨을텐데, 저녁시간 푹 쉬시고 내일 뵙겠습니다.\n오후간식후에 대변을 시원하게 보았습니다~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ceOJ5P/btsOxoxhaIV/YuRKZeD0UKzZYucHvUbJ4k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c5YvR7/btsOxp30dRu/zg6dYd9WaJGKYSvpjKdJQ1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/l38x5/btsOxqICbPD/eUo4kd6qGELDWfrI0CaVl0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bcCevd/btsOxzefdTZ/K6AoiaiotEK2ZVNEmwm9b0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wg4X0/btsOxxAIQOI/lQiKCZg0jzh6yYPKbniW50/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vO1QU/btsOveJTGrC/e9GXxvYDv7n03bKSPdskWK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bempZY/btsOv0LboyK/RRDtcyq124xq3RDR7U3hk0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cLr3S2/btsOxARKZ0K/SVlcd9K41METwozG1dEOw0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ceOJ5P/btsOxoxhaIV/YuRKZeD0UKzZYucHvUbJ4k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c5YvR7/btsOxp30dRu/zg6dYd9WaJGKYSvpjKdJQ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/l38x5/btsOxqICbPD/eUo4kd6qGELDWfrI0CaVl0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcCevd/btsOxzefdTZ/K6AoiaiotEK2ZVNEmwm9b0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wg4X0/btsOxxAIQOI/lQiKCZg0jzh6yYPKbniW50/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vO1QU/btsOveJTGrC/e9GXxvYDv7n03bKSPdskWK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bempZY/btsOv0LboyK/RRDtcyq124xq3RDR7U3hk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cLr3S2/btsOxARKZ0K/SVlcd9K41METwozG1dEOw0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0194_2025-06-11_1231329161_01.jpg",
@@ -3257,10 +3257,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "동물인형과 놀잇감을 가지고 친구들과 동물 흉내를 내며 다양한 동물의 움직임과 소리를 표현하고, 보육실 벽에 붙여놓은 참새 사진을 보며 참새 알과 아기 참새를 손가락으로 가리키면서 탐색하는 모습이었습니다. \"짹짹짹\", \"참새가 점프~\", \"개구리가 점프~\" 하며 점프도 시도하며 신체 활동을 즐겼습니다.\n배드민턴장으로 산책을 나가 넓은 공간에서 자유롭게 뛰어다니고, 어제 만든 부채를 들고 서로 부채질을 해주고, 개미에게도 부채질을 해주는 바다반 친구들이었습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/eysAY/btsOzbxLNP4/IRf8SN8ghzHGSgQwXk1oxk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NzloB/btsOy9taXGd/PnkfbkNU5LbjNNntj7sb0k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/LxSjE/btsOyXmfjRc/DRLMcQstCCZuSBmkwyBef0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/plRCx/btsOwsap7Mx/UB32ZlqScRTy8q2hpsCtCk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/eysAY/btsOzbxLNP4/IRf8SN8ghzHGSgQwXk1oxk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NzloB/btsOy9taXGd/PnkfbkNU5LbjNNntj7sb0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LxSjE/btsOyXmfjRc/DRLMcQstCCZuSBmkwyBef0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/plRCx/btsOwsap7Mx/UB32ZlqScRTy8q2hpsCtCk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0195_2025-06-12_1232007369_01.jpg",
@@ -3277,11 +3277,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들의 호기심이 놀이 속에서 다양하게 표현된 하루였습니다. \n신문지를 찢다가 우연히 길게 찢어지는 모습을 본 순간 놀라움과 재미를 동시에 느낀 듯했습니다. \"길게 찢어지네?\" 하고 궁금해하며 다양한 방식으로 찢어보더니, 곧바로 그 신문지를 이용해 \"옷 만들어주세요, 모자쓰고 싶어요\" 등 교사의 도움을 받아 옷을 만들고, 모자까지 써보며 주도적인 놀이가 이어졌답니다. 아이들 스스로 생각해낸 아이디어로 놀이를 만들어가는 모습이 무척 인상 깊었습니다. 놀이가 끝난 뒤 신문지를 비닐에 모아 동그랗게 공을 만들고, 이 공을 던지며 친구들과 함께 확장된 신체놀이도 즐겼답니다.  실외활동시간에는 옥상 텃밭에서 당근을 수확해보고 당근의 줄기와 잎을 물에 씻으며 감각을 탐색하고, 붓처럼 사용해 벽에 끼적이는 등 자연 속에서 즐거운 놀이를 경험 해보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/kqLN5/btsOzCKi7h4/XuS41fhb8ckzwypffQ4bsK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cQEwND/btsOzBq2L3P/nDeq9muT8z1ExaS02og2v0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cAyfrT/btsOAX7dtCN/3wW4vJ5xaXTmuvsKruylkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bjUrp1/btsOAqWoFeJ/UOvFPj6nsOMKhNa4kvVp10/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bkHIge/btsOA1Ph0cL/w9O3oSlLsgCVKs9U9GZgnk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/kqLN5/btsOzCKi7h4/XuS41fhb8ckzwypffQ4bsK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cQEwND/btsOzBq2L3P/nDeq9muT8z1ExaS02og2v0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cAyfrT/btsOAX7dtCN/3wW4vJ5xaXTmuvsKruylkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjUrp1/btsOAqWoFeJ/UOvFPj6nsOMKhNa4kvVp10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkHIge/btsOA1Ph0cL/w9O3oSlLsgCVKs9U9GZgnk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0196_2025-06-13_1232687917_01.jpg",
@@ -3299,10 +3299,10 @@ const reportsData =[
     "weather": "fog",
     "content": "한 친구가 원목블록을 꺼내 들고 쌓기 놀이를 시작하자 친구들도 하나둘 놀이에 집중하는 모습입니다.  쌓고 무너뜨리기를 반복하며 블록의 균형을 탐색하더니, 제법 높이 쌓아 올리며 \"우리 집이야!\"라고 말하기도 했습니다. 놀이 속에서 다양한 상상력을 펼치는 바다반 친구들입니다. \n실외활동 시간에는 우주반 형님들과 손을 잡고 동네 산책을 다녀왔는데 손을 꼭 잡고 함께 걷는 모습이 참 다정했답니다. 길가에 비를 피해 올라온 지렁이를 신기하게 바라보기도 했습니다. 걷는 도중 마주친 어르신들께는 먼저 인사하며 예의 바른 모습을 보여주기도 했답니다.\n하준이는 오전내내 기침과 콧물이 심했고, 열은 37.5도에서 점심시간에는 37.8도까지 올랐습니다. 점심에 밥을 1/2정도 먹었고, 낮잠준비시간에 기침을 하며 30분정도 울면서 식은땀을 흘렸고, 교사의  품에 안겨서 잠들었다가 외할머니께서 오셔서 하원했습니다. \n기침하며 목이 많이 아파서 울음을 보인것 같아요.ㅠㅠ 병원진료 잘 받고 푹쉬고 내일은 조금 괜찮아진 모습으로 만나길 기대합니다.\n*6/18일은 바다2반 송미정교사의 운동회(토요근무) 대체 휴가가 있습니다. 바다 1반 교사와 보조 연장교사가 함께 보육할 예정입니다. 참고 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/uSrIK/btsODnSEXdP/2nnamAReWiisCSu9oKmUK1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bq8Ovf/btsOBluVX0S/KfaEVfqHcrJDmdzTuEMMQK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fyC5v/btsOBkb3gtl/3pYngBvuwOgaEkgA23YMB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KsEMV/btsOBl9SQds/FYFE5jfRwnOgXtLLly4A80/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/uSrIK/btsODnSEXdP/2nnamAReWiisCSu9oKmUK1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bq8Ovf/btsOBluVX0S/KfaEVfqHcrJDmdzTuEMMQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fyC5v/btsOBkb3gtl/3pYngBvuwOgaEkgA23YMB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KsEMV/btsOBl9SQds/FYFE5jfRwnOgXtLLly4A80/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0197_2025-06-16_1233532849_01.jpg",
@@ -3319,11 +3319,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제에 이어 신체 탐색 활동에 관심을 갖는 바다반 친구들에게 거울지를 지원해주었습니다. 거울지 속에 비친 자신의 얼굴을 바라보며 \"내가 여기있네, 친구도 있네!\" 하며 신기한 듯 이야기를 나누는 모습입니다.  거울지를 들여다보고 신체관련 동요도 부르며  내 신체를 탐색하고 자기인식을 키워주는 시간이었습니다. \n탐색이 끝난 뒤에는 반짝반짝 보석 스티커를 사용해 나만의 거울을 꾸며보는 시간도 가졌답니다. \n날씨가 더워 실외활동은 잠시 쉬고, 시원한 아침시간에 텃밭에 올라가 방울토마토를 수확해보았습니다. 작고 빨갛게 잘 익은 방울토마토를 직접 맛보며 오감으로 탐색하는 시간을 가져보았습니다. \n매일매일 작은 활동 속에서 자신의 몸과 마음을 더 깊이 이해해가는 모습이 참 대견합니다. ^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bBQHjc/btsOHjXMQcO/Kamj1zSqVQKKNkgckzcZG1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dMNFfo/btsOHhMrnHf/wz5SKTAne7RLGaGV9kkQN1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMx67F/btsOHFzAAMR/hKn2GkBwa2wGjPlGLWTgy1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bsyvOC/btsOJnxUkOc/puwJ9qQFhMrCr1iQcYx4dk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6qWAg/btsOIwvnI8P/p8o2h0dEQOp3nN0SV66HPK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bBQHjc/btsOHjXMQcO/Kamj1zSqVQKKNkgckzcZG1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dMNFfo/btsOHhMrnHf/wz5SKTAne7RLGaGV9kkQN1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMx67F/btsOHFzAAMR/hKn2GkBwa2wGjPlGLWTgy1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bsyvOC/btsOJnxUkOc/puwJ9qQFhMrCr1iQcYx4dk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6qWAg/btsOIwvnI8P/p8o2h0dEQOp3nN0SV66HPK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0198_2025-06-19_1235554011_01.jpg",
@@ -3341,11 +3341,11 @@ const reportsData =[
     "weather": "rain",
     "content": "어제 만들었던 ‘나만의 거울’을 교실 벽에 붙여두었더니, 오늘 아이들이 하나둘씩 자신만의 거울을 찾아 얼굴을 비춰보며 거울 속에 비친 자신의 모습에 호기심을 보이고 친구와 비교해보기도 하고, 눈, 코, 입을 손가락으로 짚어보는 등 다양한 모습이 관찰되었습니다. 이어진 확장 활동에서는 전지 위에 몸의 형태를 그리고 자유롭게 꾸며보는 시간을 가져보았습니다. 손과 발을 따라 그려보기도 하고, 스티커를 붙이거나 색연필로 끼적이면서 아이들 스스로 몸에 대해 더 깊이 인식하고 표현하는 놀이를 즐겼습니다. 실내대체놀이로 수박 공을 이용해 몸 전체를 움직이며 에너지를 발산해보았답니다. \n하준이는 점심시간에 고기반찬과 깍두기, 국물은 맛있게 먹었는데, 밥은 계속해서 뱉어냈습니다. 흰 쌀밥은 잘 먹는 편이었는데 감기로 입맛이 없었나봅니다. 저녁식사 때 충분한 영양 섭취를 해야 할 것 같습니다.^^:",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Mp7sP/btsOKi48oUO/7pyCtstGsG9J0HmCK8CyN0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d6AULs/btsOI7wNujF/aXDb6dgXJzgX0sUEfRvCy1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b2tJWa/btsOKhkSD34/6Di1hUJVCDcUjPiD3fWa30/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/rmC7z/btsOKDA0g70/xTILemmOjajSSszxcGiDQ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/GrL1G/btsOH6SCcp5/RyISV9Pk6NDBCbC1Wb7DU0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Mp7sP/btsOKi48oUO/7pyCtstGsG9J0HmCK8CyN0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d6AULs/btsOI7wNujF/aXDb6dgXJzgX0sUEfRvCy1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b2tJWa/btsOKhkSD34/6Di1hUJVCDcUjPiD3fWa30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rmC7z/btsOKDA0g70/xTILemmOjajSSszxcGiDQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GrL1G/btsOH6SCcp5/RyISV9Pk6NDBCbC1Wb7DU0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0199_2025-06-20_1236250864_01.jpg",
@@ -3363,10 +3363,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "지난주부터 이어진 '내 몸 알아가기' 주제가 좀 더 확장되어 이번 주에는 아이들이 스스로 몸의 세세한 부위를 떠올리며 놀이를 이어가는 모습이 보였답니다. “여기가 눈~ 여긴 입~” 하며 신체 부위를 짚는 노래를 부를 때, 자연스럽게 자발적인 놀이로 이어져 아이들 사이에서 웃음꽃이 피었습니다. 특히 발바닥, 손바닥처럼 조금 더 구체적인 명칭을 이야기하며 서로 보여주고 관찰하는 모습이 아주 인상 깊었답니다.\n오전에는 더위를 피해 일찍 바깥 산책을 다녀왔고, 산책 후에는 데크에서 스펀지붓을 이용해 데크 바닥에 물로 그림을 그리며 놀이했습니다. 물을 스펀지에 적시고 손으로 꼭 짜보기도 하면서 물방울이 떨어지는 모습을 유심히 보는 아이도 있었고, 자신만의 ‘그림’을 완성하며 성취감을 느끼는 모습도 볼 수 있었답니다. 이 과정에서 손의 힘을 조절하고, 물의 움직임을 관찰하는 능력까지 키울 수 있었습니다.\n하준이는 점심에 국물과 김치만 조금 먹고 밥은 두숟가락 먹고 계속 뱉어냈습니다. 저녁에 가정에서 충분한 영양섭취를 해야 할 것 같습니다.\n최근 하준이가 바닥이나 자신의 배, 다리를 손바닥으로 치는 모습이 있었는데, 오늘은 교사의 다리를 손으로 치는 행동과 친구를 뒤에서 손으로 잡아당기는 행동을 보였습니다. 선생님이나 친구를 때리거나 잡아당기면 아프고 불편하다고 이야기를 해주었습니다. 가정에서도 한번 이야기를 나누어 주시면 좋겠습니다. \n\n*25일 수요일 열린어린이집 물감도장찍기 활동이 예정되어 있어 수요일 등원시까지 미술가운을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/coo3DS/btsOMGE59LZ/NZUNyCPrEKDkuWkcyEeiU1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bjyqTs/btsOL7Db0x8/Ob46L9oXpGukp2Rcr3VLv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/czJ1uE/btsOLQIuobG/bWZyecIBS9XPpXHXTrKR30/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cKN0Ui/btsOLtfI9qP/Oho9oEy6Is8husx6kYcIeK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/coo3DS/btsOMGE59LZ/NZUNyCPrEKDkuWkcyEeiU1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjyqTs/btsOL7Db0x8/Ob46L9oXpGukp2Rcr3VLv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/czJ1uE/btsOLQIuobG/bWZyecIBS9XPpXHXTrKR30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cKN0Ui/btsOLtfI9qP/Oho9oEy6Is8husx6kYcIeK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0200_2025-06-23_1237109467_01.jpg",
@@ -3383,9 +3383,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "사진 속 자신의 얼굴을 보며 눈, 코, 입의 위치를 관찰하고 매직펜으로 따라 그려보는 활동을 해보았습니다. 선을 그리고 색칠하며 집중하는 모습과 함께 손 조작 능력을 발휘하는 모습이 관찰되었습니다. 활동에 몰입하여 자유롭게 그리며 자기 표현력을 기르는 시간이 되었고, 보육실 벽에 걸어주니 자신의 얼굴을 찾으며 흐뭇해하는 친구들이었습니다. \n유희실에서 붕붕카를 타고 이리저리 움직이며 공간을 탐색하고, 헬리콥터 푸시카를 밀며 균형을 조절하는 활동을 즐겼습니다. 친구와 붕붕카를 바꿔 타보며 상호작용하고 순서를 지키는 모습도 보였습니다.\n하준이는 오늘 오징어뭇국이 입맛에 맞았는지 밥을 한그릇 맛있게 다 먹었습니다.^^ 감기증상도 거의 호전되어 안정적으로 하루를 보냈습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cTZ1ez/btsONwQ0Wt3/GbS8qXWTfFnIbl4dWCla5k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fObme/btsOP8N7IOY/iC1OJhuzBKHlpj6YKIEFi1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bXOCGT/btsOQarDmwV/r4R0yks9lpsSdrzTcvEu1K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cTZ1ez/btsONwQ0Wt3/GbS8qXWTfFnIbl4dWCla5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fObme/btsOP8N7IOY/iC1OJhuzBKHlpj6YKIEFi1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bXOCGT/btsOQarDmwV/r4R0yks9lpsSdrzTcvEu1K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0201_2025-06-24_1237788424_01.jpg",
@@ -3401,11 +3401,11 @@ const reportsData =[
     "weather": "rain",
     "content": "오늘 열린 어린이집 특색활동으로 \"박제이 어머님\" 께서 바다반 친구들과 함께 해 주셨습니다. 『갈색곰아 갈색곰아 어디를 보고 있니?』를 함께 들으며 아이들의 상상력을 자극해 보는 시간을 가져보았습니다. 엄마선생님이 들려주시는 동화를 집중해서 듣는 아이들의 눈빛이 반짝반짝 빛났답니다. 동화에서 본 동물들을 주제로 미술 오감놀이가 이어졌습니다. 모양 도장을 이용해 종이에 꾹꾹 찍으며 자기만의 동물 친구를 표현해 보았고, 면봉을 물감에 묻혀 동물 머리띠도 만들어보았답니다.\n활동을 마친 후엔 신나는 동요를 들으며 자유롭게 신체표현도 해보았습니다. 악어가 되어보았다가 상어가 되기도 하는 등 오늘 하루, 동화와 미술, 음악이 어우러진 풍성한 활동 속에서 아이들의 상상력과 표현력이 더욱 자라나는 시간이었습니다.\n열린 어린이집에 참여하셔서 도움을 주신 박제이 어머님께 감사드립니다.❤️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dXJ1y/btsORn5TXBu/jUIliKa8NVKTUERoijk580/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bgl1mb/btsORDOaOVh/BXdyffr9jI5xwxKwXzDU1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QFX5W/btsOQkbg1B3/GPMM0qyBMd0ML0KKCIrUjK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bXxGJ7/btsOQg04ghI/EGTUvdYFB7R0Ddu9uSbwmk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/u9hL4/btsORC9yRrg/uvBB6vg9HbankESr1XuDE1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dXJ1y/btsORn5TXBu/jUIliKa8NVKTUERoijk580/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bgl1mb/btsORDOaOVh/BXdyffr9jI5xwxKwXzDU1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QFX5W/btsOQkbg1B3/GPMM0qyBMd0ML0KKCIrUjK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bXxGJ7/btsOQg04ghI/EGTUvdYFB7R0Ddu9uSbwmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/u9hL4/btsORC9yRrg/uvBB6vg9HbankESr1XuDE1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0202_2025-06-25_1238478503_01.jpg",
@@ -3433,10 +3433,10 @@ const reportsData =[
     "weather": "fog",
     "content": "아이들이‘나의 몸’에 대해 알아보는 탐색 활동을 통해 배변과 관련된 궁금증을 활발히 표현하는 모습을 보였습니다. 교실 한편에 변기와 소변기 사진을 게시해 두었더니, 사진을 보며 \"쉬는 여기에 하는 거야~\", \"응가해야지!\" 하는 말로 자연스럽게 배변에 대한 이해를 표현하고 응가, 쉬 놀잇감을 붙이고 떼는 놀이를 반복하며 흥미롭게 탐색하는 모습이 인상적이었습니다. 이런 과정을 통해 아이들이 자기 몸의 신호를 이해하고, 스스로 표현해 보려는 시도가 자연스럽게 이어졌답니다.\n실외놀이시간에는 배드민턴 장에서 바람개비를 들고 놀이를 즐겼습니다. 가볍게 불어오는 바람 속에서 바람개비가 빙글빙글 도는 걸 보며 아이들은 신기해하고, 위치를 바꾸어가며 놀이하는 모습을 볼 수 있었습니다.\n하준이는 점심시간에 생선까스를 맛있게 먹었고, 밥은 조금 먹고 계속해서 뱉고 숟가락으로 떠서 바닥에 뿌리는 행동을 보였습니다. 가정에서도 올바른 식사습관 지도를 부탁드리며 저녁시간에 충분한 영양섭취를 하면 좋을 것 같습니다. 국물을 뱉으며 티셔츠와 바지가 젖어서 여벌옷으로 갈아입었습니다. 여름 여벌옷으로 한벌 보내주세요~^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bOaAlF/btsOVkgO9jS/NO1r0nyzvtE1EdtUlQPcYk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/sS69n/btsOUTc0bQZ/tL7o1k5LByx8Ge0on6F7q1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bGSXEg/btsOT91Rw0N/VOiZ8DPcTssH0sXBns5pwk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QOCCj/btsOUSkQkI1/zineMGwkf2aNbnvvjtdck1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bOaAlF/btsOVkgO9jS/NO1r0nyzvtE1EdtUlQPcYk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sS69n/btsOUTc0bQZ/tL7o1k5LByx8Ge0on6F7q1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bGSXEg/btsOT91Rw0N/VOiZ8DPcTssH0sXBns5pwk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QOCCj/btsOUSkQkI1/zineMGwkf2aNbnvvjtdck1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0204_2025-06-27_1239874272_01.jpg",
@@ -3453,9 +3453,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "자동차와 건설차 장난감을 들고 모여 앉아 상상 속 도로를 달리며 놀이에 몰입하는 모습을 보였습니다. 굴삭기, 덤프트럭, 불도저 등 각기 다른 차량의 움직임을 흉내내고, 소방차와 구급차를 밀며 방향을 조절하거나 “삐용삐용~” 소리를 내며 역할놀이를 확장했습니다. 놀이 중간에는 서로 차량을 바꾸어보거나 “내 거는 공사차야!”, “이건 흙을 실어 나르는 거야” 같은 대화를 주고받으며, 사회적 상호작용과 언어 표현도 풍부하게 이루어졌습니다.\n오전에는 옥상텃밭에 올라가 애플수박, 망고수박을 관찰하고 주황색, 빨간색 토마토를 따서 씻은 후 먹어보고 \"음~ 맛있다~\"하고 표현하는 바다반 친구들이었습니다.\n하준이는 점심시간에 밥과 깍두기를 조금 먹고 대부분 뱉어냈습니다. 가정에서 충분한 영양섭취를 해주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cLNXlP/btsOVxbh6VX/DOifYKdQ54VGNLtAEWR0bk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cBnnp8/btsOYPVivZW/ZZxWsVLzHkMxav1TSuJyi0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bLbGoF/btsOYMxu5Cd/nivXBAth4paH04j2nkFO4K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cLNXlP/btsOVxbh6VX/DOifYKdQ54VGNLtAEWR0bk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cBnnp8/btsOYPVivZW/ZZxWsVLzHkMxav1TSuJyi0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bLbGoF/btsOYMxu5Cd/nivXBAth4paH04j2nkFO4K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0205_2025-06-30_1240727320_01.jpg",
@@ -3471,9 +3471,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "자동차 놀이를 하다가 블록 위에 나란히 앉아 “출발~!” 하고 외치며 상상 속 기차를 타고 여행을 떠났습니다. 운전대 놀잇감을 손에 쥐고 좌우로 움직이며 운전 흉내를 내고, “부릉부릉~”, “삐뽀삐뽀!” 같은 소리를 내며 몰입하고, 앞에 앉은 친구의 등을 토닥이기도 하고, “여기 정류장이야!”, “문 열고 타세요~” 같은 대사를 주고받으며 또래와의 자연스러운 상호작용도 활발하게 이루어졌습니다. 자동차 기차놀이와 함께 스펀지로 된 도로 퍼즐 조각들을 하나하나 연결하며 놀이 공간을 확장해보았습니다. “여기는 병원 옆 도로야!”, “기차 지나가요~” 하며 친구들과 함께 길의 모양과 방향을 이야기 나누며 창의적이고 협동적인 놀이를 즐기는 모습이었습니다.\n하준이는 점심에 고기는 씹다가 뱉었고, 밥은 1/3정도 뱉고 2/3정도는 국물과 함께 잘 먹었습니다. 콧물이 계속 나서 손수건으로 닦아주었습니다. 가정에서도 증상과 컨디션을 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b9vpWp/btsOY3HhNdW/YVu3CApmdYOzoLziWQz7T1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bCnmHk/btsO0iXzCSC/AyfJabWrDUWdYuGAL7CDs1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bAKmCj/btsOZehy8i1/nSktrAeLdvzmgRj5oHiNd0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b9vpWp/btsOY3HhNdW/YVu3CApmdYOzoLziWQz7T1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bCnmHk/btsO0iXzCSC/AyfJabWrDUWdYuGAL7CDs1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAKmCj/btsOZehy8i1/nSktrAeLdvzmgRj5oHiNd0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0206_2025-07-01_1241448089_01.jpg",
@@ -3489,10 +3489,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "자동차 놀이를 하며 친구와 마주 앉아 각자의 자동차를 조심스럽게 움직이며 도로 위 차량을 조종하고, 주차장 그림판 위에 자동차놀잇감을 나란히 줄지어 세워놓기도 하였습니다. “여기 경찰차 지나가요!”, “비켜주세요!” 하는 표현으로 역할 놀이를 즐기는 모습이었습니다. 와플블럭을 활용해 네모큐브와 자동차를 만들어 놀이를 확장하고, 탈것 그림에 플레이콘을 콕콕 찍어 붙이는 활동을 하며 다양한 탈것 종류도 알아보았습니다.\n하준이는 점심에 2/3정도 먹었습니다. 오늘 컨디션은 좋은 편이었고, 콧물과 기침증상이 있습니다. 가정에서도 세심하게 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/baEklk/btsO0Dn6EQV/u6NzYgbwGnT8h7HckqRm9K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/buF2Ee/btsO0FM0HTE/rrwthdlg3VZ5T4TykuWeN1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9380p/btsO0Gd6KsL/J7vN8YNOx1gUBZZAUsw2d1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bocL9G/btsOZEaedKs/NnitUqqqDbHzZvdkuUpHtk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/baEklk/btsO0Dn6EQV/u6NzYgbwGnT8h7HckqRm9K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/buF2Ee/btsO0FM0HTE/rrwthdlg3VZ5T4TykuWeN1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9380p/btsO0Gd6KsL/J7vN8YNOx1gUBZZAUsw2d1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bocL9G/btsOZEaedKs/NnitUqqqDbHzZvdkuUpHtk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0207_2025-07-02_1242128274_01.jpg",
@@ -3509,11 +3509,11 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "오늘은 “야채괴물” 인형극을 관람하며 인형극 무대에 등장하는 채소 인형들이 움직일 때마다 눈을 반짝이며 집중하는 모습을 보였습니다. \"편식하면 야채괴물이 생긴다!\" \"채소도 알고 보면 건강을 지켜주는 친구!\" 라는 친근한 메시지를 받아들이며 이야기에 빠져들었습니다. 공연 후에는 “당근 괴물은 어떻게 생겼을까?”, “브로콜리 먹으면 힘 세질까?” 하는 이야기로 놀이를 확장하며, 건강한 식습관의 중요성에 대해 호기심을 갖고 표현해보는 시간이 되었습니다. 관람 후 노래와 율동도 신나게 따라하는 바다반 친구들이었습니다.^^\n바깥놀이 시간에는 놀이터 바닥 위에서 자동차 놀잇감을 힘차게 굴리며 친구들과 함께 주고 받기도 하고, 스프링 놀이기구에 올라 “출발~!” 하고 외치며 자동차를 타는 듯 흔들흔들 몸을 앞뒤로 움직이며 즐겁게 신체활동을 하였습니다.\n하준이는 11시경에 대변을 시원하게 보았고, 점심에 2/3정도 밥과 국을 먹었습니다. 어제보다 기침과 콧물이 많이 심해졌고, 특히 낮잠시간에는 기침을 하느라 중간중간에 깨서 힘들어 하는 모습을 보였습니다. 허벅지 안쪽에는 땀띠가 난 것으로 보이고, 등쪽에도 빨갛게 조금 땀띠가 난 것 같습니다. 가정에서도 감기증상과 땀띠 모두 살펴봐 주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/di6nDP/btsO2b6TVhF/ukwMKkWH3khTMFj4JUUVqK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KyYRp/btsO2pcKmvu/i1ifhLtUfoMB4doVx1lG7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ey4rj/btsO3dh3aoD/O3Ijl0uOTJlJ43xIcDUW11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/3lsUD/btsO3cwHzpl/JkD4NCpiR7KOalnKY5uKB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/laRMB/btsO2aNGsUF/AlNa62M8KMpXaP0m1yDs9K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/di6nDP/btsO2b6TVhF/ukwMKkWH3khTMFj4JUUVqK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KyYRp/btsO2pcKmvu/i1ifhLtUfoMB4doVx1lG7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ey4rj/btsO3dh3aoD/O3Ijl0uOTJlJ43xIcDUW11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/3lsUD/btsO3cwHzpl/JkD4NCpiR7KOalnKY5uKB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/laRMB/btsO2aNGsUF/AlNa62M8KMpXaP0m1yDs9K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0208_2025-07-03_1242816707_01.jpg",
@@ -3531,12 +3531,12 @@ const reportsData =[
     "weather": "rain",
     "content": "오늘은 커다란 박스 자동차를 지원하여 색연필과 다양한 스티커를 붙여 직접 꾸며주고 친구들과 함께 박스 안에 앉아 자동차 놀이를 이어갔습니다. 장난감 핸들을 돌리며 “출발~!” 하고 외치고, 옆 친구는 운전자의 움직임에 맞춰 몸을 흔드는 등 역할에 자연스럽게 참여했답니다.\n상자안에 볼풀공을 부어주니 알록달록한 공 사이에 몸을 뉘이고, “슝슝~” 하며 공을 던지거나 껴안으며 감각을 탐색하고 “여긴 내 집이에요~” 하며 박스 안팎을 오가며 적극적으로 놀이를 즐겼습니다.\n하준이는 등원해서부터 기침이 심했고, 점심밥은 1/2정도 먹었습니다. 열은 37.0도 전후로 더 오르지는 않았습니다. 주말동안 회복해서 월요일에 건강하게 만나길 바랄께요~!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/T0u5c/btsO3J3icb0/TbCX3KYTx1Qck8x4KbJZX0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/IgymZ/btsO4hLZCBC/d2Vi8RaXQdaQUUzv7ikMm0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dJff9o/btsO3MsaQjw/qu9NKWknUukqaQ4Q0vjnk0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/zMVeE/btsO3IpOlqs/j1oKFmcczj2BaYLdho1xO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/duaBi6/btsO4khEXk9/k0P0cc4YIwgYaZWI1XpjOK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d8fbL/btsO3JWv1Aw/WhsGXrps5y3kQkNKPbJIfK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/T0u5c/btsO3J3icb0/TbCX3KYTx1Qck8x4KbJZX0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IgymZ/btsO4hLZCBC/d2Vi8RaXQdaQUUzv7ikMm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dJff9o/btsO3MsaQjw/qu9NKWknUukqaQ4Q0vjnk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zMVeE/btsO3IpOlqs/j1oKFmcczj2BaYLdho1xO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/duaBi6/btsO4khEXk9/k0P0cc4YIwgYaZWI1XpjOK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d8fbL/btsO3JWv1Aw/WhsGXrps5y3kQkNKPbJIfK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0209_2025-07-04_1243500645_01.jpg",
@@ -3555,13 +3555,13 @@ const reportsData =[
     "weather": "fog",
     "content": "오늘은 오전에 경찰관님께서 어린이집을 방문하셔서 교통안전교육을 직접 진행해 주셨습니다. 아이들은 “파란불에 건너요~!” 하고 손을 들고, 교실에 마련된 횡단보도를 실제처럼 건너보며 안전한 보행 방법을 익히는 뜻깊은 시간을 보냈습니다.\n교실에서는 여러가지 탈것 그림을 보고 \"비행기\", \"소방차\", \"기차\"하고 손가락으로 짚으며 관심을 나타냈습니다. 색종이와 도화지위에 끼적이고 스티커를 붙여 자유롭게 꾸민 뒤, 종이를 직접 접어보며 종이비행기를 만들어 보았습니다. 비행기를 “슝~” 날려보며 친구들과 함께 실내 신체활동을 즐기는 모습이었습니다.\n하준이는 콧물이나 기침은 거의 없었고, 입맛이 조금 돌아왔는지 미역국과 깍두기를 맛있게 먹으며 밥을 한그릇 다 먹고 추가하여 조금 더 먹었습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cBYf68/btsO7546n24/jX4mxysjOlc2h75ouih8K0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/K3EwX/btsO8iQD8R5/RkK3Pha8XsWBeSYm46c7Q0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cvTtm4/btsO6blECaj/OGdJJnHEDvQC4XBI1x0Yek/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/n24N1/btsO7PH9XyV/Fj9yQA9F15cqOL08ywy7z0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c8BtKb/btsO7QUCDWP/GhTAjH0lYdCNGLdrzo2M60/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Wrsyf/btsO6C32oWL/O8wLNJpRKZwaXjbvWRjMt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/vjngo/btsO76CXBY8/fNv9BKmDAJCXHytFB0kmIK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cBYf68/btsO7546n24/jX4mxysjOlc2h75ouih8K0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/K3EwX/btsO8iQD8R5/RkK3Pha8XsWBeSYm46c7Q0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cvTtm4/btsO6blECaj/OGdJJnHEDvQC4XBI1x0Yek/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n24N1/btsO7PH9XyV/Fj9yQA9F15cqOL08ywy7z0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c8BtKb/btsO7QUCDWP/GhTAjH0lYdCNGLdrzo2M60/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Wrsyf/btsO6C32oWL/O8wLNJpRKZwaXjbvWRjMt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vjngo/btsO76CXBY8/fNv9BKmDAJCXHytFB0kmIK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0210_2025-07-07_1244353092_01.jpg",
@@ -3581,11 +3581,11 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "커다란 튜브 매트안에서 알록달록한 물고기와 바다 동물 모양의 놀잇감을 낚싯대와 뜰채를 활용해 직접 잡아보며, “잡았다~!”, “꽃게 잡았어요!” 하며 즐겁게 낚시놀이를 해보았습니다.\n도로 플레이매트 위에서 친구와 함께 장난감 자동차를 움직이며 “여기는 어디에요?”, “빵빵~병원에가요~” 등 장소와 역할을 설정하며 창의적인 상호작용을 이어가는 모습이었습니다. 유희실에서는 상자로 만든 끌차에 곰돌이 인형을 태우고 \"다녀올께요~\"하며 이쪽저쪽으로 끌고 다니며 신체활동을 하였습니다. \n하준이는 오늘도 점심에 밥을 맛있게 먹으며 국, 김치, 도미살조림과 함께 한그릇 다 먹었습니다.^^\n  \n*7월 10일 목요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/CT6BP/btsO7IQ5Pg9/BsjaBr42REjGwlEe2QiNKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KR3ay/btsO7qwm0eO/m7Xs6mqjcr3ZlEjj6MVFYk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/TIIeq/btsO8VaNOAN/vtuiV7TMuOZg41MZ8g4Om1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HXwfh/btsO7nTW840/saKfo4gYDQgSmeM619biK1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/RSZYE/btsO88HKbTV/mFXqPj59KtVT4GshApgKlK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/CT6BP/btsO7IQ5Pg9/BsjaBr42REjGwlEe2QiNKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KR3ay/btsO7qwm0eO/m7Xs6mqjcr3ZlEjj6MVFYk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/TIIeq/btsO8VaNOAN/vtuiV7TMuOZg41MZ8g4Om1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HXwfh/btsO7nTW840/saKfo4gYDQgSmeM619biK1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/RSZYE/btsO88HKbTV/mFXqPj59KtVT4GshApgKlK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0211_2025-07-08_1245056142_01.jpg",
@@ -3603,13 +3603,13 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘 열린어린이집 활동으로 실내에서 [습자지 분무기 놀이]를 진행하였습니다. 습자지와 분무기를 활용한 놀이를 통해 색의 변화와 물의 작용을 관찰하며 창의적인 표현을 시도하는 시간을 가졌습니다. 습자지를 손으로 바스락거리며 뭉치고, 찢고, 던져보는 다양한 감각 활동을 즐기며 촉감 탐색과 운동 감각 자극을 자연스럽게 이어갔습니다. 습자지 위에 분무기로 물을 뿌리며, 색이 번지는 모습을 관찰하고, “우와~ 예뻐졌어!”, “꽃 같아요~” \"색깔비\" 등의 표현을 사용해 색과 형태의 변화를 즐겁게 탐색하는 바다반 친구들이었습니다.\n점심에 볶음밥과 숭늉을 맛있게 잘 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/clt5GX/btsPa5jQATK/S4oMxRsW4Q67O6uCkllIw1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dQsoL/btsO9KBfRTT/76ULt7VgtKyeszigOZ2yok/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/rT8eO/btsO9KBfS2t/ph8pUfjS0VKVFBwmJyk9GK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0lc75/btsPaf1Rr7w/3DY0MrJQvzehKVY2D2flm0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/mR6sQ/btsPae2TRTq/91FdxdatpAXSkDTg8mJfh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Ate27/btsPblzYYaV/gnOxdwjkzqvYFfOgNfFkK1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/uuCL8/btsPbnq2C4w/75RABNkmaeHMJJG4eM0vt1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/clt5GX/btsPa5jQATK/S4oMxRsW4Q67O6uCkllIw1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dQsoL/btsO9KBfRTT/76ULt7VgtKyeszigOZ2yok/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rT8eO/btsO9KBfS2t/ph8pUfjS0VKVFBwmJyk9GK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0lc75/btsPaf1Rr7w/3DY0MrJQvzehKVY2D2flm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mR6sQ/btsPae2TRTq/91FdxdatpAXSkDTg8mJfh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ate27/btsPblzYYaV/gnOxdwjkzqvYFfOgNfFkK1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uuCL8/btsPbnq2C4w/75RABNkmaeHMJJG4eM0vt1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0212_2025-07-09_1245731963_01.jpg",
@@ -3629,11 +3629,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "아이들이 종이블록을 길게 연결해 그 위에 자동차를 굴리면서 놀이를 하다가 블록위에 올라서기를 좋아하여 길을 따라 비행기 날개처럼 팔을 벌리고 걷는 균형놀이를 해보았습니다. 마지막에 볼풀공 위로 점프하며 신체 감각을 활발하게 자극하였고, 이어진 볼풀 놀이에서는 교사가 자동차 놀잇감을 공 사이에 숨겨주니, 금세 찾으며 “찾았다!”하며 친구들에게 보여주고, \"수리수리마수리~ 자동차가 없어진다\"하고 놀잇감을 숨기며 즐거워하는 친구들이었습니다.\n오전에 소방대피훈련을 신속하게 대피한 후 잘 마쳤습니다.\n하준이 오늘 점심시간에 반찬은 남겼지만 밥과 국은 추가하여 두그릇씩 맛있게 잘 먹었습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cXcVHF/btsPdhRAG26/LnOlysxuDRpy1IJ20CKc8k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bN5Gru/btsPdhjLCSc/B7kSVJExtYgssKyAG5FnAK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dFLQ2/btsPdflXjjf/wYONbjtf4qdnbTRtULpM11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dc8Fwr/btsPbvcKaDb/STOBVZrh6IKmosLMNVgxT1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/LrqSn/btsPddBI4HV/wov00HUNpCDJ43rlo0pTqK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cXcVHF/btsPdhRAG26/LnOlysxuDRpy1IJ20CKc8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bN5Gru/btsPdhjLCSc/B7kSVJExtYgssKyAG5FnAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dFLQ2/btsPdflXjjf/wYONbjtf4qdnbTRtULpM11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dc8Fwr/btsPbvcKaDb/STOBVZrh6IKmosLMNVgxT1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LrqSn/btsPddBI4HV/wov00HUNpCDJ43rlo0pTqK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0213_2025-07-10_1246427999_01.jpg",
@@ -3651,13 +3651,13 @@ const reportsData =[
     "weather": "sunny",
     "content": "큰 와플블록을 활용하여 직접 연결하고 조립하며 자동차와 기차를 만들어 친구들과 함께 역할놀이를 해보았습니다. 블록 위에 앉아 “출발합니다~”, “부릉부릉~” 등 다양한 표현을 사용하며 놀이에 몰입하였고, \"어디가요?\"\"까페에 가요! 수영장에가요!\"하며 주변 친구들과 상호작용하며 이동 경로를 설정하거나 탑승 역할을 나누는 등 협동적인 놀이를 이어가는 모습이었습니다.\n오전에 바람이 시원해 옥상텃밭에 올라가 주렁주렁 달린 망고수박과 오이, 파프리카 신기한듯 관찰하는 친구들입니다. 텃밭에 물도 주고 비누방울놀이를 하며 신나게 뛰어놀았답니다.^^\n하준이는 점심에 밥을 거의 뱉지 않고 한그릇을 뚝딱 다 먹었습니다.👍 낮잠시간에는 일찍 일어나서 피곤했는지 평소보다 일찍 스르륵 잠이 들었습니다. \n*하준이 텃밭신발이 조금 작아져서 다시 보내주시면 교체하겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/LqnRM/btsPdG6gZhk/iE9d8dVvZSgmHQG4COdvd1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SWwr7/btsPeK7Jvsy/6GcERIUnKg6QL1vRbzDdGk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/caM6Nm/btsPdEObvUA/XNUnXTP5nG86Ep6By1Fz91/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/4Be6O/btsPeAxyXi9/TItLjmXQxmiODH3TWvUtg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/38W55/btsPe03z90t/TxF2rwQ8WHBsYSrEsNqkJ1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Ft36c/btsPdEAEOG4/n7i3yzXcFI4Ir3of7eRXkk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bM3SCS/btsPdMyqO4l/c58FKofCRokpTqCQDymcCK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/LqnRM/btsPdG6gZhk/iE9d8dVvZSgmHQG4COdvd1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SWwr7/btsPeK7Jvsy/6GcERIUnKg6QL1vRbzDdGk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/caM6Nm/btsPdEObvUA/XNUnXTP5nG86Ep6By1Fz91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/4Be6O/btsPeAxyXi9/TItLjmXQxmiODH3TWvUtg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/38W55/btsPe03z90t/TxF2rwQ8WHBsYSrEsNqkJ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ft36c/btsPdEAEOG4/n7i3yzXcFI4Ir3of7eRXkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bM3SCS/btsPdMyqO4l/c58FKofCRokpTqCQDymcCK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0214_2025-07-11_1247106498_01.jpg",
@@ -3677,10 +3677,10 @@ const reportsData =[
     "weather": "rain",
     "content": "지난주에 이어 와플 블록 놀이가 활발하게 이루어졌습니다. 아이들이 점점 더 익숙해지고 창의적으로 블록을 활용하는 모습이 인상 깊었답니다. 좋아하는 동물을 블록 자동차에 태워주며 동물원도 가고, 소풍도 가는 등 다양한 상상 속 여행을 즐겼답니다. 친구들과 “내가 운전할게!”, “너도 타봐, 같이 가자” 하며 대화도 주고받는 모습이 너무 귀여운 바다반 친구들입니다.\n또 ‘내가 좋아하는 탈것’에 대해 이야기 나눈 후, 종이에 자유롭게 끼적이기도 해 보고 도트물감을 콕콕 찍으며 예쁘게 꾸며보기도 했답니다. 알록달록한 색으로 표현한 탈것 그림을 교실에 게시해 주었더니 내 그림이라며 좋아하는 모습입니다.\n폭염에서 벗어나 선선한 바람을 맞으며 데크로 나가 자연과 함께하는 시간을 가졌답니다. 토란과 수련, 부레옥잠을 관찰하고 분무기를 이용해 물도 주며 작은 생명들을 돌보는 따뜻한 마음을 키워보았습니다.\n옥상 텃밭에 열린 망고수박을 처음 수확해 점심시간에 맛을 보았어요. 수박 속이 빨갛지 않고 노란 것을 본 친구들이 관심 어린 눈빛으로 신기한 듯 보기도 했답니다. 망고수박을 먹어 보니 정말 달콤했어요! 애플수박도 어서 자라 우리 친구들이 수확의 기쁨을 느낄 수 있었으면 좋겠습니다. \n하준이 점심시간에 밥과 국을 추가하여 넉넉히 먹고 망고수박도 후식으로 맛있게 먹었습니다.^^\n점심시간 전후로 기침을 많이 했는데 가정에서도 증상을 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cfqpYL/btsPgUQMRed/tMGqwp8XYgh40cFklKMgh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kRj80/btsPgUXuc5T/3feTrRh9upXhrYKH7lOdc0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d2kebK/btsPh6W1qR4/EWi9oh4dkV3kzCNPLoJIq0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/JOrjG/btsPgiR5nlG/Mi3dt18ywB1UMuSdFYKntK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cfqpYL/btsPgUQMRed/tMGqwp8XYgh40cFklKMgh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kRj80/btsPgUXuc5T/3feTrRh9upXhrYKH7lOdc0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d2kebK/btsPh6W1qR4/EWi9oh4dkV3kzCNPLoJIq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JOrjG/btsPgiR5nlG/Mi3dt18ywB1UMuSdFYKntK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0215_2025-07-14_1247978441_01.jpg",
@@ -3697,11 +3697,11 @@ const reportsData =[
     "weather": "rain",
     "content": "바다반 아이들이 요즘 푹 빠져 있는 탈것 놀이! 오늘은 교실 벽면에 새로 준비한 '탈것 그림자 교구'로 신나게 활동해 보았습니다. 처음엔 그림자만 보고 무슨 탈것인지 생각하던 친구들도 점점 모양을 관찰하며 바퀴가 두 개네, 네모 모양이네 하며 스스로 유추해 보는 모습입니다.\n무엇보다도 단순히 맞추는 데 그치지 않고, \"소방차는 불이 날 때 오고\", \"구급차는 병원 가는 거야\"처럼 각 탈것의 쓰임에 대해 친구들과 이야기를 주고받는 모습이 너무 기특했답니다. 아이들 스스로의 경험과 배경지식을 바탕으로 생각을 확장해 나가는 시간이었습니다.\n비가 오지 않아 지역사회연계활동으로 우주반 형님들과 손을 잡고 함께 마트 나들이도 다녀왔답니다.\n마트에서 사 온 간식은 어린이집 놀이터 주변에 돗자리를 펴고 우주반 형님들과 사이좋게 나누어 먹었습니다.\n작은 나눔 속에서도 아이들의 따뜻한 마음이 전해졌고, 형님들과의 교류도 자연스럽게 이루어져 더욱 풍성한 하루였습니다.\n하준이 점심후부터 낮잠시간과 하원 전까지 기침을 많이 했습니다. 가정에서 증상과 컨디션을 살펴봐주세요.\n\n*16일 수요일에는 <서울시 방문 간호사 지원사업>으로 간호사 선생님께서 원으로 방문하셔서 개인발달검사를 해 주십니다. 전반적인 발달 상태를 확인하고 신체 및 정서 발달이 또래 수준에 맞게 이루어지고 있는지 살펴봐 주실 예정입니다. 9시 30분까지 등원해 주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/8wlyE/btsPiqWKK4a/oKCSCYIaHJCbvef86ySjJK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bNWMm7/btsPiIvJG3t/kGJWm67H25MyOuVvfXKjPK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bjjFj7/btsPiuY8Xcr/aK1RitoFK6skQKNkQAgoFk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/1Gs4P/btsPiLTyRQl/Zc8oyIXvFcVQfd9W3Axwvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OZSna/btsPiFMz7fi/OCF8KSkXZQtMZLUkjikuC0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/8wlyE/btsPiqWKK4a/oKCSCYIaHJCbvef86ySjJK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bNWMm7/btsPiIvJG3t/kGJWm67H25MyOuVvfXKjPK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjjFj7/btsPiuY8Xcr/aK1RitoFK6skQKNkQAgoFk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/1Gs4P/btsPiLTyRQl/Zc8oyIXvFcVQfd9W3Axwvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OZSna/btsPiFMz7fi/OCF8KSkXZQtMZLUkjikuC0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0216_2025-07-15_1248646028_01.jpg",
@@ -3719,11 +3719,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 아이들이 좋아하는 블록 놀이가 더욱 특별하게 펼쳐졌습니다.\n벽돌블록에 기차 모양 그림을 붙여 기차블록을 만들어보며 탐색과 놀이가 시작되었습니다. 블록을 하나하나 연결하며 기차를 만들고, 그 위에 조심스럽게 또 다른 블록을 올려 높이 쌓는 모습도 보여주었습니다. 때로는 친구들과 함께 “출발~!” 소리를 내며 기차가 달리는 상황을 상상해보기도 하고 기차를 타고 소풍을 가는 상상놀이도 해보았습니다.\n더위로 인해 실내대체놀이가 진행되었습니다. 비행기 그림이 그려진 공을 비행기처럼 슝~ 하고 던져보며 마치 비행기가 하늘을 나는 것처럼 비행기의 움직임을 생생하게 표현했답니다. 다양한 역할을 상상하고 직접 몸으로 표현하는 바다반 친구들의 모습에서 풍부한 상상력과 표현력을 느낄 수 있었습니다.\n하준이는 오랜만에 등원하여 기분이 좋은지 놀잇감을 탐색하며 교실안을 뛰어다니면서 즐거운 모습이었습니다.^^ 기침은 조금 했지만 일과시간중에 컨디션은 괜찮았고, 점심밥도 소고기볶음과 국물해서 밥 한그릇 다 먹었습니다. 건강하게 퇴원하여 너무 다행이고, 며칠 컨디션을 잘 살펴보겠습니다. \n\n내일은 열린 어린이집 동화 특색활동 \"난 토마토 절대 안 먹어\" 놀이가 예정되어 있습니다. 앞치마를 챙겨서 보내주세요~!",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bWL7Vq/btsPs5dnwp8/CJt5lGWRcot1k79gmmjVk0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Tybkn/btsPtmsl2gW/X7ctjPIh4CBLoumzOaDc1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kD8Y8/btsPsYFvlTQ/ylolE0oSlsYQQ3bJNk1sUK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/nom5B/btsPr8a572v/hooVvgFdRaVTs6YksZ5cJk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KWYow/btsPr40NWnW/mplYdpOo8YKB4KmQ5caLu1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bWL7Vq/btsPs5dnwp8/CJt5lGWRcot1k79gmmjVk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Tybkn/btsPtmsl2gW/X7ctjPIh4CBLoumzOaDc1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kD8Y8/btsPsYFvlTQ/ylolE0oSlsYQQ3bJNk1sUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nom5B/btsPr8a572v/hooVvgFdRaVTs6YksZ5cJk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KWYow/btsPr40NWnW/mplYdpOo8YKB4KmQ5caLu1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0217_2025-07-22_1252304282_01.jpg",
@@ -3741,13 +3741,13 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린 어린이집 동화특색놀이 \"토마토로 놀이해요\" 활동이 있었습니다. 일일 아빠선생님과 함께 재미있는 놀이가 시작되었답니다. 싱싱한 토마토를 탐색하고 지퍼팩에 넣어 손과 손바닥으로 으깨본 후 향기도 맡아보았습니다. 으깨는 시간 내내 아이들의 웃음이 떠나질 않았답니다. 토마토에서 나는 향기를 맡으며 먹고 싶어요 하는 친구들을 위해 아빠 선생님이 나섰습니다. 안전을 위해 아이들은 선생님과 있는 동안 아빠선생님께서 믹서기로 토마토를 갈아주셨답니다. 토마토 주스를 마시며 달콤 새콤한 맛과 향을 탐색하고 맛보는 시간을 너무 좋아하더라고요. 남는 토마토 주스와 미리 준비한 밀가루 반죽을 섞어 붉은빛이 도는 반죽을 만들고 마음껏 주무르기도 하고 탈것 모양 찍기 틀을 이용해 즐거운 오감놀이도 진행해 보았습니다. 자연의 재료를 오감으로 느끼고 창의력을 키우는 즐거운 시간이었습니다.\n오늘 도우미 선생님으로 함께 해주신 안현우 아버님께 진심으로 감사드립니다.\n하준이는 갈은 토마토 주스를 한잔 맛있게 먹었고, 점심에 덮밥과 숭늉, 반찬까지 다 먹었습니다. 숭늉은 더 달라고 표현하여 넉넉히 먹었습니다.^^ 일과중에 컨디션도 괜찮았고 안정적으로 일과를 보냈습니다. 점심 후 대변을 시원하게 보았습니다.\n\n*7/28~7/31 까지는 바다 2반 송미정 교사의 연차소진으로 인해 대체교사 및 보조교사가 함께 보육할 예정입니다. 참고부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bNetyn/btsPtAZAMB7/2Hmdd4UgVBzLE3VQt6ugo1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/O2hTQ/btsPvhqGzwY/JEN3IaTnMbyPm9dhkdBW9K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bZcATz/btsPvXeb7mw/ZWzJu14UlQowEVonEX9nc0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bpc5jF/btsPvE0gynb/bCdimx2HK0o0IaK5PfJtuk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cEHhl0/btsPt0jqzyY/KzyTr1tsMkJiwZY2Xcb3e1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/csNsWZ/btsPtASSrnH/83YahveutOGGYPmBmRii4k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cVUjSA/btsPvfNbEpI/b7X3gqJuT4d0Mjb8mfLxm1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bNetyn/btsPtAZAMB7/2Hmdd4UgVBzLE3VQt6ugo1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/O2hTQ/btsPvhqGzwY/JEN3IaTnMbyPm9dhkdBW9K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZcATz/btsPvXeb7mw/ZWzJu14UlQowEVonEX9nc0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bpc5jF/btsPvE0gynb/bCdimx2HK0o0IaK5PfJtuk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cEHhl0/btsPt0jqzyY/KzyTr1tsMkJiwZY2Xcb3e1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/csNsWZ/btsPtASSrnH/83YahveutOGGYPmBmRii4k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cVUjSA/btsPvfNbEpI/b7X3gqJuT4d0Mjb8mfLxm1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0218_2025-07-23_1252992908_01.jpg",
@@ -3767,11 +3767,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 바다반 교실에서는 재미있는 상상놀이가 펼쳐졌습니다. 바닥 매트에 장작불 그림이 그려져 있는 걸 본 친구가 \"불이야~!\" 하고 외치자, 아이들의 눈이 반짝이며 놀이가 시작되었답니다. 순식간에 바다반은 '불 끄기 작전'으로 들썩였답니다.\n\"소방차가 출동해야 해~!\", \"도망가요!\"라며 상황극을 펼치던 아이들을 위해 상자로 만든 소방차를 지원해 주었더니 타고 내리며 불을 끄는 흉내를 내기도 했답니다. 불을 어떻게 끌까 고민하는 친구들을 위해 백업과 분무기를 지원해 주었더니 호스와 소화기처럼 들고 불을 끄면서 풍성한 놀이가 완성되었답니다.\n더운 날씨로 인해 실내대체놀이가 진행되었습니다. 유희실에 튜브를 비치해 주었더니 허리에 끼고 어푸어푸 수영을 하기도 하고 징검다리처럼 건너보기도 하는 등 활발한 신체놀이가 관찰되었답니다.\n하준이가 유희실에서 비행기푸쉬카를 밀며 뛰다가 넘어졌는데, 턱아래쪽에 조금 긁혀서 약을 발라주었습니다. 가정에서도 한번 살펴봐주세요.\n오후간식후에 대변을 잘보았습니다.\n\n* 7월 마지막 주인 7/28~8/1은 물놀이 주간입니다. 그날의 날씨 상황을 보고 기간 내에 수시로 원내 데크 및 옥상에서 물놀이를 진행할 예정이므로 여벌옷, 방수 기저귀, 수건 등 개인 준비물에 이름을 써서 28일 월요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/D7Ilq/btsPxfT3eeg/nZlh5ETcGHpQz89ovlGTHk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/DWfOV/btsPwHje9np/XV0KVpXS2mP5KNXFHv9kMk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/e0FIm/btsPwss2qBZ/uQMCK32EGvZHwWQEUA3R70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pHezc/btsPxDAnzIo/0mQJIyYe5wt9X6a9K9KLjk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/G3dIA/btsPwGR8iHG/gzU9i2aL6moNuey5riXwAK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/D7Ilq/btsPxfT3eeg/nZlh5ETcGHpQz89ovlGTHk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DWfOV/btsPwHje9np/XV0KVpXS2mP5KNXFHv9kMk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e0FIm/btsPwss2qBZ/uQMCK32EGvZHwWQEUA3R70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pHezc/btsPxDAnzIo/0mQJIyYe5wt9X6a9K9KLjk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/G3dIA/btsPwGR8iHG/gzU9i2aL6moNuey5riXwAK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0219_2025-07-24_1253671002_01.jpg",
@@ -3789,12 +3789,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 재활용 상자를 이용해 만든 경사로를 만들어 지원해 주었습니다. 교실에 비치된 경사로에 호기심을 보이며 탐색하고 교사가 자동차라 미끄럼틀을 타네 ~ 하며 모델링을 보여주자 하나둘씩 자동차 놀잇감을 가져와 놀이를 시작했답니다.\n자동차를 손에 쥐고 “부릉부릉~” 소리를 내기도 했습니다. 큰 자동차 놀잇감을 세게 움직였더니 경사로가 흔들리는 모습을 보고 조심조심 움직이는 경험도 해보았습니다.\n경사로 위에 자동차를 올려놓고, 손으로 밀어 보기도 하고, 내려오는 자동차를 눈으로 따라가며 집중하는 모습을 보여주었어요. 여러 번 반복하며 놀이에 푹 빠진 모습이 정말 신나 보이는 바다반 친구들입니다.\n놀이를 통해 관찰력과 모방 능력, 그리고 간단한 원인과 결과에 대해 자연스럽게 경험하는 시간이 되었습니다.\n무더운 날씨로 인해 유희실에서 워터테이블과 튜브로 실내놀이가 진행되었습니다. \n\n[바다2반 학부모님께]\n저의 개인사정으로 인해 학기중 부득이하게 퇴사하게 되어 아이들과 학부모님께 너무나 죄송한 말씀을 드립니다. 짧지 않은 시간 동안 아이들의 웃음과 사랑, 그리고 부모님들의 따뜻한 응원 덕분에 매일이 감사함으로 채워졌습니다. 아이들이 보여주는 성장은 저에게 가장 큰 배움이었고, 함께한 하루하루와 친구들의 환한 웃음은 잊지 못할 추억이 되었습니다. \n앞으로도 아이들이 건강하고 행복하게 자라나길 진심으로 바라며, 가정에도 늘 평안과 따뜻함이 가득하시길 기원합니다.\n그동안 진심으로 감사했습니다.😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cupChT/btsPxVQgBm3/fWY5NdInxjlxYmyOgz1Kz1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/2wfR6/btsPx8V6UDg/8InwmYeXOR7A74jkgCXiW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bpF1yq/btsPzjCiaC4/iX7fnO06EJNHhk2a11H8S0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cgrwhE/btsPzGcXyZg/XHDTf1HRiLnLiBBUg82VpK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bOY43u/btsPzkupQvy/LAhRfAba0rkjanjkdShaj0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fxQwV/btsPzZDjPFU/ShitTveMi1K7Xcb1BpBLzK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cupChT/btsPxVQgBm3/fWY5NdInxjlxYmyOgz1Kz1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2wfR6/btsPx8V6UDg/8InwmYeXOR7A74jkgCXiW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bpF1yq/btsPzjCiaC4/iX7fnO06EJNHhk2a11H8S0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgrwhE/btsPzGcXyZg/XHDTf1HRiLnLiBBUg82VpK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bOY43u/btsPzkupQvy/LAhRfAba0rkjanjkdShaj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fxQwV/btsPzZDjPFU/ShitTveMi1K7Xcb1BpBLzK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0220_2025-07-25_1254357002_01.jpg",
@@ -3823,18 +3823,18 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 아이들이 기다리던 이벤트 데이~\"수박파티\"가 열리는 날이었습니다.\n사전 활동으로 수박노래도 불러보고 텃밭에서 보았던 애플수박, 망고수박 이야기도 해보았답니다.\n수박으로 꾸며진 교실로 올라가 우와~ 하고 신나 하는 바다반 친구들이랍니다. 친구랑 수박시소도 타보고 수박수영장에서 헤엄도 쳐보았답니다. 수박옷을 입고 경운기도 직접 타보았지요. 오늘 하루 너무너무 신나는 바다반 친구들의 모습은 사진으로 감상해 주세요. ^^\n마지막으로 원장님께서 준비해 주신 달콤하고 시원한 수박을 먹으며 이야기꽃을 활짝 피웠답니다. ^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cahOCE/btsPDnRIHIg/CbjSvT8rHj1LWbPFOG1tYk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cg2j7h/btsPDGjcnMh/zqXveNHCKTUsFkFKHI36vk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hqy1Y/btsPCLFt9DQ/COhf1TultrQBUK8OkQpTc0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SdfZJ/btsPDowi7zf/Y7VwygkNcdErmWmvbbhwqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wlnbw/btsPDFxN1kO/ZYuRT4R364f9gATyR6pVg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ehzt4/btsPA04UUF6/mpEySdJkrTnAkfyZbJFBrk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6n3tC/btsPBlgIpi4/VJ60QL0JqnJKGHbTg383Ak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/l47QY/btsPB4MiIew/ehKW8oEOKwn1Wk4OvAc5Kk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ToJlw/btsPCMj7RD7/4vjnV2SpcfUmlKcfEgBV6K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Ak4a0/btsPCL6Bynw/bveKCQlWSVNKvW6lAkHuVk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/CNtux/btsPBmmn50h/q6bICunO3k20ro3zIJuy70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bQIg0V/btsPDmedv8S/zpjOt7xQTQKcI2h7XvyLQk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cahOCE/btsPDnRIHIg/CbjSvT8rHj1LWbPFOG1tYk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cg2j7h/btsPDGjcnMh/zqXveNHCKTUsFkFKHI36vk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hqy1Y/btsPCLFt9DQ/COhf1TultrQBUK8OkQpTc0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SdfZJ/btsPDowi7zf/Y7VwygkNcdErmWmvbbhwqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wlnbw/btsPDFxN1kO/ZYuRT4R364f9gATyR6pVg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ehzt4/btsPA04UUF6/mpEySdJkrTnAkfyZbJFBrk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6n3tC/btsPBlgIpi4/VJ60QL0JqnJKGHbTg383Ak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/l47QY/btsPB4MiIew/ehKW8oEOKwn1Wk4OvAc5Kk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ToJlw/btsPCMj7RD7/4vjnV2SpcfUmlKcfEgBV6K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ak4a0/btsPCL6Bynw/bveKCQlWSVNKvW6lAkHuVk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/CNtux/btsPBmmn50h/q6bICunO3k20ro3zIJuy70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bQIg0V/btsPDmedv8S/zpjOt7xQTQKcI2h7XvyLQk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0222_2025-07-29_1255220077_01.jpg",
@@ -3859,12 +3859,12 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 데크에서 신나는 물놀이가 진행되었습니다.\n물놀이 사진 보내드립니다. ^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/fYGgV/btsPBKOuuzD/o3OdPmVse2QegHyczXuad0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OkDIG/btsPC81WQk1/sQnnHzhLWCK8TEQ6u7Qbt0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FzmDd/btsPDJ8ri9T/zJwaekTyJCG8YUllZwh2Dk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bG8RzY/btsPEFqWqNT/YpT5Dt3bljGxl1qtCSW34K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/K1IBl/btsPDaZI7E9/w9j0jQxSTzUWCu6tyMRil0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxR9Y0/btsPDqVxsTl/1sobVe8gSkvVhkd7gSIT31/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/fYGgV/btsPBKOuuzD/o3OdPmVse2QegHyczXuad0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OkDIG/btsPC81WQk1/sQnnHzhLWCK8TEQ6u7Qbt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FzmDd/btsPDJ8ri9T/zJwaekTyJCG8YUllZwh2Dk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bG8RzY/btsPEFqWqNT/YpT5Dt3bljGxl1qtCSW34K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/K1IBl/btsPDaZI7E9/w9j0jQxSTzUWCu6tyMRil0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxR9Y0/btsPDqVxsTl/1sobVe8gSkvVhkd7gSIT31/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0223_2025-07-30_1255471917_01.jpg",
@@ -3883,10 +3883,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 옥상 텃밭에서 시원한 물놀이 시간이 있었습니다. 물풍선 놀이와 물총놀이까지 너무 신나는 하루였습니다. ^^ 신나게 놀아서인지 오늘은 점심도 맛있게 잘 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cDR26P/btsPCoLo2X5/kZc6QabGSnVz0Jl7BpNeMK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c2vI5n/btsPCoEEn0u/ExjvqWCg2ji3YvGsK7yHkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ca39sD/btsPB823120/mGv7J0yFhBsiF9CsFpM0H1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b3CYvW/btsPE80W34f/BE6t6D9HH7pnhMBmkkXsJ1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cDR26P/btsPCoLo2X5/kZc6QabGSnVz0Jl7BpNeMK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c2vI5n/btsPCoEEn0u/ExjvqWCg2ji3YvGsK7yHkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ca39sD/btsPB823120/mGv7J0yFhBsiF9CsFpM0H1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b3CYvW/btsPE80W34f/BE6t6D9HH7pnhMBmkkXsJ1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0224_2025-07-31_1255690319_01.jpg",
@@ -3903,10 +3903,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안녕하세요! 하준이와 즐거운 주말 보내셨나요?\n오늘은 하준이와 함께 ‘낚시놀이’를 해보았어요!\n파란 비닐과 함께 알록달록한 물고기 장난감들이 둥둥~ 떠 있는 풀장을 보자 관심을 보이는 모습이었답니다. \n선생님과 함께 큰 와플블록을 하나둘 모아 의자처럼 쌓아  앉아서 낚싯대를 손에 쥐고 물고기를 향해 손을 뻗는 모습이 정말 대견했답니다. \n잡은 물고기를 손에 꼭 쥐고는 교사에게 보여주며 뿌듯해하는 모습에 모두가 웃음이 절로 났어요.^^\n이런 상상 놀이를 통해 아이들은 물, 바다, 물고기 등 새로운 개념을 경험하고, 눈-손 협응력과 집중력도 자연스럽게 키워갈 수 있답니다.\n\n오늘 바깥놀이 시간에는 아이들과 함께 매미 소리를 듣고, 나무에 붙어 있는 매미 탈피 껍질을 관찰했어요. 조심스레 다가가 살펴보는 모습이 귀여웠답니다. 또한, 분수가 물을 뿜는 장면을 보고 “와~”하며 신나게 반응했어요.\n짧은 시간 속에서도 자연을 오감으로 느끼며 호기심 가득한 시간을 보냈답니다. 😊🌿\n\n하준이는 오늘 점심시간에 김치와 국물과 함께 밥을 다 먹었습니다. 일과 중 콧물이 흐를 정도로 나오지는 않았고, 낮잠 잘 때 코가 좀 막히는 모습이 보였습니다. \n\n*원에 하준이 여벌 옷이 있어서 다시 보내드립니다. \n*하준이 새 칫솔 보내주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/kJXzt/btsPHD7Ke09/mTKBVy3xIYI2HQBT5pbGuK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/rbR2f/btsPE3fLtQX/zf7t34xB4uK3IaxhhmNE51/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cHktym/btsPELzFtbs/h7lxFEx3FV7Wez4sT3Qmg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cYN7js/btsPF9l4Xk8/PNskrKBsgTYSaJGhSKtJxK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/kJXzt/btsPHD7Ke09/mTKBVy3xIYI2HQBT5pbGuK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rbR2f/btsPE3fLtQX/zf7t34xB4uK3IaxhhmNE51/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cHktym/btsPELzFtbs/h7lxFEx3FV7Wez4sT3Qmg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cYN7js/btsPF9l4Xk8/PNskrKBsgTYSaJGhSKtJxK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0225_2025-08-04_1256377411_01.jpg",
@@ -3923,9 +3923,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "어제의 낚시놀이에 이어, 오늘은 더욱 신나는 풀장 놀이 시간을 가졌어요! \n아이들이 작은 풀장 안으로 들어가 “어푸~ 어푸~” 소리를 내며 수영 흉내를 내는 모습이 정말 귀여웠답니다. 하준이는 누워서 몸을 쭉 뻗으며 움직여 보기도 하고, 장난감 물고기를 손으로 잡아보며 활기차게 놀이에 참여했어요. \n어제 했던 낚시놀이가 자연스럽게 이어져서, 서로 잡은 물고기를 보여주며 놀이하는 모습에 웃음이 절로 났어요.\n\n오늘 바깥놀이 시간에도 아이들과 함께 시원한 그늘 아래로 이동해 자연을 느껴보았어요. \n어제와 마찬가지로 귀에 익숙한 매미 소리가 들리자 반가워했답니다. 선생님이 매미 탈피 껍질을 보여주니 관심을 가지고 바라보는 하준이에요.\n특히 오늘은 하늘을 날아다니는 잠자리도 가까이서 볼 수 있었어요! 교사가 “잠자리~ 날아간다~” 하며 말해주니 잠자리를 손가락으로 가리키는 하준이었답니다. \n자연의 소리와 움직임을 직접 느끼며 아이들이 스스로 질문하고 반응하는 모습이 더욱 자라난 하루였어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/fXSNP/btsPIHWFfm9/e7IcZimnYgASpMW9MyTL50/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bTbqwe/btsPGHp2vNW/zHqRKA2Z3EBE9SZDmmp1hk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/g7JW0/btsPFDO9P2g/tqT7hdPgjWYjvez8QSiWjk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/fXSNP/btsPIHWFfm9/e7IcZimnYgASpMW9MyTL50/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bTbqwe/btsPGHp2vNW/zHqRKA2Z3EBE9SZDmmp1hk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g7JW0/btsPFDO9P2g/tqT7hdPgjWYjvez8QSiWjk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0226_2025-08-05_1256864662_01.jpg",
@@ -3941,10 +3941,10 @@ const reportsData =[
     "weather": "rain",
     "content": "오늘은 아이스크림 가게 놀이를 해보았어요.\n아이스크림 모형을 들고 “여기 있어요~” 하며 친구가 건네주는 아이스크림을 받고 아이스크림을 두 개씩 들고 있어 “하나 친구 나눠줄까?” 물어보니 고개를 끄덕이고 친구가 “하나 줄래?”하며  자연스럽게 나누기도 했어요. 이렇게 친구와의 상호작용을 통해 배려하고 소통하는 방법을 조금씩 익혀가고 있답니다. \n수박안경이 마음에 든 하준이는 교실에 오자마자 수박안경을 찾아 써보고 거울을 확인한답니다^^\n그 모습이 너무 귀여운 하준이에요.\n\n오늘은 비가 그치고 나서 아이들과 함께 배드민턴장으로 산책을 다녀왔어요! \n촉촉한 흙냄새와 시원한 바람을 느끼며 걷는 길에, 아이들은 발걸음도 가볍고 기분도 한껏 들떠 있었답니다. 산책 중에는 매미가 나무에 붙어 울고 있는 모습도 발견했어요.  “매미다!” 하며 조용히 다가가 귀를 기울였고,  하준이는 신기해하는 눈빛이 가득했어요. 바닥에서는 개미가 움직이는 것도 보며 하고 관찰하는 모습도 보였답니다.\n\n하준이 오른쪽 무릎에 모기 물린 자국이 있어 하준이가 가려운지 긁더라고요. 밴드 붙여주었습니다.\n*8월 8일 금요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/5qa7Y/btsPHQN5Fob/3T6eBn8xewX73zleqdgXR1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/brJYrt/btsPGrHQu5x/ohxzBTv1rgyVF0Vm6jkCDk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/oJueV/btsPJD09Qr4/YsOPA3om3IFlxLe39uAQQk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ImrBw/btsPIyswkU8/vz8Wa9teADhjGOdQBTaOH1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/5qa7Y/btsPHQN5Fob/3T6eBn8xewX73zleqdgXR1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/brJYrt/btsPGrHQu5x/ohxzBTv1rgyVF0Vm6jkCDk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oJueV/btsPJD09Qr4/YsOPA3om3IFlxLe39uAQQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ImrBw/btsPIyswkU8/vz8Wa9teADhjGOdQBTaOH1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0227_2025-08-06_1257381438_01.jpg",
@@ -3961,9 +3961,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제 했던 아이스크림 가게 놀이를 기억하고 있는 아이들과 오늘은 점토로 아이스크림 만들기 놀이를 해보았어요!\n말랑말랑한 점토를 손에 쥐어 주자 아이들은 두 손으로 꾹꾹 누르거나 손가락으로 콕콕 찍어보며 촉감을 느껴보았어요.\n선생님이 “아이스크림 만들어볼까?” 하고 이야기하자 아이들은 동그랗게 뭉치고, 위에 얹어보기도 하며 자신만의 아이스크림을 만들었답니다. \n작은 손으로 점토를 조물조물 만지며 소근육과 감각 발달에도 좋은 시간이었어요.\n\n오늘은 아이들과 함께 어린이집 주변을 산책하며 여름의 자연을 느껴보는 시간을 가졌어요.\n특히 친구의 손을 꼭 잡고 걷는 모습이 무척 사랑스러웠답니다. \n산책길 곳곳에 보이는 나뭇잎과 작은 열매들을 보며 관심을 보이고, 나무 위를 올려다보며 관찰하는 모습도 있었답니다. 아이들이 직접 자연을 보고 느끼는 경험은 호기심과 탐색 능력을 키워주는 소중한 시간이 되었어요.\n살랑살랑 부는 여름 바람을 맞으며 머리카락이 살짝 날리는 느낌에 하준이는 기분이 좋은지 웃음을 터트리는 모습도 볼 수 있었답니다.^^\n\n하준이는 오늘 점심 시간에 깍두기와 가자미살조림, 팽이미소장국 국물과 함께 잘 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dJYcvO/btsPI4lbXQ8/QlkrLuPll6jkBKnWRnL2yk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xWot0/btsPKk1P9ZS/bGqQk75DO5LOgnKrFJvbHK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bWpujX/btsPIrt6AaF/UNHw6JiL6ffjHpjETssJ2K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dJYcvO/btsPI4lbXQ8/QlkrLuPll6jkBKnWRnL2yk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xWot0/btsPKk1P9ZS/bGqQk75DO5LOgnKrFJvbHK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWpujX/btsPIrt6AaF/UNHw6JiL6ffjHpjETssJ2K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0228_2025-08-07_1257951418_01.jpg",
@@ -3979,10 +3979,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 소방대피훈련이 있었습니다. 훈련이 끝난 후, 우주반 형님들과 함께 푸른 나무와 풀로 가득한 메낙골근린공원으로 산책을 다녀왔습니다. 매미 소리가 가득한 공원에서 바다반 친구들은 아이들은 소리가 어디서 나는지 눈을 크게 뜨며 찾아보았답니다. 형님들이 먼저 매미를 잡아 보여주면, 아이들도 용기를 내어 가까이 다가가 살펴보았어요. 오늘의 산책은 단순한 놀이를 넘어 형님과 동생이 서로를 의지하고 돕는 소중한 시간이 되었어요. \n곤충과 바닷속 동물을 지퍼백에 미리 얼려 제공해 주니 두 손으로 꼭 쥐며 웃음을 짓는 하준이에요. \n얼음이 점점 녹자 안에 있는 모형이 어떤 모형인지 이야기를 나누어 보았답니다^^\n\n하준이가 손을 놓고 혼자서 가다가 자신의 발에 걸려 넘어지면서 왼쪽무릎이 살짝 빨개져 연고 발라주었습니다.\n\n* 영등포구 보건소에서 운영하는 '영양플러스 사업' 관련 리플릿 보내드립니다. 참고하시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/98E7E/btsPJyAvISa/mbW0tJLjEl0ENhiauXh9lk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eN7Mp/btsPKU3VMzs/gtowsXJF3tr7igg0y258uK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/drtcKH/btsPLPAPbE6/EYubvuZfGxYNLZ6nuG0hKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c11fWV/btsPJAkMGrX/U5NQBKiLxBYzDkPacg01Q1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/98E7E/btsPJyAvISa/mbW0tJLjEl0ENhiauXh9lk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eN7Mp/btsPKU3VMzs/gtowsXJF3tr7igg0y258uK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/drtcKH/btsPLPAPbE6/EYubvuZfGxYNLZ6nuG0hKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c11fWV/btsPJAkMGrX/U5NQBKiLxBYzDkPacg01Q1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0229_2025-08-08_1258539918_01.jpg",
@@ -3999,9 +3999,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바닷가 그림이 그려진 큰 현수막 앞에서 수박 모양의 그림이 새겨진 벽돌 블록을 꺼내어, 함께 ‘수영장 만들기’ 놀이를 해보았어요. 처음엔 수박모양 블록을 탐색하며 소꿉놀이를 하기도 하고 블록을 길게 연결해 보기도 했습니다. 하준이는 수박 블록을 보고 수박선글라스를 착용하며 놀이를 해보았답니다\n\n바깥으로 나가서는 분무기를 들고 신나게 물 뿌리기 놀이를 했어요. 나무에 물을 주기도 하고, 배드민턴장 바닥에 물을 뿌리며 물방울이 반짝이는 모습을 관찰했답니다. \n오늘의 경험은 단순한 놀이를 넘어 감각 발달과 자연에 대한 호기심을 키워주는 시간이 되었답니다.\n\n하준이는 분무기 뿌리는 것이 너무 재밌었나 봐요. 옷이 젖어 여벌 옷으로 갈아입었습니다. \n여벌 옷 보내주세요~\n하준이가 오늘 일과 중 기침하는 모습이 보였어요. 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dnY52r/btsPLWny6NV/8jz0JkZ0Khyu1bhIDYIoR0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cylX7J/btsPNJgpyMJ/s9oURNT67qTLTKXb2BJOB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dlDvVV/btsPPLEywqH/ZAcY1Sec5EuAWKq7qHQ180/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dnY52r/btsPLWny6NV/8jz0JkZ0Khyu1bhIDYIoR0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cylX7J/btsPNJgpyMJ/s9oURNT67qTLTKXb2BJOB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dlDvVV/btsPPLEywqH/ZAcY1Sec5EuAWKq7qHQ180/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0230_2025-08-11_1259318574_01.jpg",
@@ -4017,10 +4017,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 아이들과 함께 신기한 코인티슈 놀이를 해보았습니다. \n처음에 작고 동그란 코인 모양의 티슈를 보여주자 사탕이다, 비타민이다 하며 관심을 보였답니다. \n스포이드를 이용해 물을 톡톡 떨어뜨리니 티슈가 점점 부풀어 오르고 커지는 모습에 놀란 듯 미소를 지으며 손으로 톡 만져보았습니다. \n단단했던 티슈가 부드럽게 변하는 촉감과, 조금씩 펼쳐지는 과정을 눈여겨보며 집중하는 모습이 참 인상 깊었어요.\n확장활동으로 코인티슈에 사인펜으로 자유롭게 끼적이기를 한 뒤, 다시 스포이드로 물을 뿌렸더니 색이 번지고 섞이며 멋진 무늬가 생겼답니다.\n티슈 위에 생긴 다양한 색의 변화를 오래도록 바라보았답니다. \n색이 번질 때의 부드러운 변화와, 나만의 티슈가 완성되는 과정을 경험해 보았답니다. \n\n실외활동으로 메낙골 공원에 올라가 돋보기를 이용해 매미와 곤충들을 관찰하며 즐거운 시간을 보냈습니다. \n\n하준이 왼쪽 종아리에 모기 물린 자국을 계속 긁어 밴드 붙여주었습니다.\n원에 하준이 긴팔 여벌 옷이 있어 가정으로 보냅니다. \n\n*오늘 가정분양저금통을 보내드립니다. 자세한 내용은 키즈노트 공지사항을 참고해 주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/g5bDT/btsPPEmkjdJ/NAu5rgLha7ElNqDdJjXgBk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b3b7pD/btsPPFZRjti/qvG1KvcEjzOCQdcnClM68k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ZBZ2B/btsPOFMKVu5/g11tSeKDNGveWvArSt1kg0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bma1e0/btsPQDUs58s/H6kCw6mmHleKnCCbA7ms2K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/g5bDT/btsPPEmkjdJ/NAu5rgLha7ElNqDdJjXgBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b3b7pD/btsPPFZRjti/qvG1KvcEjzOCQdcnClM68k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZBZ2B/btsPOFMKVu5/g11tSeKDNGveWvArSt1kg0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bma1e0/btsPQDUs58s/H6kCw6mmHleKnCCbA7ms2K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0231_2025-08-12_1259991280_01.jpg",
@@ -4037,10 +4037,10 @@ const reportsData =[
     "weather": "thunderstorm",
     "content": "오늘은 열린 어린이집 특색활동으로 \"알록달록 동물원\" 그림책을 함께 읽고 동화 속에서 다양한 동물들을 만나며, 세모·네모·동그라미 같은 기본 도형의 이름도 하나씩 이야기해 보았습니다. \n그림 속 동물 친구들에게 모양 스티커를 자유롭게 붙이며 나만의 동물 친구를 완성하는 시간도 가져보았어요.\n벽에 전지를 붙여 모양 색종이를 지원해 주었더니 다채로운 모양 놀이가 활발하게 이루어졌답니다. 작은 손으로 스티커를 떼고 붙일 때 집중하는 모습이 기특한 바다반 친구들이에요.\n오늘 하루의 활동 속에서 손과 눈의 협응력, 창의적인 표현력, 그리고 새로운 단어를 배우는 즐거움까지 함께 느낄 수 있었답니다.\n\n하준이 오늘 기침을 많이 하는 모습이 보였습니다. 콧물이 흐르지는 않았지만 코가 뒤로 넘어가 기침을 하는 모습이었어요. \n낮잠을 자고 일어나 오후 간식을 먹은 후 컨디션이 좋지 않은지 하원 10분 전쯤에 울음을 보였습니다. \n\n* 내일(14일) '찾아가는 안전교육-신변안전', 실종&유괴 안전교육이 9시 30분부터 진행됩니다. 9시까지 등원해 주세요.\n\n* 8월 20일은 바다반 친구 오인호(남아), 박제이(여아), 두하준(남아) 친구의 생일파티가 있습니다.\n3천 원 미만의 생일선물을 준비하셔서 다음 주 월요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/nHoyJ/btsPR81bt0t/KsNHrULrHueyzcAdiha9A0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b8IHws/btsPRfUnMCC/pzZ9DkopAhQRDU68whBwqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/iMbgl/btsPRFLOKfN/Lk4Bmpt9aPSumjjq2hNaMK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d4FLr/btsPRHJzz7p/awweAUDFNZZrBEfKzdkVb0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/nHoyJ/btsPR81bt0t/KsNHrULrHueyzcAdiha9A0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b8IHws/btsPRfUnMCC/pzZ9DkopAhQRDU68whBwqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iMbgl/btsPRFLOKfN/Lk4Bmpt9aPSumjjq2hNaMK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d4FLr/btsPRHJzz7p/awweAUDFNZZrBEfKzdkVb0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0232_2025-08-13_1260666890_01.jpg",
@@ -4057,9 +4057,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "수박 그림이 있는 벽돌 블록으로 친구들과 함께 낚시터를 만드는 과정에서, 한 번에 블록을 쌓기보다 위치를 조절하며 여러 번 시도하는 모습이 인상적이었답니다. \n파란 비닐을 깔아 ‘물’을 표현하자, 아이의 호기심이 한층 커졌어요. 낚싯대를 잡을 땐 작은 손가락 힘을 모아 조심스럽게 움직여 보았습니다.\n\n이어진 대체놀이 시간에는 커다란 튜브를 하나씩 건너며 징검다리 놀이를 해보았어요. 균형을 잡으려고 두 팔을 쭉 벌린 채 조심조심 걷는 모습이 귀엽고도 의젓했어요.\n아이가 놀이 속에서 소근육을 쓰고, 몸의 균형도 잡으며 많은 경험을 쌓은 하루였어요. 이런 탐색과 시도가 계속되면 더 큰 자신감과 도전심을 가질 수 있을 거예요.\n\n오늘 안전교육 강사님이 방문하셔서 '찾아가는 안전교육-신변안전'에 대해 알아보았어요.\n길을 잃어버렸을 경우 자리에 서서 도움 요청하기, 낯선 사람 혹은 아는 사람일지라도 따라가면 안 된다는 것을 알고, 누군가 가자고 할 때 바닥에 엎드린 뒤 \"안 돼요! 싫어요! 도와주세요!\"를 외치는  대처방법에 대해 배워보았습니다.\n가정에서도 함께 이야기 나눠보세요.\n\n하준이는 오늘 살짝 눈곱이 끼는 모습이 보였어요.\n기침을 하긴 했지만 보채지는 않았고 오전 간식도 잘 먹고 점심밥도 잘 먹었습니다.\n하준이가 낮잠 후 오후간식을 안 먹겠다고 해서 참치김치주먹밥은 먹지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bRuhn8/btsPRnr9mD5/WAMg5odvX9ShEmE8SByCt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dyMIf/btsPRyUyn2t/zO4vtLKq4VWrAwVWlQHfSk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/n7Gh3/btsPTQTHafx/KvTbBr45DHcQGlNJzaNaH1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bRuhn8/btsPRnr9mD5/WAMg5odvX9ShEmE8SByCt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dyMIf/btsPRyUyn2t/zO4vtLKq4VWrAwVWlQHfSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n7Gh3/btsPTQTHafx/KvTbBr45DHcQGlNJzaNaH1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0233_2025-08-14_1261328016_01.jpg",
@@ -4075,10 +4075,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 상자를 이용해 아이스크림을 만들어보았습니다. \n선생님이 그려준 아이스크림 콘 모양에 하준이는 크레용으로 열심히 끼적이며 자신만의 작품을 꾸며나갔답니다. 작은 손으로 화장솜을 붙여 몽글몽글한 아이스크림을 표현하며 놀이가 확장되는 모습이었습니다.  지난 코인티슈에 스포이드를 사용해 색이 번지는 경험을 기억하고 화장솜에도 싸인펜으로 끼적이기 후 물을 뿌려 색번짐 놀이를  반복하는 모습도 볼 수 있었습니다. \n\n이어진 실외활동에서는 꿀벌이 되어 날개를 달고 뛰어다녔어요 꽃을 찾아다니는 듯 두리번거리며 꿀을 빨아먹는 시늉을 하는 모습은 상상력 가득한 놀이였습니다. \n공원에 분수가 가동되자 가까이에서 시원함을 느끼는 바다반 친구들입니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/RIEWP/btsPVlzSjfv/8wpG99TOdaedhGcrR88F1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bTFOJ0/btsPUccupTm/yBWxt9rlaM3SZoM8amKweK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b9MJCk/btsPUKfGv5I/ZRsL6GLieyvu9YHQUilw81/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/clkS0Y/btsPTzzg1Ug/LXvT3pK2OVEKnAvFPK0Nq1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/RIEWP/btsPVlzSjfv/8wpG99TOdaedhGcrR88F1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bTFOJ0/btsPUccupTm/yBWxt9rlaM3SZoM8amKweK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b9MJCk/btsPUKfGv5I/ZRsL6GLieyvu9YHQUilw81/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/clkS0Y/btsPTzzg1Ug/LXvT3pK2OVEKnAvFPK0Nq1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0234_2025-08-18_1262199294_01.jpg",
@@ -4095,9 +4095,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 교실에서 종이접시와 파란 비닐을 이용해 해파리 만들기 놀이를 해보았습니다. \n종이접시에 비닐을 붙여 해파리 촉수를 만들며 흔들어 보기도 하고 “헤엄친다~” 하며 바닷속을 상상하며 즐겁게 표현했어요. \n작은 손으로 스티커를 떼고 붙이며  소근육도 쓰고, 친구와 함께 웃으며 상호작용하는 모습이 귀여웠답니다. \n이어 옥상 텃밭에 올라가 빨갛게 익어가는 파프리카를 보고, 고구마 줄기와 넓은 잎도 함께 살펴보았어요. 초록빛 식물이 자라는 모습을 가까이에서 관찰하며 자연과 더  친해지는 시간을 가졌습니다. \n\n하준이 점심시간에 국물을 흘려 여벌 바지로 갈아입었습니다. 여벌바지 보내주세요.\n\n*내일은 8월 생일 맞은 친구들의 생일잔치가 있습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cmwoSg/btsPUfASAXw/Z7D1tm2G2KGxKhW0iv1Kvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9Yqbi/btsPYKeuam0/pwFj9sKXd9kP6UvayMvjW1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/LW1Z7/btsPUMFab9P/VPnIrgnsFKMladr1WSMgIk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cmwoSg/btsPUfASAXw/Z7D1tm2G2KGxKhW0iv1Kvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9Yqbi/btsPYKeuam0/pwFj9sKXd9kP6UvayMvjW1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LW1Z7/btsPUMFab9P/VPnIrgnsFKMladr1WSMgIk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0235_2025-08-19_1262893424_01.jpg",
@@ -4113,8 +4113,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 8월에 생일을 맞은 인호, 제이, 하준이를 함께 축하하며 즐거운 시간을 보냈습니다. 친구들이 다 함께 모여 \"생일 축하해~\"를 외치며 박수를 보내니 환하게 웃었답니다.\n놀이 시간에는 파란 비닐을 활용해 자유롭게 움직여보고 놀이해 보았어요. \"비가 내려요\"라고 말하며 던져보기도 하고, 헤엄을 치는 흉내도 내보고, 인형을 가지고 와 목욕을 시켜주기도 했답니다.  \n그리고 수박벽돌블록을 세우고 수박공을 굴려보며 볼링 놀이를 해보았어요. 차례를 기다리고 규칙을 지키는 연습이 되었습니다.\n\n* 내일은 <RAINBOW DAY>로 무지개와 관련된 놀이 및 활동을 하며 해늘 친구들과 즐거운 시간을 보낼 예정입니다. 9시까지 등원해 주세요!\n\n* 오늘 가정으로 부모참여수업 수요조사서를 보내드립니다. 확인하시고 8/22(금)까지 회신해 주시기 바랍니다.\n\n*생일사진은 앨범에 올려놓았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/KHRhb/btsPZ4EjusS/HG66d2227Q0m029GoEJick/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bcdb2t/btsPXFsk0vV/4D14NkRnuAcMQK7fm1Iu1K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/KHRhb/btsPZ4EjusS/HG66d2227Q0m029GoEJick/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcdb2t/btsPXFsk0vV/4D14NkRnuAcMQK7fm1Iu1K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0236_2025-08-20_1263544557_01.jpg",
@@ -4139,10 +4139,10 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 어린이집 주변을 함께 걸으며 메낙골근린공원에 다녀왔습니다. 따뜻한 햇살을 느끼며 친구와 손을 꼭 잡고 그늘 쪽으로 이동하는 모습이 무척 사랑스러웠습니다. 걸음을 옮길 때마다 주위를 살피며 호기심을 보이는 바다반 친구들이에요. 하늘을 올려다보기도 하고 산책길에서 마주친 어른들에게 “안녕하세요” 하고 인사를 해보았어요. 길가에 흔들리는 강아지풀을 유심히 바라보며 손으로 살짝 만져보며 자연과 가까이 어울려보았답니다.\n\n실내로 들어와서는 바다반에서 모래놀이를 했습니다. 작은 손으로 모래를 쥐었다 놓으며 다양한 촉감을 느끼고, 소꿉놀이 장난감을 활용해 놀이했어요. 반복되는 놀이 속에서도 몰입하는 모습이 참 진지하고, 스스로 시도하는 과정에서 성취감을 느끼는 듯 보였습니다. 오늘 하루는 몸도 마음도 활짝 열고 자연과 교감하며 즐거움을 발견하는 시간이 되었어요.\n하준이와 즐거운 주말 보내세요~\n\n하준이 오후간식 시간에 우유를 쏟아 바지가 젖어 갈아입었습니다. 여벌 바지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bFakY5/btsP01otRuk/NSu5niKJkVLxCYzxFKEKa1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ocF3G/btsP2BPOUVW/DK0E8d94N0wE9a1nE2Mvc0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bWEv66/btsP1h5FL3B/S5MGJL8C9K6nP04s7BKW4k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bqADuY/btsP01vgiSW/7esglTLkw9hk8imyK17n00/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bFakY5/btsP01otRuk/NSu5niKJkVLxCYzxFKEKa1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ocF3G/btsP2BPOUVW/DK0E8d94N0wE9a1nE2Mvc0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWEv66/btsP1h5FL3B/S5MGJL8C9K6nP04s7BKW4k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bqADuY/btsP01vgiSW/7esglTLkw9hk8imyK17n00/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0238_2025-08-22_1264940471_01.jpg",
@@ -4159,9 +4159,9 @@ const reportsData =[
     "weather": "rain",
     "content": "교실을 아쿠아리움처럼 꾸미자마자 주위를 두리번거렸는데, 작은 변화에도 반응을 보이는 모습이 참 기특했답니다. \n선생님과 함께 큰 와플 블록으로 잠수함을 만들면서도 집중하는 모습이 눈에 띄었어요. \n벽에 붙어 있는 다양한 바다 생물을 손바닥으로 가리키며 궁금해하는 하준이었답니다.\n\n밖에는 비가 와서 아쉽게도 바깥 활동은 하지 못했지만, 대신 유희실에서의 놀이가 아이에게 또 다른 즐거움을 주었어요. 압축팩 풍선을 보자마자 몸을 크게 움직이며 뛰고 구르고, 신나게 손으로 두드리며 적극적으로 놀이에 참여했습니다. 신나게 미끄럼틀도 타보았어요. \n오늘 하루 동안 하준이는 새로운 환경에 호기심을 보이고, 스스로의 힘으로 놀이에 몰입하며 성취를 느끼는 경험을 했습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bVpvsh/btsP3vQ5t1K/c2DtxYll16qrcSHGVmy38k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bwb17F/btsP5rmi3WG/fcZRUmUZuMtjvd51AX2DbK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/btau2H/btsP587GCu6/kpldRxbkDihdHyP0qGMzE0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bVpvsh/btsP3vQ5t1K/c2DtxYll16qrcSHGVmy38k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bwb17F/btsP5rmi3WG/fcZRUmUZuMtjvd51AX2DbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btau2H/btsP587GCu6/kpldRxbkDihdHyP0qGMzE0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0239_2025-08-25_1265805866_01.jpg",
@@ -4177,11 +4177,11 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "오늘은 바다반 친구들과 신나는 상어가족 노래를 들으며 물결무늬 비닐을 함께 잡고 파도가 치는 모습을 흉내 내보았어요. 선생님, 친구들과 크게 웃는 모습이 참 귀여웠답니다. 바다반 친구들은 어제 만들었던 잠수함을 기억해 내고, 큰 와플 블록을 이용해 친구와 함께 다시 잠수함을 만들어 타보는 모습이 정말 인상적이었어요. 블록에 관심을 보이며 친구와 함께 잠수함에 타보았답니다. 스스로 경험을 이어가며 새로운 놀이를 만들어내는 모습에서 상상력과 기억력이 쑥쑥 자라고 있음을 느낄 수 있었답니다.\n\n오늘은 2층 유희실에 올라가 꽂기 놀이를 해보았습니다. 꽂기 놀이는 아이의 세심한 손놀림과 집중력을 잘 보여주었어요. 책장에 다가가 책에 관심을 보이는 하준이, 책장에서 책을 골라 그림을 유심히 보는 하준이었답니다.\n\n오늘 하준이는 점심시간에 제공된 수수밥이 맛있었는지 두 그릇 가득 먹었습니다. 김치와 된장국물과 함께 잘 먹었습니다.\n하준이 감기가 많이 나아서 다행이에요. 일과 중 기침은 거의 하지 않았고, 콧물은 보이지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bkxdNf/btsP6RZCAzb/AdoABBCKSieICsei5XFOaK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cwhBUf/btsP753Swfd/RxxDLSVphknMsNLBbj4RUk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/e6JBc/btsP7bcrdec/2j6r8ScFGa2bQ8ELkIlKck/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/8iFVO/btsP6V8LLPG/NKlbE66HjbsIWg2soCn1b0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b5izoN/btsP76uYeaX/zKhCwqulbl22k5nEWPomM1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bkxdNf/btsP6RZCAzb/AdoABBCKSieICsei5XFOaK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cwhBUf/btsP753Swfd/RxxDLSVphknMsNLBbj4RUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e6JBc/btsP7bcrdec/2j6r8ScFGa2bQ8ELkIlKck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/8iFVO/btsP6V8LLPG/NKlbE66HjbsIWg2soCn1b0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b5izoN/btsP76uYeaX/zKhCwqulbl22k5nEWPomM1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0240_2025-08-26_1266473671_01.jpg",
@@ -4199,10 +4199,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린어린이집 행사로 바다반 친구들과 수박바람개비를 만들어보았어요. 아직은 서툴지만 선생님의 도움을 받아 종이를 꼭 쥐고 색칠하는 모습이 무척 귀여웠습니다. \n완성된 바람개비를 들고 데크로 나가 바람을 맞으며 돌려보았어요. 바람개비를 돌려보며 서로 보여주고, 손에 꼭 쥔 모습에서 성취감과 즐거움이 묻어났습니다. 그런데 수박 바람개비를 이용해 수련과 토란에게 시원한 바람을 불어주겠다고 하다가 물에 젖고 말았답니다. 잠깐 실망하는 모습도 보였지만 다시 멋진 바람개비를 만들어서 도전하기로 했답니다. 실패의 경험을 도전의 기회로 바꾸는 바다반 친구들에게 칭찬 부탁드립니다. ^^\n\n*9월 1일~9월 3일까지 바다 1반 신미영 교사의 연차휴가입니다. 이 기간 동안 알림장은 전송되지 않으며 투약의뢰서만 확인 가능합니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bXe4i2/btsP7ak7cVX/0K14EoCmS9pq31jNW7Gpn0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cDA3i3/btsP7ojxe5L/x53OkqowNDWiJkJKsDcCh0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMD4K6/btsP8yZWkTf/CbkqyNg2BYlsMx60fRkEzk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FDty5/btsP8fsOrOJ/Y06KPHIh0xx4oTEkPjc2O1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bXe4i2/btsP7ak7cVX/0K14EoCmS9pq31jNW7Gpn0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cDA3i3/btsP7ojxe5L/x53OkqowNDWiJkJKsDcCh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMD4K6/btsP8yZWkTf/CbkqyNg2BYlsMx60fRkEzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FDty5/btsP8fsOrOJ/Y06KPHIh0xx4oTEkPjc2O1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0241_2025-08-27_1267139382_01.jpg",
@@ -4219,10 +4219,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 해마 꾸미기를 해보았습니다. 면봉에 물감을 톡톡 묻혀 해마 그림 위에 색을 더해주고, 반짝이는 스티커를 붙이며 자신만의 작품을 만들어 보았어요. 해마 그림을 보자마자 호기심 가득한 눈으로 바라보는 하준이에요. 선생님이 “이건 해마예요”라고 알려주자, 하준이는 집중해서 면봉에 물감을 바르고 꾸미며 작품에 몰입하는 모습을 보여주었어요. 작은 손으로 스티커를 떼서 머리카락과 옷에도 붙여보는 하준이었답니다. 호기심이 학습으로 연결되는 순간이었답니다.\n\n이후 바깥 활동에서는 아파트 주변을 함께 산책하며 자연을 느껴보았습니다. 솔솔 불어오는 바람을 맞으며 해맑게 웃는 하준이 모습이 무척 사랑스러웠어요. 길을 걸으며 메뚜기와 강아지풀을 만날 때는 눈을 반짝이며 가까이 다가가 보려고 했습니다. 자연 속에서 몸과 마음이 활짝 열리는 시간이 되었답니다.\n오늘 하루 하준이는 호기심과 표현력이 함께 성장하는 모습을 보여주었어요. 앞으로도 이렇게 작은 발견을 통해 세상을 알아가고, 표현하는 즐거움을 느낄 수 있도록 도와주겠습니다.\n\n하준이는 오늘 점심시간에 스스로 숟가락을 이용해 밥을 떠서 열심히 꼭꼭 씹어 먹는 하준이에요. 밥과 반찬을 다 먹고 빈 밥그릇과 반찬을 가리키며 더 달라고 표현해 두부강정과 김치와 함께 밥을 두 그릇 먹었답니다^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dumhXv/btsQbCAMFHV/NzxoRQ9rTI5pq9Z7mLK9H0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b89i3y/btsP78hc7EI/6YKKKtMchW7CGpn3LV8zY0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/5wHhm/btsQbXLswQz/fReQ6TVVYCtOkE6EJ8vEH0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/VDkfy/btsQaib4qZa/vFei25vvlOZqjN7HYNdlz1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dumhXv/btsQbCAMFHV/NzxoRQ9rTI5pq9Z7mLK9H0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b89i3y/btsP78hc7EI/6YKKKtMchW7CGpn3LV8zY0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5wHhm/btsQbXLswQz/fReQ6TVVYCtOkE6EJ8vEH0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/VDkfy/btsQaib4qZa/vFei25vvlOZqjN7HYNdlz1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0242_2025-08-28_1267819962_01.jpg",
@@ -4239,9 +4239,9 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 텃밭에서 가져온 고구마잎을 함께 탐색해 보았습니다. \n아이들은 잎의 모양과 질감을 살펴보며 관심을 보였고, 이후 교사가 고구마잎을 코팅해 주어 자유롭게 끼적이며 표현할 수 있도록 지원해 주니 적극적으로 미술놀이에 참여하는 모습을 볼 수 있었습니다.\n\n또한 비가 그친 뒤 텃밭에 올라가 보니 빨갛게 익은 파프리카가 열려 있는 걸 보고 신기해하며 관찰하는 모습입니다. 텃밭에서 익어가는 벼, 수수, 고구마 등 다양한 작물을 직접 보고 만져보며 자연과 한발 더 가까워지는 시간이 되었답니다.\n아이들이 텃밭에서 자라는 식물의 변화를 몸소 느낄 수 있었습니다. ^^\n\n하준이는 오늘 점심시간에 나온 반찬중 깍두기를 제일 먼저 다 먹고 “더, 더”라고 말하며 손가락으로 가리켰어요. 오늘도 하준이는 김자반과 갈비찜과 함께 밥을 두 그릇 먹었답니다.\n하준이와 즐거운 주말 보내세요~\n\n가정분양저금통 마감일이 오늘까지라고 합니다. 다음번에 참여 부탁드립니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Rtzhh/btsQaVPaDDF/tq7zziMoIIFLvMuX7yDr11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/RCewO/btsQcYRnVq9/v6lEK7unUUUBClTrS3kxt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c7Xh8L/btsQaOJj9q4/2iBT6lY8l0DmJDt10yYiN1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Rtzhh/btsQaVPaDDF/tq7zziMoIIFLvMuX7yDr11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/RCewO/btsQcYRnVq9/v6lEK7unUUUBClTrS3kxt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c7Xh8L/btsQaOJj9q4/2iBT6lY8l0DmJDt10yYiN1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0243_2025-08-29_1268547914_01.jpg",
@@ -4257,11 +4257,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "하준이와 즐거운 주말 보내셨나요?\n오늘은 바다반 친구들과 음식 사진을 활용한 놀이와 새로운 주방놀잇감을 가지고 활동해보았습니다.  하준이는 솜이 들어있는 음식사진을 바라보며 관심을 보였고, 손가락으로 눌러보거나 만져보며 질감을 탐색했어요. 새로운 주방놀이 도구에도 큰 호기심을 보이며 전자레인지, 정수기, 오븐을 열어보려는 듯 손을 뻗고, 꼭꼭 눌러보며 신기한 듯 집중하는 모습이 귀여웠습니다. \n\n이어서 교실에서 풍선 놀이를 하며 신나는 시간을 가졌어요. 알록달록 풍선을 이리저리 흔들며 노래에 맞춰 몸을 흔들고, 작은 발로 통통 뛰어보며 웃음꽃을 피웠습니다. 풍선 위에 음식 사진을 붙여주자 더욱 눈을 반짝이며 풍선을 두드리거나 손으로 만져보면서 탐색하는 모습이 인상적이었답니다. 다양한 촉감과 움직임을 경험하며 하루를 즐겁게 보낸 하준이에요. \n\n또 텃밭에서 형님반이 따온 목화솜을 함께 만져보며 부드럽고 폭신한 촉감을 느껴보았어요. 오늘 하루는 다양한 촉감과 움직임, 그리고 자연의 재료를 직접 경험하며 하준이의 감각이 한층 풍부해진 시간이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bdNet8/btsQgNoCjTE/vSMrNpIHJP5IbIyt0YaSo0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxf27S/btsQge7PkFO/EItMj6JQ9RVKR527Y4ut7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/umV4s/btsQge01TyV/LPnK0Rcc8HW9bszg4g54R0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/L1mxa/btsQfemWFII/DoZBYomZYuXIyzZMMOnEmk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dop06w/btsQd9tcjXG/WTnWaAZK4nYF2B25HcmUr1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bdNet8/btsQgNoCjTE/vSMrNpIHJP5IbIyt0YaSo0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxf27S/btsQge7PkFO/EItMj6JQ9RVKR527Y4ut7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/umV4s/btsQge01TyV/LPnK0Rcc8HW9bszg4g54R0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/L1mxa/btsQfemWFII/DoZBYomZYuXIyzZMMOnEmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dop06w/btsQd9tcjXG/WTnWaAZK4nYF2B25HcmUr1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0244_2025-09-01_1269427137_01.jpg",
@@ -4279,10 +4279,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오전에는 바다반 친구들과 함께 메낙골근린공원으로 산책을 다녀왔어요. 시원하게 불어오는 바람을 맞으며 가을로 변해가는 계절을 느껴보았고, 여름 내내 크게 울리던 매미 소리보다 이제는 귀뚜라미 소리가 더 또렷하게 들리는 것에 귀 기울이며 잠시 멈춰 서서 집중하는 모습이 참 사랑스러웠습니다. ^^ 계절의 변화를 온몸으로 경험하는 하준이의 눈빛이 반짝였답니다. \n\n교실로 돌아와서는 어제 즐겼던 음식 사진 놀이를 이어, 오늘은 종이접시 위에 선생님이 준비한 피자 그림위에 스키커를 붙여보았어요. 하준이는 작은 손가락으로 스티커를 집어 하나하나 붙이며 피자를 꾸미는 집중하는 모습이 귀여웠습니다.  다양한 색깔의 스티커가 접시에 채워지자 하준이의 얼굴에도 뿌듯한 미소가 번졌어요. 오늘 하루는 자연의 소리와 계절의 변화, 그리고 창의적인 놀이로 풍성하게 채워졌습니다.\n\n하준이는 오전에 등원해서 잠깐 기침을 하는 모습이 보였으나 이후 일과중에는 기침을 거의 하지 않습니다. 낮잠을 잘 때는 기침하는 모습은 관찰되지 않았어요. 자고 일어나서 기침을 조금 했습니다.\n\n* 9월 3일(수요일) 내일 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/AVVt5/btsQiy5O1Uq/LIEYXEuHmymKYuv5fqXPz1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/1nh84/btsQgtSaiMc/24cDj66X9CI1eF5mYlaYRK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/EVUO7/btsQgRZBaMp/uNfA3v9NjPrCg2URurLtwK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ZEwCJ/btsQe7B7vXn/leD0ugCuCNuDTJBtvyQhq0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/AVVt5/btsQiy5O1Uq/LIEYXEuHmymKYuv5fqXPz1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/1nh84/btsQgtSaiMc/24cDj66X9CI1eF5mYlaYRK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/EVUO7/btsQgRZBaMp/uNfA3v9NjPrCg2URurLtwK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZEwCJ/btsQe7B7vXn/leD0ugCuCNuDTJBtvyQhq0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0245_2025-09-02_1270112956_01.jpg",
@@ -4299,10 +4299,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오전에는 바다반 친구들과 배드민턴장으로 산책을 가며 주변을 찬찬히 살펴보는 모습이 무척 귀여웠어요. 배드민턴장에 도착해 바닥에 놓인 작은 돌멩이와 길가의 나뭇가지를 손끝으로 만져보며 자연과 가까워졌습니다. 돌멩이를 관찰하다가 작은 개미가 바쁘게 움직이는 것을 발견하고, 호기심 어린 눈빛으로 한참 동안 지켜보는 모습은 하준이의 탐구심을 느낄 수 있게 했답니다. 신나게 달리며 몸을 활짝 움직이는 활동 속에서 하준이는 에너지를 마음껏 발산했어요. \n\n교실로 돌아와서는 점토를 이용한 음식 만들기 놀이를 이어갔습니다. 하준이는 점토를 꾹꾹 눌러보기도 하고 조물조물 만져보는 하준이에요. 조금씩 점토를 떼네며 재미있어하는 모습이었답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/PA4Zd/btsQiJ76qdD/IExlxwOI3UKAbJ07hzcyB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dA8V5a/btsQjdVqF8Q/z6SM8KIaQLLKCVAHg8rp01/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9WBfC/btsQhcXNpae/oUUrx3Bkx1h7R8Rk7NDPpk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbWpew/btsQkdgiIIi/Zbv8A97hwzGLKu0okXitb1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/PA4Zd/btsQiJ76qdD/IExlxwOI3UKAbJ07hzcyB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dA8V5a/btsQjdVqF8Q/z6SM8KIaQLLKCVAHg8rp01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9WBfC/btsQhcXNpae/oUUrx3Bkx1h7R8Rk7NDPpk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbWpew/btsQkdgiIIi/Zbv8A97hwzGLKu0okXitb1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0246_2025-09-03_1270812760_01.jpg",
@@ -4319,11 +4319,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 음식 관련 놀이를 주제로 하루를 보냈습니다. 먼저 교실에서 음식 인형을 탐색해 보았는데, 손으로 만져보며 관심을 보이고 먹는 시늉까지 해보는 모습이 무척 귀여웠어요. 이어서 교사와 함께 음식 관련 책 “목욕은 즐거워”를 읽으며 그림 속 야채를 가리키기도 하고, 채소 이름을 따라 말하며 표정이 환해지는 모습이었답니다. 교실 벽에 게시된 음식 사진을 함께 살펴보며 좋아하는 음식에 스티커를 붙여보았어요. 하준이가 좋아하는 음식을 선택하고 웃음을 보이며 스티커를 붙여주었답니다. \n\n비가 오는 관계로 실내 대체 놀이를 진행하였습니다. 1층 유희실에서 훌라후프 놀이를 해보았어요. 하준이는 훌라후프를 탐색하며 동그란 모양을 이리저리 살펴보다가, 징검다리처럼 놓인 훌라후프를 하나씩 건너보기도 했어요. 또 두 발을 모아 점프하며 통통 뛰어보는 도전을 즐기는 모습이 무척 활기찼습니다. 친구와 함께 훌라후프로 기차놀이를 하며 즐거워하는 하준이었답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b6SqtR/btsQjknAtBD/KtbEZCFmd0cKKBcQsblIe1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wMiDo/btsQizyOtKa/MgRp0TVDmvwQ31Itw1ox0k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bgEMCJ/btsQkoQysV5/zdLtKAvIbxjRbwiEmzE3Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/nGADf/btsQiEfPbfF/gNs8bY64RqDrBm5B8axdO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b4vndf/btsQlzqgA5l/IL4Sk0YHElVn1nWrTlVA91/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b6SqtR/btsQjknAtBD/KtbEZCFmd0cKKBcQsblIe1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wMiDo/btsQizyOtKa/MgRp0TVDmvwQ31Itw1ox0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bgEMCJ/btsQkoQysV5/zdLtKAvIbxjRbwiEmzE3Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nGADf/btsQiEfPbfF/gNs8bY64RqDrBm5B8axdO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b4vndf/btsQlzqgA5l/IL4Sk0YHElVn1nWrTlVA91/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0247_2025-09-04_1271507195_01.jpg",
@@ -4341,9 +4341,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘 바다반 친구들과 함께 특별한 외출을 다녀왔습니다. 실외활동으로 마트에 다녀왔는데, 길을 건너며 횡단보도에서 손을 번쩍 들고 건너는 모습이 무척 의젓했어요. 마트에 도착하자 하준이는 눈이 반짝이며 이리저리 진열된 다양한 먹거리들을 구경했습니다. 알록달록 색감이 풍부한 과일부터 채소, 반짝이는 포장지에 담긴 간식까지 하나하나 호기심 어린 눈길로 바라보았답니다. \n돌아오는 길에는 아파트에 재활용품을 수집하는 집게차를 만났어요. 크고 힘센 집게차가 철컥 움직이는 모습을 보며 눈을 크게 뜨고 집중해서 구경했답니다. \n\n교실로 돌아와서는 케이크 그림에 플레이콘을 붙이는 활동을 진행했습니다. 작은 손가락으로 플레이콘을 붙였다 떼었다 하며 즐거워하는 하준이에요. \n오늘의 경험은 하준이에게 생활 속 안전 습관을 배우고, 다양한 먹거리에 관심을 키우며, 창의적인 표현까지 경험할 수 있었던 소중한 시간이었습니다.\n하준이와 즐거운 주말 보내세요~\n\n* 선선한 바람이 불면서 모기 때문에 실외활동 시 어려움이 있습니다. 모기기피제를 보내주시면 실외활동 시 도움이 될 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ej4fi/btsQmtX7U9i/Ejo6IkWW8MCp7aXmcEyKO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/g2C3D/btsQny5I9Dl/YGgiNqHWOyJKseORCi9nmK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bgUfkJ/btsQmdH5dlw/z7fiejZhcUj6bJBp3I0sjk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ej4fi/btsQmtX7U9i/Ejo6IkWW8MCp7aXmcEyKO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g2C3D/btsQny5I9Dl/YGgiNqHWOyJKseORCi9nmK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bgUfkJ/btsQmdH5dlw/z7fiejZhcUj6bJBp3I0sjk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0248_2025-09-05_1272211713_01.jpg",
@@ -4359,11 +4359,11 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "하준이와 즐거운 주말 보내셨나요?\n오늘은 교실에서 음식 모형 놀잇감을 가지고 자유놀이가 활발하게 일어나는 것을 볼 수 있었습니다.\n하준이는 그릇에 뚜껑을 덮어보기도 하고 놀이가 끝난 후에는 수세미로 그릇을 닦는 흉내까지 내며 일상에서 본 장면을 자연스럽게 따라 하는 모방놀이로 이어졌답니다.\n\n실외놀이 시간에는 산책을 하며 친구에게 차려줄 음식 재료들을 찾아보았답니다. 길가의 나뭇잎이나 작은 꽃, 돌멩이 등을 보며 “돌!” 하고 이야기하는 모습 속에서 자연에서도 놀잇감을 찾아 놀이하는 모습이 인상적이었습니다. \n\n<영등포구 어린이급식지원관리센터>에서 방문하셔서 우리 친구들에게 '위생&영양교육-음식물쓰레기 줄이기' 교육을 해주셨어요. 음식물쓰레기로 인해 환경이 오염된다는 것을 알고, 먹을 만큼 덜어 먹기! 음식 남기지 않기! 등 우리가 할 수 있는 일에 대해 이야기 나누는 시간을 가져보았습니다.\n음식물 쓰레기 줄이기 약속 스티커를 보내드리니 가정에서도 함께 실천해 보세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ckxVnR/btsQnF6ryUQ/woZOSrthVCpWMN2NlKniV0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hnkmO/btsQnzFa8E3/WxeBG2yLmb9KBnPKdat0yk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bOjAF2/btsQmwPIsxY/WCYgMATI4kABtpiU621M7k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cDCgqI/btsQnCBRMU6/pV0T0U72SdvTFkkthB5Nh1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bZrs9R/btsQoo4blMm/XI1ofvl5GGAx9jeiPbFZr0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ckxVnR/btsQnF6ryUQ/woZOSrthVCpWMN2NlKniV0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hnkmO/btsQnzFa8E3/WxeBG2yLmb9KBnPKdat0yk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bOjAF2/btsQmwPIsxY/WCYgMATI4kABtpiU621M7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cDCgqI/btsQnCBRMU6/pV0T0U72SdvTFkkthB5Nh1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZrs9R/btsQoo4blMm/XI1ofvl5GGAx9jeiPbFZr0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0249_2025-09-08_1273070892_01.jpg",
@@ -4381,10 +4381,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 어제의 설거지 놀이를 한 단계 더 확장해 보았습니다. 아이들과 함께 텃밭에 올라가 고구마 땅콩 작두콩 등 작물을 살펴보고, 그 작물들을 활용해 요리하는 상상 놀이를 펼쳐보았답니다! 요리가 끝난 후  아이들이 직접 물을 받아와 그릇을 닦아보는 활동도 이어졌는데요, 즐기는 모습이 기특한 바다반 친구들입니다. \n\n또한, 교구장 한쪽에서 우연히 마트 전단지를 발견하고 친구들과 함께 이것저것 살펴보는 모습이 보여서, 교실 벽 한쪽에 전단지를 잘 펴서 게시해 주었어요. 하준이는 키위를 보며 “야야”라고 이야기를 하고 익숙한 먹거리에 반응하는 모습이었답니다.  우연히 발견한 일상 속 자료가 아이들의 탐색 활동으로 이어지는 모습에서 스스로 배우고 익히는 힘이 느껴졌답니다.\n\n하준이는 오늘 닭살폭찹과 김치, 국물과 함께 두 그릇 먹었습니다. 가지나물은 입에 넣어보았다가 곧 뱉어냈습니다.\n하준이가 너무 열심히 설거지를 하며 바지가 젖어 여벌 바지로 갈아입었습니다. 여벌 바지 보내주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/sIrdQ/btsQoLS5RSS/Dc5mNivyRGQ7WkgmMsP0m1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Fh1jD/btsQo5KLxEQ/d5fj5JpkAtAAikBDCrxTO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/7E1A8/btsQqLY5irp/MMioKKa3VInTjMuEPzs7j1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fXClQ/btsQsR46Wfk/TZM3Rto4ACbvlr8XdnwmX1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/sIrdQ/btsQoLS5RSS/Dc5mNivyRGQ7WkgmMsP0m1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Fh1jD/btsQo5KLxEQ/d5fj5JpkAtAAikBDCrxTO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/7E1A8/btsQqLY5irp/MMioKKa3VInTjMuEPzs7j1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fXClQ/btsQsR46Wfk/TZM3Rto4ACbvlr8XdnwmX1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0250_2025-09-09_1273770252_01.jpg",
@@ -4401,9 +4401,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 열린 어린이집 특색활동이 진행되었습니다. \n바다반 친구들과 “달님 안녕”이라는 따뜻한 동화를 함께 듣고, 다양한 독후활동이 이어졌답니다. \n\n아이들은 동화 속 달님을 떠올리며 조용히 이야기를 듣고, 각자 나만의 달님에게 야광별을 하나씩 붙여주며 이야기를 꾸며 나갔습니다. 선생님과 함께 별 하나, 둘, 셋 숫자를 세며 스티커를 붙여보기도 하고 아빠별, 엄마별, 아가별이라고 표현하며 붙여보았습니다. 스티커를 몸에 붙이며 재미있어하는 하준이었답니다.\n이후에는 흰색 크레파스를 이용해 어두운 밤하늘을 표현하는 끼적이기 활동도 함께했습니다.  \n\n마무리로는 밤하늘처럼 조금 어두운 교실에서 달님과 함께하는 신체활동이 있었습니다.  어두운 교실 안을 달님처럼 환히 웃으며 신나게 움직이는 하준이었답니다^^\n\n하준이 오후 간식 시간에 우유를 먹다가 흘려서 여벌 바지로 갈아입었습니다. 여벌바지 보내주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cBxihk/btsQs7N649I/surUQPNk87rNwgc0pEzpKK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bWpPZp/btsQsNvBpYJ/0qt0L5GENtbXaQEXjBc1Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b449ar/btsQtR45DYl/y6b3DobR5419p3wmRgZ2lK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cBxihk/btsQs7N649I/surUQPNk87rNwgc0pEzpKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWpPZp/btsQsNvBpYJ/0qt0L5GENtbXaQEXjBc1Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b449ar/btsQtR45DYl/y6b3DobR5419p3wmRgZ2lK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0251_2025-09-10_1274449155_01.jpg",
@@ -4419,10 +4419,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 가을바람이 솔솔 불어오는 메낙골 공원으로 산책을 다녀왔습니다. 하준이는 그릇을 들고 제일 먼저 돌멩이를 주워 그릇에 담아보았어요. 이후 선생님이 솔방울을 건네주니 그릇 위에 올려놓고 “맘마”라고 말하며 <맛있는 음식>을 차리는 상상 놀이를 즐겼습니다. 나뭇잎, 흙 등 다양한 재료를 고를 때마다 적극적으로 주변을 탐색하는 모습이 너무 기특했답니다. 자연 속에서 스스로 주제를 정하고 재료를 모으며 놀이를 이어가는 모습에서 탐구심과 상상력이 쑥쑥 자라고 있음을 느낄 수 있었습니다.\n\n어제에 이어 하준이는 오늘도 마트 전단지를 유심히 탐색하며 관심을 보여 크레파스를 지원해 주었더니 받자마자 전단지 위에 끼적이기를 하며 색깔을 더해 나갔습니다. 즐겁게 끼적이며 확장하는 놀이가 활발히 이어져, 관심 있는 주제를 스스로 탐구해 나가는 힘을 보여주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/wT0hE/btsQtOOXyPw/Ilc5JaZyvI8MfW5WHJ5FB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/6hsZP/btsQuZPVzR5/KaoZ30dcabHi4KvuWQKxt0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cKv3KD/btsQvDlAkTS/wpDu9psBrTCaO188iHU0K1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/p0p7P/btsQvxMqaxQ/90Ks1h1i4uveMf4gIemALK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/wT0hE/btsQtOOXyPw/Ilc5JaZyvI8MfW5WHJ5FB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/6hsZP/btsQuZPVzR5/KaoZ30dcabHi4KvuWQKxt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cKv3KD/btsQvDlAkTS/wpDu9psBrTCaO188iHU0K1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/p0p7P/btsQvxMqaxQ/90Ks1h1i4uveMf4gIemALK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0252_2025-09-11_1275147800_01.jpg",
@@ -4439,9 +4439,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "전단지와 그림책에서 본 경험을 나누며 “김밥” 이야기가 자연스럽게 나와 교사가 준비한 김밥 교구를 보며 신나 하는 모습이었습니다.\n김밥을 그릇에 차곡차곡 담아보기도 하고, 전자레인지에 넣는 흉내를 내며 놀이하는 바다반 친구들이에요. 놀이가 단순히 모양을 맞추는 데 그치지 않고, 실제 생활 속 경험과 연결되는 모습이 인상적이었어요. \n하준이는 백업 김밥으로 놀이하며 선생님이 “김밥”이라고 말하자, ‘기밥!’이라고 따라 말했어요. 백업 김밥을 그릇에 담아보고 먹는 시늉을 하며 즐겁게 놀이했답니다.\n\n이후에는 공원으로 산책을 나갔습니다 시원한 바람을 맞으며 걷던 중 한 아이가 “뛰고 싶어!” 하고 이야기했고, 아이들의 요구를 반영해 모두 배드민턴장으로 이동해 마음껏 뛰며 신나게 놀았답니다. \n자유롭게 뛰어노는 동안 웃음소리가 끊이지 않았고, 몸을 크게 움직이며 신체놀이가 활발하게 일어났습니다. 하준이와 즐거운 주말 보내세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ekhlq/btsQvUItBtw/exPL2ToH3woX4W3sKvJdG0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ygPLB/btsQwfMkSEz/8OY6Xpl3NHJWE9j5HbgpjK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/m8Tp0/btsQvS48vKS/7dDs6gBEOLICi41V7x7Dk1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ekhlq/btsQvUItBtw/exPL2ToH3woX4W3sKvJdG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ygPLB/btsQwfMkSEz/8OY6Xpl3NHJWE9j5HbgpjK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/m8Tp0/btsQvS48vKS/7dDs6gBEOLICi41V7x7Dk1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0253_2025-09-12_1275853672_01.jpg",
@@ -4457,9 +4457,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 바다반 친구들과 함께 커다란 나눔 접시를 들고 바깥으로 나가 자연에서 보물찾기 놀이를 해보았습니다. \n아이들은 나뭇가지, 나뭇잎, 도토리 등을 발견할 때마다 마치 진짜 맛있는 음식을 담는 듯 신나게 접시에 모았답니다. “이건 밥이야!”, “이건 빵이에요!” 하며 각각의 재료를 음식으로 상상하고, 친구들과 내 음식이 더 맛있어 이야기를 나누며 즐겁게 협동놀이가 이루어졌습니다. 종류별로 모은 뒤에는 다 같이 모여 앉아 “우리 같이 먹자~” 하며 나눔의 즐거움을 느끼며 확장된 놀이를 이어갔습니다.\n하준이는 돌멩이를 주워보고 달리기를 하며 즐거워하는 모습이었어요.\n\n또한 전단지 속 달걀 그림을 발견한 아이가 “이거 해보고 싶어요!”라며 호기심을 보였는데, 이에 맞추어 달걀판과 달걀 모형을 지원해 주었더니. 아이들은 조심스레 달걀을 옮기며 깨지지 않게 다루는 모습도 보였고, 쏟고 담는 놀이를 하며 눈과 손의 협응력을 키우고 달걀판 칸마다 색깔을 구분해 담아보며 분류놀이를 경험해보기도 했습니다.\n하준이와 달걀을 하나씩 옮기며 같이 숫자를 세어보았어요. 선생님이 말하는 숫자를 따라 말하며 집중하는 하준이었답니다^^ \n\n하준이는 오늘 일과 중 재채기와 기침을 하는 모습이 자주 보였습니다. 낮잠에 잠들기 전 기침을 많이 했습니다. 코가 막혀 불편한지 코를 자주 비비는 모습이었어요. 낮잠을 자고 일어난 후 맑은 콧물이 흘렀습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bYQRcO/btsQxHJt5Ua/nLpZHehT0nlxoKTxIaJ8o0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bCmjd4/btsQwdoV1na/stO49e9ll4kTuYwf4sICVK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c4fZCW/btsQxOu7gG4/Th4z2CL86BAkEn4IEZmZQ0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bYQRcO/btsQxHJt5Ua/nLpZHehT0nlxoKTxIaJ8o0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bCmjd4/btsQwdoV1na/stO49e9ll4kTuYwf4sICVK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c4fZCW/btsQxOu7gG4/Th4z2CL86BAkEn4IEZmZQ0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0254_2025-09-15_1276685360_01.jpg",
@@ -4475,12 +4475,12 @@ const reportsData =[
     "weather": "sunny_after_rain",
     "content": "오늘은 바다반 친구들과 함께 놀이터에서 신나게 놀이해 보았습니다.  \n미끄럼틀을 타고, 그네를 타며 바람을 느껴보고, 시소를 오르락내리락하며 활기차게 몸을 움직였답니다. 하준이는 놀이터에서 신나게 달리기도 하고 다양한 놀이기구를 타며 즐거워하는 모습이었답니다^^\n\n실외활동 후 교실에서는 최근 아이들 사이에서 인기가 많은 김밥 놀이를 더욱 확장해 보았습니다. \n아이들이 신문지를 길게 돌돌 말며, “김밥이야~”라며 이야기를 만들어가는 모습을 보고,  검은 도화지와 천사점토, 다양한 색깔의 백업을 잘라 지원해 주었더니 실제 김밥처럼 두 손에 힘을 주고 말아보기도 하는 등  상상 놀이로 연결했답니다.\n하준이는 선생님과 함께 재료를 넣고 집중해서 돌돌 말아 자신만의 김밥을 맛있게 만들어보았답니다. ^^\n\n하준이 오전 간식 시간에 떠먹는 요구르트를 먹다가 흘려서 여벌 바지로 갈아입었습니다. 여벌 바지 보내주세요.\n하준이는 어제보다는 기침을 덜 하였습니다. 오전에는 콧물이 나오지 않았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dDxAl/btsQBk7LG13/z9dbkW9InuTuTGDkYftjW0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cYUMiL/btsQBkNsPpv/wukw3kqjNbqoLYGSuwwuqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wgeDj/btsQASKIw9d/UpKJhJEK5OqWDd89UThmlk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/XaYKR/btsQzi4GZzn/Je0fon9Zh6LADBd9KZLzhk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/msATr/btsQzAquQ2y/zpekvU2e22rXyoANJzDUK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bxhfhb/btsQB7mzRqh/wgNoogSDhuGTJLIiGK6R1k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dDxAl/btsQBk7LG13/z9dbkW9InuTuTGDkYftjW0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cYUMiL/btsQBkNsPpv/wukw3kqjNbqoLYGSuwwuqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wgeDj/btsQASKIw9d/UpKJhJEK5OqWDd89UThmlk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/XaYKR/btsQzi4GZzn/Je0fon9Zh6LADBd9KZLzhk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/msATr/btsQzAquQ2y/zpekvU2e22rXyoANJzDUK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bxhfhb/btsQB7mzRqh/wgNoogSDhuGTJLIiGK6R1k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0255_2025-09-16_1277374042_01.jpg",
@@ -4499,10 +4499,10 @@ const reportsData =[
     "weather": "thunderstorm",
     "content": "오늘은 바다반친구들과 뻥튀기 마카로니를 모루에 하나씩 끼워 팔찌를 만들어보았어요. \n작은 손으로 꼼꼼히 끼워 넣는 모습이 참 사랑스러웠고, 완성된 팔찌를 바라보며 뿌듯해하는 표정에서 성취감을 느끼는 모습을 볼 수 있었습니다. \n선생님이 모루를 잡아주니 집중해서 마카로니를 한 개씩 끼워보는 하준이에요. 완성된 팔찌가 맘에 들었는지 활짝 웃는 모습이었답니다.^^\n\n비가 오는 관계로 바깥놀이 대신 실내에서 파라슈트 놀이를 진행했어요. 파라슈트 안에 김밥 모형을 넣어 흔들며 즐겁게 웃고, 안으로 들어가 숨어보며 새로운 경험에 신나 하는 하준이의 모습이 정말 귀여웠습니다. 함께 웃는 아이들의 모습에서 즐거움이 피어나는 것을 느낄 수 있었던 하루였습니다.\n\n하준이가 교실 안에서 두 발로 점프를 하며 뛰거나 달리기를 하는 모습이 자주 있습니다. 친구들과 부딪힐 수 있어 교실에서는 ‘걸어 다니자’ 하고 약속을 나누고 있어요. 가정에서도 하준이와 함께 안전하게 걸어 다니는 연습에 대해 이야기를 나눠주신다면 하준이가 더 즐겁고 안전하게 생활할 수 있을 것 같습니다.\n\n하준이는 오늘 일과 중 생활하며 콧물이 흐르지 않았고 기침은 조금 있었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bvA76f/btsQA7BqW9Z/nTtRjkuQKCUcKh3OrO0kAK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Dn1da/btsQzPIhnkQ/Cyxy6YUiNFUttwK4hKkp71/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/OrOTZ/btsQBW7fAoY/YqZbPH7UkAgFnefBTDAOe0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cAOjSn/btsQBwVi9Ny/t1X6MNbQAbW4ut5QFKLyO1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bvA76f/btsQA7BqW9Z/nTtRjkuQKCUcKh3OrO0kAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Dn1da/btsQzPIhnkQ/Cyxy6YUiNFUttwK4hKkp71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OrOTZ/btsQBW7fAoY/YqZbPH7UkAgFnefBTDAOe0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cAOjSn/btsQBwVi9Ny/t1X6MNbQAbW4ut5QFKLyO1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0256_2025-09-17_1278080590_01.jpg",
@@ -4519,17 +4519,17 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 텃밭활동을 하였습니다. 텃밭 선생님과 모종삽을 들고 흙을 파 무 모종을 심고, 흙을 덮은 뒤 작은 손바닥으로 토닥토닥 두드리며 “잘 자라라~” 하고 마음을 담아 응원해 주었답니다. 아이들이 무 모종을 심는 모습에서 정성과 따스한 마음이 가득 전해졌습니다. \n\n텃밭활동을 마친 뒤에는 모래놀이 시간을 가졌어요. 선생님이 “우리 모래로 음식 만들어 볼까요?”라고 제안하니 아이들이 “김밥이에요!”, “케이크예요!”, “빵이요!” 하며 상상 속 요리를 만들어내며 즐겁게 웃음꽃을 피웠습니다.\n하준이에게 “하준아 케이크 만들어볼까? 짠 케이크야~”라고 말하며 건네주니 박수를 치며 “후~” 부는 흉내를 내는 모습이 정말 귀여웠답니다^^\n\n하준이는 오늘 일과 중 콧물을 흘리는 모습은 관찰되지 않았어요. 기침은 조금 하는 모습이었습니다.\n\n* 9/17일 어제 서울시 방문간호사 사업으로 간호사 선생님께서 어린이집을 방문하셔서 아이들의 키와 몸무게, 머리둘레 측정을 진행하였습니다.\n\n키: 86.3cm\n몸무게: 12.2kg\n머리둘레 : 47.4cm",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/by7mrw/btsQEQFaLVq/5bTwavpehzKuTzPKopZMxK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/maaMS/btsQEaRFbpO/xa4uvM72bewxkPKTl8RBnK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bPC5PA/btsQEo3dXRo/Oj9WEl2C3kG6Gtjo5kQyG0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/BafRY/btsQCLSzCvI/4Txl2uk6UhTqHX2b4kq63k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/not4U/btsQEb4hRS0/dukwdUtruUiQDQFFJRkC1K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FsS6t/btsQCuXPE5v/k6uacQ4B4C6YFsOPbXp3Wk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/n4bFO/btsQD4cYLOJ/rNoK7WmIgsL8xvmVDHpUoK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FnLN7/btsQCyeRhuf/fQS8UUuqMV9rvqvON0yvH1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/nsnDc/btsQD9SWuSY/QG4gan9vYquE4EFfDAXUT1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HN8Zk/btsQBTKn65c/qgzNtlkoyAFkQRBrhEkTPk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/fQXVN/btsQCyTthLN/5vqIPXtEX6snAc31DLkEDk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/by7mrw/btsQEQFaLVq/5bTwavpehzKuTzPKopZMxK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/maaMS/btsQEaRFbpO/xa4uvM72bewxkPKTl8RBnK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bPC5PA/btsQEo3dXRo/Oj9WEl2C3kG6Gtjo5kQyG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/BafRY/btsQCLSzCvI/4Txl2uk6UhTqHX2b4kq63k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/not4U/btsQEb4hRS0/dukwdUtruUiQDQFFJRkC1K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FsS6t/btsQCuXPE5v/k6uacQ4B4C6YFsOPbXp3Wk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n4bFO/btsQD4cYLOJ/rNoK7WmIgsL8xvmVDHpUoK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FnLN7/btsQCyeRhuf/fQS8UUuqMV9rvqvON0yvH1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nsnDc/btsQD9SWuSY/QG4gan9vYquE4EFfDAXUT1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HN8Zk/btsQBTKn65c/qgzNtlkoyAFkQRBrhEkTPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fQXVN/btsQCyTthLN/5vqIPXtEX6snAc31DLkEDk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0257_2025-09-18_1278785615_01.jpg",
@@ -4553,9 +4553,9 @@ const reportsData =[
     "weather": "rain",
     "content": "오전에 비가 오기 전에 우주반 형님의 손을 잡고 함께 공원산책을 하며 자연물도 탐색해 보고 형님들에게 대접할 과자를 사러 마트에 다녀왔습니다. \n하늘에서 빗방울이 한두 방울 떨어지자 나무 아래로 후다닥 걸어 어린이집으로 들어왔습니다. \n짧은 산책이었지만 형님과 손을 잡고 함께 걷는 경험이 아이들에게 즐겁고 든든한 시간이 되었답니다. 맛있는 과자를 형님들에게 대접하며 나누는 즐거움을 느껴보기도 했답니다.\n\n어제 텃밭 활동에서 선생님이 알려주셨던 무, 배추, 당근 등을 기억하고 오늘은 당근 그림 위에 끼적여보았습니다. 아이들이 경험한 것을 그림으로 표현하며 자연과의 연결을 다시 떠올려보는 의미 있는 시간이 되었습니다. \n하준이에게 당근 그림을 건네주며 “당근”이라고 말해주니 입모양을 유심히 보는 모습이었어요. 하준이가 원하는 색깔의 크레용을 골라 즐겁게 끼적여보았답니다.\n\n하준이는 오늘 콧물이 흐르지 않았고 기침은 조금 있었습니다. 오전 간식을 먹은 후 묽은 변을 한 번 보았습니다.\n\n* 9월 25일 목요일은 바다반 친구 윤주원(여아) 친구의 생일파티가 있습니다.\n3천 원 미만의 생일선물을 준비하셔서 다음 주 24일 수요일까지 보내주세요.\n\n* 9/17일 공지사항으로 안내드렸던 추석주간놀이 일정 및 준비물 다시 한번 안내드립니다.\n9/29(월) - 한복패션쇼\n9/30(화) - 전통키링 만들기\n10/1(수) - 전통놀이체험\n10/2(목) - 모나카 만들기 \n\n9/25(목)까지 한복과 요리활동에 필요한 앞치마, 머릿수건을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cuqfhn/btsQE969ITj/y3CFa2DFoz7io4yIkA0lPk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b3YcW3/btsQEQT8U7z/cTzKuSgBEJ37k7Vf9a7tj0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tBdBw/btsQHtpmdgw/gcc0lsIebWIupg4Lys4Pj1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cuqfhn/btsQE969ITj/y3CFa2DFoz7io4yIkA0lPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b3YcW3/btsQEQT8U7z/cTzKuSgBEJ37k7Vf9a7tj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tBdBw/btsQHtpmdgw/gcc0lsIebWIupg4Lys4Pj1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0258_2025-09-19_1279492734_01.jpg",
@@ -4581,9 +4581,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 메낙골근린공원으로 산책을 다녀왔습니다. 가을 날씨를 느끼며 풀벌레 소리를 들어보고 솔솔 불어오는 바람을 느껴보았어요. 공원에 도착해서는 바닥에 떨어진 낙엽과 솔방울을 주워보며 자연을 탐색하고, 나뭇가지로 바닥에 그림을 그려보는 모습도 있었답니다.\n\n교실로 돌아와서는 음식그림블록으로 놀이를 하며 길게 이어 보거나 높이 쌓아보았어요. 블록에 있는 음식 사진을 보며 “밥!”이라고 말하고 호기심을 보이기도 했습니다.\n\n가을을 온몸으로 느끼며 자연과 함께한 산책, 그리고 교실에서 즐거운 블록 놀이를 통해 호기심과 탐구심이 자라는 하루였답니다.\n\n하준이가 묽은 변을 보았다고 하셔서 오늘 하루 세심히 살펴보았습니다. 원에서는 점심을 먹은 후 정상적인 대변을 보았어요. 또한 콧물이 흐르거나 기침을 하는 모습도 보이지 않고 하루 일과에 잘 참여해 주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/BxhaB/btsQHZQRsji/hrqSVPQkUHcdYT8L1Mgjh1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ik0yx/btsQH7uAHFN/HKbZ4drx5goMAWUIOk5qjK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0pj0z/btsQJcIUSYz/e72f3tb6TrlFKPCACmKp21/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/BxhaB/btsQHZQRsji/hrqSVPQkUHcdYT8L1Mgjh1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ik0yx/btsQH7uAHFN/HKbZ4drx5goMAWUIOk5qjK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0pj0z/btsQJcIUSYz/e72f3tb6TrlFKPCACmKp21/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0260_2025-09-22_1280390190_01.jpg",
@@ -4599,10 +4599,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 요리사 모자 꾸미기 활동을 해보았습니다. \n요리사 모자가 그려진 종이를 보자 관심을 보이며 자신이 원하는 색깔의 크레용을 골라 색칠하고, 다 완성된 모자 위에 스티커를 붙이며 멋지게 꾸며보았답니다.\n\n또한, 어린이집 텃밭에 올라가 지난주에 심었던 무를 관찰해 보고, 크게 자란 작두콩을 직접 따보는 경험도 하였어요. “우와~ 크다!” 하며 신기해하고 만져보는 모습 속에서 자연에 대한 호기심과 즐거움을 느끼는 시간이었답니다.\n\n오늘 하준이는 오전 간식으로 나온 토마토를 조금 먹고 점심시간이 되기 전부터 “밥!”이라고 말하며 밥을 기다리는 모습이었어요. 배가 많이 고팠는지 점심에는 김치와 국물과 함께 밥을 두 그릇 맛있게 먹었답니다.^^ 오전 일과 중에는 콧물이 약간 보였습니다.\n\n* 9월 25일 목요일은 바다반 친구 윤주원(여아) 친구의 생일파티가 있습니다.\n3천원 미만의 생일선물을 준비하셔서  24일 수요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dMzy83/btsQIKNpxpD/wtoRI5XY7OF5UeKFpYE2T0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/LbiaS/btsQI72Ec1I/midIFtivFdHqOYFRCT8y8K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cECjFj/btsQLjHyxrZ/mIKbaPU40Roiq8MKMESRDK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bZhjv5/btsQLioj1WN/zYQVcSGG7SQVQPH3BmdioK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dMzy83/btsQIKNpxpD/wtoRI5XY7OF5UeKFpYE2T0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LbiaS/btsQI72Ec1I/midIFtivFdHqOYFRCT8y8K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cECjFj/btsQLjHyxrZ/mIKbaPU40Roiq8MKMESRDK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZhjv5/btsQLioj1WN/zYQVcSGG7SQVQPH3BmdioK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0261_2025-09-23_1281077688_01.jpg",
@@ -4619,9 +4619,9 @@ const reportsData =[
     "weather": "thunderstorm",
     "content": "오늘은 열린 어린이집의 날로 윤주원 어머님께서 바다반 친구들과 특별한 하루를 보냈어요. \n메낙골공원으로 산책을 나가 주변의 다양한 소리에 귀 기울이며 탐색하는 시간을 가졌답니다. 바람에 흔들리는 나뭇잎 소리, 새 지저귀는 소리, 그리고 분수 물줄기의 청량한 소리까지 하나하나 집중해 들으며 눈을 반짝이는 모습이었습니다. \n\n선생님이 준비한 광목천 위에 자연물을 올려보고 탐색을 이어갔습니다. 바다반 친구들이 나뭇잎, 돌멩이, 솔방울등 수집한 자연물들을  선생님과 함께 상상력을 발휘해 사자, 기린, 닭과 토끼, 등 다양한 동물과 티라노 사우르스, 악어도 만들며 친구들과 즐겁게 웃는 모습이 참 활기찼습니다.^^\n\n하준이는 오늘 일과 중 콧물이 조금 보였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b6jsZI/btsQNDe3adw/xlz8mm9azffgk1TlXUdk1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/chOy0R/btsQNubvDtK/KtAYmTjPw4SEmuxyHNNI1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wJ0mJ/btsQLNXvLlH/OMDkvpGNAMI9WlZpUQ2HQ1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b6jsZI/btsQNDe3adw/xlz8mm9azffgk1TlXUdk1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/chOy0R/btsQNubvDtK/KtAYmTjPw4SEmuxyHNNI1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wJ0mJ/btsQLNXvLlH/OMDkvpGNAMI9WlZpUQ2HQ1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0262_2025-09-24_1281782646_01.jpg",
@@ -4637,10 +4637,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 바다반 친구들은 교실로 들어오자마자 바닥에 붙은 다양한 과일과 채소 사진을 보며 관심을 보였답니다. \n선생님이 “하준아 키위는 어디 있지?”라고 물어보니 다가와 키위를 가리키기도 하고 징검다리를 건너듯 두 발로 점프하며 즐겁게 참여했어요. 탐색과 함께 대근육을 사용하는 신체 활동도 자연스럽게 이어졌답니다.\n\n또한 오늘은 기다리던 주원이의 생일파티가 열렸어요. 친구들이 함께 박수를 치고 생일 축하 노래를 불러주며 축하의 마음을 나누었고, 준비한 선물을 전달하며 따뜻한 시간을 보냈습니다. \n축하를 받은 주원이는 환하게 웃으며 행복해했답니다.^^\n\n하준이가 낮잠 시간에 평소보다 조금 늦게 잠이 들어 1시 20분경에 잠들었답니다. 오늘은 콧물이 보이지 않았고 기침하는 모습도 관찰되지 않았습니다.\n\n* 내일 9/26(금)까지 한복과 요리활동에 필요한 앞치마, 머릿수건을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dPry3/btsQPGh9m6t/pPf2OtGEoI2Tax7sPVmYiK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/boTYmO/btsQPFDBl5J/dptHuJ0U1o7hYybbQiqkVK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/62zbQ/btsQNEMvDLy/KIx84JVVb8GiGjBAe5C7uK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cwApLk/btsQOCOaeNg/cC6pk2dBrANueRZXzINHK1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dPry3/btsQPGh9m6t/pPf2OtGEoI2Tax7sPVmYiK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/boTYmO/btsQPFDBl5J/dptHuJ0U1o7hYybbQiqkVK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/62zbQ/btsQNEMvDLy/KIx84JVVb8GiGjBAe5C7uK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cwApLk/btsQOCOaeNg/cC6pk2dBrANueRZXzINHK1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0263_2025-09-25_1282499640_01.jpg",
@@ -4657,11 +4657,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘 바다반 친구들과 나만의 티셔츠 꾸미기 활동을 해보았어요. 선생님이 준비한 흰색 티셔츠와 도트물감을 보며 관심을 보이며 책상 자리에 앉는 하준이에요. 하준이가 좋아하는 색을 골라 콕콕 찍어보며 자신만의 개성을 담은 작품을 만들었답니다.  알록달록 예쁘게 완성된 티셔츠를 보며 좋아하는 하준이었답니다.\n\n또한 아이들이 일주일에 한 번 오는 집게차를 기다리며 바깥놀이를 나갔지만 아쉽게도 만나지는 못했어요. 대신 놀이터에서 놀이기구를 타고 신나게 뛰어놀며 즐거운 시간을 보냈답니다. \n한 친구가 “텃밭 가고 싶어요.”라고 말해 어린이집에 돌아온 뒤 텃밭에 올라가 작물을 구경하고, 비눗방울을 보며 웃음 가득한 시간을 보냈습니다.\n오늘도 다양한 활동을 통해 즐겁고 풍성한 하루를 보낸 바다반 친구들이었습니다.\n\n하준이는 오늘 기침이나 콧물이 보이지 않았습니다. 점심에는 밥 한 그릇을 다 먹은 뒤 빈 그릇을 가리키며 “밥, 밥, 밥”이라고 말해 한 번 더 제공해 주었어요. 김치와 된장국 국물과 함께 맛있게 먹으며 두 그릇 먹었답니다.\n하준이와 즐거운 주말 보내세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Me3Zp/btsQRu3dowP/5VjKSN9qGLjiKXih26mhOk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/t8aiV/btsQQkG4MRg/Lz1iKPOfHAHtohbZoP61e0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dbY7jm/btsQQnw0u94/eJktfAW9nrAgHgV8r4BBz1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/efLryo/btsQQkNO8rw/chaSlLNppmlIgBF6FaIdEk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/UL8Kz/btsQP3yNJNN/xHG4dlonem7dmuwm2m1VMk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Me3Zp/btsQRu3dowP/5VjKSN9qGLjiKXih26mhOk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/t8aiV/btsQQkG4MRg/Lz1iKPOfHAHtohbZoP61e0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dbY7jm/btsQQnw0u94/eJktfAW9nrAgHgV8r4BBz1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/efLryo/btsQQkNO8rw/chaSlLNppmlIgBF6FaIdEk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/UL8Kz/btsQP3yNJNN/xHG4dlonem7dmuwm2m1VMk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0264_2025-09-26_1283219018_01.jpg",
@@ -4679,7 +4679,7 @@ const reportsData =[
     "weather": "fog",
     "content": "하준이 왼쪽 콧볼과 눈 쪽에 작은 상처가 있습니다. 확인해 주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dN7X9B/btsQQYwgvFp/R5FhI4GmJzTyqlr0nowigK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dN7X9B/btsQQYwgvFp/R5FhI4GmJzTyqlr0nowigK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0265_2025-09-26_1282895908_01.jpg"
@@ -4703,14 +4703,14 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 한복을 입고 ‘진주조개 모나카 만들기’ 활동을 해보았습니다.\n키트를 보여주자 하준이는 눈빛이 호기심으로 반짝였고, 진주 초콜릿과 호두를 손으로 만져보고 냄새를 맡으며 탐색하는 모습, 팥 앙버터 스프레드를 직접 올려보는 모습은 마치 작은 요리사 같았답니다. \n정성껏 완성한 모나카를 바라보며 뿌듯해하는 표정에서는 성취의 기쁨이 고스란히 전해졌습니다.\n이후 메낙골 근린공원으로 산책을 나서며 만나는 어른들께 환하게 웃으며 인사를 건네는 아이들의 모습도 무척 기특했답니다.\n\n오랜만에 등원한 하준이를 만나 너무 반가웠습니다. 수족구가 완치되어 건강한 모습으로 다시 만나고, 한복을 입은 모습까지 볼 수 있어 다행이었어요.\n오늘 하준이는 오전 간식으로 나온 연두부를 남김없이 잘 먹었고, 점심에는 깍두기와 함께 두 그릇을 먹는 모습을 보였습니다.\n다가오는 추석, 정성껏 만든 모나카를 가정에서도 맛있게 드시고, 보름달처럼 풍성하고 따뜻한 한가위 보내세요~🌕🍂",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Vemsd/btsQ1r6i9xf/FRk1sP7h9aG0QpLcBpiEj1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/mqNuP/btsQZemJc5J/3pCB3EiFCCXQH7Knc84TB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FjS57/btsQZ20liwZ/b2lrbXNyze6C6niCyu8kK0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dQIJC/btsQZzjRWFy/T4OluzCSWRkHHwK7wpzUD0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ilLxa/btsQZT3qXxT/K7WclQdY1awxArsGWCX9Nk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cxmmnx/btsQ1YQq3TD/neUXhrA5O2MaE1L6L22Yak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Sldgo/btsQZgLBQp6/QSoCTzIrYq8LMM6OWiOPz0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Y8mzM/btsQZhRkFx9/Q075gHDvQaE6x5kePDmaek/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Vemsd/btsQ1r6i9xf/FRk1sP7h9aG0QpLcBpiEj1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mqNuP/btsQZemJc5J/3pCB3EiFCCXQH7Knc84TB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FjS57/btsQZ20liwZ/b2lrbXNyze6C6niCyu8kK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dQIJC/btsQZzjRWFy/T4OluzCSWRkHHwK7wpzUD0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ilLxa/btsQZT3qXxT/K7WclQdY1awxArsGWCX9Nk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cxmmnx/btsQ1YQq3TD/neUXhrA5O2MaE1L6L22Yak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Sldgo/btsQZgLBQp6/QSoCTzIrYq8LMM6OWiOPz0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Y8mzM/btsQZhRkFx9/Q075gHDvQaE6x5kePDmaek/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0267_2025-10-02_1286422656_01.jpg",
@@ -4731,8 +4731,8 @@ const reportsData =[
     "weather": "rain",
     "content": "안녕하세요. 하준이와 즐거운 연휴 보내셨나요? \n오랜만에 등원해 건강한 모습으로 다시 만나 너무 반가운 하준이와 오늘은 가을의 풍성한 열매 사진을 활용해 만든 벽돌 블록 퍼즐을 맞춰보며 블록을 쌓고 맞추는 재미에 푹 빠졌답니다. \n가을 열매 사진을 함께 살펴보며 색깔과 모양을 비교하고 탐색해 보기도 했어요.\n바다반 친구들이 블록 속 도토리, 밤, 은행등 열매 사진을 보며 “이건 도토리야!” 하며 이름을 이야기하고 도토리 노래까지 부르며 놀이가 자연스럽게 확장되는 모습을 볼 수 있었습니다.\n\n비가 와서 실외활동 대신 실내 대체 놀이로 밸런스볼 징검다리 놀이가 이루어졌습니다. \n폭신폭신한 볼 위를 조심스럽게 건너며 신체 균형을 잡으려고 하고 여러 번 시도하며 자신감을 키워가기도 했답니다.\n\n하준이가 뻘간색 가방을 건네주며 “빨간색”이라고 비슷하게 발음을 하더라고요. 안 본 사이에 많이 성장한 모습이었습니다.^^\n오늘 점심시간에 밥도 고기반찬과 김치와 함께 두 그릇 먹었답니다.\n\n* 10월 16일 목요일은 바다반 친구 최이서(여아), 정아현(남아) 친구의 생일파티가 있습니다.\n3천 원 미만의 생일선물을 준비하셔서 10월 14일 화요일까지 보내주세요.\n\n* 하준이 반팔과 반바지 여벌 옷을 가정으로 보내드렸습니다. 긴팔과 긴바지로 교체해 보내주시길 바랍니다.\n\n*하준이 칫솔이 마모되어 교체가 필요합니다. 새 칫솔 보내주세요.\n\n* 전에 공지 드린 바와 같이 14일 선유도공원 견학은 우천으로 인해 21일 화요일로 변경되었음을 다시 한 번 알려드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cLnV0Y/btsQ63LxRBE/9NueNjBqNtKsHAlcJ4fAw0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bsKqci/btsQ6RR5O7C/pwxaZpCsONrDyCxhyG5W2k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cLnV0Y/btsQ63LxRBE/9NueNjBqNtKsHAlcJ4fAw0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bsKqci/btsQ6RR5O7C/pwxaZpCsONrDyCxhyG5W2k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0268_2025-10-13_1288218550_01.jpg",
@@ -4747,10 +4747,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 재활용품을 가지고 놀이하던 영아들과 휴지심을 활용한 다양한 놀이를 해보았습니다. \n휴지심으로 망원경도 만들어보고 마이크처럼 손에 잡고 노래도 불러보았어요. 확장놀이로 휴지심에 다양한 색깔의 물감을 묻혀 콕콕 찍어보았더니 멋진 가을 나무가 완성되었답니다. 붉은색, 주황색, 노란색의 물감이 어우러지며 마치 진짜 단풍이 물든 것처럼 멋있더라고요. ^^ \n\n비가 그쳐 흐린 날씨지만 오랜만에 실외활동을 나갔더니 아이들도 너무 신이 났답니다. \n낙엽과 나뭇잎, 도토리 등을 탐색하며 자연 속 색깔들을 발견하는 시간을 가져보았습니다. \n다양한 색깔뿐 아니라 여러 가지 모양의 나뭇잎 모습을 탐색하고 관찰하는 모습이 진지했던 바다반 친구들이었습니다.\n\n하준이는 오늘 점심시간 전에 대변을 보았습니다.\n낮잠 시간에 잠이 오지 않는지 잠을 안 잤습니다.\n선생님 옆에서 편하게 쉬며 조용히 시간을 보낼 수 있도록 도와주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bmE6Ea/btsQ8ySfDYT/VkP9KSwBFsENVBqS2Zs8d1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c2Lx4l/btsQ7OagFJb/h8QcjB79w5lbOzk3Trv19k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cNW1FC/btsQ7OnMbqI/GvAkRWWzy38Mx702rnIHuk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KvwKx/btsQ6KMYJP5/MCgjCeYmYQeZv81qZWkWH0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bmE6Ea/btsQ8ySfDYT/VkP9KSwBFsENVBqS2Zs8d1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c2Lx4l/btsQ7OagFJb/h8QcjB79w5lbOzk3Trv19k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cNW1FC/btsQ7OnMbqI/GvAkRWWzy38Mx702rnIHuk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KvwKx/btsQ6KMYJP5/MCgjCeYmYQeZv81qZWkWH0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0269_2025-10-14_1288954973_01.jpg",
@@ -4767,9 +4767,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "어제 실외놀이에서 낙엽에 관심을 보였던 바다반 친구들에게, 종이컵에 붙인 낙엽그림을 지원해 주었더니 유심히 바라보고 낙엽그림을 살펴보던 친구들은 종이컵을 하나씩 쌓아보거나 길게 이어 붙이며 놀이를 스스로 확장해 나갔어요.\n하준이는 종이컵을 두 손으로 잡고 꾹 구겨보는 과정을 즐기며 자신의 방식으로 탐색해 보았답니다.\n\n아이스크림 막대를 들고 바깥놀이를 나가 낙엽을 골라 붙여보았어요. \n바닥에 떨어진 낙엽을 유심히 바라보는 하준이에요. 눈모양 스티커를 붙이며 낙엽의 표정이 나타나는 모습에 흥미를 보이기도 했답니다. \n바다반 친구들은 푸른 하늘에 떠 있는 달을 바라보며 달님안녕 동화책이 생각났는지 “달님 안녕 또 만나요” 하며 인사를 해주기도 했답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/MybOo/btsRadgsZMB/3Y0a5FYbLuTqOoHwKubOTk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KIdtQ/btsQ99SF7AG/fOEjqNkwYTXS7Cy8Br7OXK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbdkaJ/btsQ9llP4Tn/Kkp0ZtrgNxDRwSLL4Nsk5k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/MybOo/btsRadgsZMB/3Y0a5FYbLuTqOoHwKubOTk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KIdtQ/btsQ99SF7AG/fOEjqNkwYTXS7Cy8Br7OXK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbdkaJ/btsQ9llP4Tn/Kkp0ZtrgNxDRwSLL4Nsk5k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0270_2025-10-15_1289665912_01.jpg",
@@ -4785,13 +4785,13 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 이서와 아현이의 생일잔치가 있었습니다. 바다반 친구들이 모두 모여 박수를 치며 “생일 축하합니다” 노래를 불러주었답니다. \n친구들에게서 축하와 선물을 주고받으며 축하하는 기쁨과 축하받는 고마움을 느껴볼 수 있었답니다. \n\n선선한 가을바람을 맞으며 배드민턴 장으로 나갔습니다. 아이들은 떨어진 낙엽을 주워보며 신나게 뛰어놀았답니다. \n광목천을 지원해 주었더니 낙엽을 모아 친구들과 함께 흔들며 낙엽을 날리기도 하고, 천 위에 여러 색깔의 잎을 모아 예쁘게 꾸며보기도 했답니다. \n가을바람을 느끼고 파란 가을하늘을 보며 신나게 신체놀이를 즐겨보았습니다.\n나무에서 떨어지는 낙엽을 바라보는 하준이었답니다.\n\n하준이는 오늘 낮잠 시간에 평소보다 늦게 잠이 들어 1시 35분쯤 잠들고 2시 30분에 깼습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/PRDIS/btsRa2fABKU/OFQPY3xK1kpx6qc55hKbvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/l0jX0/btsRaYqvUMo/piAKaBnkntgKeTlzFLLk70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d3Vlg/btsRcaKu1ii/pExqi2SXY0MAp7fsyTIRXK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bhST8V/btsRdfkczfb/ITtRs2FmmgmLSLLY0ycmb0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cymSm1/btsRbNB1o8Y/fyD5O7Hs9qIW3hCLPzmBqK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bl7vvh/btsRcAa2WAH/2RmKd2K7yYzMvj3kuZ4uV1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cksQpl/btsRcEEyk2r/y7lyIrFQTC2A9nK7ZntPE0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/PRDIS/btsRa2fABKU/OFQPY3xK1kpx6qc55hKbvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/l0jX0/btsRaYqvUMo/piAKaBnkntgKeTlzFLLk70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d3Vlg/btsRcaKu1ii/pExqi2SXY0MAp7fsyTIRXK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhST8V/btsRdfkczfb/ITtRs2FmmgmLSLLY0ycmb0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cymSm1/btsRbNB1o8Y/fyD5O7Hs9qIW3hCLPzmBqK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bl7vvh/btsRcAa2WAH/2RmKd2K7yYzMvj3kuZ4uV1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cksQpl/btsRcEEyk2r/y7lyIrFQTC2A9nK7ZntPE0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0271_2025-10-16_1290394315_01.jpg",
@@ -4811,8 +4811,8 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 나무막대를 이용해 허수아비를 만들어보았어요.\n선생님이 자신의 얼굴이 담긴 허수아비 틀과 도트 물감을 보여주자 아이들이 \"이게 뭐예요?\" 하며 관심을 보였답니다.\n친구들은 도트물감을 콕콕 찍어보며 자신만의 허수아비를 완성해 보았어요.\n\n바깥놀이 시간에는 어린이집 주변을 산책하며 나비와 꿀벌을 만나고, 시원한 가을바람과 따뜻한 햇살을 함께 느껴보았습니다.\n하준이는 붉게 물든 나뭇잎을 가리키며 \"빨간색!\"이라고 말하네요. 빨간색을 알게 되어 빨간색을 보면 “빨간색”이라고 말하는 하준이랍니다^^\n자연의 변화를 오감으로 느끼며 계절의 아름다움을 표현해 본 바다반 친구들이었어요. \n\n하준이가 점심시간 전에 턱받이를 한 뒤 손으로 만지다 손톱에 긁혔는지 입술 위가 살짝 빨개졌습니다.  \n하준이는 오늘 점심을 먹은 후 대변을 보았습니다. 기저귀를 갈기 위해 하준이를 부르니 “응가했어요”라고 비슷하게 발음을 했어요. 표현하는 하준이를 보고 깜짝 놀라며 칭찬해 주었답니다^^\n하준이와 즐거운 주말 보내세요~\n\n* 아침·저녁으로 기온이 많이 내려가면서 날씨가 부쩍 쌀쌀해졌습니다. 아이들이 낮잠 잘 때 따뜻하게 잘 수 있도록 얇은 이불을 포근한 이불로 교체 부탁드립니다.\n\n*하준이 양치를 하면서 윗옷이 물에 젖어 여벌 옷으로 갈아입었습니다. 여벌옷 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dt6yFy/btsRdESIITn/DdpkO0CpdgScVK0mqd5wgk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cqAf07/btsRfxkHsuR/M7Fb6x9yKftNjuD9v1PZk1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dt6yFy/btsRdESIITn/DdpkO0CpdgScVK0mqd5wgk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cqAf07/btsRfxkHsuR/M7Fb6x9yKftNjuD9v1PZk1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0272_2025-10-17_1291138003_01.jpg",
@@ -4827,10 +4827,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 ‘나뭇잎 프로타주’ 활동을 해보았어요.\n상자에 붙여둔 나뭇잎 모형을 보며 관심을 보이는 하준이에요.\n선생님이 종이를 대고 크레용으로 문지르자 나뭇잎 무늬가 나타나는 모습을 신기해하며 하준이도 열심히 색칠해 보았어요.\n\n바깥놀이 시간에는 배드민턴장으로 나가 테이프에 나뭇잎을 붙여보기도 하고, 땅에 떨어진 자연물들을 살펴보며 신나게 뛰어놀았답니다.\n\n주말에 예방접종도 하고 새벽에 여러 번 깼다고 하여 오늘 하루 하준이의 컨디션을 세심히 살펴보았어요. 피곤해하는 모습 없이 평소처럼 활동에 잘 참여하고 즐겁게 놀이하는 모습이었답니다. \n오전 간식으로 나온 포도도 맛있게 먹었고, 점심식사 때는 스스로 숟가락을 사용하며 남김없이 잘 먹었어요. 식사 후 대변을 본 뒤 평소처럼 12시 50분경 편안히 잠이 들었답니다.\n\n*2학기 부모상담 안내문을 보내드립니다. 상담시간표와 <우리 아이 이야기>를 작성하셔서 10/22(수)까지 회신해주시기 바랍니다.\n\n*내일은 선유도공원으로 현장학습을 갑니다. 공지사항 확인해 주시고 늦지 않게 등원할 수 있도록 해주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b0fMoY/btsRgcIjG0W/UulKSmIawAl9MeUhxKdAek/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eMAxx/btsRe6hRcOG/X81ZdFfNb3WU5Ks2SWJ6fk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/djwIcm/btsRfVfNzLc/liKCIGwsQwaTW67pKKE1Pk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xgDSP/btsRe8fDEfA/brKIYDWiUVIIjSCj5JNhx1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b0fMoY/btsRgcIjG0W/UulKSmIawAl9MeUhxKdAek/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eMAxx/btsRe6hRcOG/X81ZdFfNb3WU5Ks2SWJ6fk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/djwIcm/btsRfVfNzLc/liKCIGwsQwaTW67pKKE1Pk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xgDSP/btsRe8fDEfA/brKIYDWiUVIIjSCj5JNhx1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0273_2025-10-20_1292050111_01.jpg",
@@ -4847,17 +4847,17 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 함께 선유도 공원으로 가을 나들이를 다녀왔어요.\n버스를 가리키며 “버스”라고 비슷하게 발음하는 하준이에요. \n오전에는 기온이 조금 낮아 걱정되었지만, 공원에 도착하니 따뜻한 햇살이 우리를 반겨주었답니다.\n아이들은 낙엽 사이에 숨은 밤을 찾으며 “여기 있다!” 하고 즐겁게 외치며 바구니를 금세 채워갔어요.\n공을 던지고 차며 잔디밭을 신나게 뛰어다니는 모습에서도 가을 햇살처럼 밝은 웃음이 가득했답니다.\n활동 후에는 선생님이 준비한 사자 그림에 주운 낙엽을 붙이며 멋진 갈기를 꾸며보았어요.\n자연 속에서 마음껏 뛰놀고, 낙엽으로 예쁜 작품도 만든 즐거운 하루였답니다 \n하준이가 주운 밤을 함께 보내드립니다.\n가정에서도 아이와 함께 이야기 나누어보세요 🌰\n\n* 10월 23일(목요일) 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dHAy5/btsRicazIvr/pnGvyKbBqL5hik8LLyb9G0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b2XBL2/btsRibQhDnS/7E0QTIzokGBBHbUVMFhkdK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/66ByZ/btsRihppNFn/AW3p12jNFeSurLRhp2MZZK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cpIkxQ/btsRgHvGfok/fuiOgLMjSFSVlPQTUBBno1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cKrTNR/btsRiq0Jp6T/uz6nPQcT2oAkRUecAuHGzK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cqrZkq/btsRioV9chk/0AJtZzp8kCYh1xZpX4Ur3K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/mpZwP/btsRjzP8cIy/RrK6nAcetttW0VzdvGI301/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SQOku/btsRhUnXh4f/kkWoRuKKogkqkqpPdNlttk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/G7qX7/btsRhA4pvrB/2LFuIuguFqccnn3GQxde81/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/BCECo/btsRhcbAqoM/tJLx0XBRB9lopOp73xnP0k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b2G021/btsRjcH1Vbm/EoGjpLFYBk9H8TjrKrUod0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dHAy5/btsRicazIvr/pnGvyKbBqL5hik8LLyb9G0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b2XBL2/btsRibQhDnS/7E0QTIzokGBBHbUVMFhkdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/66ByZ/btsRihppNFn/AW3p12jNFeSurLRhp2MZZK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cpIkxQ/btsRgHvGfok/fuiOgLMjSFSVlPQTUBBno1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cKrTNR/btsRiq0Jp6T/uz6nPQcT2oAkRUecAuHGzK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cqrZkq/btsRioV9chk/0AJtZzp8kCYh1xZpX4Ur3K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mpZwP/btsRjzP8cIy/RrK6nAcetttW0VzdvGI301/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SQOku/btsRhUnXh4f/kkWoRuKKogkqkqpPdNlttk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/G7qX7/btsRhA4pvrB/2LFuIuguFqccnn3GQxde81/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/BCECo/btsRhcbAqoM/tJLx0XBRB9lopOp73xnP0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b2G021/btsRjcH1Vbm/EoGjpLFYBk9H8TjrKrUod0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0274_2025-10-21_1292801692_01.jpg",
@@ -4881,12 +4881,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 “가방 만들기” 활동을 해보았습니다.\n우레탄지 위에 하준이의 손모양을 그려보고 자신만의 ‘나무’를 표현해 보았어요. \n나무 모양이 완성된 뒤에는 여러 가지 색깔의 꽃모양 스티커로 나만의 가방 꾸미기로 이어졌어요. \n스티커를 떼어보며 소근육 연습도 해보았답니다.  완성된 가방을 바라보며 신이 난 모습입니다.\n\n실외놀이 시간에는 하준이가 만든 가방을 메고 나가 낙엽과 열매, 도토리 등 자연물을 모아보는 탐색 활동을 해보았습니다. \n하준이는 배드민턴장에서 오늘도 신나게 달리기를 해보았어요.\n바다반 친구들은 바스락거리는 낙엽 소리에 귀 기울이며 “이건 빨간색이에요!” “도토리 찾았다!” 하며 가을을 오감으로 느껴보았답니다.\n\n하준이가 오늘 오전 자유놀이 시간에 친구가 가지고 있는 기린모양 블록에 관심을 보이며 가지고 가는 모습이 있었습니다. 하준이에게 친구의 것은 그냥 가져가면 안 된다는 것을 알려주며 이야기를 나누었어요. 하준이는 “네~”라고 말하며 친구에게 기린 놀잇감을 돌려주었답니다. 가정에서도 함께 놀이 중 규칙에 대해 이야기 나누어주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/buMdXq/btsRjs5LtOQ/xojLO8kvI1M88jJDKL9bjk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/WWQvo/btsRiiQxQpk/1d5iVNILjbktC6ZkYXHPS1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b6411k/btsRhFkt2O3/QdVTkkOtlzYjjXmx6z70qK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/btz6C1/btsRkfxLvCc/k3fEgSP21vo9CK105KY5p0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cQ1RHi/btsRiKZHgdW/Uizq6KxACkvLwsrg2QfYFK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bYp3lt/btsRiovPrnA/jImGk1fkv6apoio1qZDs1k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/buMdXq/btsRjs5LtOQ/xojLO8kvI1M88jJDKL9bjk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/WWQvo/btsRiiQxQpk/1d5iVNILjbktC6ZkYXHPS1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b6411k/btsRhFkt2O3/QdVTkkOtlzYjjXmx6z70qK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btz6C1/btsRkfxLvCc/k3fEgSP21vo9CK105KY5p0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cQ1RHi/btsRiKZHgdW/Uizq6KxACkvLwsrg2QfYFK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bYp3lt/btsRiovPrnA/jImGk1fkv6apoio1qZDs1k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0275_2025-10-22_1293511312_01.jpg",
@@ -4905,8 +4905,8 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 교실에 선생님이 준비한 가을열매 피아노를 살펴보며 호기심을 보이는 바다반 친구들이었어요.\n“무화과도 있고 밤도 있네. 어디 있을까?”라는 말에 손가락으로 가리키며 웃음을 짓는 하준이의 모습이 참 사랑스러웠어요.\n이어 엉금엉금 기어가기도 하고 두 발로 밟아보기도 하며 가을 열매를 탐색하고 신체놀이를 즐기는 하준이었답니다.\n\n소방대피훈련을 마친 뒤에는 우주반 형님들과 함께 산책을 다녀왔어요.\n가을 머리띠를 쓰고 형님의 손을 꼭 잡은 채 길을 건널 때, 손을 번쩍 들어 안전하게 건너는 아이들의 모습이 무척 의젓하고 든든했답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gcfIg/btsRldAOxXq/e0tKfjcm6NsbJsm6jopYEK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/irCke/btsRj0vqUhr/QwWaTZcSpsh5xJidrkN93K/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gcfIg/btsRldAOxXq/e0tKfjcm6NsbJsm6jopYEK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/irCke/btsRj0vqUhr/QwWaTZcSpsh5xJidrkN93K/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0276_2025-10-23_1294240811_01.jpg",
@@ -4921,11 +4921,11 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 바다반 친구들과 밤을 주제로 한 탐색 놀이를 해보았어요.\n바구니에 담긴 알밤을 보며 “이게 뭐예요?” 하며 관심을 보이는 친구들이었답니다.\n하준이는 알밤을 손으로 하나씩 만져보며 작은 손으로 데굴데굴 굴려보고 자연스럽게 탐색 놀이를 이어갔어요.\n놀이 중 하준이는 소꿉놀잇감 숟가락을 발견해 알밤을 조심스레 올려 균형을 잡으며 걸어보는 등 스스로 놀이를 확장하며 즐거워했답니다.\n\n이후에는 텃밭으로 올라가 작두콩을 함께 수확하는 시간을 가졌어요.\n바다반 친구들과 길게 달린 작두콩을 조심스럽게 따보며 “커요!”라며 놀라워하는 모습도 보였고, 선생님의 도움을 받아 높은 곳의 작두콩도 따보았답니다.\n수확 후에는 가지와 나뭇잎을 모아 자연 재료 놀이로 확장하여, 작두콩 줄기를 끌며 놀이의 주제를 스스로 만들어가는 하준이의 모습이 참 인상적이었어요.\n마지막에는 비눗방울 놀이로 한 주를 즐겁게 마무리했답니다.\n\n하준이는 오후 간식을 먹은 후 대변을 보았습니다. \n하준이와 함께 즐거운 주말 보내세요.☺️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bT0oWi/btsRoYWM6Zm/EzlMSlTOtdTsHzwjIbid8k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eiDHF/btsRpbuNyuK/lGYTM2267lO3uXCP9Jx8n1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hNMv0/btsRoXjhpW6/hrMsoLiGVjC5Lyftg1y7Vk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hiRlx/btsRnu3sKJ6/iS5KGkRtc0KiFCZzpd05V1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMIqfw/btsRoGPFctc/9dI3raAqRKqVx5lF4BskK1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bT0oWi/btsRoYWM6Zm/EzlMSlTOtdTsHzwjIbid8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eiDHF/btsRpbuNyuK/lGYTM2267lO3uXCP9Jx8n1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hNMv0/btsRoXjhpW6/hrMsoLiGVjC5Lyftg1y7Vk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hiRlx/btsRnu3sKJ6/iS5KGkRtc0KiFCZzpd05V1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMIqfw/btsRoGPFctc/9dI3raAqRKqVx5lF4BskK1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0277_2025-10-24_1294948659_01.jpg",
@@ -4943,7 +4943,7 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "안전 사고가 있어 알림장 남깁니다.\n텃밭에서 비눗방울 놀이를 하던 중 하준이가 앞을 보지 못하고 달리다가 하준이 머리와 친구 볼이 부딪히는 사고가 있었습니다. 하준이는 괜찮은데 그로 인해 친구의 왼쪽 볼이 다소 부어올랐어요. 하준이에게는 놀이할 때 주변을 살피며 안전하게 활동할 수 있도록 이야기해 주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bBNcxU/btsRj7uB327/tIEnA6NjZbGxyBi6UKXNrk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bBNcxU/btsRj7uB327/tIEnA6NjZbGxyBi6UKXNrk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0278_2025-10-24_1294657155_01.jpg"
@@ -4957,10 +4957,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들과 함께 가을 썬캐쳐를 만들어보았어요.\n나뭇잎, 다람쥐, 도토리 모양의 도안을 보여주자 친구들이 “이게 뭐예요?” 하며 관심을 보이고 책상 자리에 앉았답니다.\n선생님이 다양한 색깔의 셀로판지를 붙이는 모습을 보여주니 친구들도 흥미롭게 따라 붙이며 나만의 썬캐쳐를 완성했어요.\n하준이는 셀로판지 한 장 한 장 눈에 가져다 대보며 색깔을 탐색해 보았어요. 빨간색 셀로판지를 잡고 “빨간색!”이라고 말하며 썬캐쳐에 붙여보았답니다.\n완성된 작품을 창가에 붙여주자 햇살에 비치는 색깔을 보며 좋아하는 하준이에요. \n\n날씨가 쌀쌀해져 주말을 보내고 온 아이들의 컨디션을 살피며 오늘은 실내 대체활동으로 진행하였습니다.\n지난주 즐겁게 했던 가을열매 피아노 놀이와 연계하여 오늘은 숟가락으로 알밤을 옮겨보았어요.\n선생님이 시범을 보이자 “나도 해볼래요!” 하며 집중해서 알밤을 옮기는 친구들이었답니다.\n하준이는 조심조심 알밤을 숟가락 위에 올리고 뿌듯해하며 떨어뜨리지 않으려는 모습이 무척 진지하고 귀여웠어요.\n\n하준이가 새벽에 코피가 났다고 하여 세심히 살펴보았으나, 원에서는 코를 만지거나 불편해하는 모습은 보이지 않았어요.\n오전 활동에도 즐겁게 참여했고, 점심시간에는 김치와 함께 밥을 맛있게 잘 먹었습니다.\n낮잠시간에도 평소와 같이 편안하게 잠들며 안정된 하루를 보냈습니다.\n\n* 내일 부모참여수업에 <요리활동-피자 만들기>가 진행되오니 앞치마, 머릿수건을 보내주세요.\n\n* 내일은 부모참여수업이 4시부터 원내에서 진행됩니다. 늦지 않게 도착해 주세요.\n아이들과 즐거운 추억 만드는 시간 되시길 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/wrqTd/btsRneAupzk/4YJMRycuvaX5ALK4z3piB0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bj5h5L/btsRrgXngiC/j3GpyyVJ7dkofy2cZx0GY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QNn8O/btsRnyMjOTI/cBVNYDK0DKm4jBkzYKSkbK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cms1EZ/btsRnB94YB3/Oqy27muV3jK28Qfl7XON20/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/wrqTd/btsRneAupzk/4YJMRycuvaX5ALK4z3piB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bj5h5L/btsRrgXngiC/j3GpyyVJ7dkofy2cZx0GY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QNn8O/btsRnyMjOTI/cBVNYDK0DKm4jBkzYKSkbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cms1EZ/btsRnB94YB3/Oqy27muV3jK28Qfl7XON20/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0279_2025-10-27_1295859267_01.jpg",
@@ -4977,12 +4977,12 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "오늘은 바다반 친구들과 함께 가을열매그림 위에 플레이콘을 붙여보는 활동을 해보았어요.\n가을열매 도안과 알록달록한 플레이콘을 보며 “이게 뭐예요?”, “밤이다!”, “사과예요.” 하며 관심을 보이는 친구들이었어요.\n선생님이 먼저 물에 적신 플레이콘을 그림 위에 붙이는 모습을 보여주자 친구들도 곧잘 따라 하며 집중하는 모습이었답니다.\n손끝으로 꾹꾹 눌러 붙여보며 색깔과 형태를 살펴보는 모습이 참 예뻤어요.\n\n이후에는 파라슈트 놀이를 해보았어요.\n“위로~ 아래로~” 구호에 맞춰 흔들며 낙엽 모형이 날아오르자 환하게 웃으며 신나게 움직였답니다.\n함께 움직이며 친구들과 협동하는 경험도 자연스럽게 이루어졌어요.\n\n마지막으로 텃밭에 올라가 우주반 형님들의 벼 수확 활동을 지켜보며 관심을 보이던 친구들이\n텃밭선생님의 도움을 받아 직접 탈곡을 해보는 경험을 했습니다. 신기해하는 모습에서 성취감이 느껴졌어요. \n자연 속에서 계절의 변화를 느끼며 뿌듯해하는 바다반 친구들이었답니다.🌾\n\n오늘 점심시간에 시래기밥이 제공되었어요. 하준이가 밥 속의 시래기를 손으로 골라 던지는 모습을 보여 선생님이 음식을 던지면 안 된다는 것을 이야기하고 휴지로 주워볼 수 있도록 안내하였습니다.\n하준이는 처음에 “아니야!”라고 말하며 눈을 지그시 감는 모습을 보였지만 선생님과 함께 휴지를 가지러 가서 스스로 닦아보았습니다. 이후 다시 자리에 앉아 밥을 먹으며 “더 주세요”라고 하며 두 그릇을 맛있게 잘 먹었습니다.\n가정에서도 함께 이야기 나누어주시면 좋겠습니다.\n\n하준이 가방 앞주머니에 있는 립밤은 교실에서 수시로 발라주고 있습니다. 하준이가 립밤을 발라주면 자꾸 입술을 핥는 모습이 보여 먹지 않도록 이야기해주고 있답니다 :)\n\n*어제 부모참여수업에 참여해 주셔서 감사드립니다. 참여수업사진은 앨범에 업로드해 드리도록 하겠습니다.\n\n*11월 3일(월)~11월 6일(목)까지 바다 2반 박서연 교사의 연차휴가입니다. 이 기간 동안 알림장은 전송되지 않으며 투약의뢰서만 확인 가능합니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/SmB5j/btsRsDNlHax/ahuZfn16Pi3D1xeL20eLq0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/X68BA/btsRtmj3l7J/oh1k0Kh7Li3U8CNxxU9TO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cUpYS3/btsRs7tUzra/HR4hPCAknVxC6psKa5nNV1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dUNk8O/btsRtKSorRW/tEFvpxOvGCGxDw6cxEIKq0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ckgFRV/btsRukzca9p/jhAxQ1gzcJQNCY3UoLElt0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cTuWrv/btsRvbnUDpa/CpfFsg7Xo7dkQjgtKPOaO1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/SmB5j/btsRsDNlHax/ahuZfn16Pi3D1xeL20eLq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/X68BA/btsRtmj3l7J/oh1k0Kh7Li3U8CNxxU9TO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cUpYS3/btsRs7tUzra/HR4hPCAknVxC6psKa5nNV1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dUNk8O/btsRtKSorRW/tEFvpxOvGCGxDw6cxEIKq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckgFRV/btsRukzca9p/jhAxQ1gzcJQNCY3UoLElt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cTuWrv/btsRvbnUDpa/CpfFsg7Xo7dkQjgtKPOaO1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0280_2025-10-29_1297309542_01.jpg",
@@ -5001,9 +5001,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 바다반 친구들과 스펀지솔을 이용해 가을나무를 꾸며보았어요.\n하준이는 나무 그림과 물감에 관심을 보이고 제일 먼저 스펀지솔에 빨간색을 묻혀 콕콕 찍어보았어요. 자유롭게 표현하며 재미있어하는 하준이랍니다. 빨강, 주황, 노랑, 갈색 등 다양한 색으로 알록달록 가을나무를 완성하는 모습이 참 예뻤답니다.\n\n활동을 마친 뒤에는 메낙골 근린공원으로 산책을 다녀왔어요.\n낙엽이 바스락거리는 길을 걸으며 손에 낙엽을 가득 모아 하늘로 던지며 “와~!” 하고 즐거워했답니다.\n가을의 색과 바람을 온몸으로 느끼며 행복한 시간을 보낸 바다반 친구들이었어요.\n\n하준이가 코가 막히는지 손으로 코를 비비는 모습이 관찰되었어요.\n콧물이 흐르지는 않았지만 낮잠 전에도 코가 불편한지 계속해서 코를 만지는 모습이 보였습니다.\n하준이에게 코를 세게 비비면 아플 수 있다고 알려주고 가볍게 코를 닦아준 뒤 낮잠을 잘 수 있도록 도와주었습니다.\n하준이 오전 간식으로 제공된 미숫가루를 스스로 먹다가 손수건과 옷에 흘려서 여벌 옷으로 갈아입었습니다. 여벌 옷과 교체할 수 있는 손수건도 보내주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/tiCeD/btsRugSuKmX/c2QeJIUY8UoVTlv5kXoLDK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bfmkOL/btsRteTqqBV/gNnjxlOd5GQkkBuI54lKck/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ccI30P/btsRp1nvsZu/6XBuUTDyI1aIvXxQAS9Uik/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/tiCeD/btsRugSuKmX/c2QeJIUY8UoVTlv5kXoLDK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bfmkOL/btsRteTqqBV/gNnjxlOd5GQkkBuI54lKck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ccI30P/btsRp1nvsZu/6XBuUTDyI1aIvXxQAS9Uik/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0281_2025-10-30_1298036494_01.jpg",
@@ -5019,9 +5019,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 함께 가을나무에 펠트지로 된 가을열매를 붙여보는 놀이를 해보았습니다. \n교사가 다양한 펠트 열매를 제공하자 아이들이 관심을 보이며 스스로 가을나무에 열매를 붙이며 \"이건 도토리야, 이건 솔방울이야\" 이야기를 하며 즐겁게 참여했어요.\n\n이후 바깥놀이 시간에는 교실에서의 활동을 자연 탐색으로 확장해 보았어요. \n교사가 시트지를 붙인 훌라후프를 제공하고 낙엽을 붙이는 모습을 보여주니, 아이들도 낙엽과 도토리를 주워 훌라후프에 붙이며 즐겁게 놀이를 이어갔답니다. 자연물의 색깔과 촉감을 느끼며 가을을 온몸으로 경험하는 즐거운 시간이었어요.\n\n하준이는 오늘 일과 중 콧물이 나와 손수건으로 닦아주었습니다. 사용한 손수건은 가방에 넣어놓았습니다. \n점심시간에도 밥을 먹으며 콧물이 계속 나와 손등으로 닦는 모습이었어요. 미지근한 물을 제공하여 자주 마실 수 있도록 이야기해 주었어요. \n하준이와 즐거운 주말 보내세요~\n\n* 11월 10일(월)~11월 14일(금)까지는 2학기 부모상담기간으로 사전 상담시간에 대한 수요조사를 통하여 상담일정을 조율하였습니다. \n안내해 드리는 상담 시간을 확인하시어 일정에 참고해 주시기 바랍니다. \n부득이하게 위 일정에 상담이 어려우신 경우 변경 가능하오니 키즈노트 알림장을 통하여 담임 선생님께 알려주시기 바랍니다. 감사합니다. \n   - 상담일시: 11/12(수) 오후 5:20~5:40",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dK85xq/btsRwk1vDmj/d2Eb9gOPyRdM8keWzmHW6k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMJm2S/btsRuSpiexE/5DF1PKnD8HXRkGJExjmP70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/qDyem/btsRvN84Nt6/8h5I9pLK8S6EkWI5nfl11k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dK85xq/btsRwk1vDmj/d2Eb9gOPyRdM8keWzmHW6k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMJm2S/btsRuSpiexE/5DF1PKnD8HXRkGJExjmP70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qDyem/btsRvN84Nt6/8h5I9pLK8S6EkWI5nfl11k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0282_2025-10-31_1298777211_01.jpg",
@@ -5037,7 +5037,7 @@ const reportsData =[
     "weather": "sunny",
     "content": "어머님 안녕하세요 하준이 가방에 약이 있더라고요\n투약의뢰서 부탁드립니다.\n이마에 멍이 들어있는데 확인 부탁드립니다 .",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/coj8rw/btsRCELvfFc/257spSJl5Ol2aTFgD5fdh1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/coj8rw/btsRCELvfFc/257spSJl5Ol2aTFgD5fdh1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0283_2025-11-05_1300855096_01.jpg"
@@ -5051,7 +5051,7 @@ const reportsData =[
     "weather": "partly_cloudy",
     "content": "어머님 안녕하세요 하준이 인중에 자국이 있더라고요 확인부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/B9cMp/btsRFdsuWYn/EuX1J0XHl8uQgwMqmhPvG1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/B9cMp/btsRFdsuWYn/EuX1J0XHl8uQgwMqmhPvG1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0284_2025-11-06_1301588057_01.jpg"
@@ -5065,10 +5065,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 어제 꼬꼬알 지키기 놀이가 더욱 확장되었습니다. \n꼬꼬알이 굴러 떨어질 때 달걀판을 이용해 꼬꼬알이 다른 곳으로 굴러가지 않도록 조심조심 담아보며 집중하는 모습이었답니다. \n놀이를 반복하며 손의 힘을 이용해 속도를 조절해보기도 하는 등의 모습도 볼 수 있었답니다.\n\n이후 실외 산책을 나가 바람에 흩날리는 낙엽을 주워보고, 솔방울과 나뭇가지 등 다양한 자연물을 모아 광목천 위에 꼬꼬와 동물 친구들을 꾸며보며 자연과 동물을 표현하는 즐거운 시간을 가졌답니다.\n\n하준이 점심을 먹은 후 양치할 때 윗옷이 물에 젖어 여벌  옷으로 갈아입었습니다. 여벌 옷 보내주세요.\n하준이와 즐거운 주말 보내세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/qAZzP/btsRDydo3Ex/CFdoxN3XsytBiDWkaTK8zK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ctls6H/btsRGWx1ayH/xzsZK7ZvQMhSejvX4jhRGK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/h8TsR/btsRFPzTTuF/U1FkZsgvEXV2uju3y4a4Wk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/0OvVv/btsRGPFEk8I/b9KzUNpWJNOkfXfnkf1rQ1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/qAZzP/btsRDydo3Ex/CFdoxN3XsytBiDWkaTK8zK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ctls6H/btsRGWx1ayH/xzsZK7ZvQMhSejvX4jhRGK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/h8TsR/btsRFPzTTuF/U1FkZsgvEXV2uju3y4a4Wk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0OvVv/btsRGPFEk8I/b9KzUNpWJNOkfXfnkf1rQ1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0285_2025-11-07_1302632888_01.jpg",
@@ -5085,9 +5085,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들과 함께 ‘멋쟁이 공작’ 미술활동을 진행했습니다.\n크레파스와 공작 그림을 보여주니 궁금한 듯 다가오는 모습이었어요. 자리에 앉아 선생님이 알려주는 대로 크레파스로 자유롭게 색칠하는 하준이에요. \n다음으로 다양한 색깔의 깃털을 보여주자 신기한 듯 손끝으로 만져보며 촉감을 느껴보는 모습도 보였답니다. 선생님이 그림 위에 양면테이프를 붙여주면 스스로 테이프를 떼어 보려는 시도를 하고 깃털을 붙이며 ‘멋쟁이 공작’을 완성했어요.\n오늘도 새로운 재료를 경험하며 즐겁게 표현해 본 바다반 친구들이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cxUdvV/btsRFZ9LkvG/DdWU4sEquzljSqO4jRxyU1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/q1rRH/btsRCp9urqp/PuVTJvkDSPlUpxxgbTjvnK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Gqt2h/btsRIHVBAQd/iNdwdM1xkYRKkvIJlZO8XK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cxUdvV/btsRFZ9LkvG/DdWU4sEquzljSqO4jRxyU1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/q1rRH/btsRCp9urqp/PuVTJvkDSPlUpxxgbTjvnK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Gqt2h/btsRIHVBAQd/iNdwdM1xkYRKkvIJlZO8XK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0286_2025-11-10_1303552527_01.jpg",
@@ -5103,10 +5103,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘 바다반 친구들과 달걀판을 활용해 ‘악어 만들기’를 해보았습니다. \n평소 ‘악어떼’ 노래를 즐겨 부르며 악어에 관심을 보였던 친구들이라 준비한 달걀판 악어와 초록색 물감을 보자 금세 다가와 기쁜 표정을 지었답니다. \n차례를 기다리며 붓을 이용해 색칠하는 동안 손목 힘을 조절해 칠해보려는 모습도 보였어요. 각자 개성이 담긴 초록 악어가 완성되었습니다.\n\n바깥놀이 시간에는 어린이집 주변을 산책하며 낙엽이 가득한 길을 걸어보았습니다.\n바람에 흔들려 떨어지는 낙엽을 바라보거나, 발로 밟아 ‘바스락’ 소리를 내며 즐겁게 걷는 모습이었습니다. 자연 속에서 계절의 변화를 감각적으로 경험하는 시간이 되었답니다.\n\n오전 일과중에 앞을 보지 않고 달리다 친구와 부딪히는 모습이 있어, 교실에서 뛰면 친구와 본인 모두 다칠 수 있다는 점을 하준이와 이야기 나누었습니다. \n하준이도 선생님 이야기를 들으며 잠시 멈춰주는 모습이 있었습니다.\n가정에서도 하준이와 함께 교실에서는 천천히 걷고 주변을 잘 살피는 습관에 대해 한 번 더 이야기 나누어주시면 좋겠습니다.\n\n* 11월 13일 목요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.\n\n**11/12일 수요일 오후 5시 20분 하준이의 상담일입니다. 바다반 벨을 호출해 주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/zTSiA/btsRKmcrVs2/pzZKwoulPSWwMk6vGvtKwk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/h6uZk/btsRKonQWAS/G8oPKFWpeAcrnKhuNB82m1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cZs9NJ/btsRLa3F34X/sMoO3ztOt7VGi5TfpTrnv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dqXX9O/btsRKMot2df/0I9NCKqiSJ99QpAXzADBH0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/zTSiA/btsRKmcrVs2/pzZKwoulPSWwMk6vGvtKwk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/h6uZk/btsRKonQWAS/G8oPKFWpeAcrnKhuNB82m1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cZs9NJ/btsRLa3F34X/sMoO3ztOt7VGi5TfpTrnv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dqXX9O/btsRKMot2df/0I9NCKqiSJ99QpAXzADBH0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0287_2025-11-11_1304275553_01.jpg",
@@ -5123,10 +5123,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 열린 어린이집의 날을 맞이하여 아현이 아버님과 함께 메낙골 근린공원으로 산책을 다녀왔습니다.\n공원에 도착하자 선생님이 준비한 상자집에 관심을 보 이는 바다반 친구들!\n선생님이 먼저 낙엽을 주워 상자집에 붙이는 모습을 보여주자 친구들도 낙엽을 하나씩 붙 여보기도 하고, 손 가득 낙엽을 모아 상자 안에 넣으며 즐거워하는 하준이었답니다.\n또한 우주반 형님들도 만나 함께 참여하여 서로 도와가며 알록달록 가을집을 완성했어요.\n형님들과 함께 웃고 이야기 나누며 더욱 신나는 시간을 보낸 바다반 친구들이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/hlBIo/btsRMLJhp6z/pk3KdbBt1UsFQB4RdWxV1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/byds5N/btsRLy5fWpv/umulnq43jOsKNSHLqwCMdk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bTSqM8/btsRKpO4w8u/mmdtWZUcWasYgikkOkaA10/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ckyUF4/btsRKsLMPKg/wwAbh0dM09zd5aB7CKyQu1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/hlBIo/btsRMLJhp6z/pk3KdbBt1UsFQB4RdWxV1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/byds5N/btsRLy5fWpv/umulnq43jOsKNSHLqwCMdk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bTSqM8/btsRKpO4w8u/mmdtWZUcWasYgikkOkaA10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckyUF4/btsRKsLMPKg/wwAbh0dM09zd5aB7CKyQu1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0288_2025-11-12_1304985235_01.jpg",
@@ -5143,7 +5143,7 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이 오른쪽 눈썹에 상처 확인해주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/8Y70B/btsRLS9BqTY/C3fEZ3ODuPWRxQ7RMrZvkK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/8Y70B/btsRLS9BqTY/C3fEZ3ODuPWRxQ7RMrZvkK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0289_2025-11-12_1304678932_01.jpg"
@@ -5157,9 +5157,9 @@ const reportsData =[
     "weather": "fog",
     "content": "오늘은 바다반 친구들과 선생님이 준비한 동물모양 벽돌블록을 가지고 놀이해 보았습니다.\n‘동물놀이’ 동요가 흐르자 하준이는 “이야이야오~” 하고 따라 부르며 자연스럽게 동물 흉내를 내기 시작했어요. \n바깥놀이 시간에는 나무에서 떨어지는 낙엽을 보며 가을의 변화를 자연스럽게 느껴보았습니다. \n친구들은 주운 낙엽을 동물에게 줄 먹이라며 표현해 보거나, 나뭇가지를 이용해 땅 위에 동물 모양을 그려보며 상상력을 마음껏 펼쳤답니다.\n선선한 가을바람과 함께 자연이 주는 재료들로 창의적인 놀이를 즐긴 하루였어요.\n\n하준이는 오늘 점심시간에 제공된 반찬들을 모두 잘 먹었습니다.\n하준이 왼쪽 엄지손톱이 부러져 날카롭습니다. 다듬어주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/d4vnWH/btsRNUzIpV2/UzrnX6El0JNrdOL1anb1uK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bWDoVR/btsRNo1LJzi/3oRH4tVECKCVpZPKsMm2L1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cqJ4nA/btsRIAPZiy8/e7j3wBEkPp4Sk2kT0glMq0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/d4vnWH/btsRNUzIpV2/UzrnX6El0JNrdOL1anb1uK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWDoVR/btsRNo1LJzi/3oRH4tVECKCVpZPKsMm2L1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cqJ4nA/btsRIAPZiy8/e7j3wBEkPp4Sk2kT0glMq0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0290_2025-11-13_1305703715_01.jpg",
@@ -5175,12 +5175,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "선생님과 함께 다양한 동물 그림을 그려보며 자신이 좋아하는 동물을 선택해 크레파스로 알록달록 색칠하며 즐겁게 표현해 보았습니다.\n이후에는 배드민턴장으로 이동해 넓은 공간을 신나게 달려보았어요. 뛰어가며 환하게 웃는 모습이 참 사랑스러웠답니다. \n놀이터에 도착해서는 미끄럼틀과 그네 등 다양한 놀이기구도 이용해 보며 즐거운 시간을 보냈어요.\n오늘 하루도 몸도 마음도 신나게 움직이며 밝게 지낸 바다반 친구들이었습니다.\n\n하준이는 오늘 점심시간에 제공된 멸치반찬을 밥과 함께 잘 먹었답니다.^^\n낮잠 시간에는 약 30분 정도 자고 깨서 다시 잠들지 않았습니다. \n하준이에게 다른 친구들은 아직 자고 있으니 누워서 쉴 수 있도록 이야기를 나누었어요. \n하준이와 즐거운 주말 보내세요 :)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cQvq37/btsRO4QoJZZ/9kcZizsX0NcVNXbCNGYa40/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/edbhfq/btsRPDShEhI/M7fmfOkEUxfFhlRFxbcKL1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/LXApQ/btsRNdGjXwE/tkMCU8KA3H76LLCSgnK7Ak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bFxM8b/btsRPyKcYov/IqBHopVhI2ygOro21H78k0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bvTNBR/btsROA2igHT/lo4KKXSm0l2G6gSMGcJDS1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Zoo6h/btsROZar6pH/oLtSYm5tSVBawS5BJ4opj1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cQvq37/btsRO4QoJZZ/9kcZizsX0NcVNXbCNGYa40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/edbhfq/btsRPDShEhI/M7fmfOkEUxfFhlRFxbcKL1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LXApQ/btsRNdGjXwE/tkMCU8KA3H76LLCSgnK7Ak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bFxM8b/btsRPyKcYov/IqBHopVhI2ygOro21H78k0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvTNBR/btsROA2igHT/lo4KKXSm0l2G6gSMGcJDS1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Zoo6h/btsROZar6pH/oLtSYm5tSVBawS5BJ4opj1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0291_2025-11-14_1306424624_01.jpg",
@@ -5199,10 +5199,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "하준이와 즐거운 주말 보내셨나요?\n지난주부터 이어진 동물놀이를 더욱 확장해 놀이할 수 있도록 오늘은 동물 주사위 퍼즐을 지원해 주었습니다.\n하준이는 상자퍼즐을 이리저리 돌려보며 나타나는 동물 그림을 탐색하고 높이 쌓아보는 모습이었습니다. 아직 서툴고 틀리기도 하지만 실패를 경험하며 성장하는 바다반 친구들이랍니다.\n\n바람이 많이 불어 실내 대체놀이로 파라슈트 신체놀이를 진행했습니다.\n친구들과 함께 파라슈트를 잡고 동물 동요에 맞춰 흔들어보기도 하고 크게 펼쳐보며 신나게 움직였답니다. 파라슈트 위에 동물 인형을 태워 흔들어주며 웃음이 끊이지 않는 즐거운 놀이가 이어졌답니다.\n\n오늘 바다반 친구들과 함께 계단 오르내리기 활동을 하는데 하준이가 계단에서 내려올 때 점프를 하는 모습이 있었어요. 하준이에게는 계단에서는 장난치지 않고 한 칸씩 조심히 내려와야 안전하다는 것을 알려주었고, 직접 한 발씩 내려오는 방법을 다시 한번 안내해 주었습니다. 가정에서도 같은 내용으로 한 번 더 이야기해 주시면 좋겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/chxjAe/btsRNmKxjzl/kcwrlxpjmoGgm267Abvtnk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/KXoZE/btsRQRRaGom/jE7uJPmnDG6VNAA484BLHk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/7tlqs/btsRP35VDDc/Hx7QBUkFqzlEjp6FxbNv0K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/n7yMo/btsRPYKiiPI/xqb1OitwyRZGLTjNqcvyFk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/chxjAe/btsRNmKxjzl/kcwrlxpjmoGgm267Abvtnk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/KXoZE/btsRQRRaGom/jE7uJPmnDG6VNAA484BLHk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/7tlqs/btsRP35VDDc/Hx7QBUkFqzlEjp6FxbNv0K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n7yMo/btsRPYKiiPI/xqb1OitwyRZGLTjNqcvyFk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0292_2025-11-17_1307334531_01.jpg",
@@ -5219,11 +5219,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 해늘 친구들이 함께 모여 <열려라 참깨!> 인형극을 관람하였습니다.\n “수리수리마수리~ 얍!” 마술도 보고 눈을 크게 뜨며 신기해하는 모습이었어요.\n이야기 속에서 남의 물건을 허락 없이 가져가면 안 된다는 내용을 함께 보며, 친구들과 지켜야 할 약속에 대해 자연스럽게 생각해 보는 시간이 되었답니다.\n하준이는 인형극에서 동요가 나올 때마다 박수를 치는 모습이었어요.\n패티가 등장해 동요에 맞춰 춤을 추자 하준이도 점프를 하며 즐겁게 춤을 춰 보았습니다. \n인형극에 집중하며 이야기 흐름을 따라가고, 율동에도 적극적으로 참여하는 바다반 친구들이었답니다.\n\n하준이는 오늘 평소보다 조금 늦게 잠이 들어 1시에 잠들어 2시 20분경에 일어났습니다.\n일찍 깬 후에는 주변에서 친구들이 잠자고 있어 방해가 되지 않도록 하준이에게 조용히 누워 휴식을 취할 수 있도록 안내해 주었어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/tNx1k/btsRMoa1QjE/JRQb4P04JWxAjmaYIsSm80/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YjQuK/btsRQ9ymJwv/ksJcBkujEgBPLpexMqIzGk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dvT2v2/btsRS9jmjOd/37nUGHNapRrn3NYEKqwXkK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dF0yGR/btsRSboITTW/ThBQdMPaC29Xl8AKrJLKg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/chJ5Fu/btsRSeS36X4/sD77xERakOJJSlvxw0uQP1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/tNx1k/btsRMoa1QjE/JRQb4P04JWxAjmaYIsSm80/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YjQuK/btsRQ9ymJwv/ksJcBkujEgBPLpexMqIzGk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dvT2v2/btsRS9jmjOd/37nUGHNapRrn3NYEKqwXkK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dF0yGR/btsRSboITTW/ThBQdMPaC29Xl8AKrJLKg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/chJ5Fu/btsRSeS36X4/sD77xERakOJJSlvxw0uQP1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0293_2025-11-18_1308035514_01.jpg",
@@ -5241,8 +5241,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 한 친구가 자석블록으로 만든 손전등을 보여주며 놀이가 시작되었어요.\n선생님이 이를 연계하여 휴지심에 동물 모양으로 오린 종이를 붙이고 손전등 불빛을 비춰주자, 바다반 친구들이 신기해하며 천장을 바라보았답니다.\n불빛에 비친 동물 그림을 찾으며 “돼지다!”, “여기 있다!”라고 말하며 즐겁게 참여했어요.\n이후 다른 친구가 동물 모형을 가져와 불빛에 비춰보며 자연스럽게 그림자놀이가 확장되었고, 서로 보여주며 함께 관찰하는 모습도 있었답니다.\n호기심을 가지고 탐색하며 놀이를 이어가는 모습이 참 멋졌어요!\n\n하준이는 오후 간식을 먹은 후 대변을 보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bzUjTJ/btsRUEwxl1h/ckCMAuHDypip0vj0JVvK70/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbjwlV/btsRNfyo3to/c4Ewbhoh6EkOircE2DMrH1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bzUjTJ/btsRUEwxl1h/ckCMAuHDypip0vj0JVvK70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbjwlV/btsRNfyo3to/c4Ewbhoh6EkOircE2DMrH1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0294_2025-11-19_1308744229_01.jpg",
@@ -5257,8 +5257,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "벽돌블록으로 만든 악어놀잇감과 악어모양 악기까지 바다반은 요즘 악어에 빠져있어요~\n악어떼 노래를 얼마나 열심히 부르는 바다반 친구들을 위해 계란판을 이어 붙여 만든 악어를 지원해 주었습니다^^\n아이들 몸집보다 큰 악어를 보고 좋아서 소리를 지르는 하준이이에요. 커다란 악어에 관심을 보이고 탐색하는 시간을 가졌어요.\n큰 폼폼이도 함께 제공해 주었더니 악어 등을 무지개색깔로 꾸며보기도 하고 악어가 배가 고플 것 같다며 음식모형놀잇감을 악어 입에 넣어주기도 하였답니다. \n악어 동물 하나로 다양한 놀이를 이어가는 바다반 친구들의 생각주머니가 점점 커져가는 중이랍니다.☺️",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bKdWM7/btsRVBto0X9/09TqfVE4Bs7HEkS5NLL410/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pACKk/btsRVCMCkuo/oKoUi5gj2LQVMfHwzs1pvK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bKdWM7/btsRVBto0X9/09TqfVE4Bs7HEkS5NLL410/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pACKk/btsRVCMCkuo/oKoUi5gj2LQVMfHwzs1pvK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0295_2025-11-20_1309465121_01.jpg",
@@ -5273,10 +5273,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 전지에 선생님이 커다란 기린을 그려주자 바다반 친구들이 관심을 보이며 다가왔어요. \n크레용과 스티커를 제공해 주니 각자 원하는 색으로 쓱쓱 싹싹 색칠해보기도 하고, 작은 손가락으로 스티커를 스스로 떼어 기린 몸에 붙이며 즐겁게 꾸며보았습니다. \n완성된 기린을 오려 교실에 게시해 주니 블록이나 소꿉놀이 음식모형을 가져와 기린에게 먹이를 주는 모습까지 보여 상상놀이로 자연스럽게 확장되었답니다.\n\n바깥놀이로는 따뜻한 햇살 아래 구름 한 점 없는 맑은 하늘을 바라보며 산책을 다녀왔어요. \n지나가는 멋진 오토바이도 보고 바다반 친구들이 좋아하는 마을버스가 지나가자 손을 흔들며 반가워하는 모습이었답니다. 오늘도 즐거운 하루를 보낸 바다반 친구들이에요. \n\n하준이는 오늘 오전 간식을 먹은 후 대변을 보았습니다. 하준이와 즐거운 주말 보내세요😊\n\n*11/24(월)에는 서울시 방문간호사 사업으로 눈 건강 교육이 진행됩니다.\n원활한 진행을 위해 9시까지 등원 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/djLYxb/btsRW5HBMcL/HmaYeAiy9cZkECoH5sHRY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bCvluq/btsRUNoJX8X/2busmJhCsaEskALTA6kco1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/g6y15/btsRVe7tkUN/CqvTuSnXHOmb0pgp8BYWuK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/crn8q5/btsRVGWVUIr/ygxMVLYLqcNsaIdt9agRmk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/djLYxb/btsRW5HBMcL/HmaYeAiy9cZkECoH5sHRY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bCvluq/btsRUNoJX8X/2busmJhCsaEskALTA6kco1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g6y15/btsRVe7tkUN/CqvTuSnXHOmb0pgp8BYWuK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/crn8q5/btsRVGWVUIr/ygxMVLYLqcNsaIdt9agRmk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0296_2025-11-21_1310176778_01.jpg",
@@ -5293,9 +5293,9 @@ const reportsData =[
     "weather": "fog",
     "content": "오늘은 서울시 방문 간호사 선생님과 함께 '눈 건강교육'을 들으며 눈을 건강하게 지키기 위해 해야 할 일과 하면 안 되는 행동들에 대해 알아보았습니다.\n눈에 좋은 음식도 함께 살펴보고, 다 같이 눈동자를 굴 리는 눈 운동도 해보며 즐겁게 참여했답니다.\n바다반 친구들에게는 동물모형을 제공하여 동물에게 먹이를 주는 놀이를 해보았어요.\n친구들이 각 동물에게 알맞은 먹이를 찾아주며 상상력을 발휘해 놀이가 자연스럽게 확장되었답니다.\n오늘은 초미세먼지 '나쁨' 단계로 인해 실외활동 대신 실내 대체놀이를 진행하였습니다.\n2층 유희실에서 꽃기놀이를 하며 선생님과 함께 동물 모양을 만들어보는 시간을 가졌고, 집중하며 즐겁게 놀이하는 모습이었답니다.\n\n하준이는 점심시간에 제공된 반찬들을 남기지 않고 골고루 잘 먹었습니다 :)\n오후 간식을 먹은 후 대변을 보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dVWRqn/btsRX77HMGJ/Z3jovfiNGuJQk9DaWW0fa0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cg2lH4/btsRR5ir6Xi/CaCyAcskhQMDSfgS4C7CR0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FVmkY/btsRZQp7NLW/Vy6i2UqyHUmmFdXufLWNGk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dVWRqn/btsRX77HMGJ/Z3jovfiNGuJQk9DaWW0fa0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cg2lH4/btsRR5ir6Xi/CaCyAcskhQMDSfgS4C7CR0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FVmkY/btsRZQp7NLW/Vy6i2UqyHUmmFdXufLWNGk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0297_2025-11-24_1311053259_01.jpg",
@@ -5311,8 +5311,8 @@ const reportsData =[
     "weather": "fog",
     "content": "오늘은 어제 진행했던 동물 먹이 주기 놀이를 확장해 보았어요.\n선생님이 동물그림이 있는 투명컵을 지원해 주니 바다반 친구들이 관심을 보이며 다가왔답니다.\n친구들은 블록을 가져와 동물에게 먹이를 주고, 컵에 넣었다 뺐다 해보며 즐겁게 탐색했어요.\n놀이 중 한 친구가 “동물 미끄럼틀 태우고 싶어요.”라고 말해 상자로 미끄럼틀을 만들어 제공하였더니, 동물 친구들을 한 마리씩 차례로 태우며 더욱 신나게 놀이가 확장되었답니다.\n바다반 친구들이 스스로 놀이를 이어가며 즐겁게 참여한 하루였어요.\n\n하준이는 일과 중 콧물이 흐르거나 기침을 하는 모습은 보이지 않았으나 낮잠을 자고 일어나 기침을 하였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bCsIgP/btsRZOUba2n/hh17C5dBdpbagwwMHkFTt0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/sjpsG/btsR09JTqFr/O1SlCKM2gXzPCNkjqYYZpK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bCsIgP/btsRZOUba2n/hh17C5dBdpbagwwMHkFTt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sjpsG/btsR09JTqFr/O1SlCKM2gXzPCNkjqYYZpK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0298_2025-11-25_1311754722_01.jpg",
@@ -5327,10 +5327,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린 어린이집의 날로 바다반 친구들과 함께 <기분을 말해봐> 그림책을 읽으며 다양한 감정을 알아보는 시간을 가졌습니다.\n“오늘은 우리 친구들 기분이 어때요?”라고 물어보니 손짓으로 웃는 얼굴을 가리키거나 몸을 흔들며 표현해 보는 모습도 있었어요. \n그다음 교사가 준비한 부드러운 천, 수세미, 부직포 등을 만져보며 느낌을 이야기해 보았어요.\n감정과 촉감을 자연스럽게 연결해 보는 시간이었습니다.\n에바 알머슨 그림 도안에 털실을 붙이거나 주변을 여러 촉감 재료로 꾸미며 개성 있는 작품을 완성해 보았답니다.^^\n\n하준이는 오늘 일과 중 기침을 자주하는 모습이었습니다. \n따뜻한 물을 제공하여 수시로 마실 수 있도록 안내하며 편안하게 지낼 수 있도록 도와주었어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gq7kS/btsRVZvlOIe/6fsKABNjBpjd0YPPYoH5h0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/CNeAU/btsR2gWAz4E/QgNolMa2eQ8P2LRf9Yk1M0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b2ki1O/btsR0Gvx7VA/XjxouTZPF1OUqX6HJbjiB1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9v8mt/btsRZO10px1/KGbkNHuFq35GxJ19rIv9Ok/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gq7kS/btsRVZvlOIe/6fsKABNjBpjd0YPPYoH5h0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/CNeAU/btsR2gWAz4E/QgNolMa2eQ8P2LRf9Yk1M0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b2ki1O/btsR0Gvx7VA/XjxouTZPF1OUqX6HJbjiB1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9v8mt/btsRZO10px1/KGbkNHuFq35GxJ19rIv9Ok/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0299_2025-11-26_1312462606_01.jpg",
@@ -5347,9 +5347,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 아이들의 자발적 놀이로 더욱 풍성한 하루를 보냈습니다. \n몇몇의 친구가 자석블록을 가져와 울타리를 만들고, 또 다른 친구들은 동물모형을 하나둘씩 가져오며 어느새 멋진 동물농장이 완성되었답니다. \n교사가 ‘동물농장’ 노래를 불러주자 자연스럽게 아이들도 따라서 부르며 농장 동물을 돌보는 역할놀이로 확장하는 모습이었습니다. \n친구들끼리 서로 동물들을 나누어주거나 울타리 안에서 잠도 재워주는 모습을 보여주는 등 활발한 또래 간 상호작용이 이어졌답니다.\n\n이후에는 선생님이 종이접시 코끼리 얼굴과 크레용, 스티커 등을 만들어 지원해 주었더니 각자 원하는 색깔의 종이접시 코끼리를 골라 자유롭게 색칠해 보고, 스티커를 스스로 떼어 붙이며 나만의 코끼리를 꾸며보았답니다. \n같은 재료여도 아이마다 개성이 가득한 코끼리들이 완성되어 더욱 즐거운 시간이었습니다.😊\n\n하준이가 오늘은 어제보다 기침이 훨씬 줄어든 모습이었어요. 등원시 36.6도, 낮잠 전36.4, 낮잠 후 36.8도로 다행히 열도 오르지 않았고 전반적인 컨디션도 매우 좋았습니다.  다만, 오늘 교실에서 뛰는 모습이 여러 번 보여 매트 위에서 넘어지기도 했지만 다치지는 않았습니다.😅 하준이에게 교실에서는 천천히 걸을 수 있도록 이야기 나누었으며, 가정에서도 한 번 더 이야기해 주시면 좋을 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/wLg58/btsR2WkeheK/qovlZsIC3kNAIfrjwGEyLK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ORoVM/btsR2Wq13Yb/UnoleNybRHB1k8pcHApYo1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/TQy40/btsR2iBkajd/tbfIuKKksOcF47TIYZwgxk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/wLg58/btsR2WkeheK/qovlZsIC3kNAIfrjwGEyLK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ORoVM/btsR2Wq13Yb/UnoleNybRHB1k8pcHApYo1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/TQy40/btsR2iBkajd/tbfIuKKksOcF47TIYZwgxk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0300_2025-11-27_1313169549_01.jpg",
@@ -5365,9 +5365,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘 바다반 친구들과 점토를 조물조물 만져보며 촉감을 탐색한 후, 다양한 동물을 만들어보는 시간을 가졌어요. 선생님이 먼저 만든 작품을 보여주며 “이게 뭘까요~?”라고 묻자 “돼지요!”, “토끼요!”라고 대답하며 관심을 보이는 친구들이었답니다.\n이후 아이들이 스스로 점토를 길게 늘어뜨려 “뱀이에요!”라고 표현해보기도 하고, 크게 뭉쳐 “공룡 만들래요!”라고 하며 공룡을 만들어보는 등 창의적으로 표현하며 즐겁게 활동했어요.\n\n날씨가 추워 오늘은 실내 대체놀이를 진행했습니다. 선생님이 노란 풍선을 제공해 주고 신나는 동요를 틀어주자, 풍선을 흔들고 점프를 하며 몸을 신나게 움직이는 바다반 친구들이었답니다. 다양한 동작으로 에너지를 표현하며 즐겁게 실내 신체활동을 했어요.\n하준이가 주말동안 푹 쉬고 감기가 나은 모습으로 만나길 바랍니다🥹",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cdW0qr/btsRW2sAz7X/gLF1g9naGLxd9DvzRfikHk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c7bQzA/btsR38k4nNs/LokEUrPyDZMYj9Rfgx3VE0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cIGdmE/btsRW6ohsEh/db0o4QTpCFuhKkEocMNKk0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cdW0qr/btsRW2sAz7X/gLF1g9naGLxd9DvzRfikHk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c7bQzA/btsR38k4nNs/LokEUrPyDZMYj9Rfgx3VE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cIGdmE/btsRW6ohsEh/db0o4QTpCFuhKkEocMNKk0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0301_2025-11-28_1313892175_01.jpg",
@@ -5383,9 +5383,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "지난주 동물놀이가 자연스럽게 겨울놀이로 연계되는 모습을 볼 수 있었습니다. \n한 친구가 블록 위에 동물놀잇감을 올려놓고 이리저리 움직이는 모습을 보며 다른 친구가 \"선생님 말이 지금 스케이트 타나 봐요\"라고 이야기를 하니 다른 친구들도 관심을 가지며 스케이트 놀이를 시작했어요.\n교사가 \"스케이트는 겨울에 얼음이 꽁꽁 얼면 많이 탈 수 있어\"라고 이야기해 주자 각자의 방식으로 겨울에 대해 상호작용을 시작했답니다. \n\n교실환경이 겨울로 변한 모습에 친구들이 관심을 나타내 도일리종이를 지원해 주고 아이들과 함께 겨울모빌을 만들어보기도 했어요.\n작은 관심에서 시작한 놀이가 모빌 결과물을 만들어내는 과정을 거치며 바다반 친구들은 뿌듯함과 자신감을 키울 수 있었답니다.\n\n하준이는 오늘 일과 중에는 기침을 하거나 불편해하는 모습 없이 일과에 잘 참여해 주었습니다. 오전 간식과 점심도 남김없이 잘 먹었습니다^^ 점심을 먹은 후에는 대변을 보았습니다. 낮잠 후 기침을 조금 하는 모습이 있었습니다.\n\n*겨울에도 표준보육과정 지침에 따라 실외활동이 있습니다. 아이들이 실외놀이 시 필요한 마스크, 목도리, 털모자 등 겨울용품을 보내주시면 실외놀이 시 착용하도록 하겠습니다. 모든 아이들 물품에는 이름을 써주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bwqcIO/btsR7WcEtaJ/KVMII7KWK0naGjOBdBSLg0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/63iCj/btsRYV1kdPi/344gCyrD2K4nCjE0qx9tMk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bZn07F/btsR6ZH2pHb/VMQIqDVlN8Rd3e1krTiFgK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bwqcIO/btsR7WcEtaJ/KVMII7KWK0naGjOBdBSLg0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/63iCj/btsRYV1kdPi/344gCyrD2K4nCjE0qx9tMk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZn07F/btsR6ZH2pHb/VMQIqDVlN8Rd3e1krTiFgK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0302_2025-12-01_1314812823_01.jpg",
@@ -5401,9 +5401,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "선생님이 눈모양 스펀지를 제공해 주자 바다반 친구들이 반짝이는 눈으로 다가와 관심을 보였어요. 스펀지를 톡톡 만져보며 “말랑해요~”라고 표현해보기도 하고, 하나씩 던져보거나 쌓아보며 자유롭게 탐색해 보았답니다. 김장매트 위에 누워 온몸으로 스펀지를 맞아보며 겨울 분위기를 즐기는 모습도 너무 귀여웠어요.^^\n\n오늘은 바람이 차갑고 세게 불어 실내대체놀이를 진행하였습니다.\n선생님이 끌어주는 썰매를 신나게 타며 웃음이 가득했어요.\n차례를 기다리며 즐겁게 썰매를 타보았답니다.\n\n하준이는 오늘 일과 중 콧물이나 기침하는 모습은 보이지 않았습니다. 활동에 잘 참여해 주었고, 컨디션도 좋았습니다. 오전 간식으로 제공된 파프리카 스틱도 더 달라고 하며 잘 먹는 모습이었어요. 점심밥도 남기는 반찬 없이 잘 먹었습니다.^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/mzViY/btsR5HaSfWE/XlKsO4mfY9bO5kMTZ14fXK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FAcF2/btsR8yQGYHB/CCDxkCqKWfpfZ4zGMsrOrK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kxuKR/btsR61fkkEV/sp59jKzdfFO755Q0EK02kk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/mzViY/btsR5HaSfWE/XlKsO4mfY9bO5kMTZ14fXK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FAcF2/btsR8yQGYHB/CCDxkCqKWfpfZ4zGMsrOrK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kxuKR/btsR61fkkEV/sp59jKzdfFO755Q0EK02kk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0303_2025-12-02_1315528213_01.jpg",
@@ -5419,10 +5419,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "교실 벽면에 게시해 둔 이글루 그림에 관심을 보여 얼음모양 블록을 지원해 주었더니 자연스럽게 이글루 그림을 보고 집을 지어보는 놀이로 확장되었어요. 놀이 중간 블록이 무너지기도 했지만 다시 도전하며 놀이하는 모습이 인상적이었답니다.\n\n바다반 친구들이 착용하고 온 겨울용품들 이름을 이야기하며 관심을 보여 선생님이 겨울용품 그림과 오일파스텔을 제공해 주었더니 끼적이기 후 스펀지로 자유롭게 문지르며 색의 변화를 관찰해보기도 했습니다.\n\n오늘은 날씨가 많이 추워 실내대체놀이가 진행되었습니다. 눈사람 볼링공 놀이를 하며 손과 눈의 협응력도 키우고 친구들을 응원해주기도 하면서 신나는 시간을 보냈답니다.^^\n\n*12/11(목)~16일(화)까지 바다 1반 신미영 교사의 연차휴가기간입니다. 이 기간 동안 보조선생님과 대체선생님께서 함께 보육해 주실 예정이며 알림장과 사진은 전송되지 않고 투약의뢰서만 확인가능합니다. 참고부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dxbhT/btsR84igo64/kw90exSmGMnowJ1RUHUbm1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMMOjh/btsSadrRt9N/31JMS3VwgGMvKkro0Qqyg1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hQmGS/btsR96M2KOy/WnXnNlpRrQOBQfZMdtyPl1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dXTqAO/btsR694QTD6/ftjE0OP5d8kXkci7UhmpQK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dxbhT/btsR84igo64/kw90exSmGMnowJ1RUHUbm1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMMOjh/btsSadrRt9N/31JMS3VwgGMvKkro0Qqyg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hQmGS/btsR96M2KOy/WnXnNlpRrQOBQfZMdtyPl1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dXTqAO/btsR694QTD6/ftjE0OP5d8kXkci7UhmpQK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0304_2025-12-03_1316242031_01.jpg",
@@ -5439,8 +5439,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제 이글루 놀이의 확장놀이로 아이들이 자연스럽게 블록으로 울타리를 만들어 놀이하는 모습을 볼 수 있었습니다. \n선생님이 눈송이를 추가로 지원해 주었더니 눈송이를 뿌려보기도 하고 눈밭에서 굴러보기도 하고, 눈으로 아이스커피 만들기 등 풍성한 놀이가 펼쳐졌답니다. \n‘멋진 눈사람‘ 동요를 들으며 바다반 친구들과 함께 <종이접시 눈사람> 미술놀이도 해보았습니다. \n하얀 종이접시를 두 손으로 만져보며 탐색해 보고 스스로 스티커를 떼어서 붙여보며 나만의 눈사람을 꾸며보았어요. \n곧 내릴 눈을 기대하며 눈사람을 꾸며주는 모습이 제법 진지했답니다.^^\n\n날씨가 너무 추워 실내대체놀이로  \"선생님 자동차 타고 싶어요\"라고 이야기하는 친구들이 있어서 아이들의 자동차 경주가 이어졌답니다. 스스로 놀이를 생각하고 선택하는 모습, 놀이를 즐기는 모습을 보며 조금씩 성장하고 있는 바다반 친구들을 만날 수 있었습니다.\n\n하준이가 낮잠을 자기 전에 콧물이 살짝 있었습니다. 날씨가 건조해서 그런지 피가 살짝 비치는 콧물이었어요. 가정에서도 살펴봐주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bJJj27/btsR96tUDDz/6wrk37ve0sNKQPR8leV1r0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/swZCy/btsSbn9hQIy/UhDmlrKjMjiftZmlfafJY0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bJJj27/btsR96tUDDz/6wrk37ve0sNKQPR8leV1r0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/swZCy/btsSbn9hQIy/UhDmlrKjMjiftZmlfafJY0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0305_2025-12-04_1316936523_01.jpg",
@@ -5455,9 +5455,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "이번 주 블록놀이가 자연스럽게 겨울놀이로 확장되고 있어 선생님이 파란 비닐을 바닥에 깔아 ‘낚시터 공간’을 구성해 주었어요. \n친구들은 함께 울타리를 만들며 공간을 완성해 보고, 자석 낚시 놀이를 해보며 스스로 만든 의자에 앉아 집중해서 물고기를 잡아보는 모습이었답니다.\n잡은 물고기를 서로 보여주며 “내가 더 많이 잡았어!” 하고 자랑하는 모습도 볼 수 있었답니다.\n\n또 어제 내린 눈을 경험해 보기 위해 데크에 나가 눈을 구경하고 손으로 만져보며 감각 탐색도 해보았습니다. 친구들이 함께 눈을 모아 눈오리를 만들고, 선생님이 끌어주는 썰매를 타며 까르르 웃음소리가 끊이지 않았어요.\n겨울의 자연을 직접 느끼고 움직이며 즐거움을 표현하는 바다반 친구들의 활기찬 하루였습니다. 😊\n하준이와 즐거운 주말 보내세요~\n\n* 12/22(월)에는 아이들이 손꼽아 기다리는 산타잔치가 열립니다.\n11/28일에 가정으로 보내드린 분홍색 봉투에 아이들에게 줄 크리스마스 선물을 담아 12/16일(화)까지 아이들 모르게 다시 어린이집으로 보내주시기 바랍니다. 또한 함께 보내드린 엽서는 산타할아버지가 아이들에게 읽어주실 예정이니, 부모님께서는 간단한 메시지를 작성하여 함께 보내주시면 감사하겠습니다.\n\n*하준이 칫솔이 마모되어 교체가 필요합니다. 새 칫솔 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b9s16w/btsSasj8Rzo/Lvc3vcSgfm3N6OhZ2Cfxb0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cOYcV7/btsSbFv1Fpz/FX0oIzwkt52UHkcDE3jGvk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dYjD4L/btsSb8kqmTZ/j2YSBbwDD0gUHe03lFfk3k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b9s16w/btsSasj8Rzo/Lvc3vcSgfm3N6OhZ2Cfxb0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cOYcV7/btsSbFv1Fpz/FX0oIzwkt52UHkcDE3jGvk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dYjD4L/btsSb8kqmTZ/j2YSBbwDD0gUHe03lFfk3k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0306_2025-12-05_1317689378_01.jpg",
@@ -5473,8 +5473,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이와 즐거운 주말 보내셨나요?\n지난주 바다반 친구들이 즐겁게 했던 낚시 놀이를 이어 오늘은 선생님이 준비한 빙어 그림을 활용하여 ‘빙어 낚시’를 해보았어요.\n빙어를 보자마자 관심을 보이고 손으로 만져보며 탐색하는 모습이에요. \n하준이는 비닐이 좋은지 비닐 안에서 촉감을 느끼며 놀이하는 모습이었답니다.\n\n오늘은 기온이 영상으로 올라 바다반 친구들과 함께 겨울용품을 착용하고 메낙골근린공원을 다녀왔습니다. 걷는 동안 나무를 바라보며 “잎이 없어졌어요!”라고 이야기하는 친구도 있었고, 겨울이 왔음을 몸으로 느끼며 즐겁게 산책을 다녀왔답니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/oDBPg/btsSad0VJbG/K5c1kD6j1Jr5K2MSfk0DKk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/GDDwu/btsSer428Am/AIFBdx4xevn5yKVBdDZ5uK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/oDBPg/btsSad0VJbG/K5c1kD6j1Jr5K2MSfk0DKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GDDwu/btsSer428Am/AIFBdx4xevn5yKVBdDZ5uK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0307_2025-12-08_1318569999_01.jpg",
@@ -5489,8 +5489,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "겨울 하면 떠오르는 대표 간식인 붕어빵과 군 고구마 모형을 교실에 제공해 주었어요.\n바다반 친구들이 모형을 만져보며 \"이게 뭐예요?\" 하고 관심을 보이며 즐겁게 탐색하는 모습이었답니다. 고구마와 붕어빵을 작은 바구니에 담아 친구에게 건네주고 받아보며 자연스럽게 역할놀이로 확장되었어요. \"고구마 사세요~\"라고 외치며 겨울 간식 가게 놀이가 활발하게 이루어졌답니다.\n\n이어 실제 겨울 간식을 찾아보자는 이야기를 나누고 산책을 다녀왔습니다.\n아쉽게도 오늘은 가게 문이 닫혀 있었지만, \"다음에 또 와보자~\" 하며 기대하는 모습을 보였고 주변 시장을 둘러보며 겨울 분위기를 느끼고 돌아왔어 요.\n따뜻한 겨울 간식 이야기로 즐거움이 가득했던 하루였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ceUSym/btsSdAibrt0/KUU3m2AKXx4EzXnRI3juyk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hhHS9/btsSeQdvn2v/DtjrnvI4xeAkCGMy8DRRlk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ceUSym/btsSdAibrt0/KUU3m2AKXx4EzXnRI3juyk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hhHS9/btsSeQdvn2v/DtjrnvI4xeAkCGMy8DRRlk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0308_2025-12-09_1319278046_01.jpg",
@@ -5505,10 +5505,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "어제 붕어빵 모형을 가지고 놀이한 경험을 이어 오늘은 붕어빵 봉투 만들기를 해보았습니다.\n선생님이 붕어빵 봉투 그림을 보여주자 바다반 친구들이 “이게 뭐예요?”라며 관심을 보였어요. \n크레용과 반짝이는 별·하트 스티커를 제공해 주니 자신이 좋아하는 색을 골라 열심히 색칠하고 스스로 하나씩 스티커를 붙이며 나만의 붕어빵 봉투를 꾸며보았답니다.\n선생님이 봉투를 접어 완성해 주자 완성된 봉투에 붕어빵 모형을 넣어 먹는 시늉을 하거나 친구와 선생님에게 “드세요~” 하며 나누어주는 모습을 보였어요.\n하준이는 트리모양 머리띠가 마음에 들었는지 머리에 쓰고 붕어빵을 봉투에 담아보는 모습이었답니다.\n\n오늘도 기온이 영상이라 바다반 친구들과 겨울용품을 착용하고 바깥놀이를 다녀왔습니다. \n소나무 위에 잔뜩 달린 솔방울을 보기도 하고 까치가 나뭇가지를 물고 날아가는 모습을 보며 신기해하는 모습이었답니다.\n즐거운 바깥활동으로 겨울 자연을 느껴보았습니다^^\n\n* 12월 12일 금요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gZI97/btsR9aKQzTl/6Z7KhHe7gETkax63pEn0Dk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dgShXB/btsSgJx05ja/U03yDqyqymeHbAGrx6ZDh1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dhlpcw/btsSacn2V1x/I6xOD31nHaYEaaq2jA0Hzk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ySVQc/btsSf43KPAQ/UbWnt7WyHgKDDYJEoYMHck/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gZI97/btsR9aKQzTl/6Z7KhHe7gETkax63pEn0Dk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dgShXB/btsSgJx05ja/U03yDqyqymeHbAGrx6ZDh1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dhlpcw/btsSacn2V1x/I6xOD31nHaYEaaq2jA0Hzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ySVQc/btsSf43KPAQ/UbWnt7WyHgKDDYJEoYMHck/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0309_2025-12-10_1320000450_01.jpg",
@@ -5525,9 +5525,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 겨울 간식 그림 오려보기 활동을 해보았습니다.\n겨울 간식 그림을 보며 “귤! “, “붕어빵!”, ”고구마“, “어묵!”이라고 말해보며 그림의 이름을 맞혀보기도 했어요. \n선생님이 가위를 잡는 법과 사용 방법을 천천히 알려주자 친구들이 집중해서 종이를 오려보는 모습이 정말 대견스러웠답니다. 아직은 가위질이 익숙하지 않아 어려워했지만, 작은 조각이라도 자르려고 반복해서 시도하며 끝까지 참여해 주었어요.\n가정에서도 두꺼운 종이를 활용해 어린이 가위로 짧게 연습해 보시면 도움이 됩니다 :)\n\n겨울용품을 착용하고 메낙골 근린공원으로 산책도 다녀왔습니다. 이제는 제법 마스크도 자연스럽게 착용하는 하준이에요. \n나무에 있는 빨간 열매를 새가 먹는 모습을 보며 “새가 열매 먹어요!”라고 이야기하기도 했어요. \n잎이 모두 떨어진 나무를 보며 한 친구가 “나뭇잎이 모두 떨어지면 겨울이 와요. 딸기 먹을 수 있어요!”라고 말하자 친구들이 “딸기 좋아해요!”라고 반응하며 즐겁게 대화를 나누었답니다.\n자연을 바라보며 계절의 변화를 온몸으로 느끼고 이야기 나누는 행복한 산책 시간이었어요.\n\n* 12/24 수요일에는 요리활동이 예정되어 있습니다. 앞치마와 머릿수건을 12/23(화)까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/QvSTE/btsShdmrx5o/2gNmF3SnKukcFX8qBd0XAk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/chqAMg/btsShEqfCrW/nAbQcCZyWjixGtG0U8fdlk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/UEWiu/btsShWEcFCS/8v34jqmkcdy7A0PLeOwEq1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/QvSTE/btsShdmrx5o/2gNmF3SnKukcFX8qBd0XAk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/chqAMg/btsShEqfCrW/nAbQcCZyWjixGtG0U8fdlk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/UEWiu/btsShWEcFCS/8v34jqmkcdy7A0PLeOwEq1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0310_2025-12-11_1320691210_01.jpg",
@@ -5543,11 +5543,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 선생님이 준비한 붕어빵 그림 상자와 지난번 바다반 친구들이 산책하며 주운 도토리, 해늘 텃밭에서 수확한 땅콩을 활용해 붕어빵 마라카스를 만들어 보았어요. 집게손가락으로 하나씩 집어 상자에 넣어보며 소근육을 사용해보고, 선생님이 테이프로 마무리해 주자 흔들어 소리를 들어보는 바다반 친구들이에요. 겨울 동요를 틀어주니 리듬에 맞춰 신나게 흔들며 놀이를 이어갔답니다.\n\n오늘은 기온이 영하로 떨어져 실내대체놀이를 진행했습니다. 커다랗고 하얀 솜공을 보여주자 호기심을 보이는 바다반 친구들이에요. \n하나씩 건네주어 탐색해 보니 조물조물 만져보며 촉감을 느끼고, 귀에 가져다 대어 소리를 들어보기도 했답니다.  손과 발에 문질러 보며 “간지러워요~”라고 표현하기도 하고, 겨울 동요에 맞춰 바구니에 던져 넣거나 이글루 그림에 맞혀보며 즐겁게 놀이했어요.\n\n오늘 일과 중 기침을 하는 모습이 있어 따뜻한 물을 제공해주고 수시로 마실 수 있도록 안내하였습니다. 오전 간식과 점심식사는 남김없이 잘 먹는 모습이었습니다. 점심을 먹은 후에는 대변을 보았어요. 하준이와 즐거운 주말 보내세요.☺️\n\n * 12/16(화)까지 보내드린 분홍색 봉투에 카드와 크리스마스 선물을 함께 넣어 보내주세요.\n\n* 12/17(수) 열린어린이집으로 요리활동이 예정되어 있습니다. 앞치마와 머릿수건을 12/16(화)까지 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ddsE8r/btsSi94OIUz/mN6lDFYFWd0ru0OnnXBvX1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cgyBjv/btsSj6zy6tc/wuIvtuLPIcRwkYIaOEpK2K/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bkRRu5/btsSi2ZbZmb/orsY9RE1wK9Yp4G61OkBo1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/rZGcL/btsShGpmpwT/C4K9SaV70ksG4K02GzNVlK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bR0KMX/btsShBVRv4l/hVhjQWnHQtxV2zoWXhCt9k/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ddsE8r/btsSi94OIUz/mN6lDFYFWd0ru0OnnXBvX1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgyBjv/btsSj6zy6tc/wuIvtuLPIcRwkYIaOEpK2K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkRRu5/btsSi2ZbZmb/orsY9RE1wK9Yp4G61OkBo1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rZGcL/btsShGpmpwT/C4K9SaV70ksG4K02GzNVlK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bR0KMX/btsShBVRv4l/hVhjQWnHQtxV2zoWXhCt9k/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0311_2025-12-12_1321412140_01.jpg",
@@ -5565,9 +5565,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들이 기다리고 기다리던 산타할아버지를 만나는 날이었어요.🎅\n아침부터 “산타 할아버지 언제 와요?” 하며 잔뜩 기대를 안고 하루를 시작한 바다반 친구들이에요.\n산타할아버지를 만나 한 명씩 씩씩하게 앞으로 나와 선물을 받아보며, 설렘과 기쁨이 가득한 시간을 보냈답니다.\n하준이가 처음에는 조금 긴장한 모습도 있었지만,  씩씩하게 참여하는 모습이 정말 대견했어요.\n이후 교실로 돌아와서는 크리스마스 동요를 들으며 신나게 춤을 추고 몸을 움직이며 즐거운 분위기를 이어갔답니다.\n오늘 가정에서도 하준이와 함께 산타 이야기를 나누며 즐거운 저녁 시간 보내시길 바랍니다.\n\n하준이가 오랜만에 등원해 컨디션을 세심히 살펴보았는데요. 오전에 기침을 많이 하며 가래가 많이 나오는 모습이 있어 일과 중 에는 따뜻한 물을 제공하여 자주 마실 수 있도록 하였고, 점심시간과 낮잠 시간에는 기침하는 모습 없이 잘 지냈습니다.\n\n* 지난 주 열린어린이집때 바다반 친구들과 함께 만든 사과동치미 가정으로 보내드립니다. 하준이와 맛있게 드세요~\n\n* 내일은 <우리들의 행복한 크리스마스 파티>가 예정되어 있습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/chlgfz/btsSua29Z8J/tVlMobScJzNikesUk08S1k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/N9Ym0/btsStoni2NA/1kWuvJaRDlvv2ksJKsT6x1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/HxHEL/btsSt0eRLhE/Zpl83Xjuu6KLEZCas00hSK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/chlgfz/btsSua29Z8J/tVlMobScJzNikesUk08S1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/N9Ym0/btsStoni2NA/1kWuvJaRDlvv2ksJKsT6x1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HxHEL/btsSt0eRLhE/Zpl83Xjuu6KLEZCas00hSK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0312_2025-12-22_1326131234_01.jpg",
@@ -5583,15 +5583,15 @@ const reportsData =[
     "weather": "rain",
     "content": "오늘은 〈우리들의 행복한 크리스마스 파티〉를 진행하였습니다. 각 반별로 다양한 크리스마스 놀이를 경험하며 즐거운 시간을 보냈어요.\n하늘반에서는 트리 모양과 루돌프 모양 상자에 볼풀공을 던져보며 신체를 움직이는 놀이와 볼링놀이를 해보았습니다. 목표를 향해 공을 던지며 즐겁게 참여하는 모습이었답니다.\n우주반에서는 반짝이는 크리스마스 터널을 통과하며 야광봉을 흔들어 보았습니다. 빛과 공간을 느끼며 신나게 움직이는 아이들의 웃음소리가 가득한 시간이었어요.\n바다반에서는 종이접시로 눈사람 만들기를 해보았습니다. 셀로판지를 집중해서 붙여보고, 목도리와 모자를 씌워 각자의 개성이 담긴 눈사람을 완성해 보았답니다.\n\n하준이가 오늘 신고 온 양말에 미끄럼방지가 되어 있지 않아 등원할 때 교실로 들어오는 과정에서 미끄러지는 모습이 있었습니다.\n안전을 위해 미끄럼방지가 있는 양말을 착용해 주시면 감사하겠습니다.\n\n* 내일은 ZOOM 라이브 인형극 「호두까기 인형」 관람과 고구마 요리 활동이 예정되어 있습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/YYz1X/btsSvTmHyLW/Zc7CyhR2zXSGKUe5EVYqok/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/lSDSt/btsSu9cBtKv/RotpRmt61S3KpQZdEva7SK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/tdBDg/btsSuhCiZCa/iYG9QoZ5gOnYkKjfBkuzI1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/SKlKg/btsSu6704Y5/Tu5CAwPTZiwZtzGN5AOerK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/iX9DP/btsStgDQmSh/JoWs5kVJwRUMDIkkeU0ac1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bxLZ05/btsSqVTjScA/kKLKnhkuDYPYgzFa05XhF1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hbQxS/btsSufj5WAo/YV6qdpKHCObisalW5z6OE1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jXUz9/btsSn9rcos3/1XNj0mLiBIuhbC6SLzBXu0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/r7uw3/btsSvnWnox1/ks6rnHlVNhnpCv0floiuT0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/YYz1X/btsSvTmHyLW/Zc7CyhR2zXSGKUe5EVYqok/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lSDSt/btsSu9cBtKv/RotpRmt61S3KpQZdEva7SK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tdBDg/btsSuhCiZCa/iYG9QoZ5gOnYkKjfBkuzI1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SKlKg/btsSu6704Y5/Tu5CAwPTZiwZtzGN5AOerK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iX9DP/btsStgDQmSh/JoWs5kVJwRUMDIkkeU0ac1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bxLZ05/btsSqVTjScA/kKLKnhkuDYPYgzFa05XhF1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hbQxS/btsSufj5WAo/YV6qdpKHCObisalW5z6OE1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jXUz9/btsSn9rcos3/1XNj0mLiBIuhbC6SLzBXu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/r7uw3/btsSvnWnox1/ks6rnHlVNhnpCv0floiuT0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0313_2025-12-23_1326892802_01.jpg",
@@ -5613,10 +5613,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 〈호두까기 인형〉 크리스마스 공연을 관람하였습니다.\n성악가분들의 노래와 익숙한 크리스마스 음악에 맞춰 손뼉을 치거나 몸을 흔들며 공연을 즐기는 모습을 보였고, 마임 공연에서는 산타 할아버지의 동작을 따라 해 보며 웃음 가득한 시간이 이어졌답니다.\n뮤지컬 발레 〈호두까기 인형〉을 관람하며 발레리나와 발레리노의 춤을 감상해 보는 특별한 경험도 해보았어요.\n\n공연 관람 후에는 햇살반 동생들과 함께 〈고구마 경단 만들기〉 활동을 진행하였습니다.\n고구마를 지퍼백에 담아 조물조물 만져보며 촉감을 느껴보고, 선생님과 함께 동그랗게 빚어 카스텔라 가루를 묻혀 고구마 경단을 완성해 보았답니다.\n아이들이 정성껏 만든 크리스마스 카드와 쿠키, 경단을 가정으로 보내드립니다.\n가정에서도 오늘 함께 감상한 인형극 이야기와 요리활동의 즐거운 경험을 나누어 보시기 바랍니다.\n\n하준이가 공연을 관람하며 신나게 점프하는 과정에서 기침을 하는 모습이 있어, 따뜻한 물을 자주 마실 수 있도록 제공해 주었습니다. 하준이 물통의 빨대가 찢어져 있어 사용 시 안전이 우려되니, 교체해 주시면 감사하겠습니다.\n하준이 오후 간식을 먹은 후 대변을 보았습니다.\n하준이와 즐겁고 행복한 크리스마스 보내세요~🥰🎄",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cq2cQJ/btsSvniBXF3/2fvlxUyWnrXgmNbfOZ2B91/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/EuOwD/btsSxvsQJlW/AXoxaPr6KEYeRcnU1FTpa1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Pno16/btsSwX4cjJi/kgmoaVXqmYavi2POHhC7j0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbtzkr/btsSwkZ1lpE/ER3Vdf0bpoAxwqtEKDOA90/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cq2cQJ/btsSvniBXF3/2fvlxUyWnrXgmNbfOZ2B91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/EuOwD/btsSxvsQJlW/AXoxaPr6KEYeRcnU1FTpa1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Pno16/btsSwX4cjJi/kgmoaVXqmYavi2POHhC7j0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbtzkr/btsSwkZ1lpE/ER3Vdf0bpoAxwqtEKDOA90/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0314_2025-12-24_1327640601_01.jpg",
@@ -5633,7 +5633,7 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이가 등원 시 울음을 보여 걱정이 되실까 하여 키즈노트 남깁니다. 하준이는 금방 울음을 그치고 친구들 이름을 이야기하며 지금은 스스로 귤을 까보고 멋있게 먹고 있습니다^^ \n오늘 하루도 하준이와 즐거운 하루 보내겠습니다 :)",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cQvh3Q/btsSx1dBhtQ/LCkUEhfxK18nnDUEaCXh70/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cQvh3Q/btsSx1dBhtQ/LCkUEhfxK18nnDUEaCXh70/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0315_2025-12-24_1327313704_01.jpg"
@@ -5647,8 +5647,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들과 다양한 모양의 펠트지로 놀이해 보았습니다.\n별 모양, 동그라미, 세모 모양 등 여러 가지 펠트지를 제공하자 호기심을 보이며 하나씩 만져보고 살펴보는 친구들이었어요.\n교실 벽면에 자유롭게 붙일 수 있도록 게시해 주니, 펠트지를 붙였다 떼었다 하며 모양을 탐색하고 스스로 놀이를 이어가는 모습이 보였습니다. 친구들과 함께 모양을 이어 붙여보기도 하고, 펠트 모양을 바라보며 “코끼리 같아요!”라고 이야기하며 새로운 형태를 상상해 만들어보는 모습도 있었답니다. \n바다반 친구들은 개별적인 배움의 속도에 맞춰 성장하고 있습니다. 여러 가지 모양의 이름을 알고 적극적으로 탐색하는 친구들도 있고 아직은 모양의 이름보다 내 손으로 직접 만져보고 눈으로 확인하고 배워가는 과정 중심의 탐색을 하는 아이들도 있습니다. 자유로운 탐색과 표현 속에서 각자의 속도록 즐겁게 놀이한 하루였습니다.\n\n하준이가 오랜만에 등원하여 컨디션을 세심히 살펴보았어요. 노란 콧물이 보였고 코가 막혀 불편한지 손으로 코를 계속 비비는 모습이 있었습니다.\n점심시간에는 밥을 거의 다 먹어 갈 때쯤 손으로 국물을 만지며 먹지 않으려는 모습이 있어 바르게 앉아 식기도구를 사용하여 먹을 수 있도록 이야기를 하며 도와주었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/o1dWC/btsSDYoJaim/QaiwbaRUIqrqWLloqMG3o0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dqekDo/btsSFcs0Va4/6gkCLxmeibvcPWn6vuvwz0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/o1dWC/btsSDYoJaim/QaiwbaRUIqrqWLloqMG3o0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dqekDo/btsSFcs0Va4/6gkCLxmeibvcPWn6vuvwz0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0316_2026-01-05_1330248237_01.jpg",
@@ -5663,7 +5663,7 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이가 오랜만에 등원해서 울음을 보였어요. 교실로 들어와 금방 진정하고 오전 간식을 먹고 있답니다^^  걱정이 되실 듯하여 알림장 남깁니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bzKhIk/btsSFdyr0ZS/bP42K8pd1xsHZ30QW1OlCk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bzKhIk/btsSFdyr0ZS/bP42K8pd1xsHZ30QW1OlCk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0317_2026-01-05_1329959336_01.jpg"
@@ -5677,8 +5677,8 @@ const reportsData =[
     "weather": "overcast",
     "content": "어제 모형 놀이에 이어 오늘은 돋보기를 제공해 주자, 호기심 가득한 눈으로 돋보기를 들여다보는 바다반 친구들이에요.\n선생님이 먼저 돋보기로 모양을 찾아보는 모습을 보여주자, 친구들도 따라 하며 \"동그라미!\" \"세모!\" \"하트!\" \"별!\" 하고 익숙한 모양을 찾아 말해보았답니다.\n돋보기를 통해 교실에 있는 놀잇감과 물건들을 하나하나 살펴보며, 평소 보던 것들도 새롭게 관찰해 보는 모습이었어요.\n관찰과 탐색이 자연스럽게 이어지며 놀이가 확장되는 즐거운 시간이었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/eh9nM/btsSFSaik92/UKaDP00aJVniIYtobc1Yk1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cbsQUE/btsSEpG0HFc/48Ruq4659NA3J3LsdxmcXk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/eh9nM/btsSFSaik92/UKaDP00aJVniIYtobc1Yk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cbsQUE/btsSEpG0HFc/48Ruq4659NA3J3LsdxmcXk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0318_2026-01-06_1330854220_01.jpg",
@@ -5693,10 +5693,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 모양놀이를 지속하며 전지와 모양 스티커를 활용한 놀이를 해보았습니다.\n전지와 스티커를 제공하자 관심을 보이며 다가와 “스티커 붙일래요”라고 이야기하는 바다반 친구들이에요.\n선생님이 전지에 스티커 모양대로 그림을 그려주자, 친구들은 스스로 스티커를 떼어 그림과 같은 모양을 찾아 붙여보며 놀이를 해보았습니다.\n모양을 비교하며 집중해 붙여보는 모습에서 놀이에 대한 몰입을 느낄 수 있었어요.\n하준이는 선생님을 따라 크레파스로 전지에 그림을 그리는 것을 즐겼답니다^^\n\n미세먼지가 보통 수준으로 좋아져 오랜만에 바깥놀이도 다녀왔습니다.\n산책을 하며 주변에서 동그라미, 세모 등 익숙한 모양을 찾아보며 교실에서의 놀이가 자연스럽게 확장되는 경험을 해보았답니다.\n\n하준이는 오늘 점심시간에 제공된 김과 함께 새우살간장덮밥을 남김없이 스스로 잘 먹었습니다^^\n\n\n*1/8(목) 내일은 ‘신난 Day-찜질방놀이’를 진행합니다. 원활한 반별 놀이 진행을 위해 오전 9시 30분까지 등원 부탁드립니다.\n\n*1/12(월) 바다 1반 신미영 교사의 연차휴가기간입니다. 이 기간 동안 보조선생님과 대체선생님께서 함께 보육해 주실 예정이며 알림장과 사진은 전송되지 않고 투약의뢰서만 확인가능합니다.  참고부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b0uQgL/btsSFOfg7qN/HgGyD7XrdP8akg4IeKs9kK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cwOYuz/btsSExkZRAz/H8RFeaISkhFzikzonxOHIk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cnOwPR/btsSGfwUc92/n6pN6T3SAITYy2KrFdn0w1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/s6NIu/btsSGhuIbJU/WpaVQKAO2HOXkg3JMsYVOK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b0uQgL/btsSFOfg7qN/HgGyD7XrdP8akg4IeKs9kK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cwOYuz/btsSExkZRAz/H8RFeaISkhFzikzonxOHIk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cnOwPR/btsSGfwUc92/n6pN6T3SAITYy2KrFdn0w1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/s6NIu/btsSGhuIbJU/WpaVQKAO2HOXkg3JMsYVOK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0319_2026-01-07_1331447788_01.jpg",
@@ -5713,12 +5713,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 “신난DAY”로 바다반 친구들과 〈찜질방 놀이〉를 했습니다. \n진짜 찜질방에 온 것처럼 찜질방 옷을 입고 수건으로 양머리를 만들어보며 놀이를 시작했어요. \n다양한 목욕용품을 보며 호기심을 보이는 친구들이었고, 목욕 의자에 앉아 때밀이로 몸을 문질러 보거나 불가마에 들어가 친구들과 함께 찜질을 하며 즐거운 시간을 보냈답니다.\n놀이 후에는 매점으로 이동해 팝콘과 요구르트를 먹으며 휴식도 가져보았어요. 팝콘이 튀겨지는 모습을 보며 “와~” 하고 신기해하는 모습이 무척 사랑스러웠답니다.^^ 찜질방 옷을 입고 양머리를 한 바다반 친구들의 귀여운 모습에 웃음이 가득한 하루였습니다.😊\n\n*내일 1/9(금)은 소방대피훈련이 있습니다. 여벌양말을 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/qftw4/btsSGJ6b0w4/HJNvNQopPQeJXK3tEAG3TK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/b4D5cN/btsSGxLIDQx/kpIwlQqUzYp4tELK4wkVoK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ddDbgf/btsSIrQNdmv/7rQ1HktmJqMJBwHO7U9gtk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/3PPGA/btsSFUAGOE0/K5RFb9bLuSea8Ir9YpI5S0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bZb8bF/btsSHzBPI7F/RTb8n7IUJSZAgExLJiBMv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/nhBJe/btsSHYuySmC/IG3j5yx8y0NniwhdXBRyjk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/qftw4/btsSGJ6b0w4/HJNvNQopPQeJXK3tEAG3TK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b4D5cN/btsSGxLIDQx/kpIwlQqUzYp4tELK4wkVoK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ddDbgf/btsSIrQNdmv/7rQ1HktmJqMJBwHO7U9gtk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/3PPGA/btsSFUAGOE0/K5RFb9bLuSea8Ir9YpI5S0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZb8bF/btsSHzBPI7F/RTb8n7IUJSZAgExLJiBMv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nhBJe/btsSHYuySmC/IG3j5yx8y0NniwhdXBRyjk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0320_2026-01-08_1332085199_01.jpg",
@@ -5737,9 +5737,9 @@ const reportsData =[
     "weather": "snow",
     "content": "하준이와 주말 잘 보내셨나요?\n지난주에 이어 오늘도 바다반 친구들은 다양한 블록에 관심을 보이며 상상한 모양을 만들어 선생님에게 보여주었습니다.\n하준이는 빅블록이 계단모양처럼 생겼는지 키위모형을 들고 “키위 계단 내려와”라고 말하며 놀이하는 모습이었답니다.\n\n놀이 중 한 친구가 “가위질하고 싶어요.”라고 이야기하여 안전가위와 잡지를 제공하고, 옆에서 안전하게 가위질을 할 수 있도록 도와주었습니다.\n이를 본 다른 친구들도 흥미를 보이며 다가와 다양한 색깔의 잡지를 살펴보고 가위질 놀이에 함께 참여하였습니다.\n아이들이 스스로 놀이를 선택하고 또래와 함께 놀이를 확장해 나가며 소근육 사용과 집중력이 자연스럽게 발달하는 시간이었답니다.😊\n\n하준이는 점심시간에 손으로 국물을 만지거나 친구의 식판에 숟가락을 담그는 등 장난을 치는 모습을 보였습니다. 하준이와 식사 예절에 대해 이야기를 나누며 차분히 식사할 수 있도록 도와주었으나, \"밥 안 먹어\"라고 말하며 식사에 다소 어려움을 보였습니다. 대부분의 식사는 마무리하였고, 세 숟가락 정도 남기고 식사를 마쳤습니다.\n\n*하준이 기저귀에서 소변이 새서 실내복과 윗옷을 갈아입혔습니다. 여벌옷 보내주세요. \n\n* 내일은 수료&졸업 사진 촬영이 있는 날입니다. \n사진작가님께서 방문하셔서 우리 친구들의 사진을 찍어주시니 일정에 차질이 없도록 청바지&흰 티(또는 티셔츠)를 입혀 9시까지 등원해 주세요.\n\n*1/22(목)은 윤가람(남아) 친구의 생일파티가 있습니다. 3천 원 미만의 생일선물을 준비하셔서 1월 20일 화요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/ezSoV/btsSLHlzrOL/yTuP9KK0W1T9DjICsFAOx1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ZkNvi/btsSKdsj0HI/APotmakZmMhpSeKNrRI6g1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ca8I11/btsSJu9eM9L/FdUwMk8hJKDeLju5WmwDiK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/ezSoV/btsSLHlzrOL/yTuP9KK0W1T9DjICsFAOx1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZkNvi/btsSKdsj0HI/APotmakZmMhpSeKNrRI6g1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ca8I11/btsSJu9eM9L/FdUwMk8hJKDeLju5WmwDiK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0321_2026-01-12_1333566397_01.jpg",
@@ -5755,8 +5755,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "선생님이 테트리스 모양의 상자를 제공해 주자 바다반 친구들이 호기심을 보이며 다가왔어요. 하나하나 모양을 손으로 만져보며 탐색하고, 자유롭게 연결해 보며 자신만의 모양을 만들어보았답니다.\n선생님이 로봇을 만들어 보여주자 아이들은 막대 모양을 길게 이어 기차를 만들어보기도 하고, 여러 가지 모양을 합쳐 자동차를 표현하며 놀이를 더욱 확장했어요. 다양한 모양을 조합하며 상상력을 마음껏 펼치는 즐거운 시간이었습니다.\n\n오늘은 우리 아이들의 1년을 마무리하는 수료 사진 촬영이 있었습니다. 처음에는 조금 긴장한 듯한 모습도 보였지만, “엄마!”, “브이!” 소리에 맞춰 환하게 웃으며 촬영에 참여해 주어 현장 분위기가 한층 더 밝아졌어요. 작가님 앞에서도 부끄러워하지 않고 자연스럽게 포즈를 취하는 모습이 참 사랑스러웠답니다.\n오늘 촬영한 사진은 소중한 추억으로 담아, 추후 수료 앨범을 통해 전해드릴 예정이니 기대해 주세요. 😊\n\n오늘은 하준이가 점심시간에 제공된 돈육장조림이 맛있었는지 스스로 숟가락을 사용하며 남김없이 다 먹었습니다^^",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/c5sK45/btsSMzgYi9I/fIkBpmtOtb7XJP9B62pimk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/MFcme/btsSKPZGt7g/ztrk3VfpwgZ4lqKtHjByq0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/c5sK45/btsSMzgYi9I/fIkBpmtOtb7XJP9B62pimk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/MFcme/btsSKPZGt7g/ztrk3VfpwgZ4lqKtHjByq0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0322_2026-01-13_1334265654_01.jpg",
@@ -5771,11 +5771,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 열린 어린이집의 날로 바다반 친구들과 함께 〈빙어축제〉 놀이를 해보았습니다.\n지난달 즐겁게 경험했던 빙어낚시 놀이를 떠올리며, 이번에는 낚시터를 구성하고 빙어요리 놀이까지 확장해 보았답니다.^^\n\n낚시 도구를 보자 “빙어예요?”라고 묻으며 이전 놀이를 기억하는 모습을 보였고, 낚싯대를 사용해 빙어를 잡아보며 즐겁게 참여하였습니다. \n잡은 빙어를 석쇠 위에 올려 빙어구이를 만들어 보는 과정에서는 역할놀이로 자연스럽게 이어지며 몰입하는 모습이었습니다.\n\n낚시터 안으로 들어가고 싶어 하는 친구들은 교사의 도움 아래 맨손으로 빙어를 잡아보기도 하고, 뜰채로 얼음을 퍼 올리며 다양한 감각 놀이를 경험하였습니다.\n친구들과 함께 놀이하며 추운 겨울 축제의 즐거움을 느껴보는 시간이었습니다. ❄️🐟\n\n하준이는 오늘 일과 중 콧물이 살짝 보여 손수건으로 닦아주었습니다. 코가 막혀 다소 불편한 듯 코를 비비는 모습이 있었어요. 점심 식사는 오늘도 남김없이 잘 먹었습니다^^\n낮잠 후 재채기를 하며 노란 콧물이 보였습니다. 가정에서도 살펴봐주세요~\n\n*1/22(목)~1/23(금) 바다 2반 박서연 교사의 연차휴가기간입니다. 이 기간 동안 보조선생님과 대체선생님께서 함께 보육해 주실 예정이며 알림장과 사진은 전송되지 않고 투약의뢰서만 확인가능합니다.  참고부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/gkChe/btsSM1kSZeu/GKYfEuNY392VKEZH8VOHzk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/5HYbZ/btsSMYPelVk/FV9CCr7k8xRXA9GXUF2jbk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/kWKvs/btsSMXiumBE/w8cVVybcol9zhSkgQhbk9k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/EM8vM/btsSLqTCedW/jEyZwfsupuc1fHKuovA7I0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/oPxsD/btsSMgizM0C/3gjYMosKlGvby4f2B2x8f0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/gkChe/btsSM1kSZeu/GKYfEuNY392VKEZH8VOHzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5HYbZ/btsSMYPelVk/FV9CCr7k8xRXA9GXUF2jbk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kWKvs/btsSMXiumBE/w8cVVybcol9zhSkgQhbk9k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/EM8vM/btsSLqTCedW/jEyZwfsupuc1fHKuovA7I0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oPxsD/btsSMgizM0C/3gjYMosKlGvby4f2B2x8f0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0323_2026-01-14_1334953602_01.jpg",
@@ -5793,9 +5793,9 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 기온이 영상으로 오르고 미세먼지도 나쁘지 않아 오랜만에 바깥놀이를 다녀왔습니다.\n바다반 친구들은 우주반 형님들의 손을 잡고 산책을 하며 길에서 보이는 다양한 모양들을 발견하고, 주변 환경을 살펴보며 관찰하는 경험을 해보았어요.\n\n놀이터에 도착해서는 미끄럼틀, 시소, 그네, 흔들리는 놀이기구 등을 스스로 선택해 타며 몸을 움직였습니다. 놀이기구를 오르내리고 균형을 잡아보는 과정 속에서 대근육을 사용하고 신체를 조절하는 경험을 충분히 할 수 있었답니다.\n\n형님들과 함께 놀이하며 차례를 기다리고, 함께 움직이는 과정에서 또래 및 다른 연령과의 긍정적인 상호작용도 자연스럽게 이루어졌습니다.\n놀이 속에서 배우고, 경험 속에서 자라난 하루를 보낸 바다반 친구들이에요.😊\n\n하준이는 오늘 점심시간에 식사를 하며 눈을 감고 장난을 치는 모습이 보였습니다. 식사 후에는 교실 안을 뛰어다니며 이동하다가 넘어지는 상황도 있었으나, 다행히 매트 위로 앉으며 넘어져 다치지는 않았습니다. 화장실로 이동할 때에도 뛰어가는 모습이 보여 안전하게 이동할 수 있도록 그때그때 이야기를 해주었습니다.\n낮잠 시간에는 잠이 오지 않는지 잠들지 못하고 자리에서 일어나 놀잇감을 만지거나 소리를 내는 행동이 반복적으로 나타났습니다. 하준이는 한쪽에서 그림을 그리며 있을 수 있도록 제공해 주었습니다.\n또한 입에 손을 넣는 모습이 자주 보여 위생과 관련된 이야기를 반복해서 해주고 있으며, 손을 자주 닦아주고 있습니다.\n\n가정에서도 하준이가 천천히 이동하기, 기다리기, 입에 손 넣지 않기와 같은 생활습관을 함께 이야기하며 지도해 주시면 원과 연계하여 하준이의 생활 안정에 도움이 될 것 같습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bKJeYH/btsSO5NylZQ/MPFEPMKkWkfmblT6wv1Bik/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/u2Auv/btsSO7q4DJN/bjOgk1rHrqiSZovydVSaqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bOBsRI/btsSKBfYhL2/jOH3aU6AVwiWi8VGaTaObk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bKJeYH/btsSO5NylZQ/MPFEPMKkWkfmblT6wv1Bik/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/u2Auv/btsSO7q4DJN/bjOgk1rHrqiSZovydVSaqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bOBsRI/btsSKBfYhL2/jOH3aU6AVwiWi8VGaTaObk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0324_2026-01-15_1335663656_01.jpg",
@@ -5811,11 +5811,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 바다반 친구들과 도화지에 물감으로 모양 찍기 놀이를 해보았습니다.\n하얀 도화지와 알록달록한 물감을 보며 호기심 가득한 눈으로 바라보는 아이들이에요. 도트 물감을 도화지에 찍어보며 교사가 “무슨 모양이에요?”라고 묻자 “동그라미!” 하고 자신 있게 이야기하는 모습도 보였답니다.\n교사가 도트 물감으로 하트 모양을 그려주자, 친구들도 따라 쓱쓱 그려보며 “고구마 모양이에요”, “뱀 모양이에요”라고 말하며 각자의 상상력을 더해 다양한 모양을 표현해 보았어요. \n세모 모양 도구에 여러 색의 물감을 묻혀 도화지에 찍어보며 자유롭게 표현하는 즐거운 시간도 가졌답니다.\n\n이후 한 친구가 “가위 하고 싶어요”라고 이야기해 가위질 놀이로 활동을 이어갔어요. 처음에는 조심스럽게 시도하더니 한두 번 연습 후 금세 가위질이 능숙해지는 모습이 인상적이었답니다. 놀이 속에서 소근육을 사용하며 성취감을 느끼는 바다반 친구들이었어요.\n하준이와 즐거운 주말 보내세요😊\n\n*1/22(목)은 윤가람(남아) 친구의 생일파티가 있습니다. 3천 원 미만의 생일선물을 준비하셔서 1월 20일 화요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bbETrn/btsSI5INdXX/sr5wkdwe8fkGo7vua9zLsK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/xvkmZ/btsSNMIY3NH/Is8GKjSbCGKENyKJlAKypk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bYrN66/btsSOywFJvC/V5bCK8OfstAWFCg9IJdyj0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dsw6tM/btsSLBfVUW7/tkpnlgnYKOXRQiyeBNltYK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/roOeC/btsSO7dOebL/u5lCwKKBoHDbGDV40aqgUk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bbETrn/btsSI5INdXX/sr5wkdwe8fkGo7vua9zLsK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xvkmZ/btsSNMIY3NH/Is8GKjSbCGKENyKJlAKypk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bYrN66/btsSOywFJvC/V5bCK8OfstAWFCg9IJdyj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dsw6tM/btsSLBfVUW7/tkpnlgnYKOXRQiyeBNltYK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/roOeC/btsSO7dOebL/u5lCwKKBoHDbGDV40aqgUk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0325_2026-01-16_1336359624_01.jpg",
@@ -5843,9 +5843,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이와 즐거운 주말 보내셨나요? 하준이가 엄마하고 아빠하고 빠방 타고 다녀왔다고 이야기를 해주었어요^^\n오늘 바다반 친구들은 팝튜브 놀잇감을 탐색하며 즐겁게 놀이해 보았습니다.\n손으로 팝튜브를 늘렸다 줄였다 하며 촉감을 느껴보고, 서로 연결해 길게 만들거나 다양한 모양을 구성해 보았어요.\n바다반 친구들은 동그랗게 만들어 “팔찌예요”라고 말하며 선생님께 건네주기도 하고, 여러 개를 이어 기차를 만들어 친구들과 함께 기차놀이를 즐기는 모습도 보였습니다.^^\n\n이후 바깥놀이를 나가 눈을 밟아보며 눈 밟는 소리를 들어보고, 눈사람 모양 집게를 이용해 눈사람을 만들어보았어요.\n눈의 촉감과 소리를 느끼며 겨울 자연을 온몸으로 경험하고, 친구들과 함께 어울리며 놀이를 확장해 가는 즐거운 시간이었습니다. ☃️❄️\n\n하준이는 오늘 일과 중 콧물이 흐르거나 기침하는 모습은 보이지 않았으며, 코가 약간 막힌 듯한 모습만 관찰되었습니다.\n전반적으로 큰 불편함 없이 일과를 잘 보냈습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/zQQcy/btsSSisvUrL/rz5nAsqVB0os0ozmsZeKqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/beS1WP/btsSPzXmUML/5Ck9K5spm9pdjmYYFKkDsk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bMhY2k/btsSSdZhvNK/YEdeIxn5OH7nhR8dkvldo1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/zQQcy/btsSSisvUrL/rz5nAsqVB0os0ozmsZeKqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/beS1WP/btsSPzXmUML/5Ck9K5spm9pdjmYYFKkDsk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMhY2k/btsSSdZhvNK/YEdeIxn5OH7nhR8dkvldo1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0327_2026-01-19_1337243510_01.jpg",
@@ -5861,9 +5861,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "어제의 팝튜브 놀이에 이어 오늘도 팝튜브에 큰 관심을 보이는 바다반 친구들이에요.\n교실에 색깔 휴지심을 제공해 주자 팝튜브의 색깔에 맞춰 구멍을 통과시켜 보며 손과 눈을 함께 사용해 놀이해 보았답니다.\n놀이 중 한 친구가 팝튜브를 “청진기예요”라고 말하며 병원놀이를 시작하자, 다른 친구들도 자연스럽게 관심을 보이며 놀이에 함께 참여했어요.\n동물 인형을 가져와 팝튜브로 진찰을 해 주며 아픈 곳을 살펴보는 바다반 친구들의 모습에서 풍부한 상상력과 또래 간 상호작용을 엿볼 수 있었답니다.\n\n영하의 날씨로 인해 오늘은 실내 대체 놀이를 진행하였어요.\n2층 유희실에서 친구와 함께 순서를 지키며 자전거를 타고, 꽂기 놀이를 통해 다양한 모양을 만들어 보며 즐겁게 놀이하는 시간을 가졌습니다.\n친구와 함께 어울리며 놀이 속에서 기다림과 배려를 경험해 본 하루였답니다.😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bvSilp/btsSQZuxLc1/T4zdkca9XiDwqjvMSManh1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Cbus1/btsSSeYPx7h/f6j4KMxzbxyRF1KsZAtRmk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/hflKq/btsSSHlFplk/uc3L2ncjwffH4AgpqyjHpK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bvSilp/btsSQZuxLc1/T4zdkca9XiDwqjvMSManh1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Cbus1/btsSSeYPx7h/f6j4KMxzbxyRF1KsZAtRmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hflKq/btsSSHlFplk/uc3L2ncjwffH4AgpqyjHpK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0328_2026-01-20_1337955920_01.jpg",
@@ -5879,9 +5879,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "바다반 친구들은 팝튜브 놀이에 깊은 관심을 보이며 놀이를 스스로 확장해 나가는 모습을 보여주었어요. 팝튜브를 길게 늘여 호스처럼 만들고 두 손으로 꼭 잡은 채 “불이 났어요! 불을 꺼요!”라고 말하며 교실 곳곳을 누비는 소방관이 되었답니다.\n아이들의 놀이 모습을 본 선생님은 불 모양을 만들어 교실 곳곳에 붙여주자, 더욱 몰입하여 불을 찾아 끄며 상상놀이를 즐기는 모습이었어요.\n친구들과 함께 같은 놀이에 참여하며 자연스럽게 언어 표현과 협력하는 경험을 했답니다.\n\n오늘은 영하의 날씨로 바깥놀이 대신 1층 유희실에서 미끄럼틀과 자동차 놀이를 하며 신체 활동을 이어갔어요. 차례를 기다리고, 친구에게 먼저 양보하는 모습도 보여주며 즐겁고 안전하게 공동놀이를 경험한 바다반 친구들이었습니다.😄\n\n하준이는 오늘 오전에 재채기를 하며 콧물이 많이 나왔습니다. 이후 일과를 지내는 동안에 콧물이 흐르거나 기침하는 모습은 보이지 않았습니다. 오후 간식을 먹은 후 대변을 보았습니다. \n\n*1/22(목)~1/23(금) 바다2반 박서연 교사의 연차휴가기간입니다. 이 기간동안 보조선생님과 대체선생님께서 함께 보육해주실 예정이며 알림장과 사진은 전송되지 않고 투약의뢰서만 확인가능합니다.  참고부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bh8tZN/btsSShaOKPJ/HF5mibvRVINw8hE9qxkB10/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/d5k4ha/btsSPR3QkQI/Ii5stLEAk0poy1zu88Ra11/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bbt4GW/btsSRDjHBGa/HLcxPkcknqPe5UOQR1CpY1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bh8tZN/btsSShaOKPJ/HF5mibvRVINw8hE9qxkB10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d5k4ha/btsSPR3QkQI/Ii5stLEAk0poy1zu88Ra11/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbt4GW/btsSRDjHBGa/HLcxPkcknqPe5UOQR1CpY1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0329_2026-01-21_1338643688_01.jpg",
@@ -5897,8 +5897,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "하준이와 즐거운 주말 보내셨나요?\n교실에 알록달록 다양한 색깔의 종이컵을 제공해 주자 관심을 보이며 놀이에 참여하는 바다반 친구들이에요. 😊\n종이컵을 차곡차곡 쌓아보며 균형을 맞춰보기도 하고, 어떤 친구는 종이컵의 색깔을 살펴보며 같은 색의 폼폼이를 찾아 담아보는 모습을 보였어요. 또 다른 친구는 종이컵을 길게 이어 터널굴착기를 만들어 상상 놀이를 즐기기도 했답니다.\n하나의 놀잇감을 가지고 각자만의 방법으로 다양하게 놀이하는 모습이 인상 깊은 시간이었어요.\n\n이후 겨울용품을 착용하고 바깥놀이를 나가 차가운 겨울 공기를 느껴보며 산책을 해보았습니다. 겨울 날씨를 온몸으로 경험하며 즐겁게 시간을 보냈답니다. ❄️\n\n하준이가 오늘 할아버지 할머니께 고개를 숙이며 “다녀오세요.”인사를 하고 교실로 들어와 스스로 양말을 벗어 자신의 가방 앞주머니에 정리를 했어요^^ 의젓한 형님이 되고 있는 중이랍니다.\n점심시간에는 먹다가 중간에 포크를 바닥에 내려놓으며 장난을 치는 모습이 있었지만, 남김없이 다 먹었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/b7R0dC/btsSUY2vKh8/H5GGXT4LN247U9EkkUA781/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/eXZKt/btsSTUgeWgn/uIulDSwSvLtRUQOMMgRKp1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/b7R0dC/btsSUY2vKh8/H5GGXT4LN247U9EkkUA781/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eXZKt/btsSTUgeWgn/uIulDSwSvLtRUQOMMgRKp1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0330_2026-01-26_1340917280_01.jpg",
@@ -5913,10 +5913,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "바다반 친구들은 어제 종이컵 놀이를 이어 오늘도 종이컵으로 자유롭게 놀이해 보았습니다. \n종이컵을 쌓고 연결하며 다양한 모양을 만들어 보고, 친구들과 함께 놀이를 이어가는 모습이었어요. 이후에는 빅블록으로 길을 만들어 징검다리처럼 건너보며 균형을 잡고 신체를 조절하는 놀이도 즐겼답니다.\n\n또한 선생님이 가제손수건과 구멍이 뚫린 모양 종이, 물감을 제공하자 친구들이 관심을 보였어요. 물감을 묻힌 스펀지를 스텐실 도안 위에 찍는 모습을 먼저 보여주니, 친구들도 집중하며 따라 해 보며 즐겁게 놀이에 참여했습니다. 다양한 재료를 탐색하며 표현하는 즐거움을 느낀 하루였답니다.\n\n*1/26일 반 별 공지사항으로 안내드린 2학기 만족도조사 링크 확인하시어 1/28일 오후 6시까지 한분도 빠짐없이 참여해 주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/DsxIA/btsSU8q4e2Y/iz8PrwSQCg7yiVGMmSk6g0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/jRQEh/btsSVwreMRg/UKmjEpjX3bnzkkqFvc4ptK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QO0Rc/btsSVjFUzS8/1mpK2OBxOIk5LAJL8g7xak/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/iBdQd/btsSVUE8g99/VsVlXfkKkaBQgFgk8M4ZOk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/DsxIA/btsSU8q4e2Y/iz8PrwSQCg7yiVGMmSk6g0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jRQEh/btsSVwreMRg/UKmjEpjX3bnzkkqFvc4ptK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QO0Rc/btsSVjFUzS8/1mpK2OBxOIk5LAJL8g7xak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iBdQd/btsSVUE8g99/VsVlXfkKkaBQgFgk8M4ZOk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0331_2026-01-27_1341618144_01.jpg",
@@ -5933,12 +5933,12 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 열린 어린이집 활동으로 「작은 기차」 동화책을 함께 읽고, 우유갑 기차를 만들어 보았습니다.\n선생님이 미리 우유갑으로 만든 기차를 보여주자 바다반 친구들이 호기심 가득한 눈으로 바라보며 관심을 보였어요.\n우유갑 기차에 네임펜으로 집중해서 끼적이기도 하고, 다양한 모양의 스티커를 자유롭게 붙이며 자신만의 기차를 꾸며보았습니다. 동그란 바퀴를 붙여 기차의 모습을 완성하는 모습에서 아이들의 창의적인 표현이 돋보였답니다.\n\n완성한 우유갑 기차에 리본 끈을 달아 손으로 잡고 끌고 다니며 놀이가 자연스럽게 확장되었고, 기차 동요를 틀어주자 기차를 끌며 신나게 움직이는 모습이 무척 즐거워 보였어요😊\n놀이 속에서 상상력과 표현력을 키워가며 즐거운 시간을 보낸 하루였습니다.\n\n하준이가 다쳐 오늘 하루 더욱 세심하게 살펴보았습니다.\n하준이에게 “귤 먹을 거예요?”라고 물어보니 먹겠다고 해서 제공해 주니 스스로 껍질을 까서 잘 먹었고, 물도 처음에는 뚜껑을 열어 주고 두 손으로 잡아 마실 수 있도록 도와주었으나 “하준아 입 아파?”라고 물어보자 “안 아파”라고 말하며 스스로 물통 뚜껑을 닫으려 하는 모습이 보여 닫아주니 하준이가 뚜껑을 젖혀 빨대로 잘 먹는 모습이었어요. \n점심시간에는 원장님께서 하준이 먹는 것을\n도와주셔서 남김없이 잘 먹었으며 먹을 때도 불편함 없이 잘 먹는 모습이었어요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dzMhxI/btsSQMWOAio/v1yZYd8h2Gl98zahz2zlQ1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/yqQve/btsSVyck8yX/NlBNrG4Ni2XpkekRyWgHK1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cAla7J/btsSVo18snL/RZRzP5lxeT6tkTh5z7oTiK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cPceWQ/btsSVVLoZYg/xOEPKykzrKTk8VO9PtRKPk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FPDIT/btsSWeYgQBB/drkdXwwYk8GANboDCLFlG0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/YsJY8/btsSVM2gPDs/EfdtS5wLaH8scvQEsKRNFk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dzMhxI/btsSQMWOAio/v1yZYd8h2Gl98zahz2zlQ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/yqQve/btsSVyck8yX/NlBNrG4Ni2XpkekRyWgHK1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cAla7J/btsSVo18snL/RZRzP5lxeT6tkTh5z7oTiK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cPceWQ/btsSVVLoZYg/xOEPKykzrKTk8VO9PtRKPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FPDIT/btsSWeYgQBB/drkdXwwYk8GANboDCLFlG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/YsJY8/btsSVM2gPDs/EfdtS5wLaH8scvQEsKRNFk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0332_2026-01-28_1342313201_01.jpg",
@@ -5957,9 +5957,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘 바다반 친구들과 모양그림에 플레이콘을 붙여보는 놀이를 해보았습니다.\n알록달록한 플레이콘을 보자마자 관심을 보이며, 자신이 원하는 모양을 고르고 플레이콘을 하나하나 집중해서 붙이는 모습이었어요. 손으로 조심스럽게 집어 붙이며 즐겁게 놀이에 참여했답니다.\n\n이후, 한 친구가 종이컵에 에그셰이커를 넣어 보며 “선생님, 테이프 붙여주세요.”라고 이야기했어요. 종이테이프를 건네주자 종이컵 두 개를 붙여 마라카스를 만들어 흔들며 “선생님, 마라카스예요.”라고 말하며 놀이를 이어갔답니다.\n이를 본 다른 친구들도 흥미를 보이며 다가와 “저도 만들어주세요.”라고 이야기했고, 각자 원하는 색깔의 종이컵과 에그셰이커를 골라 자신만의 마라카스를 만들어보며 즐겁게 놀이해 보았습니다.\n친구의 놀이를 함께 나누며 웃음이 가득한 시간이었어요😊\n\n하준이는 오늘 점심 식사 시간 때 불편해하는 모습 없이 잘하고 반찬도 추가로 배식하여 남김없이 맛있게 먹는 모습을 보였습니다.^^\n다만 오늘 놀이 중 놀잇감을 던지는 모습이 여러 차례 관찰되었습니다.\n친구 쪽이나 창문 방향으로 놀잇감을 던지려는 모습이 보여, 하준이에게 놀잇감을 던지면 위험할 수 있다는 점을 이야기하며 알려주었습니다.\n이후 폼폼이를 벽에 던질 수 있는 대체 놀이를 제공해 주었습니다. 가정에서도 하준이와 함께 놀잇감은 던지지 않고 놀이해야 한다고 한 번 더 이야기 나누어 주시면 감사하겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/A1D6O/btsSWd0ftgm/pRjr4kUNi8lIPrR4sTHSI0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/btZD7x/btsSWmbkAaR/lE7cLxWuvzESgheEiuZSpk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/de3csd/btsSS2ZffWN/4tmte0c0ZCat4qa1nTlgW0/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/A1D6O/btsSWd0ftgm/pRjr4kUNi8lIPrR4sTHSI0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btZD7x/btsSWmbkAaR/lE7cLxWuvzESgheEiuZSpk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/de3csd/btsSS2ZffWN/4tmte0c0ZCat4qa1nTlgW0/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0333_2026-01-29_1343012194_01.jpg",
@@ -5975,10 +5975,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 바다반 친구들은 색깔과 모양 놀이를 이어 천사점토와 사인펜을 활용한 놀이를 즐겨보았습니다.\n선생님이 천사점토를 제공하자 점토를 조물조물 만지며 촉감을 느끼고, 동글동글 굴려 가장 먼저 눈사람을 만들어보는 친구들이에요.\n선생님이 별과 하트 등 다양한 모양을 만들어 제시하자, 친구들도 고추 모양, 뱀 모양, 피자 모양 등 자신만의 상상을 더해 다양한 형태를 만들어보았답니다.\n또한 천사점토 위에 원하는 색깔의 사인펜을 골라 색칠한 뒤 다시 만져보며 색이 섞이고 변하는 모습을 탐색해 보았어요.\n친구의 점토와 자신의 점토의 색깔을 비교해 보며 색깔과 모양에 대한 관심이 더욱 깊어지는 시간이었습니다.\n\n하준이는 끼적이기 활동을 좋아하며 집중해서 그림을 그리던 중, 완성된 그림을 가리키며 “엘리베이터야”라고 이야기했어요.\n선생님이 “하준아, 엘리베이터야?”라고 묻자 “아니, 엘리베이터 아니고 슈웅 엘리베이터야”라고 말하며 자신의 생각을 더 구체적으로 표현하는 모습이었답니다. “아~ 에스컬레이터야?”라고 다시 물어보니 “응, 엘리베이터 타봤어”라고 대답해 주었어요.^^ 또 “하준아, 어제 집에 가서 뭐 했어?”라고 묻자 “고모랑, 고모부랑, 누나랑, 형아랑 놀았어”라고 경험을 문장으로 이야기해 주었습니다.\n이처럼 하준이는 점점 문장으로 말하는 표현이 늘어나고, 발음도 더욱 정확해지는 모습이에요.\n하준이와 즐거운 주말 보내세요~😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dkofdS/btsSXifvnny/HFpgNZ5dNfpsN2MwnfnYt1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/x4L7x/btsSWN1DBPW/XHnbUaOnqe8L6oJrAcRKvK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/c9lOHP/btsSXrXAabz/4o9QvKf5lwKqkG2uiaUsFK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/be80uW/btsSWWxghps/hxskW4w4VSK5k6J65pFYZk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dkofdS/btsSXifvnny/HFpgNZ5dNfpsN2MwnfnYt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/x4L7x/btsSWN1DBPW/XHnbUaOnqe8L6oJrAcRKvK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c9lOHP/btsSXrXAabz/4o9QvKf5lwKqkG2uiaUsFK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/be80uW/btsSWWxghps/hxskW4w4VSK5k6J65pFYZk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0334_2026-01-30_1343717545_01.jpg",
@@ -5995,10 +5995,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "하준이와 즐거운 주말 보내셨나요?\n2월이 시작되는 월요일, 하얀 눈이 주변을 가득 덮은 하루였습니다.\n바다반 친구들과 함께 옥상 텃밭에 올라가 장갑을 착용하고 흰 눈을 만져보며 탐색해 보았어요.\n수북이 쌓인 눈을 밟으며 “뽀드득뽀드득” 소리를 들어보기도 하고, “뛰어!”라고 외치며 신나게 달려보는 모습도 보였답니다. 눈을 손으로 뭉쳐보기도 하고, 살짝 던져보며 온몸으로 눈을 느끼는 아이들이었어요.\n눈이라는 한 가지 자연물로 이렇게 즐겁게 놀이하는 바다반 친구들의 모습을 보며, 선생님들도 덩달아 웃음이 나는 따뜻하고 즐거운 하루였습니다.\n자연을 통해 겨울을 느껴보는 소중한 시간이 되었답니다.❄️😊\n\n하준이는 오늘 점심시간에 제공된 반찬과 밥을 다 먹고 추가로 제공해 주었어요. 남김없이 잘 먹는 모습이었습니다^^ 점심을 먹은 후에는 대변을 보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/JqthS/btsSXnhG5Ch/Hz9z8OOFCuDpCv0IK21Wsk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bskd6G/btsSXNmy5xN/asNpX4kuMI1kteXeqzMWKK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/pjXRu/btsSYn8hPUc/w74IaZuTPweatc8mKgCFqK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/zehRa/btsSXAA1HTH/3XSKmFNWX5K0xVUmt8jARK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/JqthS/btsSXnhG5Ch/Hz9z8OOFCuDpCv0IK21Wsk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bskd6G/btsSXNmy5xN/asNpX4kuMI1kteXeqzMWKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pjXRu/btsSYn8hPUc/w74IaZuTPweatc8mKgCFqK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zehRa/btsSXAA1HTH/3XSKmFNWX5K0xVUmt8jARK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0335_2026-02-02_1344651312_01.jpg",
@@ -6015,9 +6015,9 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들과 추억사진 카메라 만들기 활동을 해보았습니다.\n자신의 사진을 천천히 살펴보며 친구들을 가리켜 이름을 말해보고, 함께했던 경험을 떠올리며 이야기 나누는 모습이었어요. 사진 속 모습을 보며 어느새 훌쩍 성장한 아이들의 모습에 마음이 따뜻해지는 시간이었습니다.\n\n이후에는 곧 올라가게 될 하늘반 형님반에 다녀왔습니다. 바다반에는 없고 하늘반에는 있는 양말주머니와 물통, 컵을 살펴보고, 더 넓어진 공간을 비교하며 다양한 이야기를 나누어 보았어요.\n하늘반 교실에서 놀잇감을 탐색한 뒤에는 스스로 정리까지 마무리하며 형님이 될 준비를 차근차근 해나가는 바다반 친구들이었답니다.☺️\n\n**2월 12일(목)~13일(금)은 설맞이 행사(세배하기, 민속놀이 등)이 진행됩니다. 6일 금요일까지 한복을 보내주시기 바랍니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cmrh95/btsSXwzmiIT/OemRRPKxRCY8QmoUq0gv40/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dXqdU/btsSXQ5mHuu/6K4JRlmgEWqltKKGA8zkdk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/9tEV6/btsSX7dCsDe/gkj90cxBKGiP1c5ebiy080/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cmrh95/btsSXwzmiIT/OemRRPKxRCY8QmoUq0gv40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dXqdU/btsSXQ5mHuu/6K4JRlmgEWqltKKGA8zkdk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9tEV6/btsSX7dCsDe/gkj90cxBKGiP1c5ebiy080/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0336_2026-02-03_1345371901_01.jpg",
@@ -6033,7 +6033,7 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 교실에 학기 초 바다반 친구들의 모습이 담긴 사진을 게시해 주었더니, 등원하자마자 사진 앞으로 모여들며 큰 관심을 보였어요.\n사진 속에서 자신의 모습을 찾아보며 “여깄다!”라고 말하거나 “애기였을 때”라며 웃음 짓는 모습이 무척 사랑스러웠답니다.\n선생님이 “우와~ 진짜 많이 컸네”라고 이야기하자 “많이 컸어요”라고 대답하며 지금의 모습과 비교해 보기도 했어요.\n또 사진 속 친구의 이름을 하나하나 말해 보며 추억을 나누듯 사진을 감상하는 바다반 친구들이었답니다. \n\n하준이가 입 부분을 다쳐 살펴보았는데요. 간식과 점심 시간 모두 불편해하는 모습 없이 스스로 잘 먹는 모습을 보였습니다.😊\n하준이가 오후 간식 시간에 우유를 마시다가 엎질러 여벌옷으로 갈아입었습니다. 여벌옷 보내주세요.\n\n*2월 6일 금요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dybZKq/btsSY8p2SVA/gL7lMQxqTNd3gLOg5scc11/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dybZKq/btsSY8p2SVA/gL7lMQxqTNd3gLOg5scc11/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0337_2026-02-04_1346064745_01.jpg"
@@ -6047,8 +6047,8 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘 바다반 친구들과 지난달 놀이 사진이 담긴 ‘이렇게 놀이했어요’ 자료를 함께 보며 놀이를 기억하고 떠올려보는 시간을 가졌습니다.\n사진을 보며 “이거 했어.”, “엄마 있어요.” 하며 친구들의 모습과 엄마·아빠의 모습을 찾아보는 모습이었어요.\n\n이후 사진 위에 자신이 고른 색연필과 크레용으로 자유롭게 끼적여보며 놀이의 기억을 표현해 보기도 하고, 종이를 접어보며 탐색하는 모습도 보였답니다.\n사진을 통해 즐거웠던 경험을 다시 떠올리고, 자신만의 방식으로 표현해 보는 바다반 친구들이었어요😊",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/7aMZ3/btsSVABURQ1/yOlVAfK5Mko7J72csrl2U1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/dsnBz1/btsSY6Ukm5t/GWYqGKaye6vKLOKqkxfjqk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/7aMZ3/btsSVABURQ1/yOlVAfK5Mko7J72csrl2U1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dsnBz1/btsSY6Ukm5t/GWYqGKaye6vKLOKqkxfjqk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0338_2026-02-05_1346768192_01.jpg",
@@ -6063,7 +6063,7 @@ const reportsData =[
     "weather": "sunny",
     "content": "교실 바닥에 전지를 붙여주니 호기심 가득한 눈으로 다가오는 바다반 친구들이에요.\n선생님이 한 친구에게 “여기 누워볼까?” 하고 이야기하며 몸을 따라 그려주자, 신기한 듯 웃으며 한 명씩 차례로 누워보는 모습이었답니다.\n\n색연필과 크레용을 이용해 자신의 손과 발을 직접 그려보기도 하고, 한 친구는 “엉덩이 그려주세요!”라고 말하며 앉아 있는 모습을 표현해 보았어요.\n놀이를 통해 자신의 신체를 자연스럽게 탐색하고, 말과 그림으로 표현해 보는 즐거운 시간을 보냈답니다.😊\n\n하준이는 등원 후 오전 간식으로 제공된 감을 잘 먹고, 놀이와 활동에도 잘 참여하는 모습이었습니다.\n이후 점차 기운이 없어 보이는 모습이 보여 체온을 측정해 보았고, 오전 10시 30분경 37.7℃로 확인되었습니다. 이후 체온이 점차 올라 38.1℃가 되어  연락을 드렸습니다.\n하원 시 체온은 38.4℃였으며, 기침이나 콧물 증상은 보이지 않았습니다.\n하준이가 아프지 않고 건강한 모습으로 월요일에 다시 만날 수 있기를 바랍니다.😭\n\n*오늘 예정되어 있던 소방대피훈련은 추운 날씨로 인해 연기되었으며, 추후 일정은 키즈노트를 통해 안내드리겠습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bbNXVe/btsS0svehOe/AEUdMW02gkmAkGUsdLmqFK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bbNXVe/btsS0svehOe/AEUdMW02gkmAkGUsdLmqFK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0339_2026-02-06_1347485981_01.jpg"
@@ -6077,10 +6077,10 @@ const reportsData =[
     "weather": "overcast",
     "content": "곧 있으면 하늘반 형님반으로 올라갈 바다반 친구들과 함께 형님 왕관 만들기 놀이를 해보았습니다.\n‘형님’이라는 글자가 적힌 왕관 종이를 보며 호기심 가득한 눈으로 바라보는 친구들이었어요.\n선생님이 “이게 뭘까요?” 하고 묻자 “머리띠!”라고 이야기하며 자신의 생각을 표현해 주기도 했답니다. 😊\n색연필과 크레용으로 왕관을 멋지게 색칠하고, 알록달록 다양한 스티커를 붙이며 나만의 왕관을 완성해 보았어요. 꾸미는 과정에서 스스로 색과 스티커를 선택하며 집중하는 모습도 볼 수 있었습니다.\n\n이후 하늘반 형님들과 함께 메낙골 근린공원으로 산책을 다녀왔습니다.\n형님의 손을 꼭 잡고 차분하고 의젓한 모습으로 걸어가는 바다반 친구들 모습에서 한층 성장한 마음을 느낄 수 있었답니다.^^\n형님반이 될 준비를 놀이와 경험 속에서 자연스럽게 해나가고 있는 바다반 친구들이 참 대견한 하루였습니다.\n\n하준이가 열이 내려서 다행입니다. 오늘 오전 일과 중 대변을 한 번 보았으며, 상태는 많이 묽지 않았어요. 점심시간에는 밥과 반찬을 두 번씩 제공하였고, 남김없이 잘 먹는 모습을 보였습니다.\n\n* 한파로 연기되었던 소방대피훈련을 오늘 진행하였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/bDHSXQ/btsS0Nl5XcC/iBDLgEKIGq9ZXsPDUAf1Xk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/2f76E/btsSZDdeYrZ/yYyQZms4Agu2ZtKqw77vO0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wglLC/btsSYFbxgpq/QXjewOMeKszV29JYemQ5I0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bC5Toi/btsS04WwDAq/NdVCkzzUGNdDG1i4TnY1Kk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/bDHSXQ/btsS0Nl5XcC/iBDLgEKIGq9ZXsPDUAf1Xk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2f76E/btsSZDdeYrZ/yYyQZms4Agu2ZtKqw77vO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wglLC/btsSYFbxgpq/QXjewOMeKszV29JYemQ5I0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bC5Toi/btsS04WwDAq/NdVCkzzUGNdDG1i4TnY1Kk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0340_2026-02-10_1349110411_01.jpg",
@@ -6097,9 +6097,9 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘은 열린 어린이집의 날로 선생님과 함께 ‘노란 풍선’ 동화를 읽어보고, 노란 풍선을 가지고 활동해 보았습니다.\n동화 속 이야기에 귀 기울이며 노란 풍선에 관심을 보이는 바다반 친구들이에요.\n\n이후 실제 노란 풍선을 제공해 주자 더욱 흥미를 보이며, 신나는 동요를 들으며 풍선을 굴려보고 던져보거나 손으로 쳐보는 놀이를 해보았습니다.\n음악에 맞춰 풍선을 움직이며 즐겁게 신체 놀이를 이어가는 모습이었습니다.\n\n놀이를 확장해 햇살반 동생반으로 이동하여, 매달려 있는 풍선을 “허!”라고 소리를 내며 손으로 쳐보며 재미있어하는 바다반 친구들, 풍선의 움직임을 느끼며 놀이에 집중하는 모습이 인상적이었답니다.\n오늘도 놀이 속에서 웃음과 즐거움이 가득했던 하루였습니다.😄\n\n오늘 하준이는 점심 식사를 스스로 잘 먹는 모습이었습니다. 오전에 집에서 묽은 변을 보았다고 전달받았으나, 원에서는 대변을 보지 않았습니다.\n일과 중 큰 불편함은 보이지 않았으며, 활동에도 잘 참여하였습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/Y2NTW/btsSYJecmvu/9IKOqZ9GkGOoYElUgaXptK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/btuBK6/btsSYBtGzf2/5u4PCy2FkNvTkSW0AH3CTK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/82XJe/btsS1xkhkMr/prIyRK8kQC1N2lqu28THTk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/Y2NTW/btsSYJecmvu/9IKOqZ9GkGOoYElUgaXptK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btuBK6/btsSYBtGzf2/5u4PCy2FkNvTkSW0AH3CTK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/82XJe/btsS1xkhkMr/prIyRK8kQC1N2lqu28THTk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0341_2026-02-11_1349794056_01.jpg",
@@ -6115,11 +6115,11 @@ const reportsData =[
     "weather": "overcast",
     "content": "오늘은 다가오는 설날을 맞이해 한복을 입고 우리나라 전통 예절인 세배에 대해 알아보는 시간을 가졌어요.\n한복을 입은 친구들의 모습을 보며 서로를 바라보고 웃어 보기도 하고, 인사하는 방법을 선생님과 함께 천천히 따라 해 보았답니다.\n원장님께 세배를 드릴 때는 몸을 숙여 공손히 인사하며 차분하게 참여하는 모습이 참 기특했어요.\n또한 우리의 점심밥을 맛있게 준비해 주시는 조리사님과 시니어 선생님께도 “새해 복 많이 받으세요” 하고 인사를 전해 보았답니다.\n세뱃돈을 받으며 환하게 웃는 모습도 볼 수 있었고, 전통문화를 놀이처럼 경험하며 즐겁고 의미 있는 하루를 보냈습니다. 😊\n\n*2/20(금)은 전예온(남아) 친구의 생일파티가 있습니다. 3천 원 미만의 생일선물을 준비하셔서 2월 13일 금요일까지 보내주세요.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/XEz1R/btsS1MCk4qz/D1DiCpEeVuykkPRHZuMoRk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/ecZ1h/btsS1EQe3HZ/1f5we8qFdG9kEhg76Okeqk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bcj6ai/btsS1XKqBB2/j7XgDMZTOjaWH4uU1FftSk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Gs6VU/btsS2wL56jo/UPH7WzDXtNsKVZNl32qP2k/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cOQp3O/btsS2Zl385e/rlQ9kMRIJjEMVeCQr2LCSk/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/XEz1R/btsS1MCk4qz/D1DiCpEeVuykkPRHZuMoRk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ecZ1h/btsS1EQe3HZ/1f5we8qFdG9kEhg76Okeqk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcj6ai/btsS1XKqBB2/j7XgDMZTOjaWH4uU1FftSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Gs6VU/btsS2wL56jo/UPH7WzDXtNsKVZNl32qP2k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cOQp3O/btsS2Zl385e/rlQ9kMRIJjEMVeCQr2LCSk/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0342_2026-02-12_1350530578_01.jpg",
@@ -6137,11 +6137,11 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 다가오는 설 명절을 맞아 예쁜 한복을 입고 민속놀이를 해보았습니다.\n다양한 민속놀이를 보며 호기심 가득한 눈빛으로 관심을 보이는 바다반 친구들이에요.\n선생님이 먼저 시범을 보여주고 놀이 방법을 알려주니, 곧잘 따라 하며 즐겁게 참여하는 모습이었습니다.\n투호놀이, 제기차기, 윷놀이, 굴렁쇠 굴리기를 하며 우리 전통 민속놀이를 경험해 보았고, 차례를 기다리며 질서 있게 놀이하는 모습도 볼 수 있었답니다.\n가족들과 함께 즐겁고 행복한 설 연휴 보내시고, 새해 복 많이 받으세요.🧧✨\n\n하준이는 오후 간식을 먹은 후 대변을 보았습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/cvc6PB/btsS2TnseW4/1xYfrQVBy1U53m3Ug0y500/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/Dljm4/btsS2Ht0ufy/bPaGdAEF6d5GcKbeLmv2CK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/g01mI/btsS3imJfLd/PMYeiHyOqZbDr4OfkhFQ71/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/NqqqA/btsS2SIRaHO/pEejMDVar4k1qoT8yXOvEk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bwzTCn/btsS0PZtKUz/uKK88Y99GRxsTWD2KQxFO1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/cvc6PB/btsS2TnseW4/1xYfrQVBy1U53m3Ug0y500/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Dljm4/btsS2Ht0ufy/bPaGdAEF6d5GcKbeLmv2CK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g01mI/btsS3imJfLd/PMYeiHyOqZbDr4OfkhFQ71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NqqqA/btsS2SIRaHO/pEejMDVar4k1qoT8yXOvEk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bwzTCn/btsS0PZtKUz/uKK88Y99GRxsTWD2KQxFO1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0343_2026-02-13_1351291258_01.jpg",
@@ -6159,8 +6159,8 @@ const reportsData =[
     "weather": "sunny",
     "content": "가족들과 행복한 설명절 보내셨나요?☺️\n오늘은 바다반 친구들과 서로 안아주며 반갑게 인사를 나누고, 말로 사랑을 표현해 보는 시간을 가졌습니다.\n함께 하늘반으로 올라가게 될 친구들과 사이좋게 지내자는 의미로 “친구야 사랑해~”라고 이야기하며 자연스럽게 애정을 표현하는 모습이 참 따뜻했답니다. 😊\n\n기온이 영상으로 올라가고 미세먼지 농도도 보통 수준이라 바깥놀이를 다녀왔어요.\n우주반 형님들의 손을 잡고 메낙골근린공원으로 산책을 나가 햇살을 느끼며 걸어보았고, 햇살반 동생들도 함께하며 연령이 다른 친구들과 어울리는 경험을 해보았습니다.\n서로 배려하며 걷는 과정 속에서 바다반 친구들의 사회성이 한층 더 자라는 하루였습니다.^^\n\n하준아가 오늘 일과 중 콧물이 있었습니다. \n재채기를 하며 콧물이 나왔고, 점심 식사를 할 때는 코가 막혀 불편한지 입으로 숨을 쉬며 불편해하는 모습이 있었어요. 콧물은 손수건을 이용해 닦아주었습니다. 가정에서도 살펴봐주세요~",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/eWzag/btsS4N7EXWa/yXwgQk57J07DK3sXi5PMIk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bLfLXU/btsS0KRNBjn/qdYOIpTD9L4ac5WD3qstR1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/eWzag/btsS4N7EXWa/yXwgQk57J07DK3sXi5PMIk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bLfLXU/btsS0KRNBjn/qdYOIpTD9L4ac5WD3qstR1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0344_2026-02-19_1352295940_01.jpg",
@@ -6175,14 +6175,14 @@ const reportsData =[
     "weather": "sunny",
     "content": "오늘은 바다반 친구들과 함께 색종이를 활용해 친구에게 줄 선물을 만들어보았어요. 가위로 색종이를 오려보기도 하고, 풀로 붙이며 하나하나 완성해 갔답니다. 색연필로 색을 칠하고 스티커로 꾸미며 각자의 개성이 담긴 멋진 선물이 완성되었어요. 완성한 선물을 친구에게 건네주며 서로 주고받는 모습에서 기쁨과 설렘이 가득 느껴졌답니다.\n\n또한 오늘은 예온이의 생일잔치가 있어 모두 함께 진심을 담아 생일축하 노래를 불러주고 준비한 생일 선물도 전달해 주었어요. 친구의 생일을 함께 축하하며 따뜻한 마음을 나누는 시간이 되었답니다.\n\n이후에는 놀이터로 나가 놀이기구를 타고 비눗방울 놀이도 하며 신나게 몸을 움직였어요. 웃음소리가 가득했던 오늘도 즐겁고 행복한 하루였습니다.\n\n하준이는 요즘 소변기에 자연스럽게 관심을 보이고 있습니다. 친구들이 변기에 서서 소변을 보는 모습을 보고 “변기에 쉬할래요”라고 말하며 스스로 해보고 싶다는 의사를 표현하였고, 종종 변기 앞에 서서 시도해 보는 모습도 보입니다. 아직 소변이 나오지는 않았지만, 새로운 배변 방법에 호기심을 가지고 긍정적으로 탐색하는 단계로 보입니다.^^\n하준이와 즐거운 주말 보내세요~🥰",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/nJrZD/btsS44IxkR3/iewysKVy7Ayx6BFDiaKlr0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/huYRT/btsS4ClGhzH/ALoJn3pK1SGEn7fCGckiKK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/gGbYf/btsS42KNsBq/ETbZrfI78dxfTOqgJLya10/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/h3nMl/btsS4p7ZHHH/v8X8WnpDX7uOsKRJ1o0Ytk/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cK3djl/btsS4xSgN0V/vCUp05cVpxg5qFLcn1zQr0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bmHuQf/btsS4SO9YRe/1zqwL02pRcPiMzxyAQZqx0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/zKsm9/btsS5prVhDl/qpawE9HT7cveB1VoBKzeQ0/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/drmGYp/btsS48KN6ln/rDH0nvdFX6cjGlgROAJ8v1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/nJrZD/btsS44IxkR3/iewysKVy7Ayx6BFDiaKlr0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/huYRT/btsS4ClGhzH/ALoJn3pK1SGEn7fCGckiKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gGbYf/btsS42KNsBq/ETbZrfI78dxfTOqgJLya10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/h3nMl/btsS4p7ZHHH/v8X8WnpDX7uOsKRJ1o0Ytk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cK3djl/btsS4xSgN0V/vCUp05cVpxg5qFLcn1zQr0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bmHuQf/btsS4SO9YRe/1zqwL02pRcPiMzxyAQZqx0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zKsm9/btsS5prVhDl/qpawE9HT7cveB1VoBKzeQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/drmGYp/btsS48KN6ln/rDH0nvdFX6cjGlgROAJ8v1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0345_2026-02-20_1353024299_01.jpg",
@@ -6203,10 +6203,10 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "하준이와 즐거운 주말 보내셨나요?\n이제 형님반으로 갈 날이 얼마 남지 않았네요.\n오늘은 바다반 친구들과 젓가락을 사용해 폼폼이 옮기기 놀이를 해보았습니다.\n\n뽀로로 젓가락을 보자마자 관심을 보이며, 선생님의 안내 없이도 구멍에 손가락을 넣어 젓가락질을 해보는 모습이 참 기특했어요.\n젓가락 사용이 아직 익숙하지 않은 친구들은 선생님의 도움을 받아 천천히 하나씩 옮겨보며 끝까지 도전해 보았답니다.\n친구들과 젓가락을 바꿔 사용해 보거나 폼폼이 색깔을 번갈아 옮기며 집중하는 모습도 볼 수 있었어요.\n가정에서도 식사 시간이나 놀이를 통해 젓가락을 사용하는 경험을 이어가 주시면 도움이 될 것 같습니다.^^\n\n바깥놀이 시간에는 해늘 친구들과 다 함께 메낙골 공원을 지나 아파트 주변을 산책하며 즐거운 시간을 보냈어요.\n형님의 손을 잡고 걸어보기도 하고, 사다리차와 포클레인, 지나가는 마을버스와 오토바이를 보며 손을 흔드는 등 주변 환경에 호기심을 보이는 바다반 친구들이었답니다.\n\n하준이는 오늘 일과 중 콧물이 흐르거나 기침하는 모습은 없었으나, 점심시간에 밥 먹을 때와 낮잠 자기 전에 코가 막혀 불편해하는 모습은 있었습니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/xcZfl/dJMcagxK3Ib/qvDxkl2ZeCCfNjqwH3Nrx1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wCSOU/dJMcaiI5Mre/HWIDjNkkUCrtOscIx4RkY1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/81yRE/dJMcaadgV7A/YVhHtknUQGYvHeTKA2UyGK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/cjShlI/dJMcaiCk2bU/u4dPreLEzF10TFb1sibNg1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/xcZfl/dJMcagxK3Ib/qvDxkl2ZeCCfNjqwH3Nrx1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wCSOU/dJMcaiI5Mre/HWIDjNkkUCrtOscIx4RkY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/81yRE/dJMcaadgV7A/YVhHtknUQGYvHeTKA2UyGK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cjShlI/dJMcaiCk2bU/u4dPreLEzF10TFb1sibNg1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0346_2026-02-23_1353802492_01.jpg",
@@ -6223,8 +6223,8 @@ const reportsData =[
     "weather": "mostly_cloudy",
     "content": "오늘 바다반 친구들은 어제 즐겁게 놀이했던 젓가락 활동을 확장하여 다양한 놀잇감을 젓가락으로 집어보는 놀이를 해보았습니다.\n마음에 드는 놀잇감을 하나씩 선택하여 음식 모형, 와플 블록 등을 집어보며 손과 눈의 협응력을 자연스럽게 경험하였고, 젓가락으로 또 다른 젓가락을 집어보는 모습도 보이며 놀이에 대한 흥미와 탐색이 더욱 확장되는 모습을 보였습니다.\n\n이후 선생님이 바다반 친구들의 사진을 펼쳐 보여주자 호기심을 보이며 다가와 사진을 살펴보았고, 그 과정에서 자연스럽게 자신의 얼굴을 찾아보는 모습을 보였습니다. 스티커를 제공하자 자신의 사진 위에 붙이며 사진을 꾸며보았고, 사진을 꾸민 뒤에는 색연필과 크레용을 가져와 사진 위에 끼적이며 자유롭게 표현해보기도 했답니다.\n\n* 내일은 수료식이 있는 날입니다.\n원활한 진행을 위해 오전 9시 50분까지 등원 부탁드립니다.",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/yWFMG/dJMb99SXVWU/f8Mi9QRKXeFK1F28859CC1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/FH6rv/dJMcagdvJeq/bjLwGZMUzV4pZbI72wIvDK/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/yWFMG/dJMb99SXVWU/f8Mi9QRKXeFK1F28859CC1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FH6rv/dJMcagdvJeq/bjLwGZMUzV4pZbI72wIvDK/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0347_2026-02-24_1354450524_01.jpg",
@@ -6239,10 +6239,10 @@ const reportsData =[
     "weather": "sunny",
     "content": "어느덧 바다반에서의 생활을 무사히 마치고 수료식을 맞이하게 되었습니다.🎉\n바다반에서의 일상 속에서 하준이는 자기만의 속도로 크게 자라났습니다.\n늘 곁에서 함께해 주심에 감사드리며, 하늘반 형님으로서의 하준이의 새로운 출발을 진심으로 응원합니다.🩷✨",
     "image_urls": [
-      "https://kids-wi.kakaocdn.net/dn/dBiMWW/dJMcadnvOIj/TdFJdMCIbdCAz1jP5ZQYv1/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/wBwBc/dJMcadnvOIm/eaiyh27uIrujo7CkZRpKtK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/bD909T/dJMcadnvOIn/ZbLETKoJ2kJpcdOocbdpyK/img_l.jpg",
-      "https://kids-wi.kakaocdn.net/dn/QEhCP/dJMcadnvOIo/PlmiLuD20PQAnWibKYUkD1/img_l.jpg"
+      "https://up-kids-kage.kakao.com/dn/dBiMWW/dJMcadnvOIj/TdFJdMCIbdCAz1jP5ZQYv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wBwBc/dJMcadnvOIm/eaiyh27uIrujo7CkZRpKtK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bD909T/dJMcadnvOIn/ZbLETKoJ2kJpcdOocbdpyK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QEhCP/dJMcadnvOIo/PlmiLuD20PQAnWibKYUkD1/img_l.jpg"
     ],
     "local_images": [
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0348_2026-02-25_1354993331_01.jpg",
@@ -6250,5 +6250,2267 @@ const reportsData =[
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0348_2026-02-25_1354993331_03.jpg",
       "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0348_2026-02-25_1354993331_04.jpg"
     ]
+  },
+  {
+    "id": "1359277471",
+    "date_written": "2026-03-09",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "새로운 시작의 설렘이 가득했던 적응 기간을 무사히 마치고, 드디어 하늘반의 일상을 담은 첫 알림장을 전해드립니다.\n등원하자마자 하준이가 얼굴을 보여주며 \"다쳤어, 하준이 안 울었어\" 하고 이야기해 주었답니다. \"엄마랑 손 잡고 카페에 가서 요구르트도\n먹었어 다음엔 선생님도 가자\" 하고 초대해 주더라고요. ^^\n\n블록으로 자유롭게 구성 놀이를 하던 중, 한 친구가 \"선생님, 여기에 터널이 있었으면 좋겠어요!\"라고 이야기해서\n아이들의 의견을 반영하여 백업과 원통 블록으로 튼튼한 터널을 만들어 지원해 주었더니 놀이가 더욱 풍성해졌습니다.\n아이들은 직접 만든 블록 기차를 터널 사이로 통과시키기도 하고, 스스로 몸을 낮춰 엉금엉금 기어\n터널을 왕복하며 적극적인 신체 놀이를 즐겼습니다. 터널 놀이에 이어 백업을 연결해 긴 기차를 만들어 보았습니다.\n하늘반 친구들이 모두 모여 백업 기차를 잡고 \"칙칙폭폭\" 소리를 내며 교실과 유희실 이곳저곳을 여행해 보았습니다.\n친구들과 발맞추어 이동하며 우리 원의 환경을 즐겁게 탐색하는 유익한 시간이었습니다.\n\n하늘반에서 창문으로 건너편 아파트 엘리베이터가 보이는데 하준이는 때때로 엘베 타고 가자~라는 말을 합니다.\n엄마랑 엘베 타는 거 재밌어-라고 이야기도 자주 하는 편입니다.\n다른 친구들보다 조금 늦게 잠들었는데 자면서 얼굴을 계속 비비더라고요. \"하준아 비비면 얼굴 아파~\"라고 말하는 동시에 손톱에 긁혀서\n상처가 생겼습니다. 약 발라주고 토닥여주었더니 잠들었습니다",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/eiNPT/dJMcahQ7LIo/9259Igcr034ae5BFKjC2O1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cn3t1s/dJMcahQ7LIw/EU0WYwV3vJiH9PPN3IMtC0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kLhDg/dJMcahQ7LIq/VsmrptgdCspsh8JsjSHSkk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0349_2026-03-09_1359277471_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0349_2026-03-09_1359277471_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0349_2026-03-09_1359277471_03.jpg"
+    ]
+  },
+  {
+    "id": "1360644201",
+    "date_written": "2026-03-11",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "월요일에 이어 어제는 터널 신체놀이 교구를 활용해 더욱 역동적인 확장 활동이 이루어졌습니다. 아이들은 터널을 신나게 통과하며 활발하게 몸을 움직였답니다.\n오늘은 \"선생님, 깜깜한 터널 속으로 들어가고 싶어요!\"라는 친구들의 호기심 어린 의견이 있었답니다.\n어떻게 지원해 주면 좋을까 아이들과 이야기를 나누다가 천을 덮어 비밀 터널을 만들어 주었더니,\n아이들은 그 안에서 옹기종기 모여 숨바꼭질 놀이를 하며 즐거운 경험을 해보았습니다.\n포근한 날씨 속에 다 함께 메낙골 공원으로 탐험을 다녀왔습니다. 공원 곳곳에 파릇파릇 돋아난 새싹들을 발견하고\n\"우와! 새싹이다!\"라며 반갑게 인사를 나누었답니다.\n새싹을 관찰하던 중 잘 보이지 않는다는 의견이 있어 내일은 돋보기를 준비해서 다시 공원을 찾기로 약속했습니다.\n\n하준이에게 오전에 물어보니 바지는 벗고 싶지 않다고 해서 입고 놀이했습니다. 점심 후 낮잠 자기 전에 다시 한번 물어보니 그때는 벗겠다고 하더라고요. 요즘 화장실 사용에 관심을 가져서 \"하준이도 서서 쉬 할래요\"라고 이야기하는 모습이 자주 보입니다. 오늘도 2~3번 시도는 해보았고 성공하지는 못했지만 하준이 너무 멋지다고 칭찬해 주었어요. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/dVIcgj/dJMcaf6REuv/4ecast2nLD0a00k9PkTHJ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dHtw7H/dJMcaf6REuu/Y7tA61jiYycIHjk5OQMV9k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fWveu/dJMcaf6REut/QFZXdxDSpTKniKOqInCxKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEBnyi/dJMcaf6REuE/xEoK6KYkCgD6Z3AZIKdqSK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0350_2026-03-11_1360644201_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0350_2026-03-11_1360644201_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0350_2026-03-11_1360644201_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0350_2026-03-11_1360644201_04.jpg"
+    ]
+  },
+  {
+    "id": "1361999032",
+    "date_written": "2026-03-13",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "터널놀이가 이번 주 계속 이어지고 있습니다. 상자를 길게 연결해 상자 터널을 만들고 터널 바닥에는\n에어캡을 깔아 안전을 챙김과 동시에, 아이들이 터널을 통과할 때마다 \"톡톡\" 소리와 촉감을 느낄 수 있도록 지원해 주었습니다.\n차례를 지켜 터널을 통과하는 아이들의 얼굴에 즐거움이 가득했습니다.\n오늘은 터널을 넓게 펼쳐 새로운 놀이 공간으로 바꿔 보았습니다. 이면지 뒤에 숨겨진 친구들의 얼굴 사진을 찾기 위해\n손으로 종이를 찢어보았습니다. 소근육을 활용해 종이를 찢으며 사진 속 친구의 이름을 불러주었답니다.\n돋보기를 들고 실외 놀이를 나갔습니다. 돋보기를 통해 새싹들을 아주 가까이서 관찰해 보았습니다.\n\"선생님, 이것 좀 보세요! 정말 커요!\" 라며 신기해하는 하늘반 친구들이었답니다.\n\n하준이가 터널놀이를 너무 신나 하는 모습입니다. 터널 통과하기 무한 반복하며 \"선생님 터널 재밌어\"라고 이야기해 주었답니다.\n한 주 동안 열심히 생활해 준 하준이에게 칭찬과 격려 부탁드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/FWacV/dJMcafy46d3/NH3PkdKGMMkRvyvFkeV201/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bIxE54/dJMcafy46ec/fpFRqbh4SrXmPxMCTFOGm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/buUrSu/dJMcafy46dY/Nfq4zwVnzo9ZP3Fz5kIteK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dRs6n3/dJMcafy46em/kh1FoxICRr4CFBMmEZAOi0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0351_2026-03-13_1361999032_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0351_2026-03-13_1361999032_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0351_2026-03-13_1361999032_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0351_2026-03-13_1361999032_04.jpg"
+    ]
+  },
+  {
+    "id": "1362900775",
+    "date_written": "2026-03-16",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "오늘은 친구들과 함께 도트 물감으로 어린이집 그림을 꾸며보는 미술놀이를 하였습니다.\n그림이 그려진 종이를 살펴보며 “세모!”, “네모!” 하고 모양을 발견하기도 하고 “나무가 있어요”라고 이야기하며 그림을 탐색하는 모습을 보였습니다. 아이들은 도트 물감에 큰 흥미를 보이며 어떤 색을 사용할지 생각해 본 뒤 콩콩 찍어보며 그림을 꾸며보았습니다.\n친구와 색을 바꾸어 사용해 보기도 하고 도트 물감을 스스로 열고 닫아보며 즐겁게 놀이에 참여하였습니다.\n하준이는 핑크색과 파란색에 특히 관심을 보이며 콩콩 찍어보기도 하고 도화지에 쓱~ 하고 문질러 보기도 하면서 \n미술놀이를 즐기는 모습이었습니다.\n오늘은 미세먼지가 나쁨 단계로 실외활동 대신 실내 대체놀이를 진행하였습니다.\n알록달록한 종이컵을 이용해 높이 쌓아보며 놀이하였고, “우리 집이에요”라고 말하며 집을 만들어보는 신체놀이로 이어지기도 하였습니다. 점점 높아진 종이컵 집은 친구의 집과 연결되며 함께 놀이하는 즐거운 시간이 되었습니다.\n\n교실에 올라와서 하준이 바지 벗고 왔어.라고 이야기해 주더라고요. 낮잠 전 \"하준이 바지 입을 거야\"라고 이야기해서 \"하준아 낮잠 자고 일어나서 입으면 편할 것 같은데 어때?\"라고 물어보니 좋다고 하더라고요. 낮잠 후 화장실에서 변기를 잡고 응가 하는 중에 기저귀가 새서 여벌내복으로 갈아입었습니다. \n원에서는 무조건 입히고 벗기기보다 아이의 의견을 존중해주고 있습니다. 하준이에게도 물어보면 좋고 싫음에 대해 이야기해 주더라고요.\n현관에서의 탈의는 하준이에게 조금 부끄러운 상황이 될 수도 있으니 교실에서 진행할 수 있도록 부탁드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cURdbe/dJMcaiP4VIK/olopUx2ipuXZeWrOAxs1y0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bk7mBn/dJMcaiP4VIH/Wvcb9G9NTKiwtB4k64vv71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/citmAI/dJMcaiP4VIM/fqrIqgQk56HDUNskC1PRE0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0352_2026-03-16_1362900775_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0352_2026-03-16_1362900775_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0352_2026-03-16_1362900775_03.jpg"
+    ]
+  },
+  {
+    "id": "1364285846",
+    "date_written": "2026-03-18",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 친구들의 얼굴 사진을 활용해 가위로 오려보는 놀이를 해보았답니다. 서로의 얼굴을 확인하며 \"이건 누구야~\" 하고\n이름을 불러주는 모습에서 친구를 향한 관심과 우정이 느껴졌답니다.\n아이들의 제안으로 시작된 도트 물감 찍기 활동은 오늘 더욱 확장되었습니다. 어제 제공한 얇은 종이가 찢어져 아쉬워했던 점을 보완해,\n오늘은 두꺼운 종이접시를 준비해 주었습니다. 덕분에 아이들은 훨씬 안정감 있게 콩콩! 물감을 찍으며 자유롭게 색을 탐색했습니다.\n물감놀이를 하며 동그란 종이접시를 보고 맛있는 도넛이야 서로 이야기하는 모습이었답니다.\n\"나는 딸기 맛이요!\", \"나는 초코 도넛!\"\n자신이 좋아하는 맛을 이야기하며 색으로 표현해 보았는데, 아이들의 상상력이 더해진 도넛들이 정말 먹음직스러웠답니다.\n미세먼지와 비로 인해 실내대체놀이가 진행되었습니다.\n어제는 알록달록 손목 리본을 차고 음악에 맞춰 나비처럼 팔을 흔들며 신체놀이를 했고 오늘은 파라슈트를 이용해\n머리 위로 쏟아지는 '비'를 표현해 보았습니다. 파라슈트가 움직일 때마다 아이들은 까르르 웃음을 터뜨리며\n비 오는 날의 정취를 교실 안에서 마음껏 즐겼습니다.\n\n하준이는 평소와 다름없이 원에서는 활발하게 지냈습니다. 다만 아무래도 만 2세 반은 교실이 넓어지고 친구들도 많아지면서\n지켜야 할 규칙들과 안전사고의 위험이 있어 뛰기보다 걸을 수 있도록 이야기하고 있습니다.\n우리 하준이가 조금 불편해할 수도 있을 것 같지만 단체생활에 적응하기 위한 과정이오니 하준이를 믿고 긍정적인 격려와 지지 부탁드립니다.\n\n하준이가 낮잠 자고 일어나서 보니 이불에 실수를 했더라고요 여벌옷으로 갈아입었습니다. 이불과 여벌옷 보내주세요\n\n*오늘 가정으로 26년 1학기 학부모상담신청서와 사전설문지를 보내드립니다. 빠짐없이 작성하셔서 20일(금)까지 회신 부탁드립니다. \n\n*3월 20일 금요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bCACmL/dJMcaiiiWxN/rqc498FJbTuLO80FJErVck/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dRvJoM/dJMcaiiiWxQ/kOOqWPCSrGUTeH7nEkcyw1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bJcPof/dJMcaiiiWsH/2ZntMUu3zoXLBaWhiIGDt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cIklfz/dJMcaiiiWsR/BtFwxy81NhRIXOKUxyH06K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/8PThx/dJMcaiiiWsJ/2CP1QXbprzNbMKoeDwkbnK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0353_2026-03-18_1364285846_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0353_2026-03-18_1364285846_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0353_2026-03-18_1364285846_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0353_2026-03-18_1364285846_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0353_2026-03-18_1364285846_05.jpg"
+    ]
+  },
+  {
+    "id": "1365712966",
+    "date_written": "2026-03-20",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "도트물감을 찍었던 종이접시에 구멍을 뚫어 도넛 모양을 만들고 보석 스티커를 함께 제공해 주었더니 아이들이 보석스티커와 도넛스티커를 붙이며 각자 개성 있게 나만의 도넛그림을 완성하였답니다.\n텃밭에 올라가 우리가 심을 작물자리를 알아보고 다육이 모종을 탐색한 뒤 물을 주어 보는 시간도 가졌습니다. 식물을 가까이에서 관찰하며 흥미를 보였고, 물을 주는 경험을 통해 자연과 친해지는 모습을 보였습니다. 연계활동으로 다육이를 옮겨 심을 화분을 꾸며보았다. 하늘반 친구들은 “다육식물이 잘 자랄 집을 만들어보자”는 제안에 적극적으로 반응하며 참여하는 모습이었습니다. 스스로 스티커를 떼어 투명한 화분에 붙여보는 과정에서 눈과 손의 협응력과 소근육 조절 능력을 기를 수 있었답니다. 실외놀이터에 나가 질서를 지키며 마음껏 신체를 움직여보고 놀이 기구를 이용해 보며 신나게 뛰어놀았습니다.\n하준이는 외투와 바라클라바를 착용하지 않겠다고 실외놀이 가기 전부터 거부를 하는 모습이었습니다. 너무 추워서 놀 수 없을 것 같다고 하니 외투는 입었는데 바라클라바는 안 쓰겠다고 해서 착용하지 않았습니다.\n하준이와 즐겁고 편안한 시간 보내시고 금요일쯤 하준이의 컨디션 알려주시면 현장학습 갈 때 참고가 될 것 같습니다.\n현장학습 관련 안내문은 다음 주에 키즈노트로 안내해 드리도록 하겠습니다.\n낮잠 전 물을 많이 마시고 잠들었는데 일어나기 전 기저귀가 새서 여벌내복 바지로 갈아입었습니다.\n\n*소방대피 훈련에 참여하여 안전하게 대피하는 경험을 하였습니다.\n* 30일 월요일은 <꽃보다 딸기> 현장학습이 있습니다. 자세한 일정은 추후 재안내드리겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bROmS0/dJMcabKkgU8/nbrJ5GrtaLwzcDrbGtpll0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZTVqE/dJMcabKkgU6/ne8oVDTcKyJK1ibZ3sAlhk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cCtIe8/dJMcabKkgU9/VprOvAGrqzb5lTmNRgwot1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bobHV4/dJMcabKkgVf/2OBMtFUKxC7g2CgI4UUvv0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d4FJl/dJMcabKkgVi/j2pKmx53VzlkJANix58jWk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAKw91/dJMcabKkgVl/kbA6oZtGRFEStSaZKnKqW1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0354_2026-03-20_1365712966_06.jpg"
+    ]
+  },
+  {
+    "id": "1369363923",
+    "date_written": "2026-03-27",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "안녕하세요\n하준이와 즐거운 시간 보내고 계신가요?\n월요일 하준이 현장학습 관련 안내드립니다.\n준비물과 등원시간 확인 부탁드립니다.\n하준이와 편안한 주말 보내시고 월요일에 뵙겠습니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bTRrkc/dJMcaarbSHR/MKSLVH9kKmjHZF0Uu0wQ6K/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0355_2026-03-27_1369363923_01.jpg"
+    ]
+  },
+  {
+    "id": "1370285520",
+    "date_written": "2026-03-30",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘 하늘반은 처음으로 '꽃보다 딸기' 농장으로 설레는 현장 학습을 다녀왔습니다.\n아이들이 직접 빨간 딸기를 따보고 그 자리에서 맛보며 오감으로 자연을 듬뿍 느끼는 행복한 시간이었습니다.\n노란 버스를 탄다며 신나 하더니 이동하는 차 안에서도 안전벨트를 잘 착용하며 안전 약속을 멋지게 지켰답니다.\n신나게 놀다 온 덕분에 점심 식사도 평소보다 더욱 맛있게 먹었습니다.\n밥을 먹으면서도 연신 딸기 이야기를 하며 즐거웠던 기억을 회상하는 모습이었습니다.\n아이들이 직접 수확한 딸기를 한 팩씩 보내드리니, 가정에서도 아이의 즐거운 경험을 이야기 나누며 달콤한 시간 보내시길 바랍니다.\n\n하준이가 일주일 만에 등원했는데도 평소와 다름없이 잘 지냈습니다. \"선생님 하준이 엄마랑 아빠랑 잘 놀고 왔어요.\"라고 이야기하며\n보고 싶었다고 말해주더라고요. ^^\n딸기농장에 들어선 순간부터 신나 하는 모습에 저도 신났답니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/FEd15/dJMcaaY2kRN/8rcyFe4WmBsQrYEbLEkpV0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/e5XDu/dJMcaaY2kRO/mCSfjcuENSZC2OoGsrkUHk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZew6X/dJMcaaY2kRS/wW9G9NRBClrIB2XJR4D6Ik/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bYEhQQ/dJMcaaY2kR9/rfhCfOEIC1nkjGsg8DSRt0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fnl2w/dJMcaaY2kSc/sozk5tzxude1AbLZ7Z6H71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2M2Pv/dJMcaaY2kSl/BZ6IWWeXJWNS35v1guKVdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWlLdb/dJMcaaY2kSn/HfO0F0jsxVPbrbtK4PKm0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cd88E7/dJMcaaY2kSp/OnCDv2FLWV6Imq5SksdKM1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bbKAb4/dJMcaaY2kSs/menyCdCsaRyoto0r0A16N0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cRRrLS/dJMcaaLwoXw/b1j8vPyWZ6oNB0LvdkHRsK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0356_2026-03-30_1370285520_10.jpg"
+    ]
+  },
+  {
+    "id": "1371704547",
+    "date_written": "2026-04-01",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "월요일 견학 길에 보았던 예쁜 꽃길을 회상하며 어제 우리 친구들과 색깔 아이스크림 막대를 이용해 '하늘반 꽃길'을 만들어 보았습니다.\n알록달록한 막대를 하나씩 놓아 길을 만들고, 그 위로 장난감 자동차들을 굴려보았습니다.\n가벼운 자동차가 지나갈 때는 문제없이 잘 달리던 길이, 무거운 자동차가 지나가자 \"어어!\" 하며 길이 무너지는 경험을 하기도 했습니다.\n아이들은 무게에 따라 길이 변하는 모습을 관찰하며 무척 신기해하고 즐거워했답니다.\n오늘은 놀이를 더 확장할 수 있도록 교실 한쪽에 화사한 벚꽃 배경판을 지원해 주었습니다. 친구들은 벚꽃 스티커를 붙여 나무를 풍성하게 만들고, 그 사이사이에 귀여운 꿀벌 스티커를 붙이며 마치 봄 동산에 온 것처럼 집중해서 꾸며주었습니다.\n어제와 오늘, 메낙골 공원과 배드민턴장으로 산책을 다녀왔습니다. 활짝 핀 꽃들을 감상하며 \"선생님, 여기 꽃 있어요!\"라고 외치는 아이들을 따라 눈을 돌려봄이 멋진 봄 풍경이 펼쳐졌답니다. 따뜻한 봄바람을 맞으며 친구들과 함께 마음껏 뛰어놀며 에너지를 발산하는 시간을 가졌습니다.\n\n*가정에서도 영어를 즐겁게 접할 수 있도록 '키즈몬 영어' 교재를 배부해 드립니다.\n교재 앞쪽에 붙여드린 개별 아이디와 비밀번호로 홈페이지에 접속하시면 다양한 콘텐츠를 이용하실 수 있으니,\n아이와 함께 자유롭게 활용해 주세요.\nhttps://room.kidsmon.com/ (키즈몬 영어 홈페이지)\n\n*오늘은 \"sk텔레콤 서비스에이스\"와 함께하는 [스마트폰 과의존 예방 ZOOM교육]이 있었습니다. 올바른 스마트폰 사용법에 대해 알아보는 유익한 시간이었습니다.\n\n하준이는 어머님의 걱정이 무색하게 평소보다 더 즐거운 하루를 보냈습니다. 아침에 할머니 할아버지 다녀오세요 하며 인사도 해주더니 교실에 붙여준 벚꽃배경판을 보고는 \"꽃이야 산책 가서 봤지? 하준이 딸기 갔었지\" 이야기하며 관심을 보이는 모습이었습니다. 친구들이 변기를 사용하니 하준이도 관심을 보여 소변기 앞에 서 보면서 \"쉬 마려우면 변기에 하는 거야\"라고 이야기하기도 했답니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bjc2IL/dJMcaaEND7l/bN2cjboK35ySXJguH4hph1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgyLO0/dJMcaaEND60/eYgrX5rNKdZmUVhilH6Po0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bjKm30/dJMcaaEND6Y/cDoyKfMKjikTy9x1SKglO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/URX1C/dJMcaaEND7i/NFB7PNs26dZCILnnMuRpE1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LlROJ/dJMcaaEND7j/2k1pXOv1gjvlZrIpmyrWE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cJ7Zi4/dJMcaaEND7A/9zVOSaMbWoIAr1A3RN1HH1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b4XSOu/dJMcaaEND7z/cwFImZpL6hFmwBnpyUDsDk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/exvdf/dJMcaibLidO/JDb9UFKd5L071IhulCIK1k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0357_2026-04-01_1371704547_08.jpg"
+    ]
+  },
+  {
+    "id": "1373146319",
+    "date_written": "2026-04-03",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제는 꽃길 놀이 중 나비에 관심을 보이는 아이들을 위해 주름 여과지와 사인펜을 지원하여 번지기 미술 활동을 진행했습니다.\n여과지에 자유롭게 끼적인 뒤 분무기로 물을 뿌리자, 색이 예쁘게 퍼지는 모습을 보며 아이들은\n\"무지개다!\"라고 외치며 색의 변화를 흥미롭게 탐색했습니다.\n오늘은 재활용 상자와 클레이, 습자지를 활용해 나만의 벚꽃나무를 만들어 보았습니다.\n클레이를 직접 눌러 붙여 나무를 꾸미고, 면봉을 이용해 습자지 꽃잎을 풍성하게 표현하며 소근육을 세밀하게 조절해 보았습니다.\n다양한 재료를 탐색하고 스스로 작품을 완성하며 성취감과 예술적 즐거움을 가득 느낀 시간이었습니다.\n아이들의 개성이 담긴 벚꽃나무처럼 화사한 하루였습니다.\n\n*오늘 예정되었던 식목일 행사는 미세먼지/초미세먼지 매우 나쁨으로 인해 월요일로 연기되었습니다.\n*칫솔이 마모되어 교체가 필요합니다. 칫솔을 보내주세요\n\n어제 하준이가 변기에서 처음으로 소변을 성공했습니다. 하준이도 신났는지 \"선생님 하준이 쉬 했어요\" 라며 기뻐하더라고요. 저도 파이팅을 외치며 폭풍 칭찬해 주었습니다. 오늘은 친구들과 같이 화장실에 가면 변기 앞에 서서 시도해 보는 하준이랍니다.\n가정에서도 하준이에게 많은 격려 부탁드립니다.\n하준이가 친구가 머리 묶는 모습을 보더니 \"하준이도 머리 묶어줘요 파란색 머리끈으로\"라고 이야기해서 머리 묶어주었더니 예쁜 표정을 지어주었답니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/h8Jet/dJMb996YcyF/zpfqT9qq7I5p9WqUXfi8BK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cfU3Qu/dJMb996YcyG/mfeddioR9pwuIzKdk8JI2k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/BSxpH/dJMb996YcyH/x7ntXXZt72m4NKxuuPETIK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kZiN9/dJMb996YcyK/Jb1HY3nGc2BcGsWYWOHki0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/g87wG/dJMb996YcyS/LUrK1KaDQlEBIk5mEyaV01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jf38M/dJMb996YcyZ/5uliIv9KRQdIulZykcafkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bqe1gM/dJMb996Ycy0/iC7nlYxk6WGhD2phhp7SPK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dMoI1/dJMb996YcBJ/t7FjHnvm1jhkSPoBNzPl5k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0358_2026-04-03_1373146319_08.jpg"
+    ]
+  },
+  {
+    "id": "1374058083",
+    "date_written": "2026-04-06",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "지난주 만들어두었던 알록달록 주름지와 집게를 활용해 예쁜 나비를 완성했습니다.\n아이들은 직접 만든 나비를 손에 쥐고, 교실 곳곳에 피어난 봄꽃 사진과 그림들을 찾아다니며\n즐거운 봄나들이 놀이를 즐겼습니다. \"꽃에 나비가 앉았어요!\" \"나비는 꽃을 좋아해\"를 이야기하며\n스스로 나비가 되어보기도 했답니다.\n오늘 예정되었던 '감자 심기' 활동은 촉촉하게 내리는 봄비로 인해 아이들의 안전과\n원활한 활동을 위해 내일로 연기되었습니다.\n대신 오늘은 되살림 놀이로 다 마신 우유갑을 깨끗이 씻어 말린 뒤, 내일 텃밭에 꽂아줄 멋진 이름표를 만들었습니다.\n\n하준이는 오전 일과 중에는 열은 없었고 기침이나 콧물도 거의 보이지 않았습니다. 다만 점심 식사 후에는 코가 막혀 불편해하기도 했습니다.\n점심은 입맛에 맞았는지 추가배식을 3번이나 한 뒤 남기지 않고 다 먹었습니다.\n코가 막히는 데다 잠이 오지 않는지 뒤척이다가 조용한 놀이 하며 시간을 보냈습니다.\n\n등원 시 36.9도\n10시 30분 36.9\n11시 30분 37.1도\n1시 37.0도\n3시 36.8도\n\n열은 없었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cFh3bL/dJMcacWV9PD/qHx7Qc7R4G6nF4QK5jksJ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cCkbh7/dJMcacWV9PB/93tQI4HQEm1tp1BH69PQ91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/3b6QW/dJMcacWV9PI/qKTgynDxNaMUZxH7RAV4s0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0359_2026-04-06_1374058083_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0359_2026-04-06_1374058083_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0359_2026-04-06_1374058083_03.jpg"
+    ]
+  },
+  {
+    "id": "1375465408",
+    "date_written": "2026-04-08",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "한 친구가 기분 좋게 '나비야' 노래를 흥얼거리며 놀이를 시작하자, 또 다른 친구가 지난 시간에 정성껏 만들었던 나비를 가져와\n\"선생님, 이거 나비야!\"라고 자랑하며 친구들에게 보여주었답니다. 아이들의 흥미를 이어받아 오늘은 알록달록 물감을 활용한 데칼코마니 나비 만들기를 해보았답니다. 하얀 종이 위에 두 손으로 물감을 쭉 짜보고, 종이를 반으로 접어 꾹꾹 누르고 다시 펼쳐보았더니\n예쁜 나비가 완성되었습니다. 아이들은 \"우와! 나비가 나타났어요!\" \"내 나비 이쁘지요?\" 이야기하며 성취감을 느껴보았답니다.\n교실 한쪽에서는 개구리에 관심을 보이는 친구들을 위해 개구리풍선과 개구리알과 비슷한 촉감을 느낄 수 있는 수정토를 제공해 주었습니다. 아이들이 입에 넣지 않도록 안전에 유의하며, 몽글몽글하고 매끄러운 수정토를 직접 손으로 만져보고 탐색하는 시간을 가졌습니다. 또한 개구리풍선을 이용해 점프놀이, 멀리 뛰어보기 등 신체를 이용한 대근육 놀이가 활발하게 이루어졌답니다.\n교실에서의 탐색 후에는 밖으로 나가 돋보기를 들고 공원 곳곳을 살피며 진짜 나비를 찾아보기도 하고, 바닥에 떨어진 하얀 벚꽃 잎을 확대해서 관찰하며 봄의 느낌을 온몸으로 느껴보았습니다.\n\n어제 텃밭에 감자를 심었습니다. 아이들이 직접 땅을 파고 감자를 넣은 뒤 흙으로 덮어주며 \"잘 자라라\"이야기도 해주고 물도 주었답니다.\n\n* 4월 10일 금요일에는 서울형 키즈카페 -여의도점으로 현장학습을 갑니다.\n복 장 : 체육복 또는 편한 옷 / 운동화\n시 간 : 9시까지 등원\n점심은 원으로 돌아와 먹을 예정입니다.\n\n하준이는 오늘 일과 중에 기침을 많이 하는 모습이었습니다. 노란 콧물이 흐르지는 않지만 기침할 때마다 조금씩 나와서 하준이가 불편해하는 모습이었습니다. \n하준이가 낮잠 전 물을 많이 마시고 잠이 들었습니다\n일어나기 바로 전에 쉬를 많이 해서 옷과 이불이 젖었습니다. 여벌바지는 갈아입었고 이불은 세탁후 다시 보내주세요",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bPGvon/dJMcadhhrXl/auYrkJh3Frwj5D1fBCib20/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvw4rA/dJMcadhhrXm/rR6Iz9pxgWUHqK09lczfV1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/desRX5/dJMcadhhrXf/YGPZrP5bQE0Ztp9w4kZEtk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0Bxvr/dJMcadhhrXH/gLkNKL8ILDPpqDWas3Kuj1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fKH7A/dJMcadhhrXE/F6uDI9n20sZMapdinaPzA1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d2LDlN/dJMcadhhrXJ/U1vLTspwSTHCR5E0kAmuWK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rATEz/dJMcadhhrX7/RPh3cJfGnbVTGYczF35rSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/72QKc/dJMcadhhrYc/DFfJLKMBjIikk3yPLc81CK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d3aJZj/dJMcadhhr2o/Ggzk8MUmz6jD27C3KgKmr0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0360_2026-04-08_1375465408_09.jpg"
+    ]
+  },
+  {
+    "id": "1376390751",
+    "date_written": "2026-04-09",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "안녕하세요\n4/10일 5시 20분은 하준이의 학부모상담일 입니다.\n방문 시 우주반 벨을 눌러주시면 됩니다.\n상담시간은 20분 내외이며 다음 상담을 위해 시간을 지켜주시기 바랍니다.\n내일 상담시간에 뵙겠습니다.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1376850181",
+    "date_written": "2026-04-10",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제는 열린 어린이집 날을 맞아 최이서 어머님께서 하늘반 친구들과 함께 놀이해 주셨습니다. 산책과 실외놀이가 예정되어 있었지만 우천으로 인해 교실에서 놀이가 진행되었습니다.\n비록 밖으로 나가지는 못했지만, 교실 안은 벚꽃잎으로 놀이하며 화사한 봄을 느껴보았답니다. 꽃잎을 날려보기도 하고, 꽃비를 맞아보기도 하며 다양한 놀이를 즐겼습니다. 벚꽃풍선도 만들어보고 예쁜 꽃 액자도 만들어보며 즐거운 시간을 보냈답니다.\n귀한 시간 내어 아이들과 함께해 주신 이서 어머님께 다시 한번 감사 인사를 드립니다.\n\n오늘은 친구들과 함께 서울형 키즈카페에 다녀왔습니다! 넓고 쾌적한 공간에 들어서자마자 아이들은 환호성을 지르며 이곳저곳을 탐색하기 바빴답니다. 에너지를 마음껏 발산하며 신나게 뛰어놀고, 다양한 놀이 기구와 교구들을 경험하며 친구들과 한층 더 가까워지는 시간을 가졌습니다. 땀방울이 송골송골 맺힐 정도로 열정적으로 노는 아이들의 모습에 교사들도 즐거움을 느꼈답니다.\n\n하준이는 오늘 키즈카페에서 미끄럼틀을 엄청 좋아하더라고요. 그물놀이터도 빠르게 지나가고 온몸으로 놀이하는 걸 너무 좋아했답니다.\n오늘은 콧물 기침은 거의 없었고 낮잠 시간에만 코가 조금 막히는 모습이 있었습니다. 신나게 뛰어놀아서인지 오늘은 밥을 평소보다 훨씬 많이 먹었습니다. \n\n* 16일 목요일엔 <애플샤인농원>으로 현장학습을 다녀옵니다. 아래의 안내표를 확인해주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cpa1jJ/dJMcagyjOm1/Ah4HFpjuk4ETfv3wXv65Lk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xwdjn/dJMcabX6NfK/BJPgfv6fggRVeygWY0LiMK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bp3CuX/dJMcabX6NfD/4U0rSlXFOU7penGIFnhfA0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/m7t8n/dJMcabX6NfF/dlAJLfrvUAjW07iYrnbdx1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5wfiu/dJMcabX6NfV/Wp8rEWibFcdKiS2kk2tFBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5x6ks/dJMcabX6Nf4/2kgVrjT9IX5h3Pa2Iktlzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5g8VQ/dJMcabX6Nga/qCY9l7RzEXNMWdv3SfG7p1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qPCZj/dJMcabX6Nf9/IwyBGT0TxQTncF9NVAUYP0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZWeHH/dJMcabX6Ngd/mE3JwS9iHDBhmhbnks9b90/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/A73bl/dJMcabX6Ngh/em44mXkmT3ICs9Q8ak7OKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nX8T6/dJMcabX6Ngm/BEpvoEcs54L4bZfeKCGfsK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n7ywd/dJMcabX6Ngp/SqUiGRIX2w3N0uqJJN1OEK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ikEsv/dJMcabX6Ngv/0IBSfi7GQ9BNki3CrQNtHK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wPl7z/dJMcabX6Ngx/sXrhSzzMiw6KpnXmKrpEY1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jaApg/dJMcabX6Ngw/itjV2JhMNdwksA4q8kR9V0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_10.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_11.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_12.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_13.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_14.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0362_2026-04-10_1376850181_15.jpg"
+    ]
+  },
+  {
+    "id": "1377749336",
+    "date_written": "2026-04-13",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "하늘반 친구들은 스티커를 활용해 꽃 터널을 꾸미며 요즘 주변에 피어있는 봄꽃에 대해 이야기 나누고, 알고 있는 꽃 이름을 서로 이야기해보기도 했답니다. 완성된 작은 터널에 자동차를 밀어 통과시키는 놀이에서 더 나아가, 몸을 웅크려 개미처럼 기어서 지나가 보자는 의견이 나왔고, 친구들도 터널 크기에 맞추어 통과하며 즐겁게 놀이에 참여하였습니다.\n텃밭에 심은 감자에 물을 주며 식물을 돌보는 경험을 하고 메낙골 공원에 다녀왔습니다. 지난 시간 벚꽃 놀이의 즐거움을 이어 오늘은 페트병을 재활용한 ‘벚꽃 폭죽놀이’를 하였습니다. 바닥에 쌓인 벚꽃 잎을 페트병에 담고 풍선을 잡아당겨 꽃잎을 날려보며, 눈처럼 흩날리는 모습을 관찰하고 봄의 아름다움을 느껴보는 시간을 가졌습니다.\n\n하준이가 등원하자마자 \"엄마 아빠 머리 잘랐어\"라고 이야기해 주더라고요. \"하준이 이발하니까 너무 멋지다\" 이야기해 주니 씨~익 웃어주었답니다. 지난주보다 찐득한 노란 콧물이 많이 나오는 모습입니다.\n오늘 실외놀이 나갈 준비를 하는데 하준이가 양말을 책상에 던진 뒤 교실을 뛰어다니는 모습이 있었습니다. 다른 친구들이 먼저 준비를 마치고 신발을 신는 동안 하준이와 실외놀이 나갈 시간에는 스스로 신어볼 수 있도록 이야기 나누고 교실에서는 뛰면 위험함을 안내했습니다.\n가정에서도 함께 이야기 나누어주세요.\n\n금요일 귀한 시간 내어 방문해 주셔서 감사드립니다. 하준이와 즐겁고 안전하게 하늘반에서 재미있는 추억 많이 만들도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bSzdH3/dJMcagylvHt/kglkyEyxt3IJ7SQAHjg4l0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bzwoSQ/dJMcagylvHu/3kA0xEge6hkSAoSECe0L0k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dCtzyY/dJMcagylvI9/bwrxrGvfdGzj7DfbW9aXz0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cjmcpW/dJMcagylvHE/E4RqpfNJdTekOPbpAGdoD0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0363_2026-04-13_1377749336_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0363_2026-04-13_1377749336_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0363_2026-04-13_1377749336_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0363_2026-04-13_1377749336_04.jpg"
+    ]
+  },
+  {
+    "id": "1379149168",
+    "date_written": "2026-04-15",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제 하늘반 꽃나무를 만들어보며 친구들과의 친밀감을 느껴보는 시간을 가졌습니다. 내 사진과 친구들 사진이 있는 꽃을 탐색하고, 가위로 오려보기도 했답니다. 점차 우리 반 친구들에게도 관심을 보이며 함께 오리고 붙여보며 놀이가 확장되었습니다. 또한 어린이집 주변에 핀 꽃들을 살펴보며 봄의 변화를 느껴보는 산책도 다녀왔습니다. 어제 산책을 하며 탐색한 경험을 반영하여 오늘은 나뭇잎을 먹는 애벌레를 표현해 보는 놀이로 이어졌습니다. 커다란 초록색 습자지를 종이결을 따라 찢으며 바스락거리는 소리를 탐색하고, 이를 애벌레가 나뭇잎을 먹는 소리로 연관 지어 이야기 나누었습니다. 또 습자지를 작게 구겨 나뭇잎처럼 표현해 보고, 애벌레 놀잇감에 넣어보며 애벌레가 먹는 모습을 상상 놀이로 즐겨보았답니다. 오늘 미세먼지 나쁨 단계로 실내대체활동을 하였습니다. 내가 만든 애벌레를 들고나가지 못해 아쉬움이 남지만 자연의 변화와 봄에 볼 수 있는 주변을 통해 관심과 표현이 확장되고 있습니다.\n\n*4월 22일은 김지안(여)과 안현우(남)의 생일파티가 예정되어 있습니다.\n선물을 주고받는 기쁨을 느낄 수 있도록 3000원 상당의 선물을 보내주세요.\n\n* 내일은 파주시에 위치한 애플샤인농원으로 현장학습을 가는 날입니다.\n체육복&운동화 차림으로 수저 및 준비물을 챙겨 9시 전까지 등원해 주세요!\n\n하준이는 어제보다 기침이 많이 줄어든 모습입니다. 오늘 점심시간에 배고파요 하더니 추가배식 2번 포함해 많이 먹었습니다.\n\"하준이 더 주세요 밥 말지 말고 \"라고 표현해서 \"맞아 하준아 말아먹지 말고 밥이랑 국이랑 반찬이랑 먹어보자\"라고 이야기해 주었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/mpfSO/dJMcaiwbm4I/3wkAY2QoK61uOiP7EoeOUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dnXol6/dJMcaiwbm4H/WdlfSSIxqvbjWAizbgNvu1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bp0jdf/dJMcaiwbm4x/vKMhdPFiQ3knBSIo6V5K91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/90kH0/dJMcaiwbm5d/E88EPaomGtLJvcnbrf8Oe1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/smMGo/dJMcaiwbm5N/gTbAEhX5eFYVJ3QbnIZrR0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c63VoT/dJMcaiwbm5P/B3KKCQHT4bdVodXDtfvng1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wbSju/dJMcaiwbnaq/TpGFmo5eRvHAmicwpqGHOk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0364_2026-04-15_1379149168_07.jpg"
+    ]
+  },
+  {
+    "id": "1380544843",
+    "date_written": "2026-04-17",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제 현장학습에서 아이들은 쑥 옆에 피어 있던 민들레를 관찰하며, 평소 주변에서 보던 것보다 크고 풍성한 모습에 큰 흥미를 보였습니다. 꽃의 향기를 맡아보고, 꽃이 진 후 ‘후~’ 불면 씨앗이 날아간다는 경험을 떠올리며 즐겁게 이야기 나누는 모습이 인상적이었습니다.\n이러한 경험을 바탕으로 오늘은 민들레를 주제로 한 미술활동을 진행하였습니다. 아이들은 습자지를 구겨 풀로 붙이며 어제 보았던 땅의 모습을 표현하고, 휴지심에 물감을 묻혀 ‘톡톡톡’ 찍어보며 꽃잎이 풍성한 민들레를 창의적으로 표현해 보았습니다. 다양한 재료를 활용해 감각적으로 탐색하며 자신의 경험을 작품으로 연결해 보는 시간이었습니다.\n자연의 색으로 볼 수 있는 그림카드로 어린이집 주변을 산책하며 파릇파릇 돋아난 새싹과 활짝 핀 철쭉을 관찰하였습니다. 자연 속에서의 경험이 놀이로 이어지며 더욱 풍부해지는 하루였습니다. 가정에서도 아이와 함께 봄꽃과 자연의 변화를 이야기 나누어 보시면 좋을 것 같습니다. 🌸\n\n*4/20(월)에는 [찾아오는 인형극 - 노리야기] 공연이 원내에서 진행되며 9시 20분까지 등원부탁드립니다.\n\n하준이가 오늘따라 유독 많이 뛰는 모습이 보였습니다. 정리시간이나 실외놀이 나갈 준비를 하는데도 개의치 않고 교실을 뛰어다니거나 양말과 산책조끼를 입자고 말하는 교사의 말을 듣고도 모른척하기도 하더라고요. 친구들이 기다리는 동안 하준이에게 나가기 싫은 건지 의사를 물어보니 바로 나간다고 하더라고요. 친구들아 기다려줘서 고마워 이야기하고 산책을 다녀왔습니다. 이후 하준이와 이야기를 나누며 다음에는 빠르게 준비하고 친구들을 기다려주기로 했습니다. 가정에서도 하준이와 이야기 나누어주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/tT8mY/dJMcahYoEks/uZvRixQVqZuBkbFqAUYSOK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dePKX9/dJMcahYoEku/kkw8RdaXFUTEsHe32fbPk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/0oozQ/dJMcahYoEky/zvxhbt3uWkLOe0WoMEgvMk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0365_2026-04-17_1380544843_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0365_2026-04-17_1380544843_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0365_2026-04-17_1380544843_03.jpg"
+    ]
+  },
+  {
+    "id": "1381443246",
+    "date_written": "2026-04-20",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "[찾아오는 인형극 – 노리야기]를 관람하였습니다.\n처음에는 낯선 환경에 “무서운 거예요?”라고 묻기도 했지만, 인형극 선생님과 인사를 나누며 점차 안정감을 느끼고 기대 가득한 표정으로 인형극을 관람하였습니다. 이야기가 진행될수록 내용에 몰입하며 인형들의 다양한 움직임에 웃음을 보이는 등 즐겁게 참여하는 모습이었습니다.\n또한 자연을 소중히 여기는 내용을 접하며 분리수거 활동도 함께 경험해 보았고, 동생이나 친구가 어려워할 때 방법을 알려주는 모습도 보여 긍정적인 상호작용이 이루어졌습니다.\n교실에서는 우리 주변에서 볼 수 있는 꽃을 탐색해 보았습니다. 다양한 색의 꽃을 살펴보며 자신이 좋아하는 색을 이야기하고, “이건 진짜 꽃이에요?”와 같은 질문을 하며 호기심을 보였습니다. 돋보기를 활용해 꽃을 자세히 관찰하며 탐색을 확장하는 모습도 보였습니다.\n꽃을 가까이 두고 싶어 하는 아이들의 흥미를 반영하여 테이프를 이용해 꽃팔찌를 만들어보며 즐거운 놀이로 이어졌습니다.\n오늘도 아이들의 호기심과 즐거움이 가득한 하루였습니다.\n\n하준이는 인형극에 몰입하며 공연을 즐기는 모습이었습니다. 꽃을 관찰하며 \"이게 무슨 꽃이야? 이거 하준이도 메낙골에서 봤지\" 하며 경험을 나누기도 했답니다. 오늘 기침하는 모습은 거의 보이지 않았습니다. 평소보다 밥도 잘 먹었답니다.\n\n*4월 21일 화요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cgzbhp/dJMcabcOvfv/T8v9kf47UohB5V8vYX0x51/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cAVl1s/dJMcabcOvfw/ekzOODipaltJwcjrIJkvJK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/buksjS/dJMcabcOvfx/1bJ2Ha4cVirzpXVbeKbHAk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/24oS0/dJMcabcOvfA/O3e0VQbXkXcxe1idmnFVr0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0366_2026-04-20_1381443246_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0366_2026-04-20_1381443246_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0366_2026-04-20_1381443246_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0366_2026-04-20_1381443246_04.jpg"
+    ]
+  },
+  {
+    "id": "1381838054",
+    "date_written": "2026-04-21",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "아침에 울면서 등원해서 물어보니 놀이터에서 놀고 싶었다고 합니다.\n미세먼지 때문이라고 했더니 마스크써 라고 하더라고요 바로 울음그치고 간식 먹는중입니다. \n걱정하실까봐 연락드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/tse03/dJMcagyrasx/6RypADWnZpQZJYNzqlThW0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0367_2026-04-21_1381838054_01.jpg"
+    ]
+  },
+  {
+    "id": "1382833871",
+    "date_written": "2026-04-22",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "자연물을 활용한 소꿉놀이를 통해 하늘반 친구들은 보들보들한 꽃잎과 다양한 나뭇잎, 쑥 등을 탐색하며 감각적 경험을 확장하고, 이를 음식으로 표현하는 상징놀이에 즐겁게 참여하였습니다. 자연물의 질감과 형태를 비교하며 또래와 함께 놀이를 이어가는 모습이 관찰되었습니다.\n오늘은 텃밭 선생님과 함께 대추토마토와 참외 등 모종을 심어 보는 활동을 진행하였습니다. 식물이 물을 흡수하고 자라는 과정과 광합성에 대해 ‘잎으로 숨을 쉰다’는 쉬운 표현으로 안내를 들으며 식물의 생장에 대한 기초적인 이해를 도왔습니다. 앞으로도 자주 텃밭에 올라가 우리가 심은 작물과 그 외 다양한 텃밭 작물들이 자라는 과정을 꾸준히 관찰하고 키워나갈 예정입니다.\n지안이와 현우의 생일파티를 하였습니다. 생일축하 노래를 부르며 축하의 마음을 표현하고, 선물을 전달하며 나누는 기쁨을 경험하였습니다.\n친구의 생일을 함께 축하하는 과정을 통해 긍정적인 사회적 상호작용이 이루어졌으며, 친구의 기쁨을 함께 공감하고 표현하는 따뜻한 마음을 경험하였습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bPrj6F/dJMcad2LkWX/tIjfE14wY6eQT1kSY64XZ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/X9q5t/dJMcad2LkWZ/wUJ4MQ1tulE6l1eAjmIUVK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZvzmE/dJMcad2LkWY/AkdrYOzRK2WAMKWwUykIL1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bGttDH/dJMcaaLN99J/hS9gf7L3RSEKtuuQeaQ2N1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eehCan/dJMcaaLN99I/VJkWahKyI6ouCzr1gBTRs1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dqtjdC/dJMcaaLN994/TqYyVGbwjWVW0Zehyj34XK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Axdkj/dJMcaaLOaag/FKaHcLFE6jA6OplJ7hv0Uk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uIcj6/dJMcaaLOaaf/wUoT7hZXS6Mv4suyxzzSl0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bs4JzO/dJMcagebPpX/NoS6iW2kEsf7Ii1GY7CRRK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0368_2026-04-22_1382833871_09.jpg"
+    ]
+  },
+  {
+    "id": "1383553537",
+    "date_written": "2026-04-23",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "안녕하세요 원에서는 코피가 나지는 않았습니다.\n코를 후비는 행동도 거의 보이지 않았으나 입술을 손으로 뜯으려고 하는 모습이 보여 립밤을 수시로 발라주었습니다.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1384248696",
+    "date_written": "2026-04-24",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 열린 어린이집을 맞아 윤주원 어머님께서 하늘반 친구들과 함께해 주셨습니다. 알록달록한 자연물을 색깔별로 분류하며 탐색하고, 광목천에 자연물을 활용해 물들이는 활동을 경험하였습니다. 두드릴수록 색이 배어 나오는 변화를 관찰하며 감각적으로 흥미를 느끼고, 자신만의 방식으로 천을 물들이는 과정에 적극적으로 참여하는 모습이었습니다. 이어 봄꽃을 떠올리며 ‘에마 알머슨’ 작품 활동에 꽃을 붙여보는 미술활동으로 연계해 보았습니다. 또래와 함께 작품을 완성한 뒤 성취감을 느끼며 기념사진을 촬영하고, 이어 텃밭으로 이동하여 우리가 기르고 있는 감자에 물을 주며 자연과의 지속적인 상호작용을 이어갔습니다.\n바쁘신 가운데에도 소중한 시간을 내어 아이들과 의미 있는 경험을 함께해 주신 주원이 어머님께 깊이 감사드립니다.\n\n오늘은 햇볕이 따뜻해지는 계절적 특성을 반영하여 실외활동 시 활용할 수 있는 모자 만들기 활동을 진행하였습니다. 레이스와 다양한 스티커를 활용해 개성 있는 모자를 꾸며보았습니다. 완성된 모자를 착용하고 텃밭으로 나가, 우리가 심은 감자와 모종에 물을 주고 비눗방울을 잡으며 신체활동을 경험하였습니다.\n\n*4/27(월) 서울시 방문간호사 지원사업으로 '감염병예방 및 손 씻기' 주제로 원아들 교육이 진행됩니다.\n9시 40분까지 등원해 주시기 바랍니다.\n\n일과 중에 기침 증상은 거의 보이지 않았습니다. 하준이 말로는 오늘은 씩씩하게 등원했다고 하더라고요. ^^ 하준이 최고해주었더니 기분이 좋은 모습이었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/DLB3g/dJMcabxbjet/2HRi5KhvAHWlXmJ0WlfU5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c2obvc/dJMcabxbjeq/d5bjGySXRJS26jpEeMUMK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tOwmp/dJMcabxbjes/h0qm5YwKeCNk3fCx2eKGg0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iU7cI/dJMcabxbjeG/TQJb2uhq9Ff2YvNt6UzA71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cuj1k9/dJMcabxbjeM/N0daCTTDCex8KevaVUm8RK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bDkXak/dJMcabxbjeI/4mCsTx4n842XeKARf4y7N1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/CHTJN/dJMcabxbjeR/RzKmRSUsSMBOhRmykLwJS0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lV6YL/dJMcabxbje1/dpa5aY88wxA9dGkw20Pg40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cusp4C/dJMcabxbje0/k8iuWm9wkEYMV7NlmtksSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2lJPr/dJMcabxbje4/mdpyMqBR4WYlNglgarkdLK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/MtD7B/dJMcabxbje5/ZwUNMvJp3QHk0bD9xRKrJk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_10.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0370_2026-04-24_1384248696_11.jpg"
+    ]
+  },
+  {
+    "id": "1385136799",
+    "date_written": "2026-04-27",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘은 방문간호사 선생님과 함께 \"감염병 예방 및 손 씻기 교육\"을 진행하였습니다. 손을 씻지 않았을 때 발생할 수 있는 다양한 감염병에 대해 알아보고, 올바른 손 씻기 방법을 단계별로 익히며 위생의 중요성을 인식하는 시간을 가졌습니다.\n또한 간단한 건강사정을 통해 영아들의 전반적인 건강 상태를 살펴보았습니다.\n텃밭에 올라가 상추와 오이고추 모종을 심어보았습니다. 지난 활동 경험을 바탕으로 간단한 설명을 들은 뒤 자연스럽게 참여하며, 구멍에 모종을 넣고 흙을 덮어주는 과정을 능숙하게 수행하는 모습을 보였습니다.\n이후 도시락 속 음식 그림을 활용한 가위놀이를 하였습니다. 다양한 음식의 모양을 관찰한 후 선을 따라 오리며 소근육을 조절하는 경험을 하였고, 자신이 좋아하는 음식이 잘려나가지 않도록 신중하게 가위질을 하는 모습도 보였습니다. 완성된 음식들을 모아보며 나들이 상황을 상상하고 또래와 이야기를 나누는 등 놀이가 확장되는 모습이 나타났습니다.\n\n하준이와 주말 지낸 이야기를 하는데 엄마 아빠랑 지하철 탔어, 엘베도 타고 에스컬레이터도 타고 재미있었어라고 이야기해 주더라고요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/chJePD/dJMcahEbL7j/Gt5kBYIOtvZVKVchyVN2cK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bBJeJX/dJMcahEbL7h/pm76TFK9j2dKlVcMVcHsM0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fieph/dJMcahEbL7m/cNOvPxdKzQs5PkWJO9yx21/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qhW4Q/dJMcahEbL7o/lpKWrCRYZsnmcDr3P0Y7uK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/AjAHT/dJMcahEbL7p/m86x5M5jtTZGK18g6uiOxk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dPcBo/dJMcahEbL7n/yZBQsiwVhhrfpZ1eqIpN71/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0371_2026-04-27_1385136799_06.jpg"
+    ]
+  },
+  {
+    "id": "1386538263",
+    "date_written": "2026-04-29",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "도시락 그릇을 들고 바깥으로 나가 자연물들을 담아보는 놀이로 자연스럽게 확장되었습니다.\n나뭇잎이나 꽃잎 등을 음식처럼 담아보며 상상놀이를 즐기는 모습이 인상적이었습니다.\n어제의 놀이를 반영하여 오늘은 ‘나의 자연물 도시락’을 꾸며보는 활동을 하였습니다.\n다양한 자연물 그림에 색연필로 색을 칠하며 자신만의 도시락을 표현해 보았고, 도시락통을 꾸미는 과정에서도\n즐겁게 참여하는 모습을 보였습니다.\n이후 보냉가방을 들고 바깥으로 나가 자연물을 담아보며 탐색 놀이를 이어갔습니다.\n\n하준이는 일과 중에 어제보다 기침하는 빈도가 더 높아졌습니다. 특히 낮잠 시간에 기침을 많이 하는 모습입니다. \n\n*하늘반 친구들이 실외 산책과 텃밭 놀이를 더욱 즐겁고 안전하게 즐길 수 있도록 원에서 아이들 전용 모자를 준비했습니다.\n아이들이 땀을 흘리거나 흙이 묻는 등 매일 사용하는 물건인 만큼, 위생적인 관리를 위해 매주 금요일 가정으로 보내드릴 예정입니다. 주말 동안 깨끗하게 세탁해 주신 후 월요일 등원 시 다시 보내주시면 감사하겠습니다.\n소중한 우리 아이들의 건강한 실외 활동을 위한 가정의 협조에 항상 감사드립니다.\n\n*5월 11일(월)~13일(수)은 하늘 1반 담임교사의 연차로 인해 대체 선생님께서 아이들과 함께해 주실 예정입니다.\n이 기간 동안은 알림장과 사진 발송이 없으며, 투약 의뢰서만 확인 가능하오니 양해 부탁드립니다.\n또한, 등·하원 시간에는 하늘 2반 선생님께서 도와주실 예정이니 참고해 주세요.\n개별적으로 전달하실 사항이 있으시면 전화 또는 등원 시 맞이해 주시는 선생님께 전달해 주시길 바랍니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/eCnr74/dJMcadog9hn/DnbJ5GSK8oljpOHwnG7Bs1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Utzfu/dJMcadog9hq/snz7k2Ott8hscDPWnI1HNK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5jncM/dJMcadog9hm/iYPfeUoTrxknpKW6kI2bik/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0372_2026-04-29_1386538263_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0372_2026-04-29_1386538263_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0372_2026-04-29_1386538263_03.jpg"
+    ]
+  },
+  {
+    "id": "1387293084",
+    "date_written": "2026-04-30",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "따뜻한 날씨에 돗자리를 펼쳐주자 하늘반 친구들은 “소풍 가요!”라고 이야기하며 하나둘 모여들었습니다. 교실에 있는 재활용 상자와 블록을 활용해 도시락을 만들어 보기도 하고, 다양한 음식을 요리하는 흉내를 내며 즐겁게 놀이를 이어갔습니다. 친구들과 함께 소풍 가는 상황을 상상하며 역할놀이를 경험하고, 즐거운 상호작용 속에서 놀이가 확장되는 모습을 보였습니다.\n텃밭에 올라가 쑥쑥 자라고 있는 감자, 방울토마토등 우리가 심은 모종이 얼마나 자랐는지 탐색하고 물을 주었어요~\n하준이는 일과 중에는 열은 36.8~9도를 유지했습니다. 기침은 어제보다 호전된 모습으로 식사할 때와 낮잠 전에만 조금 있었습니다.\n하준이와 즐거운 연휴 보내세요. ^^\n\n신체계측을 하였습니다.\n키: 91cm\n몸무게: 13.4kg\n\n*최근 수족구와 열감기가 유행하고 있다고 합니다, 연휴 동안 아이들의 위생 관리(외출 후 손 씻기 등)와 건강에 각별히 유의해 주시기 바랍니다. 즐거운 마음으로 5월 4일 어린이날 행사에서 건강하게 만날 수 있도록 가정에서도 따뜻한 보살핌 부탁드립니다.\n\n*5월에는 하늘반에서 ‘고마운 우리 가족’이라는 주제로 놀이를 합니다. 아이들이 놀이 속에서 가족을 떠올리고 역할을 표현해 볼 수 있도록, 엄마·아빠와 관련된 소품이나 물품이 있으시면 원으로 보내주시면 감사하겠습니다.\n보내주신 물품은 놀이 활동에 소중히 활용한 후 안전하게 다시 전달드리겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/gXJ9G/dJMcahxvjsM/w7LVoy7cK1zOxwSRrqiK80/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Ao6Ej/dJMcahxvjsL/jNTbVTX9QXGQ8gFi0f5nGK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QaSow/dJMcahxvjsK/f3C0pVxvlLBoMUkaa6T9s1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gbV29/dJMcahxvjsP/MPw8X2blr6RkQPPotZqYLk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0373_2026-04-30_1387293084_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0373_2026-04-30_1387293084_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0373_2026-04-30_1387293084_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0373_2026-04-30_1387293084_04.jpg"
+    ]
+  },
+  {
+    "id": "1388852145",
+    "date_written": "2026-05-06",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "오늘은 우리 하늘반 아이들과 함께 행복한 어린이날을 보낸 이야기를 나누어 보았습니다.\n친구들과 서로 받은 선물 이야기를 하며 꽃을 피우는 아이들의 얼굴에는 웃음이 끊이지 않았답니다.\n단순히 즐거운 날을 넘어, 우리가 사는 지구를 소중히 여기는 마음도 함께 배워보았습니다.\n산책 전, \"어떻게 하면 지구를 아프지 않게 할 수 있을까?\"에 대해 이야기를 나눈 뒤,\n각자의 개성을 담아 멋지게 꾸민 조끼를 입고 밖으로 나갔습니다.\n따뜻한 봄을 느끼며 산책하는 동안 \"쓰레기를 버리지 않아요!\", \"꽃을 꺾지 않아요!\"라며 지구를 위해\n우리가 할 수 있는 일들을 스스로 찾아보는 기특한 모습도 보여주었답니다.\n\n*5/15(금)에는 곽태영(여아) 친구의 생일파티가 있습니다.\n3000원 상당의 선물을 5/13(수)까지 보내주세요.\n\n*5월 가족 주제로 놀이를 계획하고 있습니다. 가족사진을 보내주시거나 키즈노트로 올려주시기 바랍니다.\n더불어 가족이 사용하는 물품을 보내주시면 한 달 동안 아이들 놀이에 사용 후 다시 보내드리겠습니다.\n\n어린이집에서는 이빨로 아랫입술을 긁는 모습은 빈번하게 관찰되지 않았습니다.\n다만 손으로 자꾸 턱을 만지거나 아래 입술을 만지는 모습은 종종 있었습니다.\n원에서도 입에 손을 대거나 아래입술을 만지지 않도록 하준이와 지속적으로 이야기 나누도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/CF7Sw/dJMcai4emAm/nOGyvRn0MwYEU7QjRU9ypK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hFODH/dJMcai4emAl/q7j0dwhMV2Vlx2w6M2rIu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cge4rv/dJMcai4emAn/GPWUk1k6TrIBz4QuB1R560/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0374_2026-05-06_1388852145_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0374_2026-05-06_1388852145_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0374_2026-05-06_1388852145_03.jpg"
+    ]
+  },
+  {
+    "id": "1390360783",
+    "date_written": "2026-05-08",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘은 어버이날을 맞아 우리 하늘반 친구들과 함께 세상에서 가장 달콤한 ‘골드키위청’을 직접 만들어 보았습니다.\n작은 손으로 엄마, 아빠를 생각하며 키위를 조심조심 자르고, 설탕과 상큼한 레몬즙을 정성껏 섞어 완성했답니다.\n\"엄마 아빠 사랑해요!\"라고 속삭이며 만든 달콤한 키위청을 아이와 함께 시원하고 맛있게 즐겨주세요.\n더불어 아이들의 진심이 담긴 깜짝 영상 편지와 예쁜 카네이션 꽃다발도 함께 준비했습니다.\n우리 아이들의 예쁜 마음이 학부모님께 큰 행복으로 전달되길 바랍니다.\n사랑과 웃음이 넘치는 행복한 어버이날 보내세요!\n\n*5/11~13일까지 하늘 1반 신미영 교사의 연차로 대체교사와 보조교사가 함께 해주실 예정입니다.\n알림장 발송은 없으며 특별활동 사진은 5/14일에 함께 업로드해 드리도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/b4iVZr/dJMcab5a3jr/1jCjo36UBJLo78rCKBZTBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mu5II/dJMcaf0NPgO/KuBx7EX58fY2srF2l4DPcK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhARel/dJMcaf0NPgR/lBCecsom32Wfi4rx4q1rwk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0375_2026-05-08_1390360783_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0375_2026-05-08_1390360783_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0375_2026-05-08_1390360783_03.jpg"
+    ]
+  },
+  {
+    "id": "1394101337",
+    "date_written": "2026-05-15",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "지난 시간에 진행한 ‘내 머리카락 물들이기’ 놀이에 큰 흥미를 보였던 하늘반 친구들의 관심을 반영하여 오늘은 선을 따라 오리고 인형 그림에 머리카락을 붙여 꾸며보는 놀이를 하였습니다. 다양한 색의 선을 탐색하며 가위를 사용해 천천히 오려보았고, 반복적인 가위놀이 경험을 통해 점차 형태를 이해하며 활동에 참여하는 모습을 보였습니다. 특히 인형 그림까지 자르지 않기 위해 “여백을 잘라야 해요”라고 이야기하며 스스로 조절해 보는 모습도 나타났습니다. 무지개 색 선을 따라 오린 머리카락을 붙여 자신만의 작품을 완성하며 성취감을 느껴보는 시간이 되었습니다.\n태영이의 생일을 맞이하여 친구들과 함께 생일파티를 하였습니다. 오랜만에 등원한 태영이를 반갑게 맞이하며 친구들이 함께 축하 노래를 불러주고 따뜻한 마음을 나누는 시간을 가졌습니다. 친구의 생일을 함께 기뻐하며 즐겁게 참여하는 모습이 인상적이었습니다.\n실외활동 시간에는 텃밭에 방문하여 무럭무럭 자라고 있는 감자와 수박꽃을 탐색해 보았습니다. “꽃이 피었어요!”, “방울토마토가 초록색이에요~”라고 이야기하며 자연의 변화를 관심 있게 살펴보았고, 직접 물을 주며 생명을 돌보는 경험도 해보았습니다. 자연 속에서 계절의 변화를 느끼며 즐겁게 탐색하는 시간이었습니다. 하준이는 수박 좋아 이야기하며 수박을 빨리 만나고 싶은 마음을 이야기해주기도 했답니다.\n\n* 18일 월요일은 '찾아오는 동물원'이 있는 날입니다. 9시 40분 전까지 늦지 않게 등원해 주세요.\n\n어머님 하준이 편에 보내주신 가족 물품과 선물 감사드립니다. 바쁘실 텐데 원장님과 교사들 선물까지 챙겨주셔서 너무 감동입니다. ^^\n하준이의 성장을 지켜보며 교사로서 책임감과 뿌듯함을 함께 느끼며 저 또한 성장하고 있답니다.\n앞으로도 하늘반에서 하준이를 비롯한 하늘반 친구들과 즐거운 추억 많이 쌓을 수 있도록 하겠습니다.\n하준이와 즐거운 주말 보내세요.\n이번주 활동사진 추가해서 보내드려요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/F3yD8/dJMcaaZzNRA/GNGYv83f2gkt4ZGHwkbN8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ITtw3/dJMcaaZzNRz/8v1LwidFbWXbbDc7ZTVLG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bndAM7/dJMcaaZzNRD/pdVBMjxvFxPZyOssDTkOZk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sudGm/dJMb997tcDY/KFBoRtfB32Ee7h7ztd7lT0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bs664O/dJMb997tcDW/kCr2rRUrQqRw9Y0wLB5jXK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cXl4dN/dJMb997tcDX/rXHJCmA6WdTe48YF58VeJK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cQAq4a/dJMb997tcD2/h1vlmuFLvGhEzH58825ox0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cR1GFg/dJMb997tcD5/KynDsSvQMbVlibHfp7TAMK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/z4KBF/dJMb997tcD4/JO8HFOfFBZtzaCSFqh4nn1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vRBfN/dJMb997tcD7/MaORKZbfRgrPU8aJLYcI6k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/yxnfO/dJMb997tcD8/eg4QL4YEKGkNPt1iIOajSk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_10.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0376_2026-05-15_1394101337_11.jpg"
+    ]
+  },
+  {
+    "id": "1394964790",
+    "date_written": "2026-05-18",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘은 아이들이 기다리던 찾아오는 동물원 체험이 진행되었습니다.\n럭키쥬 사육사 선생님께서 동물들의 특징과 생활 모습을 소개해 주셨고, 하늘반 친구들은 호기심 가득한 모습으로 탐색에 참여하였습니다.\n오리를 보며 “정말 꽥꽥 소리 내요!”라고 이야기하며 움직임과 소리를 집중해서 관찰하였습니다.\n메추리가 알을 품고 있는 모습도 살펴보며 동물의 생활 모습에 관심을 보였습니다.\n아기 앵무새에게는 노래를 불러주고 “사랑해~”라고 말하며 따뜻하게 교감해 보았습니다.\n또한 오리가 좋아하는 애벌레를 직접 손바닥에 올려 먹이를 주는 체험도 진행하였습니다.\n처음에는 조심스러워하던 친구들도 교사와 함께 용감하게 참여하며 성취감을 느끼는 모습을 보였습니다.\n이번 활동을 통해 동물과 교감하며 생명존중 태도와 탐구하는 즐거움을 경험하는 시간을 가졌습니다.\n\n더워진 날씨에 나날이 쑥쑥 자라나는 텃밭식물들이 얼마나 자랐는지 살펴보고 물을 주었어요~\n\n하준이는 양치 중에 응가가 하고 싶었는지 양치를 중단하고 가만히 서서 힘을 주더라고요. 변기에 앉아볼까 했는데 서서 한다고 하더라고요.\n시원하게 응가 후 남은 양치 후 로션을 바르며 \"선생님 하준이 응가 잘했어요\" 하고 뿌듯해했답니다. ^^\n\n오늘 가방에 긴팔 여벌옷을 보내드립니다. 반팔 여벌옷으로 교체해서 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/HtqCQ/dJMcai4nlFy/zyOIPhM4KIPFoQTLOwpbWK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Frb1I/dJMcai4nlFA/bL2y9CuGFGookBxF9brpd0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dhNLDb/dJMcai4nlFz/ehCeK84Xst6VT42qiXzcKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dRLDZ/dJMcai4nlFD/nIrOWpAgNKwkOHheKjNWm1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JeLZS/dJMcai4nlFG/wPwkYd0BBTUR7WKtf473YK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bOcTn0/dJMcai4nlFC/ha5DflCDsaZEH5eOYDh7q0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0377_2026-05-18_1394964790_06.jpg"
+    ]
+  },
+  {
+    "id": "1396367815",
+    "date_written": "2026-05-20",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "어제 아이들이 가위놀이를 한 후 종이조각을 주워보며 \"우리 집에 청소기 있는데\"라고 이야기를 해 직접 청소기를 만들어 지원해 주었더니 하늘반 교실을 너무도 깔끔하게 청소해 주었답니다. 놀이가 이어질 수 있도록 오늘은 가정에서 보내주신 다양한 물건들을 지원해 주었습니다.\n덕분에 하늘반은 오늘 매우 활기찬 모습으로 놀이에 몰입할 수 있었습니다.\n아이들은 엄마, 아빠의 물건을 직접 몸에 걸치고 사용해 보며 큰 흥미를 보였습니다.\n블록으로 만든 컴퓨터로 일하는 시늉을 내기도 하고, 넥타이와 앞치마를 매고 멋진 부모님이 되어 보았습니다.\n\"우리 아빠는 요리를 잘해\"라며 친구에게 음식을 만들어 주기도 하고, 스카프와 가방으로 한껏 꾸민 뒤 \"엄마처럼 커피 마시러 간다\"며 부모님의 일상을 실감 나게 표현하기도 했습니다. 아기 인형을 돌보며 다정함을 배우는 소중한 시간도 가졌답니다.\n엄마와 아빠의 모습을 관찰하고 흉내 내며 정서적 안정감과 성취감을 느낀 하루였습니다. 비가 와서 대체놀이를 준비했지만 아이들의 놀이 흐름이 길게 이어져 실내대체놀이는 짧게 진행했습니다. 놀이를 위해 가방, 옷 등 귀한 물건들을 보내주시고 협조해 주신 학부모님들께 깊이 감사드립니다.\n하준이는 어제보다 기침을 조금 더 많이 하는 모습입니다. 오전 일과에 흥미를 보이다가도 \"하준이 누워있을게요\"하며 누워서 휴식을 취하기를 반복했답니다. 점심도 평소보다 적게 먹었어요. 입맛이 없는지 먹기 싫다고 하며 그만 먹고 싶어 해서 평소식사량의 1/3 정도 먹고 정리했습니다. 가정에서도 살펴봐주세요.\n\n*내일 예정된 소방대피훈련은 비 예보로 인해 연기되었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/csr0ml/dJMcajoGnIp/zkFiFhvBWQx71bZhiGOOv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IkeND/dJMcajoGnIt/wPNKXDbFyz3asjwsQ1SLDK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5heZk/dJMcajoGnIq/pnkuwWMBxVyCZdsrvtkRF1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgbVno/dJMcajoGnIF/l8XpjvX5FTOEYJb3IepYFk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tVvaw/dJMcajoGnID/CmgpyI0z5WKHCiyBb1kqk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tfJF5/dJMcajoGnIC/Bd6zvbo5eXvEpz8d2uAtLK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0378_2026-05-20_1396367815_06.jpg"
+    ]
+  },
+  {
+    "id": "1397751066",
+    "date_written": "2026-05-22",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "이번 주 하늘반 교실에서는 가족놀이가 자연스럽게 이어지며 다양한 역할놀이가 활발하게 이루어졌습니다.\n엄마, 아빠, 내 물건 등 가족 물품에 관심을 보이던 아이들에게 세탁기와 빨랫줄, 빨래집게를 지원해 주자\n금세 놀이에 몰입하는 모습을 보였습니다. 세탁기에 옷을 넣고 돌리는 흉내를 내기도 하고, 직접 빨래를 빨랫줄에 널어보며\n생활 속 경험을 놀이로 표현해 보았습니다. 빨래집게를 하나씩 끼우며 손끝을 조절해 보는 모습도 인상적이었습니다.\n친구들과 함께 “여기 널어요” 하며 놀이를 이어가는 과정에서 서로의 놀이를 자연스럽게 따라 하며 즐거운 분위기가 만들어졌습니다.\n놀이 흐름을 연결하여 소꿉놀이 영역에 있던 수세미에 관심을 보이는 영아들과 수세미를 활용한 미술놀이를 진행하였습니다.\n수세미의 오돌토돌한 촉감을 손으로 만져보며 탐색해 보고, 물감을 묻혀 찍어보는 활동에도 즐겁게 참여하였습니다.\n무늬가 나타나는 모습을 보며 호기심을 보이기도 하고, 다양한 색을 사용해 자신만의 표현을 이어가는 모습이 무척 즐거워 보였습니다.\n실외산책 시간에는 주변의 돌멩이를 살펴보며 우리 가족을 닮은 돌멩이를 찾아보는 놀이도 해보았습니다.\n“엄마 같아요”, “아빠 같아요” 하며 가족의 모습을 찾아 즐거움을 느껴보기도 했습니다.\n놀이 속에서 생활 경험과 가족에 대한 관심을 자연스럽게 확장해 가는 하늘반 친구들입니다.\n\n하준이는 어제보다 기침이 많이 잦아들었습니다.\n주 초반에는 피곤해하는 모습도 보였지만 오늘은 평소처럼 활발한 모습이어서 안심이 되었습니다.\n아침에 등원하면서 보니 할머니와 산책하며 젖었는지 바지가 젖어있어서 여벌바지로 갈아입었습니다. 여벌바지 보내주세요. \n연휴 동안 하준이와 건강하고 즐겁게 보내시길 바랍니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/dtcFwY/dJMcadovj1W/aq8g08buclaTXkIM5k73Q0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/clhH1j/dJMcadovj1X/zPT5amiASOS3lIzkkfoZHK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/huBUb/dJMcadovj1Y/vKJWu8Ji9honpj39LwLyQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c12MXo/dJMcadovj2i/K7Hkm7uvD0D1LbK196hSBK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/L8qQC/dJMcadovj2e/HvKuwi9OOcfDaFZMrA1fq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/tw39t/dJMcadovj2a/DFRuvo454yCnfbmv7HHHHk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0379_2026-05-22_1397751066_06.jpg"
+    ]
+  },
+  {
+    "id": "1399335436",
+    "date_written": "2026-05-27",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "교실에 제공한 가족사진을 보며 선생님이나 친구들에게 소개하는 우리 아이들을 보며 엄마 아빠를 얼마나 사랑하는지\n이해하게 되며 어제는 자연물을 이용하여 엄마 아빠 얼굴을 표현해 보며 놀이하였습니다.\n오늘은 친구들과 함께 엄마, 아빠와 했던 즐거운 놀이와 경험에 대해 이야기 나누는 시간을 가졌습니다.\n캠핑을 다녀온 친구의 이야기에 관심을 보이며 “나도 갔었어요!”, “고기 먹었어요!”라고 자신의 경험을 떠올려 표현하는 모습이 보였어요. 이에 교실에 텐트를 펼쳐 캠핑 분위기를 만들어 주자 자연스럽게 역할놀이가 확장되었습니다.\n친구들은 꼬치에 재료를 끼우는 흉내를 내거나 “맛있게 구워줄게요~”라고 이야기하며 캠핑에서의 경험을 놀이로 표현하였습니다. 특히 경험이 있는 친구들이 먼저 놀이 방법을 보여주자 다른 친구들도 함께 참여하며 음식을 나누어 먹는 모습을 보였답니다. 놀이를 통해 자신의 경험을 언어와 행동으로 표현하고 친구와 함께 상호작용하며 즐겁게 놀이하는 시간이 되었습니다.\n하준이는 캠핑놀이에 잠깐 흥미를 보이며 참여하다가 금세 지루해하며 책을 읽고 누워 있으려고 하는 모습이 보였습니다.\n친구들이 같이 놀자고 해도 거부하는 모습이 있었지만 교사가 손을 잡아주고 같이 해보자 격려하니 그제야 참여하는 모습이었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/btIhy6/dJMcacpKbQN/51Kx1YojHjKYU57L7VDDUK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dibFhs/dJMcacpKbQK/pzCoatpOo1QfW63aJt5NYK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWeKCn/dJMcacpKbQJ/G8cF8Ra5tuzQpPc0hBdYNK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/8NksM/dJMcacpKbQS/GfL4KiCD61brTKff7pdWQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bdfX41/dJMcacpKbQT/2R5XF0EHv82SauEI31coVK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b5i94A/dJMcacpKbQY/XAGrdn2jcal6fxTpx7fVi1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Cs5Au/dJMcacpKbQZ/mL7k9KK0PtC53SyRZfpmK0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0380_2026-05-27_1399335436_07.jpg"
+    ]
+  },
+  {
+    "id": "1400115524",
+    "date_written": "2026-05-28",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "안녕하세요 어머님.\n하준이가 일과 중에는 평소와 다름없이 놀이하며 점심도 추가배식해서 잘 먹었습니다.\n낮잠도 푹 자고 일어났는데 오후 간식 이후 조금씩 컨디션이 떨어지는 모습이었습니다.\n열도 없었고 특이사항은 없었지만 하원 시간에 계속 누워있으려고 하는 모습도 있었습니다.\n환절기다 보니 갑자기 컨디션이 떨어질 수 있는 경우가 있어 공유드립니다.\n가정에서도 잘 살펴봐 주세요.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1400723012",
+    "date_written": "2026-05-29",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제 열린 어린이집을 맞아 부모님이 참여하시 않으셨지만 우리 가족에 관하여 배운 것을 반영하여 우리 집을 꾸며보았습니다.\n집 모양 종이 위에 알록달록 EVA 스티커와 동그란 단추를 붙이며 우리 집을 꾸며보는 놀이를 하였습니다.\n다양한 재료의 색과 촉감을 탐색하며 손으로 떼고 붙이는 과정에 즐겁게 참여하는 모습을 보였습니다.\n“우리 집이에요”, “엄마랑 아빠랑 같이 살아요”라고 이야기하며 가족에 대한 애정을 표현해 보았습니다.\n\n이달에는 ‘가족’을 주제로 엄마, 아빠를 떠올리며 다양한 놀이와 활동에 참여하였습니다.\n가족에 대한 애정과 친밀감을 느끼고, 자신의 생각과 경험을 말로 표현해 보며 한층 성장하는 5월이 되었습니다.\n앞으로도 영아들의 생활 경험과 흥미를 반영한 즐거운 놀이를 이어가겠습니다. 물품, 사진 등 적극 참여해 주셔서 감사드립니다.\n\n5월에 놀이활동 하였던 작품을 이불과 함께 보내드립니다. \n작품은 지난번에 보내드린 파일에 보관하시면 됩니다.\n\n하준이와 즐거운 주말 보내세요. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cHSL3B/dJMcac4kwPF/gKs7KIspsGZpuaZnRaBefK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SntOJ/dJMcac4kwPs/QFUoSl9spKLq5Gr6q1jXIk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lDyMR/dJMcac4kwPv/ytViAZlfIyoWu85qRkeD4k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/DNs5J/dJMcac4kwPR/kiGdNqoNSpqVXXJqbXHzC1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/o5wvL/dJMcac4kwPU/HhxV5EFsXfUpnisbX3PpU0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FHk16/dJMcac4kwP2/sMd2zuxmSXPCGiQwk6t7y1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0382_2026-05-29_1400723012_06.jpg"
+    ]
+  },
+  {
+    "id": "1401648351",
+    "date_written": "2026-06-01",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘 하늘반 친구들은 텃밭으로 올라가 깻잎을 탐색하는 시간을 가졌습니다.\n텃밭에 올라가 초록빛 깻잎을 자세히 살펴보며 자연과 가까이 만나는 즐거운 경험을 해보았답니다.\n친구들은 깻잎을 손으로 조심스럽게 만져보기도 하고 코를 가까이 가져가 향을 맡아보며 깻잎만의 특징을 느껴보았습니다.\n또한 주말 동안 물을 충분히 먹지 못한 작물들에게 물을 주는 시간도 가졌습니다.\n물뿌리개를 이용해 작물 주변에 물을 주며 식물을 돌보는 경험을 해보았습니다. 며칠 사이 열매를 맺은 애호박과 방울토마토 등\n다양한 작물들의 성장에 관심을 가지고 더불어 6월에는 소중한 존재인 \"나\"에 대해서도 관심을 가지고 놀이해 보는 시간을 가져보려고 합니다.\n\n* 오늘은 영등포구 어린이급식관리지원센터에서 진행한 ‘골고루 먹기’ 영양교육에 참여하였습니다.\n다양한 음식에 관심을 가져보고 골고루 먹는 것의 중요성에 대해 알아보는 시간을 가졌습니다.\n*지난 5월 우천 등 날씨로 인해 연기되었던 소방대피훈련이 있습니다. 여벌 양말을 보내주세요.\n\n하준이가 주말 동안 누나랑 놀았어~ 재미있었어요 하고 이야기해 주었습니다. 얼굴에 상처도 너무 신나게 놀다가 넘어졌다고 하더라고요.\n하준이 안 울었어? 물어보니 하준이 안 울었어하며 씩씩한 모습을 보여주었답니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/rBEWz/dJMb997EvlQ/nWwWxVK61wzLI5qf712hS0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JG6e7/dJMb997EvlP/xiXFpzE4KRCK01f1jxtFtk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/by6aM4/dJMb997Evl1/k1xaICYhdtUSOMhUw9syp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/CK1Ya/dJMb997Evmb/VQAk5n19VsXqKyi9nXb53k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bsrsHq/dJMb997Evmf/oTCC9LdY08etHYJH3k5KBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lFmfK/dJMb997Evox/6pBu8lz616Yej8IehuWjkK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0383_2026-06-01_1401648351_06.jpg"
+    ]
+  },
+  {
+    "id": "1403752484",
+    "date_written": "2026-06-05",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "오늘은 미술 영역에 되살림 재료인 휴지심에 아이들의 귀여운 얼굴 사진을 붙여주고, 길게 연결된 종이 머리카락을 제공해 주었더니 교실이 순식간에 '하늘반 미용실'로 변신했답니다! 가위를 쥐고, 종이 선을 따라 조심조심 오르며 \"예쁘게 잘라줄게요~\", \"내 머리 멋있죠!\" 하고 흉내를 내며 놀이에 몰입하는 모습입니다.\n실외놀이시간에는 어제 교실 끼적이기 판에서 손과 발을 따라 그려보았던 흥미를 이어받아, 야외 데크로 나가 시원한 바람을 맞으며 분필 놀이를 즐겼습니다. 넓은 데크 바닥이 아이들의 거대한 스케치북이 되었답니다. 알록달록한 분필로 자유롭게 선을 그리던 중, 바닥에 비친 자신의 그림자를 발견하고 그 테두리를 따라 그리는 신기한 탐색을 하는 친구도 있었고, 어제처럼 스스로 손과 발을 바닥에 대고 꼼꼼하게 따라 그리는 친구도 있었답니다.\n한 주 동안 \"내 모습\"에 대해 탐색해 보고 흥미를 가져보았던 하늘반 친구들입니다.\n\n하준이는 아직 가위오리기가 서툴기는 하지만 스스로 잡고 해 보려는 시도를 많이 하고 있습니다. 가정에서도 안전가위로 많이 연습시켜 주시면 좋을 것 같습니다. 또 친구들이 점심시간에 젓가락을 많이 이용하는데 하준이도 젓가락 사용을 하고 싶어 하더라고요.\n준비해서 보내주셔도 좋을 것 같습니다.\n\n*6/8일(월) 10시에는 굿네이버스와 함께하는 기후환경교육이 있습니다.\n*5월 한 달 동안 가정에서 보내주신 가족물품으로 풍성한 놀이가 진행되었습니다. 오늘 아이들 편에 가정으로 보내드립니다. 협조해 주신 부모님들께 감사드립니다.\n*6월 10일(수)은 하늘 1반 신미영교사의 연차로 인해 대체 선생님께서 아이들과 함께해 주실 예정입니다.\n이 기간 동안은 알림장과 사진 발송이 없으며, 투약 의뢰서만 확인 가능하오니 양해 부탁드립니다.\n*6/11(목)에는 하준이 아버님께서 참여하시는 열린 어린이집이 예정되어 있습니다.\n준비물은 따로 없으며 10시 30분까지 하늘반 벨을 눌러주시면 됩니다. 일정에 변동이 있으시면 말씀해 주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/eqYhP/dJMcacpQ18B/IkET7DC3CGoMJ5bT3GlF01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/baK7XJ/dJMcacpQ18r/wvFQt7J7UQX3PGtrKq3Z70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xyRg1/dJMcacpQ18s/2DzDAXiAaVIV07eZNdCBm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/NbBHR/dJMcacpQ18K/wAazecOA7qikt9QzwoOa01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gKtY0/dJMcacpQ18I/LQMAVCdOGNdLmEknjWKcrk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/AOudr/dJMcacpQ18V/4L1xzZwrTsSArBGaEpOYF1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/N0kpw/dJMcacpQ184/RfXkEimbcD0kSyDzx5QT3K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/enuK2e/dJMcacpQ182/Xi97n0OBJk1qvnuh4mk4vk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0384_2026-06-05_1403752484_08.jpg"
+    ]
+  },
+  {
+    "id": "1404612662",
+    "date_written": "2026-06-08",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "오늘은 굿네이버스와 함께하는 기후환경교육에 참여하여 우리가 살고 있는 지구와 환경에 대해 배워보았습니다.\n다소 어려울 수 있는 내용이지만, 아이들의 눈높이에 맞춘 흥미로운 이야기와 활동을 통해 환경을 보호하는 마음에 대해\n친근하게 다가가는 뜻깊은 시간이었습니다.\n지난주에 이어 이번 주도 '내 몸'에 지속적인 관심을 가지고 탐색하는 시간을 가졌습니다.\n커다란 전지 위에 직접 누워보는 것부터 놀이가 시작되었답니다. 선생님이 아이들의 몸 형태를 따라 선을 그려줄 때,\n몸이 간지러운지 웃음을 터뜨리기도 했답니다.\n전지에 그려진 실제 내 몸의 크기와 형태를 마주한 아이들은 무척 신기해하고 흥미로워하는 모습을 보였습니다.\n\"이건 내 팔이야!\", \"이건 다리!\" 하고 선생님과 함께 각 신체 부위의 명칭을 하나씩 알아맞히며 내 몸에 대한 탐색을 이어갔습니다.\n이후 텃밭에 올라가 주말 동안 훌쩍 큰 작물들을 살펴보고 열매를 맺어 크고 있는 감자, 오이, 호박 등에게\n물을 주며 탐색해 보는 시간도 가졌습니다.\n\n하준이가 시원하게 머리카락을 다듬었네요. 친구들, 선생님들이 하준이에게 멋있다 칭찬해 주니 쑥스러워하면서도 웃음이 나는 하준이랍니다.\n젓가락 사용을 잘 하더라고요. ^^ \n\n*6/9(화) 9시 50분에는 [찾아오는 인형극-노리야기] 공연이 원내에서 진행됩니다.\n원활한 공연관람을 위해 9시 30분까지 등원부탁드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bkUIVK/dJMcaiQ7wHl/6LilxFCBkDng2DyvilrJ01/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/djzUjJ/dJMcaiQ7wHt/S36p9NclFdHDRu6lbJ8Nk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dhZc5y/dJMcaiQ7wHE/ryQkV2ddq4L0iYZDfwrZp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/r3Fi7/dJMcaiQ7wHx/XUZX0KXpHnzBV3xn99z7Hk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bv6Rf4/dJMcadh1bc2/nC02ZsrWiub586uDf7zOk0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0385_2026-06-08_1404612662_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0385_2026-06-08_1404612662_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0385_2026-06-08_1404612662_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0385_2026-06-08_1404612662_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0385_2026-06-08_1404612662_05.jpg"
+    ]
+  },
+  {
+    "id": "1407323281",
+    "date_written": "2026-06-12",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 열린 어린이집을 맞아 하준이 아버님께서 하늘반 친구들과 함께 놀이에 참여해 주셨습니다. \n메낙골 공원에서 자연을 느끼며 부채 만들기 놀이를 했습니다. 부채틀 위에 습자지를 붙이고 분무기로 물을 뿌리자 \n색이 번지고 섞이는 모습을 신기해하며 즐겁게 탐색하였고, 직접 분무기를 조작하며 소근육도 자연스럽게 길러보았습니다. \n함께해 주신 아버님께서 따뜻하게 놀이를 도와주신 덕분에 아이들은 더욱 즐겁고 편안한 분위기 속에서 친구, 어른과 함께하는\n소중한 시간을 보냈습니다. \n\n어제 놀이에 대한 긍정적인 경험을 반영하여 오늘도 습자지를 활용한 미술 놀이를 이어갔습니다. \n커다란 종이 위에 습자지를 붙이고 분무기로 물을 뿌리자 색이 번지고 서로 섞이는 변화를 관심 있게 관찰하며 즐겁게 탐색하였습니다. \n이어 어제 만든 부채에 물감을 떨어뜨린 뒤 빨대로 바람을 불어 물감을 퍼뜨리는 활동을 경험하였습니다. \n물감이 나뭇가지처럼 뻗어 나가는 모습을 기대하며 시도하였으나 아직은 입으로 바람의 세기와 방향을 조절하는 데 다소 어려움을 보였습니다. 앞으로도 다양한 미술 놀이를 통해 호흡 조절 능력과 소근육 발달을 자연스럽게 지원하겠습니다.\n\n* 다음주 금요일(6/19)은 영등포아트홀에서 <목 짧은 기린 지피> 뮤지컬 관람이 예정되어 있습니다. 안내문을 확인해주세요.\n\n오늘 하준이는 낮잠을 자지 않았습니다. 자고 싶지 않은지 이불을 밀어내고 울먹이는 모습을 보여서 하준이에게 물어보니\n\"하준이 안잘거야\" 라고 이야기해주더라고요. 그래서 친구들이 잠들 동안 앉아서 휴식을 취한 후 조용한 놀이(동화책 읽기 색칠하기 끼적이기 등)하며 보냈습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bJviTA/dJMcajbpiKc/GkVAiUiRbTwliTzSyKkSq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcwpPk/dJMcajbpiKa/K7LLpBwk0alULgLSoS03P1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dbW6iT/dJMcajbpiKd/Vvdx7fcSw1UdGFCwPjNqm1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/czDIcM/dJMcajbpiKk/hwsOhfkKXtVvwe815dE7b0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rUFOU/dJMcajbpiKg/q3pYiDYLJIJhm0etlJf1Y1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OlX3X/dJMcajbpiKj/34cbycz4C3Yx02xvVjO7Tk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/by3moy/dJMcajbpiKm/FBp3hL0YUirvDd2FiJ6VE0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cPv20P/dJMcajbpiKr/IZ2JCIPa93OR0MzBi2i5Hk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bpZQ7y/dJMcajbpiKs/nHkxWO507v1PNkPr1l95sK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eg3tk8/dJMcajbpiLo/q3fY4PLx604Kv07OCaZXq1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0386_2026-06-12_1407323281_10.jpg"
+    ]
+  },
+  {
+    "id": "1408168865",
+    "date_written": "2026-06-15",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "하늘반 친구들은 감정을 주제로 동화를 함께 읽으며 다양한 표정을 살펴보았습니다. 그림 속 인물의 얼굴을 보며 \"기뻐요!\", \"속상해요.\", \"화났어요.\"라고 자신의 생각을 이야기하고, 등장인물의 마음을 자연스럽게 표현해 보았습니다.\n이후 감정 표정 블록을 높이 쌓아 보며 어떤 감정인지 맞혀보고, 자신의 감정을 얼굴 표정으로 표현하고 친구의 표정을 관찰하며 서로의 마음을 이해해 보며 놀이하였습니다.\n바깥놀이 시간에는 종이비행기를 만들어 날려보며 비행기가 날아가는 방향을 따라 달려가 잡아보는 신체놀이를 하였습니다. 비행기를 쫓아 달리며 자신의 몸을 자유롭게 움직여 보고, 친구들과 함께 빠르게 달리기와 천천히 달리기를 경험하며 몸의 움직임과 속도의 차이를 느껴보았습니다. 또한 \"내가 더 빨라요!\", \"같이 달려요!\"라고 이야기하며 달리기 시합을 해 보는 등 자신의 신체 능력을 자연스럽게 탐색하며 놀이하였습니다.\n\n* 내일은 서울시 방문간호사 지원사업으로 '신체계측과 영양교육'이 진행됩니다. 9시 40분 전까지 등원해 주시기 바랍니다.\n\n하준이가 일과 중에는 평소와 다름없이 즐겁게 놀이하며 지냈으나 낮잠 이불을 펴자마자\n울음을 보이며 과장된 기침을 하는 등의 행동이 보였습니다. 하품을 계속하는 것을 보면 잠이 오는 것 같은데\n눕지 않으려고 하고 엄마가 보고 싶다는 표현을 이어갔습니다. 낮잠이 자기 싫으면 누워서 휴식을 잠깐 취하자고 해도 눕지 않으려고 해서 교사 옆에 앉아 진정 후 조용한 놀이 하며 시간을 보냈습니다.\n잠시 후 응가냄새가 나서 봤더니 하준이가 응가를 했더라고요. 이후에 2시쯤 낮잠이 들었습니다.\n평소에는 낮잠 이불을 펴주면 제일 먼저 눕고 토닥여주면 금세 잠이 들었는데\n오늘은 응가가 마려워서 더 그랬던 건지 관찰시간이 필요할 것 같습니다.\n혹시 가정에서는 평소 낮잠 시간이 어떻게 될까요?",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bfipMU/dJMcafUwMFs/zHwibAD6kqdzz9LpCRbJBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b9p54n/dJMcafUwMFl/1YurRoEAcd8YErFS1k8IJk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/brpMP1/dJMcafUwMFn/v4s94l81R9J6LHXFxRKveK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0387_2026-06-15_1408168865_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0387_2026-06-15_1408168865_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0387_2026-06-15_1408168865_03.jpg"
+    ]
+  },
+  {
+    "id": "1408847192",
+    "date_written": "2026-06-16",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요 어머님.\n등원시간 하준이랑 힘겨루기 하시느라 할아버지 할머님께서 속상하셨을 것 같습니다.\n평소보다 늦게 등원해서 친구들이 놀이를 시작한 후였습니다. 하준이가 우는 모습을 친구들한테 보여주기 싫을 것 같아\n잠시 원장님과 이야기 나누며 안정을 찾은 후 교실로 올라왔습니다.\n원장님과 이야기 중에 토끼인형 이야기를 해서 할머님이 가져다주셨어요. 하준이가 토끼인형을 꼭 안아주며 편안해하는 모습이었습니다.\n토끼인형이 애착인형이라면 같이 등원하면 하준이에게 조금 편안한 마음이 들 것 같습니다.\n일과 중에는 평소와 크게 다르지 않게 놀이했습니다. 친구들 놀이에 관심을 가지면서도 함께 참여하지는 않는 모습입니다.\n주로 매트 위에서 뛰는 모습이 많아 어제에 이어 실외놀이 시간에 마음껏 뛸 수 있도록 지원했습니다.\n점심시간에 다시 울먹이며 식사를 하지 않겠다고 해서 한쪽에 미뤄두고 하준이를 기다렸는데 친구들이 다 먹어갈 때쯤 하준이도 다시\n먹겠다고 해서 새로 배식해서 먹을 수 있도록 했습니다. 낮잠 시간에 하준이의 의사를 물어보고 친구들이 잠들 동안 기다리기로 했는데 울음을 보였다 그치기를 몇 번 반복 후 토닥여주니 잠이 들었고 기분 좋게 일어나 간식 후 특별활동에 참여했습니다.\n당분간 하준이가 아침 등원시간에 힘들어하는 모습이 있을 것 같습니다. 이 시간 또한 커가는 과정이라 생각해 주시면 원에서도 최대한 하준이가 안정을 찾을 수 있도록 다방면으로 지원하겠습니다. 속상하시고 걱정되시겠지만 하준이를 믿고 응원해 주세요.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1409520888",
+    "date_written": "2026-06-17",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요\n'미소' 노래를 함께 부르며 화를 내거나 짜증을 내는 말투보다 웃는 얼굴과 다정한 말이 서로를 기분 좋게 한다는 이야기를 나누었습니다. 거울을 보거나 친구의 얼굴을 살펴보며 미소를 지은 표정을 직접 표현해 보고, 다양한 표정도 함께 탐색해 보았습니다.\n\n오늘은 『감정몬스터』 동화를 감상하며 우리 마음속에는 기쁨, 슬픔, 화남, 두려움 등 여러 가지 감정이 있다는 것을 색깔과 연결하여 알아보았습니다. 평소 자신의 마음을 \"몰라~\"라고 표현하던 친구들도 동화 속 감정과 자신의 경험을 연결해 보며 조금씩 감정을 이해하는 모습을 보였습니다. 마지막에는 컬러 몬스터 그림에 오늘의 마음을 색으로 표현해 보며 자신의 감정을 자연스럽게 나타내는 시간을 가졌습니다.\n텃밭에 올라와 쑥쑥 자란 작물들을 탐색하고 물을 준 뒤에 산책을 하고 돌아왔어요~\n하준이는 교실에 들어와서는 평소와 비슷한 기분으로 놀이를 하였어요~ 스퀴지 블록을 연결하여 '선생님 이것 봐요~'라고 말하며 만든 것을 보여주며 즐거워 하였고 텃밭으로 이동할 때에도 좋은 모습이었습니다. 점심을 먹고 나서부터 집에 갈 거라고 말하였는데 이불을 깔고 낮잠 시간이 되어가자 울음을 보였어요..\n\n간호사 선생님과 신체계측과 영양교육을 받았습니다. 아래 측정한 내역을 보냅니다.\n키: 94.9 cm\n몸무게: 13.2 kg",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/C8MUA/dJMcacpZ4NV/r6yTBhiNK5ccG5BOqJPKZ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uA4N2/dJMcacpZ4NW/BFawlCoqWg1HtmGsnFO8sK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qrJi4/dJMcacpZ4NU/D0IIlHaCpjklziNNFITj6K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bdvrQk/dJMcacpZ4N8/4j9tv5IdEk6etZeQGkguwK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cjHHkz/dJMcacpZ4N7/yXUKevhdTpEAvrzOY3Rh4K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkZKkZ/dJMcacpZ4N5/ur6vxbK4F9cgv8bKA436t1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dj4svm/dJMcacpZ4Oa/wcx1lYNAkgFGKsrLUdIyw1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0389_2026-06-17_1409520888_07.jpg"
+    ]
+  },
+  {
+    "id": "1409229274",
+    "date_written": "2026-06-17",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "하준이 울면서 등원했지만 곧 진정한 후 간식도 먹고 놀이하고 있습니다.\n걱정하실것 같아 알림장 남겨드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/Uza5U/dJMcaasaLd6/KCI8FehV7Q3Wg6LgQMikOk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nwCn1/dJMcaasaLd8/CnVeEtYm1KdEgwQDfHsDok/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0390_2026-06-17_1409229274_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0390_2026-06-17_1409229274_02.jpg"
+    ]
+  },
+  {
+    "id": "1410903723",
+    "date_written": "2026-06-19",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "『컬러몬스터』 동화에 등장하는 몬스터를 떠올리며 마음에 드는 색의 몬스터를 선택해 표현해 보았습니다. 물감에 푹 적신 솜공을 비닐 안에 넣고 뿅망치로 두드리자 물감이 사방으로 번지는 모습을 흥미롭게 관찰하며 반복해서 탐색하였고, 손의 힘을 조절하며 표현하는 과정을 즐겼습니다.\n오늘은 영등포아트홀에서 <목 짧은 기린 지피> 뮤지컬을 관람하였습니다. 다양한 노래와 이야기를 즐기며 지피의 마음과 친구들의 모습을 관심 있게 살펴보았고, 서로의 다름을 이해하고 배려하는 마음의 소중함을 자연스럽게 느껴보는 시간을 가졌습니다. 공연을 함께 관람하며 즐거운 문화예술 경험과 소중한 추억을 만들었습니다.\n\n지난번 현장학습에서 만든 도자기가 도착하였습니다. 아이의 귀여운 손도장이 담긴 소중한 작품을 보내드리니, 가정에서도 함께 살펴보며 즐거웠던 현장학습의 추억을 이야기 나누어 보세요.\n\n● 칫솔 교체시기가 되어 안내합니다. 등원할 때 칫솔을 챙겨서 보내주세요\n\n하준이는 뮤지컬 관람을 위해 원에서 출발하기 전까지 노란 버스 싫어~ 초록버스 탈 거야 하며 울음을 보여서 안정을 찾을 수 있도록 잠시 기다렸습니다. 진정 후 버스를 타기 위해 이동한 뒤 막상 노란 버스를 보고는 좋아하더라고요. 뮤지컬 관람을 할 동안은 대답도 잘하고 박수도 치면서 공연을 즐겼으나 클라이맥스 부분에서는 무서웠는지 울음을 보이기도 했습니다. 이후 원에 돌아와 점심을 먹고 하원했습니다.\n\n밥 먹고 집에 갈 거야 라는 말을 계속해서 반복하는 모습이어서 \"하준이가 집에 가고 싶은 마음을 알고 있어~ 그만 이야기해도 선생님이 기억하고 있을게\" 하고 이야기하며 불안해하지 않도록 지원했습니다.\n가정에서도 하준이 이야기를 들어주시되 한계를 지정해 주시면 좋을 것 같습니다.\n예를 들어 엄마가 하준이 이야기 듣고 있어. 마음이 콩닥거리면 심호흡을 해보자 하며 숫자를 세며 하준이의 불안도가 내려갈 수 있도록 해주시고 같은 이야기를 계속 반복할 경우 4번만 들어줄게 엄마가 기억하고 있어 하준이 마음 알고 있어 그다음에는 이야기하지 않아도 괜찮아. 하며 이후에는 단호한 모습을 보여주시는 것도 필요합니다.\n하준이가 주말 동안 에너지 넘치는 활동보다 차분한 놀이로 아이가 편안함을 느낄 수 있도록 도와주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/beZOoF/dJMcagTtZjL/P83eUsim3mSlGCOGIMqSwk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/v7L7t/dJMcagTtZjW/Yqncp8rptwuqCKpnIBci30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgWLDj/dJMcagTtZjT/bYtO6fiZN2MtQHsK1XuoPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bSq2pB/dJMcagTtZkj/eqIP7uRlrCt68OmRD7EvO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/RrsCQ/dJMcagTtZkf/BKm0GhCLr497hAqra09Yyk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/de2sD6/dJMcagTtZlU/LOl6SMpoqWLynmCCSMjHJ1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0391_2026-06-19_1410903723_06.jpg"
+    ]
+  },
+  {
+    "id": "1411744750",
+    "date_written": "2026-06-22",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "'감정 저금통' 활동을 통해 다양한 감정을 이해하고 표현하는 시간을 가졌습니다.\n감정을 모아두는 저금통을 살펴보며 기쁨, 슬픔, 화남, 놀람 등 여러 감정에 대해 이야기 나누고,\n다양한 모양의 스티커로 자신만의 감정 저금통을 꾸며보았습니다.\n스티커를 붙이며 자신의 감정을 떠올리고 표현하는 경험을 통해 감정을 긍정적으로 인식하고 다양한 방법으로 표현해 보았습니다.\n하준이와는 슬픔 감정에 대해 이야기하며 편안함 감정으로 전이될 수 있도록 긍정적 상호작용 시간을 조금 더 가져보았습니다.\n\"선생님 하준이 안아줘요\"라고 이야기해서 하준이를 안아주며 등을 쓸어주니 편안함을 느꼈는지\n자발적으로 싹트네, 그대로 멈춰라 노래를 불러주며 신체놀이도 해보았답니다.\n\n텃밭에서는 무럭무럭 자란 작물들을 보며 물을 주고 생명의 성장을 관찰하였습니다.\n이어 커다란 가지 잎 위에 다양한 나뭇잎으로 얼굴을 꾸미며 웃는 얼굴, 화난 얼굴, 슬픈 얼굴 등 여러 표정을\n창의적으로 표현해 보았습니다. 자연물을 활용한 놀이를 통해 관찰력과 창의력을 기르고 다양한 감정을 즐겁게\n표현하는 시간이 되었습니다.\n\n내일부터는 낮잠 자고 하원하는 게 어떨까 합니다. 일과를 지나고 점심 먹을 때쯤이면 하품도 하고 누워 있는 모습도 많이 보입니다.\n지난주 쭉 관찰해 본 결과 잠이 오지 않아서 낮잠을 거부하기보다는 단체생활 특성상 교사가 다른 친구들도 재워줘야 하다 보니 낮잠 시간에 누워서 기다려야 하는 시간도 있고 오롯이 하준이한테 집중하기가 어려운 점을 힘들어하는 이유도 있는 것 같습니다. 이번 주에는 낮잠 시간에 보조선생님 도움을 받아서 제가 하준이에게 조금 더 집중해보려고 합니다.\n울지 않을 거라고 말씀드리지는 않겠습니다. 다만 이 시간 또한 하준이가 겪어야 할 과정이라고 생각해 주시면 좋겠습니다.\n\n📣[해늘한마음 가족 체육대회 안내]\n6/27(토) 일 기다리던 해늘 한마음 가족체육대회가 열립니다\n👕복장 안내\n원아: 편한 바지 + 어린이날 기념 티셔츠 + 운동화\n부모님: 편한 바지 + 흰 티셔츠 + 운동화\n🎒준비물: 즐거운 마음과 열정 / 선물 담아갈 장바구니\n자세한 사항은 보내드린 체육대회 초대장을 참고해 주세요.\n\n*하늘반 두하준 가족은 청팀입니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/BB867/dJMcacwN4gl/BczE0eMPnoGp7R4sKkLyBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c0eT08/dJMcacwN4gm/G3MPP33DkrrGgKeP5bDje1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Jkfpy/dJMcacwN4gg/KRxY4QMUj4NnULL8oR3KTK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bGlSYr/dJMcacwN4gx/KKp7rpeVypLqiyDd4KjkxK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0392_2026-06-22_1411744750_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0392_2026-06-22_1411744750_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0392_2026-06-22_1411744750_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0392_2026-06-22_1411744750_04.jpg"
+    ]
+  },
+  {
+    "id": "1411428193",
+    "date_written": "2026-06-22",
+    "author_name": "신길더샵해늘어린이집 원장",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어머니 통화 가능 하실때 전화 부탁드립니다.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1412425867",
+    "date_written": "2026-06-23",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요 어머님.\n하준이 낮잠 사진 원장님께서 보내주셨지요?\n우리 하준이 점심 식사 후 양치하고 잠깐 울음을 보였는데 안아주고 토닥여주니 어느새 스르르 잠이 들었답니다.\n푹 자고 기분이 좋았는지 먼저 일어나서 \"선생님 내일은 울지 않고 어린이집 올게요\" 이야기하며\n간식시간을 기다렸답니다. ^^ 이렇게 이야기해도 내일 또 울지도 모르지만 하준이를 응원하겠습니다.\n가위질 후 어질러진 교실 정리를 열심히 도와줘서 오늘의 \"정리대왕\"으로 뽑히기도 했답니다.\n너무 좋아하더라고요. ^^\n하준이 칭찬 많이 해주세요.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1412188557",
+    "date_written": "2026-06-23",
+    "author_name": "신길더샵해늘어린이집 원장",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요\n오늘 하준이 낮잠 자고 정상 하원 합니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/b86xlZ/dJMb99UmCQo/BmyPbyxmzVnNTyXw01pDW0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0395_2026-06-23_1412188557_01.jpg"
+    ]
+  },
+  {
+    "id": "1413113775",
+    "date_written": "2026-06-24",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 책상에 붙여 놓은 풍선을 라켓으로 쳐 보는 신체활동을 하였습니다.\n풍선의 움직임을 눈으로 따라가며 손과 팔을 조절해 쳐 보았고, 친구들과 함께 즐겁게 놀이에 참여하였습니다.\n풍선이 통통 튀는 모습을 보며 웃음이 가득한 즐거운 시간이었습니다.\n오늘은 ‘나만의 감정 거울’을 만들어보는 미술 활동을 하였습니다.\n먼저 다양한 감정의 색깔에 대해 이야기 나누며 기쁨, 슬픔, 화남, 즐거움 등의 감정을 동화에서 보았던 색으로 표현해 보았어요.\n영아들은 자신이 선택한 감정 색깔의 크림 클레이를 거울 테두리에 짜 보며 촉감을 탐색하고 소근육을 조절하는 경험을 하였습니다.\n아이스크림 모양의 장식으로 거울을 자유롭게 꾸며 보았습니다.\n완성된 거울을 보며 ‘예쁜 거 같아요~’라고 뿌듯한 마음을 표현하였어요~ 감정을 색으로 표현하고\n다양한 재료를 활용해 꾸며보는 과정에서 정서 표현 능력과 창의성이 자연스럽게 확장되는 즐거운 시간이었습니다.\n내일 진행될 감자 수확을 기대하며 하늘반 친구들과 함께 텃밭에 올라가 보았습니다.\n감자밭의 모습을 살펴보며 “감자가 어디에 있을까?” 이야기 나누고, 함께 키우고 있는 작물들에게 정성껏 물을 주었습니다.\n빨갛게 익은 방울토마토도 직접 따서 맛보며 텃밭에서 자란 작물에 관심을 보였어요.\n내일은 친구들과 함께 흙 속에 숨어 있는 감자를 직접 찾아보며 흥미롭고 신기해할 모습에 벌써부터 즐거운 거 같아요~\n* 흙을 만지고 직접 감자를 수확하는 과정에서 옷에 흙이 묻을 수 있으므로 편안한 복장으로 등원할 수 있도록 부탁드립니다.\n\n우리 하준이 드디어 오늘은 울지 않고 등원했습니다. 놀이 시간에도 적극적으로 놀이하며 안정된 모습을 보였습니다.\n점심시간에 할머니를 찾으며 조금 울음을 보였지만 밥이 맛있었는지 추가배식까지 해서 맛있게 먹고 편안한 상태에서 거부감 없이 이불 위에 누워 토끼인형과 함께 잠이 들었습니다. 잘 자고 일어나서 오늘 칭찬 많이 해주고 많이 안아주었습니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/xJfmZ/dJMcadoTeCb/gerhPr5MkRUeOHAKwqA8W1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/exQFB/dJMcadoTeCd/P4NYH6uYOUQOYdSwTLgVdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZapTX/dJMcadoTeB9/3KkJt97MXGD3YDb18Q0oZ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cc4jf4/dJMcadoTeCf/Xqt6tK2cCkgnQCUhcDkT9k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cmR8sR/dJMcadoTeCr/c872wlz0n7ebVFXLjafoG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/rW2M0/dJMcadoTeCq/rEBSrvj789HKksGUaxN7qk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/udoIn/dJMcadoTeCs/ufSq6QcKDCPn5unODucKx0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0396_2026-06-24_1413113775_07.jpg"
+    ]
+  },
+  {
+    "id": "1414504324",
+    "date_written": "2026-06-26",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 열린 어린이집을 맞아 제이 어머님께서 하늘반 친구들과 함께 놀이에 참여해 주셨습니다.\n우리가 심은 감자도 수확하고 내 얼굴을 피카소 그림처럼 표현해 보는 미술놀이를 하였습니다.\n삽으로 흙을 파고 장갑을 낀 손으로 흙을 살살 치우자 감자들이 나왔어요~ 작은 아기 감자를 캐기도 하고\n우리 친구들이 한 손으로 잡기에는 큰 감자를 캐기도 하였습니다.\n피카소의 그림은 사전에 탐색하고 골판지나 EVA 등 다양한 재질의 스티커로 꾸며보고 그 위에 사전에 탐색하며\n색칠해 놓은 눈, 코, 입을 붙여서 완성하였습니다\n오늘은 지난 시간에 만들었던 감정 거울을 완성해 보았습니다. 크림클레이가 단단하게 굳어 더욱 멋진 모습이\n된 나만의 감정 거울을 받침대에 끼우고, 알록달록한 뿅뿅이로 꾸미며 작품을 마무리하였습니다.\n이번 달에는 '나를 알아요'를 주제로 다양한 놀이를 진행하였습니다.\n얼굴과 몸을 표현하며 나만의 특징을 알아보고, 여러 가지 감정을 이해하고 표현하는 활동을 통해\n자신의 마음을 소중히 여기고 친구의 감정에도 관심을 가져보는 의미 있는 시간을 보냈습니다.\n놀이를 통해 한 뼘 더 성장한 하늘반 친구들의 소중한 작품을 모아 가정으로 보내드립니다.\n아이들과 함께 작품을 보며 이번 달의 즐거웠던 놀이를 이야기 나누어 보시기 바랍니다.\n내일은 기다리던 체육대회가 있는 날입니다. 즐겁고 행복한 마음으로 함께 뵙겠습니다. 감사합니다.\n\n하준이는 오늘 할머니와 씩씩하게 등원 후에 할머니가 보고 싶다는 이야기를 몇 번 하긴 했지만 곧 놀이에 집중하며 \n편안한 일과를 보냈습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/N7rl8/dJMcabrbyN9/OHzpQsN8w5AFd9qMmuh160/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ijW6B/dJMcabrbyOb/N7YJSAOx4F9sZKjHjjCgG0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bBhsnI/dJMcabrbySO/aJksCx7FmP1tQlqakN798k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nNaRO/dJMcabrbyOy/6YrBnW87EjtUhyViaPoI8K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fsTn7/dJMcabrbyOB/keX6pqGNLpABdZ8DZtbG71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bUkyKD/dJMcabrbyOQ/ODLKwkbi07TQ9NnGo9Uef1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/SPTBD/dJMcabrbyO3/OClXyjOdMTjxusJEpd2fQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gODq5/dJMcabrbyO5/mDl8PuchKDGNk9Y1eEGet1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/buWA5n/dJMcabrbyPb/gW6piSTQYWsYFKzSwDPftK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ddM0bk/dJMcabrbyPo/hXukVhIjxNTtUCn8yPedyK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qeQYe/dJMcabrbyPi/6eHU499WKVwyrH0dCI8tTK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kvTqL/dJMcabrbyPB/CbKAWklDHFRKm7vRYwXkj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhiKNf/dJMcabrbyPN/d9e01EjdKMMmk8UIL9xXD1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5EuRB/dJMcabrbyPR/bzqqjtotMRrnTsKGOP5SQk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vggPq/dJMcabrbyP4/becNyiMUmtsy0ZJ7KJdJ0k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_10.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_11.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_12.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_13.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_14.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0397_2026-06-26_1414504324_15.jpg"
+    ]
+  },
+  {
+    "id": "1415361753",
+    "date_written": "2026-06-29",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "새로운 7월을 맞이하며 교실에 워터드로잉패드와 워터펜을 준비해 주었습니다.\n하늘반 친구들은 새로운 교구를 발견하자 자연스럽게 다가와 탐색하며 호기심을 보였습니다.\n워터펜으로 드로잉패드를 색칠하자 하얀 바탕 속에 하나둘씩 바닷속 친구들의 모습이 나타났습니다.\n거북이와 고래, 물고기 등이 보일 때마다 \"우와!\" 하고 감탄하며 적극적으로 관심을 가지는 모습이었습니다.\n물로만 그림이 나타나는 신기한 변화에 반복해서 색칠하며 즐겁게 놀이에 몰입하였고,\n다양한 바닷속 생물을 발견하는 기쁨을 경험할 수 있었습니다.\n무더운 날씨를 고려해 오전 일찍 산책을 다녀왔습니다. 메낙골 공원을 걸으며 여름에 피어나는 꽃을 자세히 관찰하고,\n아파트 사이로 시원하게 불어오는 바람을 온몸으로 느껴보았습니다. 바람이 불 때마다 환하게 웃으며 자연이 주는 시원함을 만끽했습니다.\n\n하준이 서산할아버지와 아빠랑 기분 좋게 등원해서 오늘 일과 즐겁게 보냈습니다. 군산할머니는 가셨고 서산할아버지랑 같이 왔어요\n이야기하며 교사의 도움을 받아 스스로 가방정리까지 잘했답니다.\n점심이 맛있었는지 추가배식까지 해서 남김없이 잘 먹었습니다. ^^\n지난 주말 체육대회에 참석하셔서 적극적으로 참여해 주셔서 감사드립니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/RbI9O/dJMcaay5IcB/P9PjJPgXCYBKzSU5ruwzjk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b1DHFE/dJMcaay5Icy/EuLLKppoQMkdix2kJFZ2EK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/o6ZdF/dJMcaay5IbJ/GK7y25eCKTa2f1QudU0K7k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0398_2026-06-29_1415361753_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0398_2026-06-29_1415361753_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0398_2026-06-29_1415361753_03.jpg"
+    ]
+  },
+  {
+    "id": "1416742203",
+    "date_written": "2026-07-01",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "어제는 워터드로잉에 보이는 물고기들을 만들어보고 싶다는 의견을 반영하여 색종이로 바닷속에 살고 있는 물고기들을 만들어보았습니다.\n오늘은 교실에 잔잔한 파도 소리를 들려주며 놀이를 시작했습니다.\n놀이를 이어가던 하늘반 친구들은 반복해서 들려오는 소리에 귀를 기울이며 \"물고기 소리예요!\", \"파도 소리예요!\"라고\n자신이 느낀 생각을 자유롭게 이야기하였습니다.\n함께 바다를 보았던 경험을 떠올려 보며 파도가 어떻게 움직이는지 몸으로 표현해 보고, 커다란 바다 플래카드를 앞뒤로\n흔들며 출렁이는 파도의 움직임을 신체로 경험해 보았습니다.\n친구들과 함께 움직임을 맞추며 파도의 리듬을 느끼고, 다양한 감각을 활용해 바다를 표현하는 즐거운 시간을 보냈습니다\n하늘반 친구들과 함께 텃밭에 올라가 잘 익은 수박과 파프리카, 가지를 직접 수확해 보았습니다.\n영아들은 수박을 손으로 통통 두드려 보며 소리를 듣고 \"잘 익었을까?\" 궁금해하는 모습을 보였고, 수박의 무게와 촉감을 탐색하며\n오감을 활용해 자연을 경험하였습니다.\n정성껏 키우고 직접 수확한 감자와 오늘 수확한 수박, 파프리카, 가지를 무인판매로 나눕니다.\n아이들의 땀과 정성이 담긴 수확물을 함께 응원해 주시고, 따뜻한 관심과 참여 부탁드립니다.\n보내주신 수익금은 의미 있는 기부활동에 사용할 예정입니다. 감사합니다.\n\n하준이는 씩씩하게 등원한 후 교실에서도 안정된 일과를 보냈습니다.\n가방에 알약 같은 게 들어있더라고요. 하준이가 젤리라고 먹고 싶어 했는데 어떤 약인지 확실하지가 않아서 다시 가방에 넣어드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/NszCY/dJMb991hN5C/g8dEsfQjOeBv1YTrdQiuaK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sh6yR/dJMb991hN5D/2aj8g6Vs50GK1bJ9kxKW81/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/p5hIB/dJMb991hN5F/WGkMKpfmbusFdoVnkb45ZK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgciiN/dJMb991hN5L/ByfRIFkrZR769h5DlhQrZ1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckDSTJ/dJMb991hN5S/4kYsPp5qbgmtOqiyAfCRCK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cLdr48/dJMb991hN5Q/0UcR2t379OvVdEUcKE7Ei1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0399_2026-07-01_1416742203_06.jpg"
+    ]
+  },
+  {
+    "id": "1418132971",
+    "date_written": "2026-07-03",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "오늘은 어제 즐겁게 경험했던 바다놀이를 더욱 확장하여 다양한 활동을 이어갔습니다.\n어제 만든 오션드럼을 흔들며 바다 그림 위에 바람이 불어 파도가 철렁이는 모습을 표현해 보고,\n파도 소리에 귀 기울이며 바다를 상상해 보았습니다.\n바깥놀이에서는 커다란 바다 플래카드를 친구들과 함께 앞뒤로 흔들어 출렁이는 파도를 만들고,\n파도의 움직임에 맞춰 빠르게 달리며 온몸으로 바다를 표현해 보았습니다.\n교실에서는 바닷속 그림 주변에 블록을 둘러 바다를 꾸민 뒤 스퀴지 블록으로 낚싯대를 만들어 낚시놀이를 즐겼습니다.\n그림 속 물고기의 이름을 이야기하고 \"큰 물고기 잡았어요!\", \"이 물고기가 좋아요.\"라고 말하며\n자신이 잡은 물고기를 자랑하는 모습도 볼 수 있었습니다.\n다양한 바다놀이를 통해 상상력을 키우고 친구들과 함께 즐겁게 놀이하였어요.\n\n*오늘 공지사항으로 발송된 사전지문등록 관련 안내문 확인 부탁드립니다.\n\n하준이는 오늘 씩씩하게 등원 후 놀이에 적극적으로 참여하며 즐거운 시간을 보냈습니다. 낮잠 시간 전 갑자기 사물함 앞에 자리를 잡고 웅크리고 있어서 하준이 왜 그래? 하고 물으니 \"하준이 똥 쌀 거야\"라고 하며 힘을 주는 모습이었습니다. ^^\n응가 성공 후 편안하게 낮잠에 들었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/b2bg7c/dJMcaijCpe8/27LDKKjSKsW32tU6sZbs4k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ijhWa/dJMcaijCpfa/ygIYWKziUcoh07fcammuy0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bo9z0S/dJMcaijCpe9/QTtiCJ6sUWBJN7I4DKFvsk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/146JL/dJMcaijCpfj/aoKAyK2mXHsUXFVMOLkjp1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cOk5lG/dJMcaijCpfi/dNkqfKKqgLeNZYaCu2viI1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0400_2026-07-03_1418132971_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0400_2026-07-03_1418132971_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0400_2026-07-03_1418132971_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0400_2026-07-03_1418132971_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0400_2026-07-03_1418132971_05.jpg"
+    ]
+  },
+  {
+    "id": "1419001623",
+    "date_written": "2026-07-06",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "지난주부터 이어지고 있는 바다 놀이가 이번 주에도 즐겁게 이어졌습니다.\n지난주 친구들이 스퀴즈블록으로 낚싯대를 만들어 놀이하는 모습을 보며,\n놀이가 더욱 풍성하게 이어질 수 있도록 낚싯대와 자석 물고기를 지원해 주었습니다.\n친구들은 실제 바닷가 해변 그림 위에서 낚시를 하는 것처럼 놀이에 몰입하며 물고기를 잡아보기도 하고,\n낚싯대를 움직이며 다양한 상황을 상상하는 모습을 보였습니다.\n\"잡았다!\"라며 기뻐하기도 하고 잡은 물고기로 요리를 하기도 하며 놀이가 자연스럽게 확장되는 모습을 볼 수 있었습니다.\n비가 내려 실외놀이 대신 실내대체놀이를 진행했습니다.\n친구들은 스스로 벽돌블록을 하나씩 놓으며 놀이를 시작했고, 바닷가 그림 위에 길 모양이 자연스럽게 만들어졌습니다.\n완성된 길을 바라보며 친구들은 빠지지 않도록 두 팔을 벌려 균형을 잡고 천천히 건너가 보았습니다.\n때로는 조심조심, 때로는 자신감 있게 길을 걸으며 신체를 조절하는 즐거움을 경험할 수 있었습니다.\n\n하준이는 아침 등원 시 할머니 앞에서는 잠깐 울음을 보였지만 교실에 올라와서는 언제 그랬냐는듯이 \n울음 뚝 그치고 간식주세요 한 뒤 맛있게 먹은 후 놀이를 시작했습니다. \n살짝 콧물이 있고 낮잠 시간에 간헐적인 기침을 조금 했습니다. 가정에서도 살펴봐주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cJz7B2/dJMcahEZBmC/0j2UpCYgSrT3pz775zkpc1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvLmVL/dJMcahEZBmx/PFYC7j43Ca1BUNVVpOkKe1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/JNEcG/dJMcahEZBmM/r3ukc9SWB1LtEEseSW8ct0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/uoAk8/dJMcahEZBmW/GKdrWqJRUuKMkkV0Ieae7k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0401_2026-07-06_1419001623_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0401_2026-07-06_1419001623_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0401_2026-07-06_1419001623_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0401_2026-07-06_1419001623_04.jpg"
+    ]
+  },
+  {
+    "id": "1420377830",
+    "date_written": "2026-07-08",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "하늘반에서는 이번 주에도 바다를 주제로 한 놀이가 즐겁게 이어지고 있습니다.\n어제 다양한 바다생물을 색칠하며 바닷속 친구들과 친숙해진 아이들은 오늘 물고기를 꾸며보는\n놀이에 자연스럽게 참여했습니다. 물고기 비늘무늬 종이를 직접 가위로 오려보고, 하나씩 붙이며 물고기에게 예쁜 비늘 옷을 입혀주었습니다.\n손끝을 조절하며 비늘을 붙이는 과정에 몰입하는 모습이 인상적이었고, 완성된 물고기를 보며 성취감을 느끼는 모습을 볼 수 있었습니다.\n하늘반 벽면에 꾸며진 그물에 친구들이 만든 물고기를 전시해 보기로 했답니다.\n실내대체놀이 시간에는 블록을 활용해 배를 만들어 보았습니다. 친구들은 블록을 쌓아 배를 완성한 뒤 배에 올라탄 것처럼 놀이하며\n바다를 여행하는 상상을 펼쳤습니다. \"출발!\"을 외치며 친구들과 함께 즐겁게 역할놀이를 이어가는 모습에서 놀이가 더욱\n풍성하게 확장되는 모습을 볼 수 있었습니다.\n\n7/10(금) 10시에는 영등포구 도서관과 연계한 \"찾아오는 책놀이\" 수업이 있습니다.\n\n하준이가 오늘 친구가 졸려서 울음을 보이니 \"oo아 왜 울어? 울지 마~ \" 하며 위로해 주는 모습이었습니다.\n\"하준이 너무 멋지다 친구를 위로해 줬네~\" 하고 이야기하니 \"하준이가 울지 마했어\"라고 말해주더라고요. ^^\n하준이 최고라고 칭찬해 주었습니다. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/ckfw0X/dJMcadipcrj/tQTwglX2OEUk76lnoFZ1Ok/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ssGAZ/dJMcadipcrh/QnA6kWKopfpHDGukk6jMPk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bMG9TB/dJMcadipcri/KCvA5Nxuz7xlY1bB8GAzk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bS2cH4/dJMcadipcrq/CTxHkbTvesaujlvRZBdK00/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/MP9R5/dJMcadipcrr/xy4BfUMpECEkjzpDTYbg5K/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0402_2026-07-08_1420377830_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0402_2026-07-08_1420377830_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0402_2026-07-08_1420377830_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0402_2026-07-08_1420377830_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0402_2026-07-08_1420377830_05.jpg"
+    ]
+  },
+  {
+    "id": "1421746748",
+    "date_written": "2026-07-10",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "어제는 열린 어린이집 아빠 선생님으로 박제이 아버님께서 함께해 주셨습니다.\n클레이를 이용해 바닷속 그림 위에 물고기를 만들고, 다양한 오브제 재료를 활용하여\n자신만의 물고기와 바닷속을 자유롭게 꾸며보았습니다.\n\n오늘은 영등포구 도서관과 연계한 찾아오는 책놀이 수업이 진행되었습니다.\n하늘반에서 이어지고 있는 바다 놀이와 연계된 바닷속 친구들 이야기를 들으며 책 속 세상에 푹 빠져들었습니다.\n책놀이 선생님의 이야기에 귀를 기울이고 질문에도 적극적으로 참여하며 즐겁게 독후 활동을 이어갔습니다.\n이야기 속 장면을 몸으로 표현하거나 다양한 활동에 참여하며 책 읽기의 즐거움을 자연스럽게 경험할 수 있었습니다.\n\n비가 내려 실내대체놀이를 진행하였으며, 무지개 물고기 바람개비를 들고 교실과 유희실을 힘차게 뛰어보았습니다.\n바람에 빙글빙글 돌아가는 바람개비를 보며 환하게 웃고, 자유롭게 움직이며 신체 활동도 즐겼습니다.\n\n오늘 하준이는 등원하자마자 울음을 보였습니다. 하준이에게 이유를 물어보니 배가 아프다고 하더라고요.\n응가하고 싶어라고 이야기한 후 변기에 앉겠다고 해서 변기에 앉혀주었는데 배변을 하지는 않았습니다.\n기저귀에 해볼까? 하고 배 마사지도 해주었는데 소용이 없더라고요.\n일과 중에 물을 많이 마실 수 있도록 하고 틈날 때마다 배를 마사지해 주었습니다.\n점심 식사 후에야 응가에 성공했습니다. 그제야 편안하게 치카하고 낮잠에 들었습니다.\n기저귀 갈이 중 뒤척이다가 티셔츠에 응가가 조금 묻었습니다. 여벌 티셔츠 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/EoEDS/dJMcabLJkVu/4r8lpkxtKxEm3yP8bickLk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/meVLq/dJMcabLJkVo/8JdQbfLTKTx4FqwB0Aj9E0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/qCPWy/dJMcabLJkVT/UQWLx72qz6obXKklihd3Q0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bUj1LA/dJMcabLJkVS/Wj3nposIkxUW48P3LL5BUk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dPYhxU/dJMcabLJkWa/jYbhpkDTUg8RukBCctABB0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cHxnyU/dJMcabLJkWg/4IpJ7kxGCCkC9FkCk9du71/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Io22Q/dJMcabLJkWI/GuWVQxbi6l9kMpTQi3W9A0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/lQ0aC/dJMcabLJkWL/KEpTDds187BWqW4g1KM5ok/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0403_2026-07-10_1421746748_08.jpg"
+    ]
+  },
+  {
+    "id": "1422616703",
+    "date_written": "2026-07-13",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mixed_rain_snow",
+    "content": "오늘은 텃밭에 올라가 주말 동안 쑥쑥 자란 텃밭 친구들을 살펴보았습니다.\n옥수수, 수박, 가지 등 우리가 정성껏 키우고 있는 작물의 변화를 관찰하며 “많이 자랐어요!”, “옥수수가 생겼어요~”라고\n이야기 나누어 보았답니다.\n특히 옥수수 열매를 직접 따서 만져보고 살펴보며 생김새와 촉감을 탐색해 보았고, 목이 마르지 않도록 물도 주며\n식물이 자라는 데 필요한 도움에 대해 알아보았습니다.\n자연의 변화를 관찰하고 직접 돌보는 경험을 통해 텃밭에 대한 관심과 애정을 키워가는 시간이었습니다.\n지난주 바다생물에 흥미를 보이는 부분을 반영하여 바닷속 꾸미기 미술놀이를 해보았습니다.\n“바다는 어떤 색일까?” 이야기 나누며 파란색, 하늘색, 모래를 표현하는 노란색 등 다양한 바다색 습자지를 살펴보았어요.\n하준이는 마음에 드는 색의 습자지를 골라 찢고 붙이며 나만의 바닷속 모습을 표현해 보았습니다.\n습자지를 겹쳐 붙여 깊은 바다를 만들어 보기도 하고, 여러 색을 조합하며 즐겁게 꾸미는 모습을 보였답니다.\n손으로 재료를 탐색하고 자유롭게 표현하며 바다에 대한 상상력을 키워보는 즐거운 시간이었습니다.\n\n하준이는 텃밭 옥수수와 방울토마토에 관심을 보이며 집중해서 탐색하는 모습이 있었습니다.\n점심 식사 후 방울토마토 디저트까지 맛있게 먹었답니다.\n바뀐 기저귀에 별다른 반응은 없었습니다. 하준이 기저귀 바뀌었네? 물어보니 하준이 기저귀 바뀌었어~라고 말해주더라고요.\n\n*7/14(화)에는 영등포구 경찰서에서 \"찾아오는 교통안전교육\" 활동이 있습니다. 9시 40분까지 등원할 수 있도록 부탁드립니다.\n*7/15(수)에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/TQ2g9/dJMcagTLE49/KKJrR9JsU6pMzo9RPQGDa0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/boc5HR/dJMcagTLE46/tPyfkRxtPkFkVGAF9Nldzk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bvUwgi/dJMcagTLE47/M9mXR9KI4OnKDGMrKKNAhk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5WEEj/dJMcagTLE5l/jAKqHY3gYb369ZNkQjxruk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0404_2026-07-13_1422616703_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0404_2026-07-13_1422616703_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0404_2026-07-13_1422616703_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0404_2026-07-13_1422616703_04.jpg"
+    ]
+  },
+  {
+    "id": "1423042349",
+    "date_written": "2026-07-14",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어머님 하준이 놀이 중 뛰다가 책상에 부딪혀 오른쪽 귀 뒤쪽이 부어올랐습니다.\n얼음찜질중이고 멍크림 발라주었습니다.\n확인부탁드려요",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/WGgDt/dJMcabdLrPZ/yDHkWtfWgrTNkImEK3Rx8k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0405_2026-07-14_1423042349_01.jpg"
+    ]
+  },
+  {
+    "id": "1423981554",
+    "date_written": "2026-07-15",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "안녕하세요~\n어제는 영등포구 경찰서에서 진행하는 찾아오는 교통안전교육에 참여했습니다. 🚓\n횡단보도에서는 뛰지 않고, 신호가 바뀌어도 좌우를 살펴본 뒤 안전하게 건너는 방법을 배워보았습니다. 또한 경찰관 선생님께서 준비해 주신 경찰복을 입어보고, 경례로 인사를 나누며 경찰관이 되어보는 즐거운 체험도 했습니다. 아이들은 교통안전 약속을 배우고 직접 체험하며 뜻깊은 시간을 보냈습니다.\n\n어제 플레이콘으로 모래놀이를 하며 더 깊은 바다에는 어떤 생물이 살고 있을지 이야기 나눈 하늘반 친구들은 바다에 대한 호기심을 더욱 키워갔습니다. 🐠🌊\n이를 반영하여 오늘은 바다의 다양한 색과 바닷물에는 소금이 들어 있다는 것을 알아본 뒤, 붓으로 바다를 표현하고 소금을 뿌려 나타나는 소금 번짐 효과를 관찰하며 신기한 변화를 경험해 보았습니다. 하준이는 물감활동에 흥미를 보이며 다른 친구들이 할 때 옆에 와서 살펴보았습니다. 하준이도 해보자는 말에 웃으며 자리에 와서 앉았어요~ 하준이는 붓으로 바다색을 칠하며 크레용으로 그려진 그림에 칠해지지 않는 부분도 유심히 보았어요~\n비가 오는 날씨로 실외놀이 대신 대체활동을 하였습니다. 바다 생물이 되어 헤엄치고 기어 다니는 모습을 몸으로 표현하는 신체놀이도 즐겼습니다. 하준이는 대체놀이를 할 때 배가 고픈지 할머니가 보고 싶다고 하였어요~ 하준이의 마음을 읽어주며 친구들과 밥을 같이 먹자고 하였더니 진정되었습니다. 하지만 물고기로 변신은 못하겠다고 하여 놀이를 관람만 하였습니다.\n\n* 주원이가 이사를 하게 되어 어린이집과 친구들을 떠나게 되었습니다.\n함께한 소중한 추억을 간직하며, 새로운 곳에서도 건강하고 행복하게 지내길 응원해 주세요.\n또한 20일부터는 새로운 친구가 우리 반에 함께하게 됩니다.\n아이들이 따뜻하게 맞이하고 즐겁게 지낼 수 있도록 많은 관심과 응원 부탁드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/sdkwT/dJMcac4S6eR/mX4UXcY4sAdLl5PPiKl5jk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cLEPty/dJMcafUUxBk/LM5z2FvQesklDUhqUK5JtK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkwpPX/dJMcac4S59f/C244hGsXZkUNni8ghTtmLk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bRIuRO/dJMcac4S59e/A6CSsq0HsEP3VKkJJKF6Sk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhqI7f/dJMcaaMN4t6/jbCestR0Wj5fa2sN9rvChK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/j0j32/dJMcaaMN4ua/VYQcE5Afzbojvt0nQbwAy0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dUz08h/dJMcaaMN4t5/LqO9FEXOumV9wL67d5iSmk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0406_2026-07-15_1423981554_07.jpg"
+    ]
+  },
+  {
+    "id": "1425607190",
+    "date_written": "2026-07-20",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "오늘은 [찾아오는 동물원] 체험을 통해 보어염소, 토끼 가족, 덤보랫을 만나보았습니다.\n보어염소가 강아지처럼 사람을 따라다니는 모습을 보며 신기해하였고,\n동물들의 특징과 생태에 대한 설명을 들으며 관심을 보였습니다.\n토끼는 손가락을 넣으면 물 수 있다는 안전 약속을 배우고, 질서를 지키며 관찰하였습니다.\n보어염소에게 건초를 직접 먹여주고, 덤보랫을 조심스럽게 만져보며 생김새와 촉감을 탐색하는 즐거운 시간을 보냈습니다.\n\n비가 내리는 모습을 보며 실내대체활동을 하였습니다.\n휴지심에 연결된 실을 돌돌 감아 물고기를 잡아보는 놀이를 하였습니다.\n실을 빠르게 감으며 물고기를 잡기 위해 집중하는 모습을 보였고, 친구들과 함께 응원하며 즐겁게 놀이에 참여하였습니다.\n손과 눈의 협응력을 기르고 소근육을 자연스럽게 사용하는 즐거운 시간이었습니다.\n하준이는 실을 감는 과정에서 집중력을 발휘해 꼼꼼하게 실을 감는 모습이 있었습니다.\n월요일이라 그런지 낮잠 시간 전 할머니가 보고 싶다며 울음을 조금 보이다가 토닥여주니 잠들었고 평소보다 일찍 잠에서 깨서\n교사와 동화책을 읽으며 친구들을 기다렸습니다.\n\n이번 주 예정되어 있던 물놀이 주간 열린 어린이집 행사는 우천이 예상됨에 따라 7월 29일(수)로 변경되었습니다.\n아이들이 더욱 안전하고 즐겁게 참여할 수 있도록 변경된 일정에 진행할 예정이오니 양해 부탁드립니다.\n\n오늘 하늘반에 새 친구 서재원이 왔습니다. 친구들과 반갑게 인사를 나누고 함께 놀이하며 즐거운 시간을 보냈습니다.\n앞으로 하늘반에서 함께 만들어 갈 즐거운 추억을 기대해 주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/uGKce/dJMcahE9QJw/OMPE4Noma2OHQKIf5XuO8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/idfNe/dJMcahE9QJK/bWeu85XEq7Gv0XTKJrmjg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/A17Le/dJMcahE9QJE/m4qYABzV6hrSFkCqxqBsR1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IQL5K/dJMcahE9QJR/Y7epmmu4Lb448Qj1UlyWCk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZuStW/dJMcahE9QJX/aZHUmkYUQO4DfJ6Tsg9EDk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/I7qxE/dJMcahE9QJY/i1qiOKCHwfKDLU86wD92f0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wYtIb/dJMcaasz626/fmlfKMcLQEMOWzdp1DlaO1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0407_2026-07-20_1425607190_07.jpg"
+    ]
+  },
+  {
+    "id": "1426980047",
+    "date_written": "2026-07-22",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "안녕하세요~\n오늘은 부천 로보파크로 현장학습을 다녀왔습니다. 버스를 타고 이동하며 창밖으로 보이는 다양한 중장비 차량을 관찰하였고,\n어제 깊은 바다에 사는 고래를 꾸미며 나누었던 이야기를 떠올린 듯 어두운 터널을 지나며 \"바닷속에 들어온 것 같아요!\"라고\n이야기하는 모습도 볼 수 있었습니다.\n로보파크에서는 현지 선생님의 안내에 따라 다양한 로봇을 만나보았습니다.\n오케스트라를 연주하는 로봇과 마리오네트처럼 줄에 매달려 움직이는 로봇 공연을 감상하며 로봇의 다양한 움직임에 흥미를 보였습니다.\n또한 전시된 여러 로봇을 살펴보고, 마술을 하는 로봇이 보여주는 공의 색을 함께 이야기하며 사라지는 모습을 신기해하는 모습을 보였습니다.\n특히 비가 내리는 과정을 표현한 로봇 전시에서는 빗방울 소리와 자연의 소리를 들으며 편안한 분위기를 느끼고, 움직이는 빗방울을 아름다운 그림처럼 감상하는 시간을 가졌습니다.\n이번 현장학습을 통해 이전 놀이 경험을 새로운 환경과 연결하여 표현해 보고, 다양한 로봇의 기능과 움직임을 관찰하며 과학기술에 대한 호기심을 키우는 뜻깊은 시간을 보냈습니다.\n\n하준이는 특히 낚시놀이와 움직이는 기차에 큰 흥미를 보였습니다. 교실에 돌아와서는 배가 고프다며 추가배식까지 한 후 잠이 들었습니다.\n오늘 하준이가 흰색돌멩이 2개를 들고 등원했더라고요. 하준이가 하얀색을 들고 얼굴을 비비길래 처음에는 클레이인줄 알았는데\n만져보니 돌멩이더라고요.\n\n\n*다음 주 27일~31일은 특별활동 강사님들의 휴가 기간으로 특별활동이 진행되지 않습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/d3Mxuf/dJMcaa7eWF9/Kk9bx1H0Ra9QAH9MqaLITK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cIcsc0/dJMcaa7eWGe/bOsDOm2QtklkkAxQ7FAv6k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cpd6aZ/dJMcaa7eWGh/7Q4hc973hOfsk8xk1v7eDk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dx2BXA/dJMcaa7eWGu/bTF3UMxFkir8k0GSrvInQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cILTJZ/dJMcaa7eWGv/588jQ3tN2NsPEsJ04JESU1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d9cRs/dJMcaa7eWGG/TgE7HQOyBAZyWtfovsESn0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vSXY9/dJMcaa7eWGH/IbP2RnP2Ft9hagzeKKtdNk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cX1cfu/dJMcaa7eWGL/orakie050TJ3PERUnxRqTK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IjDWS/dJMcaa7eWGW/VfROk4nSoVUmLLsDU2KHNK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ls5Bq/dJMcaa7eWGY/DGWsA8kAMulHS5MK5gUJj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bAxVLU/dJMcaa7eWHa/NyPYrUPZWrYIIqLIWCAJ5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c1ienW/dJMcaa7eWHg/mvnF3hrDiPpkZYZeKh3f10/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cFzhcH/dJMcaa7eWHp/CXo1PX1TPwuAROEKcnBnbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/02Wtu/dJMcaa7eWHD/9CKOKqCuIuiJBGaTjKp4z1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vO8nB/dJMcaa7eWHG/Yng8aWtnWPKd2Gd4fkQAk1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_10.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_11.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_12.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_13.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_14.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0408_2026-07-22_1426980047_15.jpg"
+    ]
+  },
+  {
+    "id": "1426690512",
+    "date_written": "2026-07-22",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "하준이가  얼굴에 상처가 있더라고요\n확인부탁드립니다",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/PVrvU/dJMcabrtI4y/I2FBnsSKjR4dCff9CNBuMK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0409_2026-07-22_1426690512_01.jpg"
+    ]
+  },
+  {
+    "id": "1428373169",
+    "date_written": "2026-07-24",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "안녕하세요~\n하준이랑 건강검진은 잘 받으셨나요?\n\n안내사항이 있어 전달드립니다.\n\n● *7/28(화)에는 영등포경찰서와 연계한 실종아동예방 [사전지문등록]이 10시 30분부터 진행됩니다.\n7/3일 공지사항(https://www.kidsnote.com/service/notice/70605661) 참고하셔서\n아직 기본정보를 등록하지 않으셨거나 수정이 필요하신 가정에서는 아동기본정보등록을 부탁드립니다.\n\n● 7월 29일(수) 에는 열린 어린이집과 연계하여 김도아 어머님께서 아이들과 함께 물놀이를 합니다.\n여벌 옷, 개인수건, 방수가방을 챙겨 보내주시기 바랍니다.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1429082353",
+    "date_written": "2026-07-27",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "오늘 하늘반 친구들은 잠수함을 타고 바닷속 여행을 떠나는 상상놀이를 즐겨보았습니다.\n모형 잠수함과 자료사진을 함께 살펴보며 바다 위를 다니는 배와 바닷속을 다니는 잠수함의 차이를 알아보고,\n“물고기랑 고래를 만날 수 있어요.”라고 이야기하며 놀이를 이어갔습니다.\n스퀴지 블록으로 잠수복을 만들어 보고, 지난주에 놀이했던 바다생물 머리띠를 착용해 바다생물이 되어\n잠수함을 탄 친구들과 함께 인사를 나누며 역할놀이로 자연스럽게 확장되었어요.\n바깥놀이에서는 텃밭에 올라가 쑥쑥 자라는 작물에 물을 준 뒤, 크게 들려오는 매미 소리를 따라 어린이집 주변을 살펴보았습니다.\n나무에서 매미를 발견했지만 자세히 보기 어려웠는데, 지나가시던 어르신께서 가까이에서 볼 수 있도록 도와주셔서\n매미의 생김새와 소리를 낼 때 꼬리 부분이 움직이는 모습까지 자세히 관찰할 수 있었습니다.\n상상 속 바다 탐험과 자연 속 생태 탐색을 통해 호기심을 넓혀가는 즐거운 하루였습니다.\n\n* 7월 28일(화) 오전 10시 30분 영등포경찰서와 함께하는 실종아동 예방 [사전지문등록]이 진행될 예정입니다.\n\n하준이는 기분 좋게 등원 후 잠수함을 보면서 관심을 가졌답니다. \"선생님 이건 뭐예요? 하준이도 타볼래\" 이야기하며 적극적으로\n놀이를 주도해 가는 모습이었습니다. 이후 바깥놀이를 가서 \"선생님 매미 소리 들려~ 매미 어딨 어?\" 호기심을 나타내기도 했답니다.\n점심 후 배변을 했는데 평소보다 조금 묽은 변이었습니다. 잠이 오지 않는지 누워서 휴식을 취하다가 일어나서 조용한 놀이하며 친구들을 기다렸습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bYCNM2/dJMcaaMW7wi/D9NOykyjpnWubfoEHh7ZNk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bk0lkk/dJMcaaMW7wg/5PurMKf8e09LsxJDFdpM8K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cuN5FV/dJMcaaMW7wj/P0iopnSWgmkMCUaYax2vGk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cQfuxM/dJMcaaMW7wu/PPIMSxO0vAk6mJNyks6t9k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0411_2026-07-27_1429082353_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0411_2026-07-27_1429082353_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0411_2026-07-27_1429082353_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0411_2026-07-27_1429082353_04.jpg"
+    ]
+  },
+  {
+    "id": "1429767423",
+    "date_written": "2026-07-29",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "오늘은 열린 어린이집 활동으로 김도아 어머님과 함께 시원한 물놀이를 즐겼습니다.\n물놀이를 시작하기 전, 안전하게 놀이하는 방법과 위험한 상황에 대해 함께 이야기 나누고 신나는 율동체조로 몸을 충분히 풀어보았습니다.\n이후 어린이집 옥상에 마련된 물놀이장으로 이동하자 하늘반 친구들은 \"우와~!\" 하고 감탄하며 설레는 마음으로 물놀이를 시작했습니다.\n처음에는 물을 조심스러워하는 친구들도 있었지만, 친구들의 놀이 모습을 충분히 살펴본 뒤 천천히 물에 들어가며 자연스럽게 적응하는 모습을 보였습니다. 컵에 물을 담아 흘려보기도 하고, 물레방아 놀잇감에 물을 부어 돌아가는 모습을 관찰하며 물의 움직임을 탐색해 보았습니다.\n물총으로 분수처럼 물을 뿜어 보고, 컵과 컵 사이로 물을 옮기며 다양한 방법으로 물을 탐색하였어요.\n선생님들에게 장난스럽게 물을 뿌려보기도 하고 친구들과 함께 물을 주고받으며 환하게 웃는 모습이 이어졌습니다.\n그리고 물고기처럼 두 팔을 움직이며 헤엄치는 모습을 흉내 내고, 물속에서 몸을 자유롭게 움직이며\n다양한 신체 움직임을 즐기는 등 시원하고 즐거운 물놀이 시간을 보냈습니다.\n무더운 날씨 속에서도 안전수칙을 잘 지키며 친구들과 함께 웃음 가득한 여름 추억을 만든 하루였습니다.\n\n● 내일도 즐거운 물놀이를 이어서 할 예정입니다. 물놀이 준비물을 챙겨서 보내주세요~\n\n하준이는 일과 중에도 물놀이 중에도 콧물이 계속 나와서 불편해하는 모습이 있었습니다. 물놀이를 즐기면서도 중간중간 쉬고 싶다고 표현해서 잠깐씩 물에서 나와 휴식을 취했습니다.\n물놀이 후라 그런지 점심은 평소보다 많이 먹었습니다. 오전 시간 살짝 묽은 변을 봤습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/AHao8/dJMcacqwRpU/AAYyimKl5IOBgfP1iZSgGk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bSPEUs/dJMcacqwRpT/NiXsp8sGhbeKLXWP3mBpoK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gpvmv/dJMcacqwRpV/RtK10qlk8kpxp5wClmwDdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/clYtNR/dJMcacqwRpY/o2QvqOGROJvAFjHIVWyQ1k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cPEBIL/dJMcacqwRp7/1CI8izUAymOlBOKsbYOwX1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bY5oaz/dJMcacqwRqb/bUWu9uLgR3y0PzZMuNl750/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0412_2026-07-29_1429767423_06.jpg"
+    ]
+  },
+  {
+    "id": "1433522794",
+    "date_written": "2026-08-10",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "살랑살랑 불어오는 바람을 느끼며 날씨의 변화를 탐색하기 위해 바깥놀이를 먼저 다녀왔습니다.\n그늘에서 시원한 바람을 느끼며 “뜨거운 여름이 조금씩 지나가고 있나 봐.”라고 이야기 나누었어요.\n어린이집 주변을 산책하며 어떤 동물들이 살고 있는지 찾아보았지만, 더운 날씨 때문인지 쉽게 만나볼 수 없었습니다.\n대신 나무에서 매미를 발견하여 생김새와 움직임을 가까이에서 관찰한 뒤, 다시 자연에서 지낼 수 있도록 날려 보내주었습니다.\n교실로 돌아온 하늘반 친구들과 새롭게 게시된 동물농장 친구들의 사진과 다양한 동물 모형을 호기심 있게 탐색하였어요.\n염소와 양의 비슷한 생김새를 비교하며 헷갈려하기도 하고, “내가 아는 고양이와 사진 속 고양이는 다른 것 같아요.”라고 말하며\n자신의 경험과 연결해 차이점을 찾아보았습니다.\n앞으로도 다양한 자료와 탐색 경험을 제공하여 동물의 생김새와 특징을 놀이 속에서 자연스럽게 알아갈 수 있도록 지원하겠습니다.\n\n* 내일은 찾아오는 인형극 노리야기 공연이 있습니다. (9시 30분까지 등원시켜 주세요)\n* 8/12 (수요일)에는 소방대피훈련이 있습니다. 여벌양말 보내주세요.\n\n하준이는 등원하면서 울음을 보였지만 간식을 먹으며 안정을 찾은 뒤 평소와 다름없이 놀이했습니다.\n친구들이 동물손인형을 가지고 놀이하고 있으니 하준이가 먼저 다가가 \"나 좀 빌려줄래?\"라고 이야기하며\n놀이에 적극적으로 참여하려고 하는 모습이었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/baH7KE/dJMb99N5imM/1bXf6Rcash4N6aaZjNRke1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ASo19/dJMcaafho4d/8puITsKS4kpb4I6Kt2QyG1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0413_2026-08-10_1433522794_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0413_2026-08-10_1433522794_02.jpg"
+    ]
+  },
+  {
+    "id": "1434853473",
+    "date_written": "2026-08-12",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 찾아오는 인형극 노리야기 ‘비켜 비켜 내가 먼저야!’를 관람하였습니다.\n인형극을 통해 친구와 차례를 지키며 사이좋게 놀이하는 방법과 놀이터에서 지켜야 할 안전 약속을 즐겁게 알아보았어요.\n하늘반에서는 농장에서 하는 일을 표현한 사진에 우리 반 친구들의 얼굴을 합성하여 제공하였습니다.\n영아들은 사진 속 자신과 친구가 하는 일을 이야기하며 농장 동물에 높은 관심을 보였어요.\n어제 도트물감으로 동물의 무늬를 표현한 놀이에 이어, 오늘은 실제 동물 사진을 관찰하며 다리의 개수를 세어보고\n나무집게로 다리를 표현해 보았습니다. 동물의 특징을 세심하게 살피며 수와 미술놀이를 즐겁게 경험하였답니다.\n산책 중 들리는 매미 소리에 높은 호기심을 보인 영아들을 위해 채집망을 들고 소리를 따라가 보았어요.\n나무줄기와 비슷한 색으로 숨어 있는 매미를 찾아보고 채집망으로 잡아보려 시도하며,\n자연 속 생명체를 호기심 있게 탐색하는 시간을 가졌습니다.\n\n● 8월 20일 (목) 생일파티가 있습니다.\n하준이를 비롯해 오인호(남), 박제이(여), 서재원(남)의 생일파티를 합니다.\n아이들의 즐거운 생일을 위해 3000원 상당의 선물을 8월 17일까지 보내주세요.\n* 내일 서울시 식생활 개선 교육 - 요리수업이 예정되어 있습니다. 앞치마 머릿수건 보내주세요.\n\n하준이가 오늘은 평소보다 조금 늦게 잠이 들었습니다.\n처음에는 졸리지 않다고 해서 잠깐 휴식을 취할 수 있도록 했는데 누워 있다가 스르르 잠이 들었답니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bljbKb/dJMcag0LSRN/IikVwtsPhVoUfa28pLdpo1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/xs7X4/dJMcag0LSRS/sJn5izaSvK81kffLVfl4ik/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b6rYOQ/dJMcag0LSRJ/4DTlk1qmCYaZUyonwnVyDK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/glH2a/dJMcag0LSRU/Sl83emIU2J3dD05vEdG8fk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fciE8/dJMcag0LSRY/ZxK2nXbIKTlnixykTwsRj0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/choKvw/dJMcag0LSSa/11bBlbGNtEaBpjVDxOwin0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/1jV3g/dJMcag0LSSe/2KblOT8CnbuEpajuFEUm51/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0414_2026-08-12_1434853473_07.jpg"
+    ]
+  },
+  {
+    "id": "1436176975",
+    "date_written": "2026-08-14",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "안녕하세요\n어제는 서울시 식생활교육 지원사업과 연계하여 ‘카나페 만들기’ 요리활동을 하였습니다. 동화를 들으며 어떤 채소인지 맞혀보는 과정에서 텃밭에서 직접 길러본 작물을 떠올려 이야기하고, 다양한 채소의 맛과 식감을 탐색하며 카나페를 완성하였어요. 채소를 먹을 때 귀를 살짝 막고 씹으면 ‘오도독’ 소리에 더욱 집중할 수 있다는 것을 경험하며 즐겁게 채소를 맛보았습니다.\n\n오늘은 동물들의 실제 울음소리를 들어보았습니다. 소리가 들리자 하던 놀이를 잠시 멈추고 귀 기울여 들으며 어떤 동물인지 맞혀보았어요. 동물에 대한 흥미가 높아진 영아들과 발자국 그림을 살펴보며 “내 발가락은 5개인데 동물은 몇 개일까?”라고 비교해 보았습니다. 동물마다 발가락의 수와 발자국 모양이 다르다는 것을 발견하며 더욱 집중해 탐색하였답니다.\n하준이는 동물 소리가 나자 '이거 무슨 소리지?'라고 말하며 흥미를 보였어요~ 교실의 돌아다니다가 다시 발자국 앞으로 다가와 그림을 탐색하고 발가락의 수를 세어보는 친구들과 함께 짚어보았습니다.\n\n친구가 소의 서 있는 자세를 몸으로 표현하자 모두들 관심을 보이며 따라 해 보았어요. 교사는 영아들의 흥미를 반영해 소 모자를 제공하였고, 영아들은 모자를 쓰고 소처럼 걷거나 울음소리를 내며 즐거운 신체놀이로 확장해 나갔습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bjc4UX/dJMcacqIxKV/52fZfB6xK2lJ9ao243gbkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/k1CjV/dJMcaf8EyK1/sO0NVKQk7QuEwo2BBwYnU0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dtCe2k/dJMcaf8EyK3/7E1FmC80OmkFBExaCMmoN1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/o1oE7/dJMcaf8EyVa/0navLMB3aofvPAEo7vMieK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/h1ezu/dJMcaf8EyVl/spyPFS4mqYfJH8WaX87rak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oNDyu/dJMcaf8EyVo/aVGUP2Afkrni4jT8oUWPTk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Q9Zr3/dJMcaf8EyVd/XRLJYVKQdq0onhFaZPGSkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d03qeF/dJMcaf8EyVb/3bf1BUKRocsKWBvkKKUhq0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0415_2026-08-14_1436176975_08.jpg"
+    ]
+  },
+  {
+    "id": "1437740178",
+    "date_written": "2026-08-19",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "어제 점토를 손바닥으로 굴려 다양한 크기의 동그란 모양을 만들며 촉감과 형태를 탐색한 경험에 이어,\n오늘은 점토에 동물 발자국을 찍어보았습니다. 점토의 특성을 이해한 영아들은 동물 인형의 발을 힘주어 꾹 눌러 찍고,\n실제 동물의 발자국과는 차이가 있지만 동물마다 찍힌 크기와 모양이 다름을 비교해 보았어요.\n동물 발자국을 찍던 중 “내 발도 찍어볼래요!”라며 자신의 발을 점토에 찍어보는 놀이로 즐겁게 확장하였습니다.\n\n되살림 재료를 활용해 친구와 소도 만들어보았어요.\n휴지심으로 다리를 붙이며 테이프 사용 방법을 익히고, 뒷다리는 튼튼하게 고정하기 위해 테이프를 여러 겹 붙였습니다.\n앞다리는 움직일 수 있도록 앞부분만 붙이는 등 자신만의 방법으로 소를 완성하였답니다.\n완성한 소에 단추 끼우기 놀잇감의 끈을 연결해 교실을 끌고 다니며, 만들기 놀이를 신체·역할놀이로 자연스럽게 확장해 나갔습니다.\n\n하준이는 오늘 교사에게 생일상을 크게 차려주고 맛있게 먹으라며 이야기해주기도 했답니다. 테이프 떼어보고 붙여보기에도 큰 관심을 보이며 적극적으로 놀이하는 모습을 보여주었습니다.\n일과 중에는 힘든 모습은 없었지만 잠들기 전에 코가 막혀서 뒤척이는 모습이 있었습니다.\n오전간식 후 물을 마시다가 옷에 쏟아 여벌옷으로 갈아입었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/km1ij/dJMcaf1XR8l/82n4vc8oxaP9wz23ZSnsrK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c8xm7M/dJMcaf1XR8g/cxxYwLprMDXiJKKUyalkrK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gz6kS/dJMcaf1XR8a/zSxmTrMC8NKoF2RzTmGvYk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/EMSho/dJMcaf1XR8k/05GACdDJCqd1En9aDgn2Gk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Vcvjj/dJMcaf1XR8t/RIwo8a8oizDkkN6JtZ4WX0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0416_2026-08-19_1437740178_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0416_2026-08-19_1437740178_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0416_2026-08-19_1437740178_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0416_2026-08-19_1437740178_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0416_2026-08-19_1437740178_05.jpg"
+    ]
+  },
+  {
+    "id": "1438415621",
+    "date_written": "2026-08-20",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mixed_rain_snow",
+    "content": "안녕하세요 \n오늘 하준이를 비롯한 8월생 친구들의 생일파티가 있었습니다. \n선물을 주고 받으며 주는 기쁨 받는 즐거움을 느껴보는 시간이었습니다.\n생일잔치 사진은 앨범방에 업로드 해드리도록 하겠습니다.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1439112037",
+    "date_written": "2026-08-21",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘은 뾰족뾰족한 가시를 가진 고슴도치의 생김새에 대해 함께 이야기 나누어 보았어요.\n고슴도치의 얼굴은 어떻게 생겼는지 자세히 살펴보고, 다리가 몇 개인지 하나씩 세어보며 고슴도치가 가진 특징을 알아보았습니다.\n미술놀이에 사용되는 칫솔을 탐색하며 이를 닦을 때 사용하는 칫솔이라는 것을 알아보고\n칫솔모를 손끝으로 조심스럽게 만지며 까칠까칠한 촉감을 느껴보았습니다.\n여러 가지 색 가운데 자신이 사용하고 싶은 색을 스스로 골라보고, 칫솔을 움직여 고슴도치의 몸에 뾰족뾰족한 가시를 표현해 보았어요.\n그림을 살펴보며 색이 칠해지지 않은 빈 곳을 찾아 칫솔로 꼼꼼하게 채워보기도 하고, 여러 방향으로 움직이며\n자신만의 고슴도치를 완성하였습니다.\n\n오늘 하준이가 점심 식사를 거의 다 먹을 때쯤 젓가락으로 책상을 두드리기도 하고 책상에 턱을 괴거나 자세가 흐트러지며 집중하지 못하는 모습을 보이더니 식판이 미끄러지면서 옷에 국을 쏟아서 여벌옷으로 갈아입었습니다. 하준이에게 먹기 싫은지 물어보니 다 먹겠다고 해서 기다려주었습니다. 식사를 마치고 스스로 정리할 수 있도록 하고 있는데 하준이가 젓가락과 숟가락을 손에 들고 교실을 뛰어다니더라고요.\n식사도구를 들고뛰는 건 위험한 행동임을 이야기해 주었는데 하준이가 못 들은 척하더라고요. 안전에 관련된 사항이라 하준이 눈을 보며 단호하게 이야기해 주었습니다. 가정에서도 함께 이야기 나누어주세요.\n어제보다 노란 콧물이 많이 나오고 기침 횟수가 빈번해졌습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/fx8Ag/dJMcadwgZNd/jZJTRY7U79WdSxQ3yYeKWk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/nltm1/dJMcadwgZM9/0fBH6xrh2RLQlqka0dhHa1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jFVmm/dJMcadwgZM8/u2HnkiOWEq2ZIuXhVOsYJ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dX88rp/dJMcadwgZNj/MKjORKWadLBKTGYmBvIkO1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0418_2026-08-21_1439112037_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0418_2026-08-21_1439112037_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0418_2026-08-21_1439112037_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0418_2026-08-21_1439112037_04.jpg"
+    ]
+  },
+  {
+    "id": "1439988707",
+    "date_written": "2026-08-24",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "지난주 재활용품으로 만든 소를 산책시키며 “강아지도 만들어 함께 산책하면 재미있겠다.”라고 이야기했던\n하늘반 친구들의 놀이 경험과 의견을 반영하여 오늘은 강아지 만들기를 하였습니다.\n강아지 사진을 살펴보며 코와 귀의 생김새를 탐색하고 “귀가 세모 모양이에요.”라고 발견한 특징을 말해보았어요.\n강아지의 부드러운 털을 떠올리며 상자에 털실을 붙이고, 휴지심과 테이프로 다리를 연결하였습니다.\n종이접시와 종이컵으로 얼굴과 코를 표현하며 다양한 일상 재료가 강아지로 변하는 과정을 즐겁게 경험하였답니다.\n완성한 강아지와 함께 교실을 산책하듯 걸어 다니며 “멍멍!” 소리를 흉내 내고 강아지의 움직임도 몸으로 표현해 보았어요.\n바깥놀이 시간에는 텃밭에 올라가 주말 동안 쑥쑥 자란 작물들을 찾아보았습니다.\n크게 자란 오이와 가지를 발견하고 직접 수확한 뒤, 작물이 건강하게 자랄 수 있도록 물도 주었어요.\n넓게 자란 가지 잎을 살펴보다가 부채처럼 흔들어 바람을 만들어보며 자연물을 새로운 놀이 도구로 활용하는 즐거움도 경험하였답니다.\n\n8/25일(화) - 서울시와 연계한 방문간호사 선생님께서 방문하셔서 발달사정 검사를 진행해 주실 예정입니다.\n9시 30분까지 등원시켜 주시기 바랍니다.\n\n하준이는 오전 일과 중에는 피곤해하는 모습은 없었고 등이 아프다는 표현도 없이 평소처럼 놀이하며 지냈습니다.\n다만 잠을 못 자서 조금 예민했는지 친구들이 쌓아놓은 블록을 갑자기 무너뜨리거나 하준이가 앉아 있는 곳을 친구들이 지나가면\n불편해하는 모습을 보이기도 했습니다.\n기침이 아직 있고 낮잠 이불을 펴자마자 미영선생님이 토닥토닥해줘요~ 하고는 바로 잠이 들었습니다.\n평상시 일어나는 시간보다 20분 정도 더 자고 일어났습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/0wCgc/dJMcafVnbb8/g0yJYHwtvMX9T4Gk66apcK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hoWbU/dJMcafVnbca/9x6yEx9csOzYklyWR9lbEk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/MBCoZ/dJMcafVnbcb/lut1GlUCCngxGspGnrEgZk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/GiABs/dJMcac5k5yc/38OYNe2PawlSvMy1HX1oIK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0419_2026-08-24_1439988707_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0419_2026-08-24_1439988707_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0419_2026-08-24_1439988707_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0419_2026-08-24_1439988707_04.jpg"
+    ]
+  },
+  {
+    "id": "1441356428",
+    "date_written": "2026-08-26",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "어제는 방문간호사 선생님과 함께 영아들의 성장과 발달 상태를 살펴보는 발달사정을 진행하였습니다.\n방문 간혹사 선생님께서 작성해 주신 발달사정 평가서를 보내드립니다.\n\n발달사정이 이루어지는 동안 하늘반 친구들은 실제 닭 사진을 자세히 관찰하며\n깃털에는 어떤 색이 있는지 이야기 나누고, 닭을 꾸며보았어요.\n어제의 놀이를 이어 큰 상자를 활용하여 친구들과 닭이 사는 집을 함께 만들었습니다.\n“암탉은 안에서 알을 낳아요.”라고 이야기하며 상자 안에 암탉을 붙이고,\n수탉은 집 밖에서 “꼬끼오~” 하고 울고 있다고 상상하며 닭장을 꾸며보았답니다.\n친구들과 생각을 나누고 힘을 모으며 닭이 생활하는 공간을 즐겁게 완성하였습니다.\n강아지를 만들며 부드러운 털을 만져보고 “양도 털이 부드러워요.”라고 말했던 친구들의 생각을\n반영하여 푹신푹신한 양 꾸미기로 놀이를 이어갔어요. 목공풀의 끈적이는 성질을 탐색한 뒤 풀을 바르고,\n솜사탕처럼 부드러운 솜을 손으로 조금씩 뜯어 양의 몸에 붙여보았습니다.\n완성된 양을 양손으로 포근하게 눌러보며 “푹신푹신해요.”, “양이 따뜻해졌어요.”라고\n느낌을 표현하는 친구들의 얼굴에는 뿌듯한 미소가 가득했답니다.\n영아들의 발견과 생각이 닭장 만들기와 양 꾸미기로 자연스럽게 이어진 즐거운 시간이었습니다.\n\n하준이는 점심식사로 제공된 요구르트를 먹다가 빨대를 가지고 장난을 치다가 요구르트를 바닥에 쏟아버렸습니다.\n하준이도 상황이 당황스러웠는지 울음을 보이기도 했습니다. 하준이를 달래준 후 식사시간에는 바르게 앉아서 먹을 수 있도록 이야기해 주었습니다.\n하준이가 노란 콧물이 조금 나오고 기침이 아직 있습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/FIbU3/dJMcaiLekXL/mZTs13ulrjDJtkuHk2gJoK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/vIxgv/dJMcaiLekXJ/smLEZb2UZT2jaHK04NUQX1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dzuhP/dJMcaiLekXN/EsFV7kAPkF7HcqUGwgXCAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gcTDJ/dJMcaiLekXX/RjKtLBgALKcMJvdSAT5YwK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/wwCpl/dJMcaiLekXZ/Q2DmJ9qNif97OFl9K9u0I0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2J5BF/dJMcaiLekX3/LQFjKaG63LyXe9yyuoJRkK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0420_2026-08-26_1441356428_06.jpg"
+    ]
+  },
+  {
+    "id": "1442740293",
+    "date_written": "2026-08-28",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mixed_rain_snow",
+    "content": "어제 휴지심에 물감을 묻혀 토끼가 깡충깡충 뛰는 모습을 표현하며 물감놀이를 더 하고 싶어\n한 하늘반 친구들의 의견을 반영하여, 오늘은 루이스 웨인의 고양이 작품을 감상하고 포크로 고양이의 풍성한 털을 표현해 보았습니다.\n친구들과 만든 닭장에서는 “꼬끼오~” 소리를 내며 계란을 넣고 굴려보았어요.\n놀이 중 닭장에 깔린 지푸라기를 발견하여 “다른 동물의 집에도 지푸라기가 있을까?”라고 함께 생각해 보았습니다.\n닭과 토끼, 소의 집에도 지푸라기가 깔려 있다는 공통점을 제공되 사진을 통해 발견하고 이야기를 하였어요.\n교실에 지푸라기 그림을 매트에 붙여서 동물들의 집이 될 수 있도록 제공하자, “나무 같아요.”, “건초예요.”라고\n느낌을 표현하며 그 위에서 동물의 움직임을 흉내 내었답니다.\n특히 토끼처럼 깡충깡충 뛰는 놀이를 즐거워하여 옥상 잔디밭에서도 토끼의 움직임을 표현하며 신체놀이를 이어갔어요.\n닭장놀이에서 발견한 지푸라기에 대한 관심이 동물의 생활공간 탐색과 토끼 신체놀이로 자연스럽게 확장된 하루였습니다.\n\n하준이는 오늘 군산할머니, 할아버지 이야기를 많이 하더라고요. 어린이집 끝나면 할머니 할아버지랑 재미있는 놀이하기로 했다고 하면서\n기대하는 눈빛이었답니다. ^^\n하준이 기침이 어제보다 조금 깊어졌습니다. 가정에서도 지켜봐주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bJicNL/dJMcaa7Hgjt/f2GEX4RKYnRmh3uupUT3wK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cyJjcz/dJMcaa7Hgjq/I07Ym5dXaVutwehKnwQB40/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZvbTj/dJMcaa7Hgjp/iKf2EklzjF0Kls1TTWWQbK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/powkN/dJMcaa7HgjB/CzjFznBhd6SRfJpSYYEKyk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ec5fvB/dJMcaa7HgjJ/0DWGUNIvUrceTX6UjYkS20/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0421_2026-08-28_1442740293_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0421_2026-08-28_1442740293_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0421_2026-08-28_1442740293_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0421_2026-08-28_1442740293_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0421_2026-08-28_1442740293_05.jpg"
+    ]
+  },
+  {
+    "id": "1443657041",
+    "date_written": "2026-08-31",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "rain",
+    "content": "지난주에 이어 하늘반에서는 동물농장 놀이가 이어지고 있습니다.\n농장을 만들던 중 아픈 동물이 생기자 병원으로 데려갈 동물구급차를 만들며 놀이를 하였어요.\n구급차가 완성되자 친구들은 병원놀이 도구를 꺼내 의사로 변신하고,\n아픈 동물을 진찰하거나 주사를 놓으며 정성껏 보살펴주었답니다.\n“동물들이 배가 고프면 어떻게 하지?”라는 질문에는 풀을 대신할 종이를 찾아 먹여주고,\n당근과 바나나를 요리하여 먹이로 주었어요.\n농장 만들기에서 시작된 놀이가 동물구급차와 병원놀이, 먹이 주기로 자연스럽게 확장되며\n동물을 아끼고 돌보는 마음을 표현하였습니다.\n비가 내려 바깥놀이 대신 지난번 잔디밭에서 즐겼던 토끼 놀이를 교실에서 이어갔어요.\n토끼가 되어 두 발을 모아 장애물을 뛰어넘고, 장애물 사이의 간격을 살피며 알맞게 몸을 움직여보았습니다.\n이전의 즐거운 경험을 기억하여 실내에서도 신나게 신체놀이를 즐긴 하루였습니다.\n\n하준이는 지난주에 이어 엄마닭 달걀놀이를 즐기는 모습이 관찰되었습니다.\n달걀모양 놀잇감을 반복해서 굴려보며 몰입하는 모습이었습니다.\n아직 기침이 남아있습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/uPGnO/dJMcadb6MQu/8P6Roa9VzCzuIGLEqbya8k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/LyDj0/dJMcadb6MQs/vn9WmXiReuq2E5uXAcJSk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/de5xtS/dJMcadb6MQt/K54DeMhyAHfTk3p35C17J0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0422_2026-08-31_1443657041_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0422_2026-08-31_1443657041_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0422_2026-08-31_1443657041_03.jpg"
+    ]
+  },
+  {
+    "id": "1445064786",
+    "date_written": "2026-09-02",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제 EVA 스티커로 고양이를 꾸미며 “돼지도 만들고 싶어요.”라고 말했던\n하늘반 친구들의 의견을 반영하여 오늘은 재활용품으로 돼지를 만들어보았어요.\n투명한 통에 분홍색 습자지를 넣는 방법과 통을 종이로 감싸는 방법 중 원하는 것을\n스스로 선택하여 돼지의 몸을 표현하였습니다.\n다양한 재료가 돼지로 변하는 과정을 즐겁게 경험한 뒤에는 완성한 돼지에게\n맛있는 먹이를 주고 보살피며 돌보기 역할놀이도 이어갔답니다.\n\n오늘은 비가 내리지 않아 메낙골공원으로 산책을 다녀왔어요.\n여름이 점차 지나가고 있는 공원에서 풀벌레 소리에 귀를 기울이며\n“이제 곧 가을이 오려나 봐요.”라고 이야기 나누었습니다.\n자연의 소리와 변화를 느끼며 다가오는 가을을 기다려본 즐거운 하루였습니다.\n\n하준이는 어제보다 기침은 잦아들었습니다. 평소보다 물을 자주 마실 수 있도록 하고 있습니다.\n원에서는 하준이가 변기에 익숙해질 수 있도록 친구들 화장실 가는 시간에 함께 가고 있습니다.\n(원에서는 큰 거부감 없이 하준이가 스스로 옷을 내리고 변기 앞에 서보고 다시 옷을 올려 입고 있습니다)\n가정에서도 하준이가 배변훈련을 본격적으로 시작했는지 궁금합니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/JMqgU/dJMcahMrgtC/kfbkTmeWxRjccSHom7zXZk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/j2hXy/dJMcahMrgtG/ZL7kVUqUMLKgEg6cuFsRFK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cIlq4D/dJMcahMrgtp/UpUp9gqxMAeVUCuaGLvgDk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/oOlT1/dJMcahMrgtz/QHqnsEkzzvuzXShoE9r2aK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0423_2026-09-02_1445064786_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0423_2026-09-02_1445064786_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0423_2026-09-02_1445064786_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0423_2026-09-02_1445064786_04.jpg"
+    ]
+  },
+  {
+    "id": "1446486642",
+    "date_written": "2026-09-04",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 동물병원 놀이를 하며 다친 동물들의 엑스레이를 찍고 치료해 주었습니다.\n블록으로 엑스레이 기계를 구성해 동물의 몸을 살펴보고, 종이를 길게 잘라 만든 붕대를 조심스럽게 감아주며\n아픈 동물을 정성껏 보살펴 주었어요.\n오늘은 동물이 건강하게 지내는 방법을 알아보았습니다.\n돼지는 땀을 잘 흘리지 못해 진흙에 몸을 비비며 더위를 식히고 피부를 보호한다는 이야기를 나눈 뒤,\n물감으로 진흙을 표현해 보았어요. 빨대로 물감을 불어 퍼지는 모습을 관찰하고 솜 도장으로\n톡톡 찍으며 다양한 미술 표현을 즐겼답니다.\n바깥놀이 시간에는 따뜻한 햇살과 시원해진 바람을 느끼며 놀이터에 다녀왔습니다.\n“엄마, 아빠랑 놀이하는 곳이에요.”라며 자신의 경험을 친구들과 나누고,\n놀이터를 신나게 뛰어다니며 다가오는 가을을 온몸으로 느껴보았습니다.\n\n● 신길종합사회복지관에서 가정분양저금통을 보내드립니다.\n9월 21일(월)까지 회신 부탁드리며, 보내주신 저금통은 신길종합사회복지관에 기부됩니다.\n\n하준이는 오전 시간 조금 졸렸는지 실외놀이 시간에 밖에 나가자고 해도 싫다고 하고 정리해 보자 하는 말에도\n시큰둥해하며 누워있거나 엎드려 있는 모습이 많이 보였습니다.\n친구들이 준비하고 나가려고 하니 그제야 하준이도 밖에 간다고 하더라고요.\n기침이나 콧물은 어제보다 많이 줄어들었습니다.\n주말 동안 푹 쉬고 월요일에는 건강한 모습으로 만나길 기대하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/8FiXv/dJMcaafB56H/boqFig68wydurkKJgsD6lK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cMbmPf/dJMcaafB56N/QzSlfTW5BQSbjeDSLvNkp0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bK7OBD/dJMcaafB56J/ju2rKbpjyNNES9X3kG7Shk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cJFrEI/dJMcaafB57a/TVtrT6hSnk3rUT5tCYk2d0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/08wOp/dJMcaafB567/UX1pW0yhZoMK22Ed9tbs5k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Qr4ey/dJMcaafB57g/ueJipOldy4HxoN0fRY1aUK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0424_2026-09-04_1446486642_06.jpg"
+    ]
+  },
+  {
+    "id": "1447375710",
+    "date_written": "2026-09-07",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "지난주 동물을 치료하고 돌보았던 놀이를 이어 오늘은 동물들이 좋아하는 먹이에 관해 이야기 나누었습니다.\n하늘반에 있는 놀잇감을 살펴보며 “고양이는 생선을 좋아해요.”, “꿀꿀 돼지는 사과를 먹어요.”라고 말하고,\n알맞은 먹이를 찾아 동물에게 다정하게 먹여주었어요.\n다른 음식도 가져와 어떤 동물이 좋아할지 생각해 보며 먹이 주기 놀이를 즐겼답니다.\n“소는 풀을 좋아하는데 교실에는 풀이 없어요.”라는 친구들의 말에 먹이를 구할 방법을 함께 생각해 보았어요.\n영아들은 “텃밭에 가서 풀을 가져와요.”라고 제안하였고, 아이들의 생각을 반영하여 텃밭으로 올라갔습니다.\n다 자란 깻잎과 작두콩 잎을 직접 따고 모으며 동물에게 줄 먹이를 마련해 보았어요.\n교실로 돌아온 친구들은 수확한 잎을 소와 염소, 양 등 풀을 좋아하는 동물에게 먹여주며 돌보기 놀이를 계속하였습니다.\n교실에서 시작된 먹이 주기 놀이가 영아들의 생각을 따라 텃밭 수확 활동으로 연계되고,\n자연물을 활용한 동물 돌보기 놀이로 다시 확장된 즐거운 시간이었습니다.\n\n하준이는 오늘 보내주신 팬티와 기저귀를 병행착용하며 배변훈련을 해보았습니다. 팬티 입기에 대해 큰 거부감은\n보이지 않았지만 변기에서는 소변을 보지 못했고 바지 입고 나오자마자 쉬를 했답니다. 응가를 하고 나서도 했다고 표현을 하지는 않습니다. \n원에서 지속적으로 변기 사용을 시도하고 있지만 하준이에게는 시간이 필요할듯 합니다. 배변했을 때 쉬했어요 응가했어요 등 표현할 수 있도록 격려해주시면 좋을것 같습니다. 원에서도 연습하고 있지만 가정에서도 지속적으로 함께해주시면 좋을 것 같습니다.\n\n*추석을 맞아 아이들과 전통문화를 경험하는 놀이를 계획하고 있습니다.\n필요한 준비물 안내드립니다.\n준비물 : 머릿수건, 앞치마, 한복\n9월 17일까지 보내주시면 놀이 후 가정으로 보내드리겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/keTlB/dJMcacLmdHq/r93K7HCWXvFKxE0zWp1uA1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QGltd/dJMcacLmdHr/k6CnxwenipicQqMQIACKGk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bxe80a/dJMcacLmdHs/G3yJGmvdERAJAYbNpXwClK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0425_2026-09-07_1447375710_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0425_2026-09-07_1447375710_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0425_2026-09-07_1447375710_03.jpg"
+    ]
+  },
+  {
+    "id": "1447062617",
+    "date_written": "2026-09-07",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요 어머님 하준이 눈썹 위 상처 모기물린게 맞을까요? 하준이는 다쳤다고 해서요 확인부탁드립니다",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cKtJwZ/dJMcaiShhRH/D8FJwhjqJm2jOJeFjlGVB1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0426_2026-09-07_1447062617_01.jpg"
+    ]
+  },
+  {
+    "id": "1447790386",
+    "date_written": "2026-09-08",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어머님 하준이가 교실에서 뛰어가다가 매트에 다리가 걸려 넘어져 교구장에 머리를 부딪혔습니다.\n사진 확인부탁드립니다 \n약바르고 얼음찜질중입니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cW9pPW/dJMcajctMyS/tWKYXKtqXycurdiKnzqzX0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0427_2026-09-08_1447790386_01.jpg"
+    ]
+  },
+  {
+    "id": "1448775466",
+    "date_written": "2026-09-09",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "오늘 하늘반 친구들과 항공우주박물관에 다녀왔습니다.\n실제 비행기를 보며 크기와 종류에 관심을 가지고 즐겁게 탐색해 보았어요.\n재미있는 뮤지컬을 관람하며 음악과 등장인물의 움직임을 즐겁게 감상했습니다.\n비행기 안으로 들어가 조종석과 다양한 장치를 살펴보며 궁금한 점을 표현하기도 했답니다.\n비행기가 하늘을 나는 원리와 특징에 대한 설명도 들어보았습니다.\n좌석에 앉아 주변을 살펴보며 비행기를 탔던 경험을 떠올려 이야기하기도 했어요.\n오늘 체험을 통해 비행기를 직접 보고, 듣고, 공간을 경험하며 호기심을 넓혀보았답니다.\n친구들과 함께 새로운 것을 발견하며 즐거운 추억을 만든 하늘반 친구들이었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/g2rR0/dJMcacq4lxK/Z8WUkAjKONNBDF4MiORNH1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/XHSq8/dJMcacq4lxQ/0qhoeehQGHUw8zEg9zMLh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dDTdak/dJMcacq4lxY/na3kaGGj5XjlcZ0IcmiAi1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Dj6YZ/dJMcacq4lx4/DuZv1Wr6v9cviBF1vWfmRK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gidhy/dJMcacq4lyb/QyHlOmc3DW3ajKUNnXg0Hk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cHtBTe/dJMcacq4lyg/2G7l1to1kQOEKY0wZ29XBK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bl6vjs/dJMcacq4lyq/if7YGgWetYtq1u8GOLuLh0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/RVP7R/dJMcacq4lyz/FsXbbTKnWhjKRZwWkOutR1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ebgeR1/dJMcacq4lyF/x4Z3U4aX4aPOHc8Krk0L51/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cJjXt4/dJMcacq4lyQ/TUSL3MJAZtoVIm8ZWbXWN1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0428_2026-09-09_1448775466_10.jpg"
+    ]
+  },
+  {
+    "id": "1450221673",
+    "date_written": "2026-09-11",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제는 열린 어린이집을 맞이하여 윤가람 아버님께서 방문하셔서 하늘반 친구들에게\n‘커다란 무’ 동화를 무척 실감 나고 재미있게 읽어주시고 텃밭에 올라가 가을 작물인 무와 배추를 심어보았습니다.\n\n농장동물의 생김새와 특징을 살펴보며 놀이해 온 하늘반 친구들과\n오늘은 민화 속 동물을 다양한 색으로 꾸며보았습니다.\n그리고 다양한 전통무늬의 모양과 색을 탐색한 뒤 마음에 드는 무늬를 골라 붙여보았습니다.\n농장동물 놀이에서 친숙하게 만났던 토끼가 보름달 속에 사는 달토끼로 표현된 그림을 살펴보고,\n셀로판지를 붙여 알록달록 빛나는 보름달도 완성하였답니다.\n동물에 대한 관심이 민화와 달토끼로 확장되며 다가오는 추석에 관해서도 자연스럽게 이야기 나누었어요.\n미술놀이를 마친 후에는 친구들과 손을 맞잡고 둥글게 움직이며 강강술래를 하고 바깥놀이도 다녀왔어요~\n\n하준이가 오늘 실외놀이 시간에 친구와 손잡고 줄을 서서 이동하는 중간에\n짝꿍 손을 그냥 놓아버리거나 다른 곳에 관심을 두며 줄을 이탈하는 모습이 4~5차례 있었습니다.\n교사가 손을 잡고 이동하고 있지만 다른 친구들에게 도움을 주거나 이야기를 할 때 등 불가피하게 손을\n놓는 경우가 있는데 평소보다 조금 더 집중하지 못하는 모습이 보여 공유드립니다.\n가정에서도 한 번 이야기해 주시길 부탁드립니다.\n오전 일과 중에 팬티를 입고 벗는 연습 겸 배변연습을 계속하고 있지만 성공하지는 못하고 있습니다.\n화장실에서 배변 훈련 후 성공하지 못하고 교실에 들어오는 순간에 팬티에 쉬를 해서 갈아입었습니다.\n\n*추석을 맞아 아이들과 전통문화를 경험하는 놀이를 계획하고 있습니다. 필요한 준비물 안내드립니다.\n준비물 : 머릿수건, 앞치마, 한복\n9월 17일까지 보내주시면 놀이 후 가정으로 보내드리겠습니다.\n\n*9월 14일 월요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/b5wCnI/dJMcafVDVpT/xo69KfmmKIdXCBkzt90HSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ebEMN5/dJMcafVDVp1/IbnZCPkV5ScsmNrVJeXqNK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dHoX0I/dJMcafVDVpX/CTSpVNjcxTkUmVV1LKHd30/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/UGGwh/dJMcafVDVp2/KueFFxJBUA5ZK7Ux9kPljK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hP2mo/dJMcafVDVp7/ULpJOAwKamai2RjKVKWOz1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bWflj0/dJMcafVDVp8/2YRRtHnu1wTu0JyvPqJfe1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0429_2026-09-11_1450221673_06.jpg"
+    ]
+  },
+  {
+    "id": "1451084182",
+    "date_written": "2026-09-14",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "농장동물 놀이에 가을의 모습을 더하며 ‘풍성한 가을 농장’ 놀이를 시작하였습니다.\n신문지를 양손으로 힘껏 구겨 동그란 모양을 만들고, 주황색 습자지를 감싸 탐스럽게 익은 가을 감을 표현해 보았어요.\n신문지가 감으로 변하는 과정을 즐기며 가을 농장에는 어떤 열매가 있는지 관심을 가져보았답니다.\n농장동물인 양에게는 부드러운 양털을 붙이고, 길게 나온 부분을 가위로 조심스럽게 잘라 다듬어주었어요.\n양털의 포근한 촉감을 느끼고 양을 보살피며 바람 부는 날씨에 따뜻할 수 있도록 돌보며 놀이하였습니다.\n어린이집 주변에서 가을 열매를 찾아보기 위해 메낙골공원에 다녀왔습니다.\n주변을 탐색하던 중 공원의 분수를 발견한 친구들은 반갑게 바라보며 “물이 로켓처럼 올라가요!”라고 표현하고,\n앉아서 시원한 물줄기를 감상하였어요. 이후 놀이터에서도 자유롭게 뛰어놀며 즐거운 시간을 보냈답니다.\n\n오늘 원에서는 코를 만지거나 후비는 등의 행동은 보이지 않았습니다. 코피도 나지 않았답니다.\n다만 피곤했는지 일과 시간에 누워있는 모습이 자주 보여서 휴식공간에서 쉬도록 권유했는데 싫다고 하더라고요.\n놀이터에서 신나게 뛰어논 후 점심시간에 추가배식까지 해서 맛있게 먹었습니다.\n\n하준이 추석 일정과 열린 참여 여부 알려주셔서 감사합니다.\n말씀드린 대로 다른 부모님이 오시는 날에 함께 오셔도 괜찮으니 어머님 시간 되실 때 미리 알려주시면 참고하도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/buQPgQ/dJMcafg2Z3n/2gHfhD231Upgy5vEVsIgt1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cfCFaf/dJMcafg2Z3m/nxHH2ozP9DPD9kut6C1WdK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/OFm2h/dJMcafg2Z3l/kl4Y9BeukADHuYpee3P6V0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/V5eBP/dJMcafg2Z3o/VijfQ4WWt3MrsnOKTgRb9k/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0430_2026-09-14_1451084182_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0430_2026-09-14_1451084182_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0430_2026-09-14_1451084182_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0430_2026-09-14_1451084182_04.jpg"
+    ]
+  },
+  {
+    "id": "1452508963",
+    "date_written": "2026-09-16",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제 오전 간식으로 나온 파프리카를 보며 “어떤 동물이 좋아할까?” 이야기했던 경험을 반영하여,\n동물 사진에 좋아하는 먹이를 오려 붙이거나 직접 그려 먹여주는 놀이를 하였습니다.\n그중 “사과는 우리도 좋아하고 동물도 좋아해요.”라고 발견한 영아들의 관심이 오늘의 사과 만들기로 연계되었어요.\n사과가 빨갛게 익을수록 달고 맛있어진다는 이야기를 나누고, 사과 모양의 나무틀에 빨간색 클레이를\n손끝으로 붓질하듯 밀어보았습니다. 울퉁불퉁한 부분은 코르크 마개로 통통 두드려 평평하게 다듬고,\n완성한 사과에 자신의 이름 스티커도 붙여보았답니다.\n바깥놀이 시간에는 어린이집 주변에 열린 작은 사과를 찾아보았어요.\n점점 빨갛게 익어가는 사과를 반갑게 바라보며 더 많이 익은 열매를 찾아보고,\n가을이 되면 열매가 익고 수확할 수 있다는 것도 자연스럽게 알아보았습니다\n\n*지난 9월 4일 보내드렸던 가정분양저금통을 9월 21일(월)까지 원으로 보내주시기 바랍니다.\n많은 금액보다 아이가 스스로 동전을 모으며 나눔을 실천하는 데 의미가 있으니 따뜻한 관심과 협조 부탁드립니다.\n\n* 10/6~10/8일은 하늘 1반 신미영교사의 연차입니다.\n대체교사 및 보조교사가 함께 보육해 주실 예정입니다.\n이 기간 동안 알림장과 사진은 전송되지 않으며 투약의뢰서만 확인가능합니다.\n\n* 어린이집에서 보관 중인 여름 여벌옷을 보냅니다. 긴팔로 교체하여 다시 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/ZOAIl/dJMcahZ8WDd/grjpV6UBsk5Rv3PNAMNaD1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZMeJO/dJMcahZ8WDa/MsbAtwrkkAGDwmq6yDPP91/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/fCTmo/dJMcahZ8WDb/tn7QiHj8jQRVVfKV5CAvX0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cgrA0n/dJMcahZ8WDf/ElYKeoKaqImyKgBE5DCKxK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eb1LC/dJMcahZ8WDi/QXPKxr1D7nefRueAO496UK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0431_2026-09-16_1452508963_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0431_2026-09-16_1452508963_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0431_2026-09-16_1452508963_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0431_2026-09-16_1452508963_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0431_2026-09-16_1452508963_05.jpg"
+    ]
+  },
+  {
+    "id": "1453455375",
+    "date_written": "2026-09-17",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "안녕하세요 어머님\n하준이가 추석 행사에 참여하지 못해 아쉽습니다.\n군산 할머니집에 간다고 좋아하더라고요. 선생님도 데리고 가면 안 돼?\n물어보니 선생님은 다음에 데려간다고 하네요. ^^\n오늘 한복 입고 사진 찍어 보았습니다.\n하준이와 즐거운 명절 연휴 보내시고 건강한 모습으로 만나길 기다리겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cfdw0V/dJMcag1c2BB/y1DmUThENo3S8BTe6ztWPK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/yZIHi/dJMcag1c2BC/VsI1b2FiRbyT3KXlk4nrtK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/z5q3d/dJMcag1c2BF/VI5cFr8q2L0oRjsnUOi1t1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0432_2026-09-17_1453455375_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0432_2026-09-17_1453455375_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0432_2026-09-17_1453455375_03.jpg"
+    ]
+  },
+  {
+    "id": "1457323338",
+    "date_written": "2026-09-28",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "즐거운 연휴 보내셨나요?\n오랜만에 만난 하늘반 친구들과 반갑게 인사를 나누고, 연휴 동안 즐겁게 보낸 일들을 이야기하며 하루를 시작하였습니다.\n태영이는 보름달을 보며 소원을 빌었다고 하더라고요 ^^\n교실의 감 따기 놀잇감을 발견한 친구들은 “감은 말이 좋아해요.”라고 말하며 동물에게 감을 먹여주었어요.\n다른 먹이도 하나씩 살펴보며 어떤 동물이 무엇을 좋아하는지 이야기를 나누었답니다.\n그리고 동물원을 구성해 놀이하던 친구들의 공간에 놀러 가 먹이를 나누어 주며 놀이를 확장하였어요.\n실제 동물 사진이 담긴 그림 자료를 더해주자 다양한 동물을 살펴보며 동물원 놀이를 이어갔고,\n지난주에 모아둔 자연물도 맛있는 먹이라며 동물들에게 나누어 주었어요.\n“우리 반에는 동물이 많아서 먹이가 많이 필요해요.”라고 이야기하여 바깥놀이 시간에 자연물을 더 찾아보기로 하자,\n친구들은 큰 소리로 “네!”라고 대답하며 기대하는 모습을 보였답니다.\n\n오랜만에 등원해서 잠깐 긴장했는지 가만히 서서 친구들을 보고 있었는데 친구들이 다가와 \"하준아 안녕\" 하고 인사해 주자\n같이 인사해 주며 편안해하는 모습을 보였습니다.\n할머니댁 가서 재미있게 지냈어? 물어보니 고모 고모부 형아, 누나, 할머니 할아버지 만난 이야기를 해주며 신나 하더라고요.\n실외놀이에서 수집해 온 여러 가지 자연물에 관심을 보이며 탐색하는 하준이랍니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/0mcS2/dJMcadKlTx8/RDcKCeyiBdDu8iQFKLoG7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b6qAKv/dJMcadKlTx7/pPVHaDHaE3nNRAq7Yn3ON0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0433_2026-09-28_1457323338_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0433_2026-09-28_1457323338_02.jpg"
+    ]
+  },
+  {
+    "id": "1458761882",
+    "date_written": "2026-09-30",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요\n주변에서 가을 열매가 하나둘 보이기 시작하면서 하늘반 친구들은 “어떤 열매를 동물에게 줄 수 있을까?” 궁금해하며 동물의 먹이에 관심을 보였어요. 하준이는 동물 모자를 쓰고 동물을 흉내 내는 친구를 보며 함께 따라 움직여보며 동물의 움직임을 표현해 보며 놀이하였어요~\n\n오늘은 자신이 좋아하는 동물을 직접 고르고, 열매와 먹이를 줄 수 있는 놀잇감을 함께 만들어보았습니다. 하준이는 원숭이를 고르며 '이거 마음에 들어요!!'라고 말하며 평소 테이프를 떼어 붙이는 것에 관심이 많았던 하준이의 호기심을 반영하여 테이프로 재료를 연결하고 꾸며 완성해 보았답니다. 테이프를 필요한 만큼 떼어 원하는 곳에 붙이며 손끝을 조절하고, 자신이 선택한 동물에게 어떤 먹이를 줄지 생각해 보는 즐거운 시간이었습니다.\n텃밭에 올라가 우리가 심어놓은 배추와 무가 많이 자라는 것을 탐색하고 물을 주고 어린이집 주변을 산책하였어요~\n\n하준이가 컵에 든 물을 마시고 뱉는 행동을  반복하다가 옷에 흘려서 여벌옷으로 갈아입었습니다.\n여벌옷 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/crKscS/dJMcaid401w/cct8ZjVRNmiyvWR9oP2cu0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Cn76c/dJMcaid401y/1q9i1s8NkLmErPOYkMIhYk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bOE5bX/dJMcaid401g/VWec2jiWnOYq2gbwXN9thk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/7ZYb3/dJMcaid401j/kVGQ4EZXuzXdBOmpEL3tVk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0434_2026-09-30_1458761882_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0434_2026-09-30_1458761882_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0434_2026-09-30_1458761882_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0434_2026-09-30_1458761882_04.jpg"
+    ]
+  },
+  {
+    "id": "1460241679",
+    "date_written": "2026-10-02",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "요즘 하늘반 친구들은 가을 열매와 낙엽 등 ‘가을’이라는 계절의 변화에 많은 관심을 보이고 있습니다.\n아이들의 관심과 흥미를 반영해 교실에 커다란 가을나무 그림을 게시하고,\n산책하며 만났던 낙엽그림을 미술영역에 지원해 주었습니다.\n하나둘 모여든 아이들은 가을나무 그림과 낙엽그림을 번갈아 살펴보며\n“이것도 가을나무에 붙이고 싶어요!”라고 이야기하며 놀이를 시작했답니다.\n낙엽그림을 가위로 조심조심 오려보기도 하고, 오린 그림에 테이프를 필요한 만큼\n떼어 붙이며 자신만의 방법으로 하늘반 가을나무를 채워가기 시작했답니다.\n자신이 만든 곳을 친구에게 소개해주기도 하고 친구의 작품을 살펴보며 서로 칭찬도 해주는 하늘반 친구들이었습니다.\n\n교실에서의 가을놀이에 이어 바깥에서는 동물 먹이통을 들고 자연물 찾기에 나섰답니다.\n주변을 천천히 살펴보며 가을에 만날 수 있는 자연물을 찾아 먹이통에 하나씩 담아보았습니다.\n낙엽, 돌, 나뭇가지, 솔방울 등 다양한 자연물을 의미 있게 찾아보며 수집해 보았답니다.\n하늘반 친구들이 만들어가는 가을은 어떤 모습이 될지 기대가 된답니다.\n\n* 10월 6일~8일까지는 하늘 1반 신미영 교사의 연차로 인해 알림장 및 사진은 전송되지 않습니다.\n투약의뢰서만 확인됩니다. 아이들과 즐거운 연휴 보내세요. ^^\n\n하준이가 화장실을 이용할 때 손을 씻은 후 수건에 손을 닦는 과정에서 수건을 잡아당기거나 수건에 매달리는 모습이\n종종 있습니다. 오늘은 수건을 잡아당기며 장난을 치다가 수건걸이가 떨어지는 안전사고가 생길 뻔해서\n하준이와 이야기를 나누었습니다. 하준이를 비롯해 친구들이 다칠 수 있는 위험한 상황임을 이야기해 주고\n매달리지 않도록 약속했습니다. 가정에서도 한번 더 이야기해 주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/Gfae4/dJMb99VAo4e/LTRDKYl9fUbVkqbLFun73K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bfVdIy/dJMb99VAo4G/r6Ow3VxsCzzeqWt1vpqCd1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhbfvd/dJMb99VAo3L/fgoSB2IcF496XuuQiFJX30/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0435_2026-10-02_1460241679_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0435_2026-10-02_1460241679_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0435_2026-10-02_1460241679_03.jpg"
+    ]
+  },
+  {
+    "id": "1463609216",
+    "date_written": "2026-10-12",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "내 이름을 알아보고 찾아본 뒤, 이름 글자 위에 가을 자연물을 올려 꾸며보았습니다.\n이름 속에 동그라미가 몇 개 있는지 찾아 솔방울을 올리고, 글자의 모양과 길이를 살펴\n다양한 길이의 나뭇가지를 맞춰보았어요. 자연물을 하나씩 움직이며 자신의 이름을 재미있게 표현해 보았답니다.\n하준이는 이름 찾기가 아직 익숙지 않아 교사의 도움을 받아 이름을 찾아보고 나뭇가지와 솔방울로 이름을 표현해 보는 경험을\n해보았습니다.\n텃밭에서는 쑥쑥 자란 무와 배추에 정성껏 물을 주었어요.\n흙 위로 무가 살짝 모습을 드러낸 것을 발견한 하늘반 친구들은 무척 반가워하며\n“선생님, 여기 무가 보여요!”라고 큰 소리로 알려주었습니다.\n과일무는 예쁜 분홍색 같고 자색무는 보라색 같다며 색깔도 자세히 관찰했어요.\n무가 더욱 크고 튼튼하게 자랄 수 있도록 크게 자란 무잎도 함께 정리하며 가을 작물의 성장을 즐겁게 살펴보았습니다.\n\n* 내일은 <찾아오는 인형극 노리야기 공연>이 있습니다. 9시 30분까지 늦지 않게 등원시켜 주세요.\n\n하준이는 오늘 대체로 평소와 비슷한 컨디션이었습니다. 다만 오전에 누워있는 모습이 2~3번 보여서 힘들면 휴식매트에서\n쉴 수 있도록 했는데 잠깐 누워있다가 다시 놀이를 이어가는 모습이었습니다.\n밖에서 열심히 놀았는지 얼굴이 그을렸더라고요. 군산에서 신나게 놀다왔다고 말해주었답니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cafMIg/dJMcabssZMz/uEm11XGoFsmGVlRA5s2Sr0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dZvKDx/dJMcabssZMx/km42E8ujb8pQuUQkhcQ2L0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ZkzQv/dJMcabssZMy/0xDa3CN7qd4u8WkCbEw85k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c5Slq6/dJMcabssZMA/8NAhR66UQHvshN7I0QY2g0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/V4K8D/dJMcabssZMB/1b38hHG5nctSA5TWxVweRk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0436_2026-10-12_1463609216_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0436_2026-10-12_1463609216_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0436_2026-10-12_1463609216_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0436_2026-10-12_1463609216_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0436_2026-10-12_1463609216_05.jpg"
+    ]
+  },
+  {
+    "id": "1465052830",
+    "date_written": "2026-10-14",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 찾아오는 인형극 「다 함께! 다 같이! 우리는 친구」를 관람하였습니다.\n세계 여러 나라의 다양한 인사말을 듣고 즐겁게 따라 해 보았으며, 각 나라를 대표하는 꽃도 붙여보며 서로 다른 문화를 만나보았어요.\n\n오늘은 가을빛으로 물든 나뭇잎을 살펴보며 빨간색, 노란색, 주황색 등 가을의 색을 찾아보았습니다.\n나뭇잎에서 탐색한 가을빛색을 물감을 사용하여 솔방울에 묻힌 뒤 종이 위에서 데구루루 굴려 가을의 색을 자유롭게 표현했어요.\n달리기 하듯 빠르게 굴러가는 솔방울의 움직임을 바라보며 즐거워하고,\n종이를 양옆으로 흔들어 솔방울이 이리저리 굴러가며 만드는 무늬와 소리도 탐색하였습니다.\n솔방울이 지나간 자리에 여러 색의 선과 무늬가 생기는 모습을 살펴보며 자신만의 알록달록한 가을 작품을 완성하였답니다.\n메낙골 공원으로 산책을 나가 가을 열매들을 찾아보았어요~\n미니사과가 풍성하게 열려있고 벚나무에 열린 버찌도 보았습니다.\n솔방울보다 더 커다란 전나무의 열매도 살펴보았어요~\n\n● *10월 15일(목) 내일은 소방대피훈련이 있습니다. 여벌 양말 보내주세요.\n● 10월 22일(목) 생일파티가 있습니다. 최이서(여), 정아현(남), 김도아(여)의 생일파티를 합니다.\n아이들의 즐거운 생일을 위해 3000원 상당의 선물을 10월 20일까지 보내주시면 됩니다.\n\n하준이는 월요일부터 조금 피곤한 모습을 보이고 있습니다. 오전에 엎드리거나 휴식매트를 찾는 시간이 평소보다 잦았습니다.\n하준이 피곤하니? 물어보니 \"아침에 엘베많이 탔어\"라고 말해주더라고요. \"엘리베이터는 필요할 때만 이용하는 게 어떨까?' 말해주었더니 \"그럼 3번만 탈까\" 하고 스스로 대안을 이야기하더라고요.\n낮잠시간에는 평소보다 15분 정도 더 늦게 일어났습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cQGE62/dJMcabsuLPX/QxAE5PZekHTswDDNJgnGx0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/d8c6SH/dJMcabsuLPc/kqJf9yaUkeLE189KUpC18K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cSezfJ/dJMcabsuLO9/pjenKneIHX4ML4rzfTknQ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hBBhF/dJMcabsuLPb/iUmgRoV7DrWmwDqTJgFPl0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Slj74/dJMcabsuLPg/ylIZYe3yDgXnBLBBTKnGIK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cNJmFv/dJMcabsuLPj/NaBPWwWFAVf2RiAMYkVjtK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/C9aD8/dJMcabsuLPm/NmnTjzKs67MF1IeJd37ON1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0437_2026-10-14_1465052830_07.jpg"
+    ]
+  },
+  {
+    "id": "1466508081",
+    "date_written": "2026-10-16",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "오늘은 열린어린이집을 맞아 정아현 어머님과 함께 텃밭에서 노랗게 익은 벼를 수확하였습니다. 농부 선생님께 벼의 생김새와 수확 방법에 대한 설명을 들으며, 우리가 먹는 쌀이 어떻게 만들어지는지 관심 있게 살펴보았어요.\n수확한 벼를 한 움큼씩 잡고 전통 농기구인 홀태 사이로 조심스럽게 당겨 낟알을 털어보았습니다. 벼에서 우수수 떨어지는 낟알을 신기하게 바라보고, 손으로 만지며 모양과 촉감도 탐색하였답니다. 이어 ‘키’를 양옆으로 흔들어 낟알과 볏짚을 골라보며 옛날의 벼 수확 방법을 몸소 경험해 보았어요. 농부 선생님이 볏짚을 모으고 묶는 모습도 가까이에서 살펴보았습니다.\n평소 밥으로 만났던 쌀이 벼에서 수확되어 우리 식탁에 오기까지 많은 과정과 정성이 필요하다는 것을 자연스럽게 알아본 뜻깊은 시간이었습니다. 함께 참여해 주신 정아현 어머님께 감사드립니다. 🌾\n평소보다 늦게 잠들어 40~50분 낮잠 후 일어났습니다",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/fQfCs/dJMcaiSONDz/cKk63x2VqLy55ci5AzOhk1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/zcNZI/dJMcaiSONDL/X1cME5TgjGF2SMWZC1Kn51/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bPnE9Y/dJMcaiSOND7/kUdjCJ9btpw2axQQASP7tk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckMGxm/dJMcaiSONED/nek73xgiJsCvjSHZgIjWl0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dSQzC/dJMcaiSONFr/g9z7KmjvrtKXLk01ZPUD6k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btMBb8/dJMcaiSONGh/qtsCmWsw5EH2bLaoPypZc0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/z9evj/dJMcaiSONH5/wyaePlCvHdFMZM83l2S3kk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Emjfr/dJMcaiSONJ9/IheZDkJSzaVzZ1Gyckgmy0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bcHLUQ/dJMcaiSONLu/laEn6DN7U4XMmEnI2YQuK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/5l2Y2/dJMcaiSONMd/5ixkXVOZhH1giNMlu5dM9K/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0438_2026-10-16_1466508081_10.jpg"
+    ]
+  },
+  {
+    "id": "1467423673",
+    "date_written": "2026-10-19",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "커다란 가을 나뭇잎을 찾아 메낙골공원으로 산책을 다녀왔습니다.\n공원에서 커다란 나뭇잎을 발견한 친구들은 서로 나란히 놓아 크기를 비교하고, 더 큰 나뭇잎을 찾아보며 즐겁게 탐색하였습니다.\n마음에 드는 나뭇잎은 하늘반 교실로 가져왔답니다.\n교실에서는 주워온 나뭇잎을 종이 아래에 놓고 크레용으로 문질러 나뭇잎의 모양과 잎맥을 표현해 보았습니다.\n친구들은 나뭇잎의 무늬가 나타나는 것보다 빨간색, 노란색, 주황색 등 가을을 떠올리게 하는 색을 골라\n자유롭게 끼적이는 데 더 큰 관심을 보였어요.\n자신이 발견한 가을색을 다양한 크레용으로 표현하며 알록달록한 가을 나뭇잎을 완성하였습니다.\n\n● 내일은 상암 하늘공원으로 현장학습을 가는 날입니다.\n안내표를 확인하시어 일정에 차질이 없도록 해주시기 바랍니다.\n또한 내일은 원아가 어린이집 가방을 직접 메고 다녀오기에 하원 알림이 안내될 수 있습니다. 이 점 꼭 참고해 주세요!\n\n● 10월 22일(목) 생일파티가 있습니다. 최이서(여), 정아현(남), 김도아(여)의 생일파티를 합니다.\n아이들의 즐거운 생일을 위해 작은 선물을 보내주시면 감사하겠습니다.\n\n오늘 하준이는 실외놀이를 준비하는 과정에서 양말을 신었다 벗었다 하는 행동을 반복하며 준비에 다소 시간이 걸리는 모습이 있었어요.\n스스로 해보기보다는 교사의 도움을 기다리는 모습도 보여, 자신이 할 수 있는 부분은 직접 시도해 볼 수 있도록 격려해 주었답니다.\n친구들이 함께 준비를 마치고 기다리는 상황이었기에 놀이 준비를 마친 후 함께 이동할 수 있도록 안내해 주었어요.\n하준이가 일상생활 속에서 스스로 할 수 있는 일들을 조금씩 늘려가고,\n함께하는 생활의 약속도 익혀갈 수 있도록 지속적으로 지원하도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/OBUAQ/dJMcaf9pJGC/bZfwO5KiH6bczui7jk2zl0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b8xFTk/dJMcaf9pJDQ/0jm3wNKsEkb5cswKBUquKK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/kDBiZ/dJMcaf9pJDM/36WXE1L5SX1quigT5yo4H0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/t4vfE/dJMcaf9pJDS/P5K5BsuXLhCkpaGhoHWjBK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEgRJx/dJMcaf9pJD7/4AUmRiAadUFsyN6CeZYWO1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0439_2026-10-19_1467423673_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0439_2026-10-19_1467423673_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0439_2026-10-19_1467423673_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0439_2026-10-19_1467423673_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0439_2026-10-19_1467423673_05.jpg"
+    ]
+  },
+  {
+    "id": "1468876090",
+    "date_written": "2026-10-21",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "가을 열매인 도토리와 밤을 살펴보며 모양과 크기의 차이를 탐색하였습니다.\n귀여운 다람쥐에게 도토리와 밤을 하나씩 넣어주며 알고 있는 수를 자유롭게 말해보았어요.\n먹이를 모두 준 뒤에는 내가 준 열매를 다시 쏟아 선생님과 함께 하나씩 짚어가며 몇 개인지 세어보았습니다.\n도토리와 밤을 같은 종류끼리 나누어 나란히 놓으며 가을 열매를 비교하고 수와 수량을 즐겁게 경험하였답니다\n날씨가 점차 좋아져 하늘반 친구들과 산책을 다녀왔습니다.\n바람에 나뭇잎이 떨어지는 모습을 바라보며 “나뭇잎이 우수수 떨어지는 것 같아요!”라고 표현해 보았어요.\n주변 나무를 천천히 살펴보며 이전보다 더욱 짙게 물든 나뭇잎의 색과 변화를 발견하고,\n바람에 흔들리고 떨어지는 모습을 즐겁게 탐색하였답니다.\n\n어제 하준이는 어머님이 싸주신 도시락을 남김없이 맛있게 먹었습니다.\n엄마가 하준이 먹으라고 싸준 거라고 말해주더니 맛있어요~ 이야기하며 식사를 마쳤습니다.\n보내주신 숟가락도 전혀 낯설어하지 않고 잘 사용하더라고요.\n다만 사람이 많은 곳이어서 손을 놓고 뛰어가려고 하거나 친구 손을 잡지 않으려고 하는 모습이 보였습니다.\n안전을 위해 하준이에게 친구, 교사 손을 놓고 혼자 뛰어가는 것은 위험한 행동임을 반복해서 이야기해 주었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bceljf/dJMcahzAAq5/PBLACPU6KMjWkkPgmuxjf1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/pN1yr/dJMcahzAAq6/h4tYUkvCs4nMSG640cEcNk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/c1BanG/dJMcahzAAq3/57JnpBml6KRZTbfqsevAk0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cmYWJ2/dJMcahzAArg/fYCvdNY2GneGSm8K2IBFJ0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/b4vwI0/dJMcahzAAri/8KOdmKe4Huo3b9phQYBAhk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0440_2026-10-21_1468876090_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0440_2026-10-21_1468876090_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0440_2026-10-21_1468876090_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0440_2026-10-21_1468876090_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0440_2026-10-21_1468876090_05.jpg"
+    ]
+  },
+  {
+    "id": "1470321912",
+    "date_written": "2026-10-23",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 하늘반 친구들의 생일파티를 하였습니다.\n생일을 맞은 친구에게 축하의 마음을 전하고 선물을 주고받으며 함께하는 즐거움을 느껴보았어요.\n생일파티의 즐거운 경험을 반영하여 오늘은 자연물 케이크도 만들어보았습니다.\n재활용 그릇을 뒤집어 케이크 모양을 만들고, 부드러운 천사점토를 손으로 눌러 크림처럼 표현했어요.\n솔방울, 버찌, 도토리, 낙엽과 나뭇가지 등 여러 자연물 가운데 원하는 것을 직접 골라 꽂거나 올려 꾸며보았습니다.\n자연물의 모양과 크기, 촉감을 살펴보고 자신이 원하는 자리에 하나씩 배치하며 세상에 하나뿐인 가을 케이크를 완성하였답니다.\n\n하준이가 오늘은 친구손을 잘 잡고 산책을 다녀왔습니다. \"선생님 친구랑 손 잡아야 되는 거죠? 하준이 잘 잡아요\" 이야기하며\n짝꿍 손을 꼭 잡고 오더라고요. 칭찬 많이 해주었습니다.\n하준이가 요즘 들어 눈을 많이 깜빡이는 모습이 관찰됩니다. 하준이한테 눈이 불편해?라고 물어봤는데\n\"눈곱이 있는 것 같아\"라고 이야기를 합니다. 혹시 가정에서도 눈 깜빡임이 자주 있을까요?",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bMfwea/dJMcafuZSnG/OvmbUjkCXMC6edyszgsYBk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bhPhWy/dJMcafuZSnY/guygpHwcbXbPtee4IOIxCk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bzqhmh/dJMcafuZSn5/HZHWWPVGYE1WXBvRNiG5q1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/iLa25/dJMcafuZSob/vhRJ7KqTeUgbToISbKIxO0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HpaYG/dJMcafuZSoc/Kf4U1dvLBHZRL7Vz3aHiQK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/om7KV/dJMcafuZSon/CiRwlNSUK5ayRKgJ1TeqCK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eOXtm/dJMcafuZSow/KpDyXF9Zv4Dmd5Dbagj201/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gXuwz/dJMcafuZSoS/2sIBbRkq99kq8R7a1W4Bkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Uc1Fp/dJMcacrFrAf/7oJg7RVkbYSekLivMRM3o0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0441_2026-10-23_1470321912_09.jpg"
+    ]
+  },
+  {
+    "id": "1471252101",
+    "date_written": "2026-10-26",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "지난주에 이어 오늘도 하늘반 교실에는 즐거운 가을놀이가 펼쳐졌습니다.\n지난번 가을 현장학습의 추억이 무척 인상 깊었나 봅니다.\n아이들은 보자기와 상자를 이용해 나만의 돗자리를 만들고, 그 위에 옹기종기 앉아 소풍놀이를 시작했답니다.\n실외놀이 시간에도 가을과의 만남은 계속되었습니다.\n바닥에 떨어진 나뭇잎을 하나둘 주워 모아 여우의 꼬리를 만들어 주었답니다.\n자연에서 발견한 나뭇잎이 멋진 여우꼬리로 변신하는 재미있는 경험을 통해 놀이가 더욱 풍성해졌답니다.\n\n하준이는 오전 일과시간에는 조금 피곤했는지 누워서 놀이하는 모습이 보여 휴식매트에서 잠깐 누워있기도 했습니다.\n실외놀이시간에는 배드민턴장을 뛰어다니며 낙엽을 주워보기도 했습니다.\n오늘 낮잠시간에 가만히 있지 못하고 계속 뒤척이길래 자고 싶지 않으면 책 보자고 했더니 웅크린 자세를 취하더라고요.\n\"하준이 응가 마려우면 화장실 가자\"라고 변기에 앉아볼 수 있도록 했는데 기저귀에 응가를 한번 하고 이후 변기에서도\n응가를 성공했습니다. 많이 칭찬해 주세요.\n응가하고는 편안히 누워 낮잠에 들었습니다. 평소보다 조금 늦게 잠들었습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/UVTVC/dJMcadDL482/Sgi6CPCPVu0Zeejtkxxgq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bZroWg/dJMcadDL484/SlAyUJFKkpRkKO1oE6DWq0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/Xf5l5/dJMcadDL49f/LOCzMBdaK6LhaqSVl8MiWK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bkXkB6/dJMcacL02vu/b0nZuMCqrqmxkSxxtatnAK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dtyZsM/dJMcacL02vy/yYKCyxDH5vOd0PRk08HSM0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0442_2026-10-26_1471252101_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0442_2026-10-26_1471252101_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0442_2026-10-26_1471252101_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0442_2026-10-26_1471252101_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0442_2026-10-26_1471252101_05.jpg"
+    ]
+  },
+  {
+    "id": "1472695478",
+    "date_written": "2026-10-28",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 도시락을 싸서 소풍을 떠나는 놀이를 하던 중, 캠핑을 다녀온 경험을 이야기하는\n하늘반 친구들의 생각을 반영하여 놀이를 확장하였습니다.\n텐트에 알록달록한 낙엽을 붙여 가을 텐트로 꾸미고, 자신의 이름 스티커도 찾아 붙이며\n친구들과 함께 머물 캠핑 공간을 완성하였어요.\n가을 텐트에서 캠핑놀이를 즐기며 “밤이 되면 어떤 동물을 만날 수 있을까?” 이야기 나누었던 경험으로\n오늘은 부엉이를 만들기를 준비하였어요.\n가을밤에 들려오는 부엉이의 울음소리와 생김새를 알아보고, 커다란 눈과 부리를 붙인 뒤\n원하는 색의 낙엽을 골라 다리와 날개등을 꾸며보았어요.\n가을소풍에서 시작된 놀이가 가을 캠핑과 부엉이 놀이로 이어지며,\n가을의 자연환경을 생각하고 다양한 방법으로 표현해 보는 시간이었습니다.\n\n하준이는 오늘 낙엽 뿌리기 놀이에 몰입하는 모습이 보였습니다.\n낙엽을 뿌리며 \"선생님 낙엽이 하늘에서 내려와요\" 하며 반복해서 놀이하는 것을 보고 \"우리 텐트로 들어가서 한번 뿌려볼까\"?\n제안하였더니 텐트 속으로 쏙~ 들어가 놀이를 이어갔답니다.\n\n10/30(금요일)은 하준이의 학부모상담일 입니다. \n5시 20분까지 방문해주셔서 우주반 벨을 눌러주세요.\n금요일에 뵙겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/Rvvtn/dJMcahs1Ma1/zTf5Xey915LeYfxX0ZwQmk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/9jfUy/dJMcahs1Ma0/5YwtRw3P8WPVSQ0ryrrKK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/U03SJ/dJMcahs1MaZ/BLpfi8KjTTa7ZvR0YVaCNk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gMh82/dJMcahs1Ma6/rmUTXvDDUfKXTVrItafqU1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bSd0vq/dJMcahs1Mba/PI9Ouq8U9xbeiq2hw0Qkik/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HRZKl/dJMcabl07KF/87MIdPuVGBr0C3XkEmkf7K/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0443_2026-10-28_1472695478_06.jpg"
+    ]
+  },
+  {
+    "id": "1474178316",
+    "date_written": "2026-10-30",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제는 가을 나뭇잎에 빨간색·주황색·노란색 물감을 롤러로 바른 뒤 종이에 찍어보았습니다.\n나뭇잎을 조심스럽게 떼어내며 모양과 잎맥이 그대로 나타나는 모습을 관찰하고,\n서로 다른 나뭇잎의 무늬를 비교하며 가을의 색을 표현하였어요.\n오늘은 어제 나뭇잎을 자세히 살펴본 경험을 연계하여 산책을 나갔습니다.\n잘려 있는 소나무를 발견한 친구들은 길게 뻗은 솔잎을 관찰하고, 나무 단면에 보이는\n둥근 나이테를 손가락으로 따라가며 나무가 자란 흔적을 알아보았답니다.\n나뭇잎의 색과 무늬를 표현한 미술놀이가 소나무와 나이테를 알아보는 자연탐색을 하였습니다.\n교실에 돌아와서는 하늘반친구들은 알록달록한 나뭇잎이 그려져 있는 공을\n위로 던지고 두 손으로 받아보는 신체놀이를 하였습니다.\n공의 움직임을 눈으로 따라가며 잡기 위해 몸의 위치를 조절하고,\n친구들과 함께 반복해서 던지고 받으며 즐겁게 놀이하였답니다.\n\n어제 귀한 시간 내주셔서 감사합니다. 하준이가 조금 더 성장할 수 있도록 원에서도 더 많이\n지원하도록 하겠습니다. ^^\n하준이와 즐거운 주말 보내세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/fDFWS/dJMcadjSWeq/Fipj6CChRD2IVkC49npIM1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/cZO1uo/dJMcadjSWes/YBc9fY5PjABcuFzM7vwKP1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/f6ZVX/dJMcadjSWep/8jsMfweVPsWzwvqZzMv0f0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bd6tql/dJMcadjSWew/jNS8cKLEIbGRa0kEXkkJ0K/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/btfe30/dJMcadjSWeu/Ukxak92FK38bOM4obN7ptK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/HnawN/dJMcadjSWex/B0uqBI0Xm5D58cwWkk6pzK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/boMcD2/dJMcadjSWey/4adl9d07WV72v05VMkBoY0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0444_2026-10-30_1474178316_07.jpg"
+    ]
+  },
+  {
+    "id": "1475124693",
+    "date_written": "2026-11-02",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "지난주부터 이어진 가을 소풍놀이가 오늘은 신나는 캠핑놀이로 이어졌답니다.\n교실 한쪽에 아늑한 텐트와 캠핑 공간을 지원했는데 아이들은 캠핑장에 놀러 온 것처럼 즐겁게 놀이를 시작했답니다.\n블록과 상자로 의자와 식탁을 만들고, 다양한 음식 놀잇감으로 맛있는 요리도 준비했답니다.\n친구들에게 음식을 건네며 함께 나누어 먹기도 하고, 텐트 안에서 쉬어 가기도 하며 우리만의 즐거운 캠핑을 즐겼답니다.\n친구들과 함께 캠핑을 즐기는 과정에서 서로의 놀이에 관심을 가지고, 음식을 나누며 자연스럽게 어울리는 모습도 볼 수 있었습니다.\n캠핑놀이를 마친 후에는 가을 텃밭으로 올라가 보았습니다.\n무럭무럭 자라고 있는 배추와 무를 살펴보며 커다란 잎의 생김새를 관찰하고, 잎사귀 사이에 숨어 있는 작은 곤충 친구들도 찾아보았답니다.\n특히 노란 무늬가 있는 무당벌레를 발견하며 작은 곤충의 모습에 호기심을 보이기도 했습니다.\n\n오늘은 잠이 오지 않는지 낮잠 시간에 큰 소리로 숫자를 세기도 하고 노래를 부르더라고요.\n잠이 오지 않으면 책 보자고 했는데 10여분 책을 보고 나서는 어느새 잠이 들었습니다.\n하준이가 새로 가져온 숟가락과 포크가 책상에서 계속 떨어지더라고요.\n숟가락 크기가 조금 큰 걸로 바꾸어 보내주시면 좋을 것 같습니다.\n\n\n* 2027학년도 원 운영 및 반편성을 위해 오늘 아이들 편으로 27년도 재원신청서를 보내드립니다.\n확인하시고 11/4일 수요일까지 회신 부탁드립니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/93ZWX/dJMcahzJovj/nKlD5QMzhw9rAV05TKEzSk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/n6ILy/dJMcahzJovt/UJrXuUakybScITOprsEDN1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/buSJG4/dJMcahzJovl/npV3K51rYm3XpNckecoSWK/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0445_2026-11-02_1475124693_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0445_2026-11-02_1475124693_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0445_2026-11-02_1475124693_03.jpg"
+    ]
+  },
+  {
+    "id": "1475825188",
+    "date_written": "2026-11-03",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "안녕하세요 어머님\n하준이가 오늘따라 친구들의 놀잇감을 말없이 가져가는 행동이 종종 있었습니다.\n하준이에게 물어보니 \"하준이가 뺏고 싶어서 가져갔어\"라고 말해주더라고요.\n누군가의 물건을 뺏고 싶다고 해서 가져가는 건 좋은 행동이 아니라고 말해주고\n친구에게 가져가도 되는지 물어봐야 한다고 이야기해 주었습니다.\n\n실외놀이 나가서도 친구가 손을 잡자고 해도 잡지 않고 계속 주위를 뛰어다녀서\n선생님도 하준이 손을 잡을 수 없겠다고 이야기하니\n\"선생님이 하준이 손을 안 잡아줘서 하준이가 화가 나\" 이렇게 말하더라고요.\n하준이 짝꿍도 많이 속상하고 화가 나지 않았을까? 물어보니\n이젠 잘 잡을 거예요. 하더라고요.\n아직은 하준이가 상대방의 마음을 온전히 이해하기가 어려운 것 같아요.\n반복해서 이야기해주고 있으니 가정에서도 함께 이야기해 주세요.",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1476554075",
+    "date_written": "2026-11-04",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "이번 주 하늘반은 캠핑놀이에 푹 빠져 있답니다.\n친구들과 함께 교실을 멋진 캠핑장으로 꾸미고, 캠핑장에서 지켜야 할 규칙과 약속에 대해서\n이야기 나누며 즐거운 놀이를 시작했습니다.\n바비큐 놀잇감으로 고기와 채소를 지글지글 구워 친구들과 나누어 먹으며\n엄마 아빠가 되어보기도 하고 요리사가 되어보기도 하는 등 역할놀이와 상상놀이가 활발하게 이루어졌답니다.\n또 캠핑장을 더욱 아늑하게 만들어 줄 예쁜 무드등도 꾸며보았답니다.\n산책길에는 바람에 살랑살랑 떨어지는 낙엽을 잡으려고 두 팔을 쭉 뻗어보기도 하고,\n놀이터에서 신나게 뛰어놀며 가을을 온몸으로 느껴보았습니다.\n친구들과 함께 만들어가는 캠핑놀이 속에서 상상력이 커지고 있는 신나는 하늘반 교실입니다.\n\n하준이 오늘은 짝꿍이랑 질서를 지키며 실외놀이를 다녀왔습니다.\n바뀐 수저세트에 별다른 반응은 보이지 않았고 오늘은 떨어뜨리는 일 없이 평소처럼 잘 먹었습니다.\n\n* 내일은 영등포 아트홀에서 뮤지컬 관람이 있습니다.\n별다른 준비물은 없으며 9시까지 등원할 수 있도록 해주세요.\n우천 시 우비는 이동과 보관에 어려움이 있으니 삼가 주시고 우산을 보내주시기 바랍니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/cXNE0X/dJMcairOTwP/HA3Si5dw9kG8Y5Kq3JPp7k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEkhq2/dJMcairOTv4/kcbNDIsO5kzYQgPBR4FQg0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bfPa1r/dJMcairOTxf/koVKKXieWqffdoEK9ncawK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/ckmsIM/dJMcairOTwI/kSRF8NeGoM97KUD3wPeCkk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QmdiR/dJMcairOTxj/u3nDmh911SY2CXIVwTXV20/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0447_2026-11-04_1476554075_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0447_2026-11-04_1476554075_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0447_2026-11-04_1476554075_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0447_2026-11-04_1476554075_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0447_2026-11-04_1476554075_05.jpg"
+    ]
+  },
+  {
+    "id": "1478031674",
+    "date_written": "2026-11-06",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "어제는 아이들과 영등포 아트홀로 음악회 관람을 다녀왔습니다.\n베토벤 할아버지가 음악으로 들려주는 세상에서 가장 귀한 것은 사람의 목소리와 사랑이었답니다.\n조금 어렵지 않을까 생각했는데 집중하며 음악을 감상하는 의젓한 하늘반 친구들이었답니다.\n\n이번 주 하늘반은 캠핑놀이에 푹 빠져 즐거운 시간을 보내고 있습니다.\n지난 놀이 중 \"고기를 굽는데 불이 없네?\"라는 아이들의 이야기에 오늘은 활활 타오르는 장작불과 도시락 통을 추가로 지원해 주었습니다.\n장작불 위에 고기와 채소를 올려 맛있는 바비큐 요리를 만들고, 친구들과 나누어 먹으며 캠핑의 즐거움을 만끽했답니다.\n맛있는 음식을 준비하고 친구들을 초대하며 캠핑장에서의 특별한 하루를 만들어가는 하늘반 친구들!\n놀이 속에서 서로의 생각을 나누고 다양한 역할을 맡으며 상상력을 마음껏 펼쳐보았답니다.\n수요일에 직접 꾸몄던 나만의 무드등도 각자의 텐트에 걸어주니 더욱 근사한 하늘반 캠핑장이 완성되었습니다.\n무엇보다 캠핑장에서 지켜야 할 약속을 기억하고 친구들과 함께 잘 지키며 놀이하는 모습이 인상적이었습니다.\n처음에는 함께 놀이하는 것이 서툴기도 했지만, 이제는 친구들과 공간을 나누어 사용하고 약속을 지키며\n즐겁게 어울리는 모습에서 하늘반 친구들의 성장이 느껴졌답니다.\n\n* 칫솔이 마모되어 교체가 필요합니다. 새 칫솔을 보내주세요.\n\n하준이는 아직 한 자리에 앉아서 집중하기보다 친구들 텐트를 돌아다니며 탐색하는 시간이\n길었습니다. 이후에 제이랑 앉아서 고기를 구워 맛있게 나누어 먹었습니다.\n블록을 길게 연결해서 하늘로 쏘는 흉내를 내며 엄마 아빠랑 불꽃 총 해봤어라고 이야기 하더라고요.\n불꽃 총이 어떤 거야 라고 물어봤더니 반짝거리는 거야라고 말하는데 혹시 불꽃놀이였을까요?^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/doVTll/dJMcaiyN4QL/KbkokryjiuywXZOUKg3zAk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/boORtg/dJMcaiyN4Nn/RaDioAd68jzaw7YbnkLcw0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gasMH/dJMcaiyN4Nr/XscZRKlqqOuPu9lrdZNDY0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dyEEJ6/dJMcaiyN4Nv/pwHkyvo11NvrZHNBmS1LGk/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0448_2026-11-06_1478031674_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0448_2026-11-06_1478031674_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0448_2026-11-06_1478031674_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0448_2026-11-06_1478031674_04.jpg"
+    ]
+  },
+  {
+    "id": "1478937317",
+    "date_written": "2026-11-09",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "sunny",
+    "content": "지난주부터 이어진 하늘반의 캠핑놀이가 이번 주에도 계속되고 있습니다.\n오늘은 오전간식을 먹자마자 친구들이 먼저 캠핑장으로 모여 모닥불을 피우고 바비큐를 굽기 시작했답니다.\n텐트를 잠시 접어 두었더니, 친구들이 하나둘 “텐트가 필요해요!” 하고 이야기해 주었답니다.\n텐트를 꺼내 주자 각자 이름표를 붙이고 놀이를 이어갔습니다.\n이미 세 명이 들어간 텐트를 보고는 잠깐 멈칫하더니 스스로 빈 텐트를 찾아가는 모습이 정말 대견했습니다.\n지난주에 함께 정한 “텐트에는 세 명까지” 약속을 이제는 스스로 기억하고 지키고 있는 하늘반 친구들입니다.\n오늘은 음식을 먹는 놀이뿐만 아니라 “우리 아이패드로 놀자~” 하며 교실 놀잇감으로 핸드폰 보는 흉내를 내기도 하고,\n블록으로 자동차를 만들어 캠핑장에서 놀이를 하는 친구도 있었습니다.\n아이들의 캠핑장 놀이가 점점 구체화되고 커지고 있는 것 같습니다.\n바깥놀이 시간에는 “진짜 모닥불을 만들어 보자!” 하며 나뭇가지를 직접 주워 모았습니다.\n모은 나뭇가지는 교실 캠핑장 모닥불로 다시 태어날 계획입니다. ^^\n\n*11월 10일 화요일에 소방대피훈련이 있습니다. 여벌 양말 보내주세요.\n\n하준이는 블록으로 엘리베이터를 만들어 동물친구들을 태워주기도 했습니다. 엘리베이터가 너무 좋아서 많이 만들고 싶다고\n이야기하는 하준이에게 \"엘리베이터가 왜 좋을까?\" 물어보니 \"올라가고 내려가는 게 너무 좋아\"라고 말해주더라고요. ^^",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/RXoqh/dJMcahzOCpL/fJlOwn8MdkKbpNCuKptb70/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2Etsp/dJMcahzOCpJ/Ce9OmQzhnOqWXcaJNXE5n1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bEoh3y/dJMcahzOCpI/gaQypelSdP2vDsckDB7uCk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/eKtw0/dJMcahzOCpM/LnueU00ua23LNzWN7NeGm0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/V5Gcx/dJMcahzOCpP/wC64StaLnfzxBxNT6r2op0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0449_2026-11-09_1478937317_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0449_2026-11-09_1478937317_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0449_2026-11-09_1478937317_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0449_2026-11-09_1478937317_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0449_2026-11-09_1478937317_05.jpg"
+    ]
+  },
+  {
+    "id": "1480409361",
+    "date_written": "2026-11-11",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "하늘반은 오늘도 캠핑놀이가 이어졌습니다.\n친구들은 간식을 먹자마자 스스로 텐트를 만들고, 약속에 맞게 놀잇감을 챙겨 와 놀이를 시작했답니다.\n텐트마다 작은 책상을 놓아주었더니 식탁처럼 사용하며 놀이하는 걸 볼 수 있었습니다.\n캠핑장 가운데에는 친구들이 직접 주워 온 나뭇가지로 모닥불을 만들어 보았습니다.\n마시멜로를 굽는 친구, 춥다며 불을 쬐는 친구, 텃밭에서 가져온 고구마를 쿠킹포일에 싸서 모닥불에 넣는 친구 등\n다양한 놀이가 순환되는 모습을 볼 수 있었습니다.\n바깥놀이 시간에는 커다란 낙엽 풍선으로 신나게 놀이하고, 알록달록 물든 낙엽을 모아 하늘반 공동작품도 꾸며보았습니다.\n모두 둥글게 모여 앉아 낙엽을 하나씩 이어 놓았더니 커다란 낙엽 동그라미가 완성되었답니다.\n\n*내일은 열린 어린이집 활동으로 텃밭에서 고구마를 수확합니다. 흙을 만지며 활동하니 편한 옷차림으로 등원시켜 주세요.\n\n어머님 드디어 우리 하준이가 변기에서 쉬를 성공했습니다. ^^ \n오전에 하준이랑 팬티를 입으며 우린 이제 우주반 형님이 되니까 기저귀를 안녕할거야~ 그러니까 쉬가 하고 싶으면 \n선생님한테 이야기해줘 라고 말해주었는데 놀이 중에 팬티에 실수를 했더라고요. \n옷 갈아입으며 다시한번 이야기해주고 1시간 후에 화장실에 데려가서 쉬 하자 이야기하고 기다려주었더니 쉬 하더라고요 \n너무 잘했다고 칭찬해주고 이후 낮잠시간 전까지 팬티 입고 생활했습니다.\n낮잠시간에는 기저귀 했는데 자고 일어나서 보니 기저귀에 쉬를 했더라고요. \n칭찬 많이 해주시고 내일부터 여벌옷과 속옷 넉넉히 보내주세요.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/djDsvA/dJMcahmrrJ9/ofoFGbM1aoqxnvnXrJrM6k/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/QI6w4/dJMcahmrrJ4/LAhOFNRmtTsXSk56krt0Mk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/gdbla/dJMcahmrrJ8/esMpjtpJf7oGpxbY9hHcp1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bSvFJ9/dJMcahmrrKd/skbi5GsVdKvRifRqNpMSak/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/2YtKa/dJMcahmrrKe/AqhGN3xYK8lXmS5pQ8hkTK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/jFZjw/dJMcahmrrKq/fD1t5VPYfK78eQrn5ERdk0/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0450_2026-11-11_1480409361_06.jpg"
+    ]
+  },
+  {
+    "id": "1481136791",
+    "date_written": "2026-11-12",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "overcast",
+    "content": "어머님 하준이는 오전 일과 중에 기저귀를 벗고 팬티 입고 화장실 사용을 시도했지만 성공하지 못했고 팬티에 실수를 했습니다\n이후 기저귀 착용 후 낮잠 자고 하원 전까지 팬티 입었지만 배변은 하지 않았습니다.\n꾸준히 시도할 예정이니 가정에서도 함께해 주세요",
+    "image_urls": [],
+    "local_images": []
+  },
+  {
+    "id": "1481855830",
+    "date_written": "2026-11-13",
+    "author_name": "하늘1 교사",
+    "class_name": "하늘1",
+    "weather": "mostly_cloudy",
+    "content": "어제는 열린 어린이집에 안현우 어머님께서 엄마선생님으로 오셨습니다.\n아이들이 키운 고구마를 함께 수확하고 고구마 줄기와 잎을 이용해 재미있는 모양 놀이도 해보았답니다.\n열린 어린이집에 도움을 주신 현우어머님께 감사드립니다.\n\n오늘 하늘반 친구들은 캠핑 갈 때 타고 갈 기차와 자동차를 만들었습니다.\n저마다 멋진 탈것을 만들어 캠핑 떠날 준비를 했답니다.\n바깥놀이 시간에는 텃밭에 올라가 어제 캔 고구마와 우주반 형님들이 수확한 배추를 살펴보았습니다.\n달리기도 하고, 다 같이 손을 잡고 동그란 원을 만들어 노래에 맞춰 빠르게, 천천히 몸을 움직여보았습니다.\n그리고 어제 수확한 고구마를 조리사 선생님께서 맛있게 구워 주셔서, 캠핑장에서 함께 나누어 먹었답니다!\n우리가 직접 심고, 물 주고, 수확한 고구마라 더 맛있었는지 너무 맛있어요를 외치는 하늘반 친구들입니다.\n한 주 동안 캠핑놀이와 고구마 수확으로 바쁘고 즐거운 시간을 보냈답니다. ^^\n\n* 오늘은 부모참여수업이 있습니다. 4시 30분에 시작이오니 5분 전까지 도착해 주시기 바랍니다.\n* 11월 16일(월)은 ‘찾아오는 동물원’ 체험이 진행됩니다.\n원활한 활동 참여를 위해 오전 9시 40분까지 늦지 않게 등원할 수 있도록 협조 부탁드립니다.\n\n하준이는 오전 일과 중에 화장실 사용을 계속 시도하고 있지만 오늘도 성공하지는 못했습니다.\n하준이와 긍정적인 상호작용을 통해 계속 격려해 주도록 하겠습니다.",
+    "image_urls": [
+      "https://up-kids-kage.kakao.com/dn/bnmoKC/dJMb992VZBY/dqelFdENriLqundMlvbWx0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/sjlDP/dJMb992VZB9/lLydFrOg8tUN6IZO5Xu7cK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/hZ8NW/dJMb992VZBH/1oAh3Zx1CE51ebxmYF38dK/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bK95pq/dJMb992VZCM/qimCREVKawOe9oGlbmg6W1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/IjhkB/dJMb992VZCV/zgIIQjJA5Fjr7Z8qTkcqKk/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/dUOQX/dJMb992VZCT/bKRxnphI3M02EPwV6Ak560/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/FHbwS/dJMb992VZDF/eTCi6Ft0vedQQZclMuVfg1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/mIXE8/dJMb992VZEr/vlRyGrvvnKSOFPz3bfKEv1/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/baT1jE/dJMb992VZE5/gfecLrLWcbKU0gG4vKpXK0/img_l.jpg",
+      "https://up-kids-kage.kakao.com/dn/bpNsFJ/dJMb992VZEY/t3uB2SeqUocCnT0KCaZTi1/img_l.jpg"
+    ],
+    "local_images": [
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_01.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_02.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_03.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_04.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_05.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_06.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_07.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_08.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_09.jpg",
+      "C:\\Users\\GS\\kidsnote-pdf\\album_assets\\images\\0452_2026-11-13_1481855830_10.jpg"
+    ]
   }
-]
+];
